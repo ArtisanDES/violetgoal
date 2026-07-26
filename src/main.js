@@ -63,6 +63,8 @@ function isRecordWaitingMatch(match) {
 
 const homePredictionMatches = matches.filter(isHomePredictionMatch);
 const recordWaitingMatches = matches.filter(isRecordWaitingMatch);
+const currentIssueMatches = matches.filter((match) => isSportteryMatch(match) && isCurrentBusinessDate(match));
+const futureIssueMatches = matches.filter((match) => isSportteryMatch(match) && !isCurrentBusinessDate(match));
 let activeLeague = "全部";
 
 const leagueCloud = document.querySelector("#leagueCloud");
@@ -72,6 +74,7 @@ const feedTitle = document.querySelector("#feedTitle");
 const searchInput = document.querySelector("#searchInput");
 const allBtn = document.querySelector("#allBtn");
 const dataStatus = document.querySelector("#dataStatus");
+const issueLedger = document.querySelector("#issueLedger");
 const liveClock = document.querySelector("#liveClock");
 const heroAccuracy = document.querySelector("#heroAccuracy");
 const heroIndexMove = document.querySelector("#heroIndexMove");
@@ -320,6 +323,33 @@ allBtn?.addEventListener("click", () => {
 });
 searchInput?.addEventListener("input", renderMatches);
 
+function renderIssueLedger() {
+  if (!issueLedger) return;
+  const syncTime = window.__JINCAI_DATA__?.enrichedAt || window.__JINCAI_DATA__?.generatedAt || window.__FIXTURES_DATA__?.generatedAt || "--";
+  issueLedger.innerHTML = `
+    <article>
+      <span>\u7ade\u5f69\u5f53\u524d\u671f</span>
+      <strong>${currentIssueMatches.length}</strong>
+      <small>${currentBusinessDate || "\u5f85\u5b9a"} \u00b7 \u5bf9\u6807\u4f53\u5f69\u6e90\u5934</small>
+    </article>
+    <article>
+      <span>\u9996\u9875\u8d5b\u524d\u63a8\u8350</span>
+      <strong>${homePredictionMatches.length}</strong>
+      <small>10:00-21:59 \u4e14\u672a\u5f00\u8d5b</small>
+    </article>
+    <article>
+      <span>\u8f6c\u5165\u547d\u4e2d\u7eaa\u5f55</span>
+      <strong>${recordWaitingMatches.length}</strong>
+      <small>22:00-\u6b21\u65e510:00 / \u5df2\u5f00\u8d5b\u5f85\u56de\u4f20</small>
+    </article>
+    <article>
+      <span>\u660e\u65e5\u5df2\u5f00\u552e</span>
+      <strong>${futureIssueMatches.length}</strong>
+      <small>\u4e0d\u6df7\u5165\u4eca\u65e5\u9996\u9875 \u00b7 ${syncTime}</small>
+    </article>
+  `;
+}
+
 if (dataStatus) {
   const source = window.__JINCAI_DATA__ || window.__FIXTURES_DATA__;
   const currentIssueCount = matches.filter((match) => isSportteryMatch(match) && isCurrentBusinessDate(match)).length;
@@ -327,6 +357,7 @@ if (dataStatus) {
 }
 
 renderLeagues();
+renderIssueLedger();
 renderMatches();
 renderLiveGrid();
 updateHero();

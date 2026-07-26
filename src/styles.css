@@ -983,6 +983,34 @@ footer {
   padding: 0 18px 18px;
 }
 
+.issue-ledger {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  padding: 0 18px 14px;
+}
+
+.issue-ledger article {
+  border: 1px solid rgba(199, 156, 255, 0.18);
+  border-radius: 18px;
+  padding: 14px;
+  background: rgba(11, 10, 18, 0.82);
+}
+
+.issue-ledger span,
+.issue-ledger small {
+  display: block;
+  color: var(--muted);
+}
+
+.issue-ledger strong {
+  display: block;
+  margin: 4px 0;
+  color: var(--text);
+  font-size: clamp(26px, 3vw, 40px);
+  line-height: 1;
+}
+
 .match-card {
   cursor: pointer;
 }
@@ -2060,6 +2088,11 @@ footer {
   .feed-header {
     gap: 14px;
     padding: 18px;
+  }
+
+  .issue-ledger {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding: 0 18px 12px;
   }
 
   .search {
