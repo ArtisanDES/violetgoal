@@ -4863,7 +4863,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -4946,7 +4946,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -9419,7 +9419,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -9502,7 +9502,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -13752,7 +13752,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -13835,7 +13835,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -18251,7 +18251,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -18334,7 +18334,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -20745,7 +20745,7 @@ window.__JINCAI_DATA__ = {
               ]
             },
             "settlement": "won",
-            "actual": "12 corners",
+            "actual": "13 corners",
             "matchResult": "$1a:props:children:1:props:children:props:rows:168:matchResult",
             "form": {
               "home": [
@@ -23119,7 +23119,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -23202,7 +23202,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -26120,7 +26120,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -26182,7 +26182,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -26706,14 +26706,14 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -26925,6 +26925,32 @@ window.__JINCAI_DATA__ = {
         "role": "third-party-institution-compare",
         "rows": [
           {
+            "sourcePath": "/predictions",
+            "rowId": "19635943-total_corners-over-6.5",
+            "fixtureApid": 19635943,
+            "slug": "26672147-allsvenskan-gais-halmstad",
+            "timestamp": "2026-07-26T14:30:00.000Z",
+            "league": {
+              "id": 46,
+              "name": "Allsvenskan",
+              "country": "Sweden"
+            },
+            "home": "GAIS",
+            "away": "Halmstad",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          },
+          {
             "sourcePath": "/predictions/1x2",
             "rowId": "",
             "fixtureApid": 19635943,
@@ -27006,14 +27032,14 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -27664,14 +27690,14 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T14:24:26.093Z"
+        "generatedAt": "2026-07-26T15:36:14.454Z"
       }
     },
     {
@@ -28905,7 +28931,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-07-26T14:24:26.307Z",
+  "enrichedAt": "2026-07-26T15:36:14.638Z",
   "enrichment": {
     "providerOverrides": 20,
     "apiFootball": "synced",
