@@ -3,6 +3,7 @@ import path from "node:path";
 
 const root = process.cwd();
 const outputPath = path.join(root, "data", "footymetrics-public.json");
+const fixturePathsPath = path.join(root, "data", "footymetrics-fixture-paths.json");
 const baseUrl = "https://www.footymetrics.com";
 const paths = [
   "/predictions",
@@ -62,6 +63,25 @@ function extractServerTotal(source) {
 
 function cleanDate(value) {
   return String(value || "").replace(/^\$D/, "");
+}
+
+async function readJson(file, fallback = {}) {
+  try {
+    const raw = await fs.readFile(file, "utf8");
+    return JSON.parse(raw.replace(/^\uFEFF/, ""));
+  } catch {
+    return fallback;
+  }
+}
+
+function decodeHtml(value) {
+  return String(value || "")
+    .replace(/&amp;/g, "&")
+    .replace(/&#x27;/g, "'")
+    .replace(/&quot;/g, "\"")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">");
 }
 
 function simplifyRow(row, pathName) {
@@ -125,6 +145,82 @@ async function fetchPage(pathName) {
   };
 }
 
+function extractFixtureTips(html, pathName, fixtureConfig) {
+  const compact = html.replace(/<!-- -->/g, "");
+  const title = decodeHtml(compact.match(/<title>(.*?)<\/title>/)?.[1] || "");
+  const description = decodeHtml(compact.match(/<meta name="description" content="(.*?)"/)?.[1] || "");
+  const tips = [];
+  const re = /<p class="truncate text-\[13px\] font-semibold text-text-primary">([^<]+)<\/p><p class="truncate text-\[11px\] font-medium text-text-secondary">([^<]+)<\/p><\/div><div class="flex flex-shrink-0 items-baseline gap-1\.5"><span[^>]*>([\d.]+)%<\/span><span[^>]*>(\d+)\/(\d+)<\/span>[\s\S]*?(?:<img src="[^"]*bookmakers\/[^"]*" alt="([^"]+)"[\s\S]*?<span class="text-sm font-semibold text-text-primary">([\d.]+)<\/span>)?/g;
+  for (const match of compact.matchAll(re)) {
+    const label = decodeHtml(match[1]);
+    const marketLabel = decodeHtml(match[2]);
+    tips.push({
+      market: marketLabel.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "_").replace(/^_|_$/g, ""),
+      selection: label,
+      label,
+      prob: Number(match[3]) / 100,
+      odds: Number.isFinite(Number(match[7])) ? Number(match[7]) : null,
+      edge: null,
+      hasEdge: null,
+      marketLabel,
+      bookmaker: { name: decodeHtml(match[6] || "") },
+      prices: []
+    });
+  }
+  return tips.map((bestTip, index) => ({
+    sourcePath: pathName,
+    rowId: `${fixtureConfig.localId || pathName}:fixture-tip:${index}`,
+    fixtureApid: fixtureConfig.fixtureApid || null,
+    slug: pathName.split("/").pop() || "",
+    timestamp: "",
+    league: title.includes("Major League Soccer") ? {
+      id: null,
+      name: "Major League Soccer",
+      country: "United States"
+    } : null,
+    home: fixtureConfig.home || "",
+    away: fixtureConfig.away || "",
+    locked: false,
+    finished: false,
+    score: null,
+    bestTip,
+    settlement: null,
+    actual: null,
+    matchResult: null,
+    form: null,
+    modelStats: null,
+    fixturePage: {
+      title,
+      description,
+      url: `${baseUrl}${pathName}`,
+      localId: fixtureConfig.localId || null
+    }
+  }));
+}
+
+async function fetchFixturePage(fixtureConfig) {
+  const pathName = fixtureConfig.path;
+  const url = `${baseUrl}${pathName}`;
+  const response = await fetch(url, {
+    headers: {
+      "user-agent": "Mozilla/5.0 Codex public audit",
+      "accept": "text/html,application/xhtml+xml"
+    }
+  });
+  if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+  const html = await response.text();
+  const rows = extractFixtureTips(html, pathName, fixtureConfig);
+  return {
+    path: pathName,
+    url,
+    fetchedAt: new Date().toISOString(),
+    bytes: html.length,
+    rowCount: rows.length,
+    serverTotal: rows.length,
+    rows
+  };
+}
+
 async function main() {
   const pages = [];
   const errors = [];
@@ -137,6 +233,18 @@ async function main() {
     } catch (error) {
       errors.push({ path: pathName, error: error.message });
       console.error(`FAIL FootyMetrics ${pathName}: ${error.message}`);
+    }
+  }
+
+  const fixtureConfig = await readJson(fixturePathsPath, { fixtures: [] });
+  for (const fixture of fixtureConfig.fixtures || []) {
+    try {
+      const page = await fetchFixturePage(fixture);
+      pages.push(page);
+      console.log(`OK FootyMetrics fixture ${fixture.path}: ${page.rowCount}`);
+    } catch (error) {
+      errors.push({ path: fixture.path, error: error.message });
+      console.error(`FAIL FootyMetrics fixture ${fixture.path}: ${error.message}`);
     }
   }
 

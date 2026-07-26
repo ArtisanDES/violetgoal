@@ -174,7 +174,8 @@
           "API-Football赛程",
           "API-Football赛程状态",
           "API-Football外围赔率",
-          "API-Football赛果"
+          "API-Football赛果",
+          "FootyMetrics第三方机构预测对比"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
@@ -256,6 +257,658 @@
           },
           "bookmakerCount": 12
         }
+      },
+      "footyMetrics": {
+        "role": "third-party-institution-compare",
+        "rows": [
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:0",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "first_to_score",
+              "selection": "SDL score first",
+              "label": "SDL score first",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "First to score",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:1",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "handicap",
+              "selection": "SDL +1",
+              "label": "SDL +1",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Handicap",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:2",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "cards",
+              "selection": "DAL most cards",
+              "label": "DAL most cards",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Cards",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:3",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "corners",
+              "selection": "DAL most corners",
+              "label": "DAL most corners",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Corners",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:4",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "fouls",
+              "selection": "DAL most fouls",
+              "label": "DAL most fouls",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Fouls",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:5",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "offsides",
+              "selection": "DAL most offsides",
+              "label": "DAL most offsides",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Offsides",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:6",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "tackles",
+              "selection": "SDL most tackles",
+              "label": "SDL most tackles",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Tackles",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:7",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "first_half_goals",
+              "selection": "Over 0.5 first-half goals",
+              "label": "Over 0.5 first-half goals",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "First-half goals",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:8",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "team_goals",
+              "selection": "SDL to score",
+              "label": "SDL to score",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Team goals",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:9",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "second_half_goals",
+              "selection": "Over 0.5 second-half goals",
+              "label": "Over 0.5 second-half goals",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Second-half goals",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:10",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "first_half_goals",
+              "selection": "Over 1.5 first-half goals",
+              "label": "Over 1.5 first-half goals",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "First-half goals",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          },
+          {
+            "sourcePath": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
+            "rowId": "jc-6210:fixture-tip:11",
+            "fixtureApid": null,
+            "slug": "26672123-major-league-soccer-san-diego-dallas",
+            "timestamp": "",
+            "league": null,
+            "home": "San Diego",
+            "away": "Dallas",
+            "locked": false,
+            "finished": false,
+            "score": null,
+            "bestTip": {
+              "market": "team_goals",
+              "selection": "SDL Over 1.5 goals",
+              "label": "SDL Over 1.5 goals",
+              "prob": 1,
+              "odds": null,
+              "edge": null,
+              "hasEdge": null,
+              "marketLabel": "Team goals",
+              "bookmaker": {
+                "name": ""
+              },
+              "prices": []
+            },
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": null,
+            "modelStats": null,
+            "fixturePage": {
+              "title": "San Diego vs Dallas: Referee, Lineups & H2H | FootyMetrics",
+              "description": "San Diego vs Dallas (Major League Soccer): referee Víctor Rivas, who averages 5.54 cards a game. Predicted lineups, head-to-head results, recent form and match statistics.",
+              "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
+              "localId": "jc-6210"
+            }
+          }
+        ],
+        "direction": {
+          "market": "First-half goals",
+          "selection": "Over 0.5 first-half goals",
+          "probability": 1,
+          "odds": null,
+          "edge": null,
+          "bookmaker": {
+            "name": ""
+          }
+        },
+        "matchResult": null,
+        "tips": [
+          {
+            "market": "First-half goals",
+            "selection": "Over 0.5 first-half goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Second-half goals",
+            "selection": "Over 0.5 second-half goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "First-half goals",
+            "selection": "Over 1.5 first-half goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Team goals",
+            "selection": "SDL Over 1.5 goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Second-half goals",
+            "selection": "Over 1.5 second-half goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Total goals",
+            "selection": "Over 1.5 goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Corners",
+            "selection": "DAL Over 2.5 corners",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Total goals",
+            "selection": "Over 2.5 goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          }
+        ],
+        "generatedAt": "2026-07-26T03:43:52.862Z"
+      },
+      "thirdPartyCompare": {
+        "provider": "FootyMetrics",
+        "direction": {
+          "market": "First-half goals",
+          "selection": "Over 0.5 first-half goals",
+          "probability": 1,
+          "odds": null,
+          "edge": null,
+          "bookmaker": {
+            "name": ""
+          }
+        },
+        "matchResult": null,
+        "tips": [
+          {
+            "market": "First-half goals",
+            "selection": "Over 0.5 first-half goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Second-half goals",
+            "selection": "Over 0.5 second-half goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "First-half goals",
+            "selection": "Over 1.5 first-half goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Team goals",
+            "selection": "SDL Over 1.5 goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Second-half goals",
+            "selection": "Over 1.5 second-half goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Total goals",
+            "selection": "Over 1.5 goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Corners",
+            "selection": "DAL Over 2.5 corners",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          },
+          {
+            "market": "Total goals",
+            "selection": "Over 2.5 goals",
+            "probability": 1,
+            "odds": null,
+            "edge": null,
+            "bookmaker": {
+              "name": ""
+            }
+          }
+        ],
+        "generatedAt": "2026-07-26T03:43:52.862Z"
       }
     },
     {
@@ -490,14 +1143,14 @@
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T01:32:48.968Z"
+        "generatedAt": "2026-07-26T03:43:52.862Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T01:32:48.968Z"
+        "generatedAt": "2026-07-26T03:43:52.862Z"
       },
       "oddsApiIo": {
         "status": "fallback-api-football-odds",
@@ -2382,7 +3035,8 @@
           "球队排名",
           "API-Football赛程",
           "API-Football赛程状态",
-          "API-Football外围赔率"
+          "API-Football外围赔率",
+          "FootyMetrics第三方机构预测对比"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
@@ -2416,6 +3070,48 @@
         "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
+      },
+      "footyMetrics": {
+        "role": "third-party-institution-compare",
+        "rows": [
+          {
+            "sourcePath": "/predictions/btts",
+            "rowId": "",
+            "fixtureApid": 19635708,
+            "slug": "26651520-veikkausliiga-ilves-lahti",
+            "timestamp": "2026-07-26T12:00:00.000Z",
+            "league": {
+              "id": 30,
+              "name": "Veikkausliiga",
+              "country": "Finland"
+            },
+            "home": "Ilves",
+            "away": "Lahti",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          }
+        ],
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T03:43:52.862Z"
+      },
+      "thirdPartyCompare": {
+        "provider": "FootyMetrics",
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T03:43:52.862Z"
       }
     },
     {
@@ -2791,7 +3487,8 @@
           "半全场SP",
           "球队排名",
           "API-Football赛程",
-          "API-Football赛程状态"
+          "API-Football赛程状态",
+          "FootyMetrics第三方机构预测对比"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
@@ -2825,6 +3522,48 @@
         "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
+      },
+      "footyMetrics": {
+        "role": "third-party-institution-compare",
+        "rows": [
+          {
+            "sourcePath": "/predictions/btts",
+            "rowId": "",
+            "fixtureApid": 19635706,
+            "slug": "26672143-veikkausliiga-hjk-tps",
+            "timestamp": "2026-07-26T14:00:00.000Z",
+            "league": {
+              "id": 30,
+              "name": "Veikkausliiga",
+              "country": "Finland"
+            },
+            "home": "HJK",
+            "away": "TPS",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          }
+        ],
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T03:43:52.862Z"
+      },
+      "thirdPartyCompare": {
+        "provider": "FootyMetrics",
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T03:43:52.862Z"
       }
     },
     {
@@ -3084,14 +3823,14 @@
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T01:32:48.968Z"
+        "generatedAt": "2026-07-26T03:43:52.862Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T01:32:48.968Z"
+        "generatedAt": "2026-07-26T03:43:52.862Z"
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
@@ -4937,7 +5676,7 @@
       }
     }
   ],
-  "enrichedAt": "2026-07-26T03:36:52.666Z",
+  "enrichedAt": "2026-07-26T03:44:29.097Z",
   "enrichment": {
     "providerOverrides": 22,
     "apiFootball": "synced",

@@ -259,6 +259,15 @@ function normalizeClubElo(payload) {
 
 function normalizeFootyMetrics(payload, aliases) {
   const rows = payload.rows || [];
+  const priority = (row) => {
+    const text = `${row.bestTip?.marketLabel || ""} ${row.bestTip?.label || ""}`.toLowerCase();
+    if (/1x2|match result|winner/.test(text)) return 0;
+    if (/total goals|over|under/.test(text)) return 1;
+    if (/double chance|unbeaten|fail to win/.test(text)) return 2;
+    if (/team goals|score/.test(text)) return 3;
+    if (/handicap/.test(text)) return 4;
+    return 9;
+  };
   return {
     findPatch(match) {
       const homeNames = aliasNames(aliases, match.home).map(normalizeName).filter((item) => item.length > 2);
@@ -269,7 +278,10 @@ function normalizeFootyMetrics(payload, aliases) {
       ));
       if (!matchedRows.length) return null;
       const oneX2 = matchedRows.find((row) => row.matchResult)?.matchResult;
-      const directionRow = matchedRows.find((row) => row.bestTip);
+      const tipRows = matchedRows
+        .filter((row) => row.bestTip)
+        .sort((a, b) => priority(a) - priority(b));
+      const directionRow = tipRows[0];
       const direction = directionRow?.bestTip ? {
         market: directionRow.bestTip.marketLabel || directionRow.bestTip.market || directionRow.path,
         selection: directionRow.bestTip.label || directionRow.bestTip.selection,
@@ -278,8 +290,7 @@ function normalizeFootyMetrics(payload, aliases) {
         edge: directionRow.bestTip.edge,
         bookmaker: directionRow.bestTip.bookmaker
       } : null;
-      const tips = matchedRows
-        .filter((row) => row.bestTip)
+      const tips = tipRows
         .map((row) => ({
           market: row.bestTip.marketLabel || row.bestTip.market || row.path,
           selection: row.bestTip.label || row.bestTip.selection,
