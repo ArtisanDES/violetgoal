@@ -1058,14 +1058,14 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T07:30:54.273Z"
+        "generatedAt": "2026-07-26T09:50:33.810Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T07:30:54.273Z"
+        "generatedAt": "2026-07-26T09:50:33.810Z"
       }
     },
     {
@@ -2053,14 +2053,14 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T07:30:54.273Z"
+        "generatedAt": "2026-07-26T09:50:33.810Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T07:30:54.273Z"
+        "generatedAt": "2026-07-26T09:50:33.810Z"
       }
     },
     {
@@ -2532,14 +2532,14 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T07:30:54.273Z"
+        "generatedAt": "2026-07-26T09:50:33.810Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T07:30:54.273Z"
+        "generatedAt": "2026-07-26T09:50:33.810Z"
       }
     },
     {
@@ -2806,14 +2806,14 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T07:30:54.273Z"
+        "generatedAt": "2026-07-26T09:50:33.810Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T07:30:54.273Z"
+        "generatedAt": "2026-07-26T09:50:33.810Z"
       }
     },
     {
@@ -4662,7 +4662,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-07-26T07:30:54.471Z",
+  "enrichedAt": "2026-07-26T09:50:33.998Z",
   "enrichment": {
     "providerOverrides": 20,
     "apiFootball": "synced",
