@@ -173,7 +173,8 @@ window.__JINCAI_DATA__ = {
           "球队排名",
           "API-Football赛程",
           "API-Football赛程状态",
-          "API-Football外围赔率"
+          "API-Football外围赔率",
+          "API-Football赛果"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
@@ -195,16 +196,16 @@ window.__JINCAI_DATA__ = {
         "season": 2026,
         "round": "Regular Season - 17",
         "venue": "Snapdragon Stadium",
-        "status": "1H",
-        "elapsed": 31
+        "status": "FT",
+        "elapsed": 90
       },
       "result": {
-        "status": "1H",
-        "score": "0-0"
+        "status": "已完赛",
+        "score": "1-0"
       },
       "oddsApiIo": {
         "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "generatedAt": "2026-07-26T03:36:48.611Z",
         "eventCount": 21,
         "event": {
           "eventId": "1490357",
@@ -448,13 +449,13 @@ window.__JINCAI_DATA__ = {
         "leagueId": 253,
         "season": 2026,
         "round": "Regular Season - 17",
-        "venue": "PayPal Park",
-        "status": "NS",
-        "elapsed": null
+        "venue": "Stanford Stadium",
+        "status": "HT",
+        "elapsed": 45
       },
       "result": {
-        "status": "NS",
-        "score": null
+        "status": "HT",
+        "score": "0-1"
       },
       "footyMetrics": {
         "role": "third-party-institution-compare",
@@ -500,7 +501,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "generatedAt": "2026-07-26T03:36:48.611Z",
         "eventCount": 21,
         "event": {
           "eventId": "1490359",
@@ -753,7 +754,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "generatedAt": "2026-07-26T03:36:48.611Z",
         "eventCount": 21,
         "event": {
           "eventId": "1507015",
@@ -1006,7 +1007,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "generatedAt": "2026-07-26T03:36:48.611Z",
         "eventCount": 21,
         "event": {
           "eventId": "1507014",
@@ -1024,7 +1025,7 @@ window.__JINCAI_DATA__ = {
           "away": 5.25
         },
         "apiFootballOdds": {
-          "update": "2026-07-26T00:23:14+00:00",
+          "update": "2026-07-26T02:35:14+00:00",
           "league": {
             "id": 292,
             "name": "K League 1",
@@ -1259,7 +1260,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "generatedAt": "2026-07-26T03:36:48.611Z",
         "eventCount": 21,
         "event": {
           "eventId": "1507013",
@@ -1512,7 +1513,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "generatedAt": "2026-07-26T03:36:48.611Z",
         "eventCount": 21,
         "event": {
           "eventId": "1507012",
@@ -1530,7 +1531,7 @@ window.__JINCAI_DATA__ = {
           "away": 1.95
         },
         "apiFootballOdds": {
-          "update": "2026-07-25T20:23:16+00:00",
+          "update": "2026-07-26T02:35:14+00:00",
           "league": {
             "id": 292,
             "name": "K League 1",
@@ -1765,7 +1766,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "generatedAt": "2026-07-26T03:36:48.611Z",
         "eventCount": 21,
         "event": {
           "eventId": "1494217",
@@ -1783,7 +1784,7 @@ window.__JINCAI_DATA__ = {
           "away": 1.4
         },
         "apiFootballOdds": {
-          "update": "2026-07-25T20:06:13+00:00",
+          "update": "2026-07-26T00:06:13+00:00",
           "league": {
             "id": 113,
             "name": "Allsvenskan",
@@ -2017,58 +2018,10 @@ window.__JINCAI_DATA__ = {
         "score": null
       },
       "oddsApiIo": {
-        "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
-        "eventCount": 21,
-        "event": {
-          "eventId": "1494223",
-          "league": "Allsvenskan",
-          "home": "Sirius",
-          "away": "IFK Goteborg",
-          "date": "2026-07-26T12:00:00+00:00"
-        },
-        "odds": {
-          "eventId": "1494223",
-          "bookmaker": "10Bet",
-          "market": "Match Winner",
-          "home": 1.44,
-          "draw": 4.6,
-          "away": 6.4
-        },
-        "apiFootballOdds": {
-          "update": "2026-07-26T00:06:13+00:00",
-          "league": {
-            "id": 113,
-            "name": "Allsvenskan",
-            "country": "Sweden",
-            "logo": "https://media.api-sports.io/football/leagues/113.png",
-            "flag": "https://media.api-sports.io/flags/se.svg",
-            "season": 2026
-          },
-          "fixture": {
-            "id": 1494223,
-            "timezone": "UTC",
-            "date": "2026-07-26T12:00:00+00:00",
-            "timestamp": 1785067200
-          },
-          "matchWinner": {
-            "bookmaker": "10Bet",
-            "home": 1.44,
-            "draw": 4.6,
-            "away": 6.4
-          },
-          "goalsOverUnder": {
-            "bookmaker": "10Bet",
-            "over25": 1.45,
-            "under25": 2.75
-          },
-          "bothTeamsScore": {
-            "bookmaker": "10Bet",
-            "yes": 1.53,
-            "no": 2.3
-          },
-          "bookmakerCount": 13
-        }
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -2255,7 +2208,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -2459,58 +2412,10 @@ window.__JINCAI_DATA__ = {
         "score": null
       },
       "oddsApiIo": {
-        "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
-        "eventCount": 21,
-        "event": {
-          "eventId": "1495742",
-          "league": "Veikkausliiga",
-          "home": "Ilves",
-          "away": "Lahti",
-          "date": "2026-07-26T12:00:00+00:00"
-        },
-        "odds": {
-          "eventId": "1495742",
-          "bookmaker": "10Bet",
-          "market": "Match Winner",
-          "home": 2.24,
-          "draw": 3.55,
-          "away": 2.76
-        },
-        "apiFootballOdds": {
-          "update": "2026-07-26T00:09:13+00:00",
-          "league": {
-            "id": 244,
-            "name": "Veikkausliiga",
-            "country": "Finland",
-            "logo": "https://media.api-sports.io/football/leagues/244.png",
-            "flag": "https://media.api-sports.io/flags/fi.svg",
-            "season": 2026
-          },
-          "fixture": {
-            "id": 1495742,
-            "timezone": "UTC",
-            "date": "2026-07-26T12:00:00+00:00",
-            "timestamp": 1785067200
-          },
-          "matchWinner": {
-            "bookmaker": "10Bet",
-            "home": 2.24,
-            "draw": 3.55,
-            "away": 2.76
-          },
-          "goalsOverUnder": {
-            "bookmaker": "10Bet",
-            "over25": 1.62,
-            "under25": 2.2
-          },
-          "bothTeamsScore": {
-            "bookmaker": "10Bet",
-            "yes": 1.5,
-            "no": 2.3
-          },
-          "bookmakerCount": 13
-        }
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -2712,58 +2617,10 @@ window.__JINCAI_DATA__ = {
         "score": null
       },
       "oddsApiIo": {
-        "status": "fallback-api-football-odds",
-        "generatedAt": "2026-07-26T02:22:45.576Z",
-        "eventCount": 21,
-        "event": {
-          "eventId": "1494710",
-          "league": "Eliteserien",
-          "home": "Brann",
-          "away": "Valerenga",
-          "date": "2026-07-26T12:30:00+00:00"
-        },
-        "odds": {
-          "eventId": "1494710",
-          "bookmaker": "10Bet",
-          "market": "Match Winner",
-          "home": 1.73,
-          "draw": 4.2,
-          "away": 4.1
-        },
-        "apiFootballOdds": {
-          "update": "2026-07-25T20:07:14+00:00",
-          "league": {
-            "id": 103,
-            "name": "Eliteserien",
-            "country": "Norway",
-            "logo": "https://media.api-sports.io/football/leagues/103.png",
-            "flag": "https://media.api-sports.io/flags/no.svg",
-            "season": 2026
-          },
-          "fixture": {
-            "id": 1494710,
-            "timezone": "UTC",
-            "date": "2026-07-26T12:30:00+00:00",
-            "timestamp": 1785069000
-          },
-          "matchWinner": {
-            "bookmaker": "10Bet",
-            "home": 1.73,
-            "draw": 4.2,
-            "away": 4.1
-          },
-          "goalsOverUnder": {
-            "bookmaker": "10Bet",
-            "over25": 1.44,
-            "under25": 2.75
-          },
-          "bothTeamsScore": {
-            "bookmaker": "10Bet",
-            "yes": 1.42,
-            "no": 2.6
-          },
-          "bookmakerCount": 13
-        }
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -2965,7 +2822,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -3238,7 +3095,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -3442,7 +3299,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -3646,7 +3503,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -3850,7 +3707,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -4054,7 +3911,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -4258,7 +4115,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -4462,7 +4319,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -4666,7 +4523,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -4870,7 +4727,7 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
@@ -5074,13 +4931,13 @@ window.__JINCAI_DATA__ = {
       },
       "oddsApiIo": {
         "status": "fetched-unmatched",
-        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "generatedAt": "2026-07-26T03:36:52.500Z",
         "eventCount": 500,
         "matchedCount": 0
       }
     }
   ],
-  "enrichedAt": "2026-07-26T02:22:45.793Z",
+  "enrichedAt": "2026-07-26T03:36:52.666Z",
   "enrichment": {
     "providerOverrides": 22,
     "apiFootball": "synced",

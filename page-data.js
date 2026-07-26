@@ -36,6 +36,39 @@ function pageProviderPercent(value) {
   return number > 1 ? `${Math.round(number)}%` : pagePercent(number);
 }
 
+function pageFormatDateTime(value) {
+  const date = new Date(value || 0);
+  if (!Number.isFinite(date.getTime())) return value || "等待同步";
+  return new Intl.DateTimeFormat("zh-CN", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    hour12: false
+  }).format(date).replace(/\//g, "-");
+}
+
+function pageLatestUpdateTime(match) {
+  const candidates = [
+    window.__JINCAI_DATA__?.enrichedAt,
+    window.__JINCAI_DATA__?.generatedAt,
+    window.__FIXTURES_DATA__?.enrichedAt,
+    window.__FIXTURES_DATA__?.generatedAt,
+    match.oddsApiIo?.generatedAt,
+    match.thirdPartyCompare?.generatedAt,
+    match.footyMetrics?.generatedAt,
+    match.archive?.lastSeenAt
+  ].filter(Boolean);
+  const latest = candidates
+    .map((value) => new Date(value))
+    .filter((date) => Number.isFinite(date.getTime()))
+    .sort((a, b) => b.getTime() - a.getTime())[0];
+  return latest ? `北京时间 ${pageFormatDateTime(latest.toISOString())}` : "等待同步";
+}
+
 function pageNormalize(values) {
   const total = values.reduce((sum, value) => sum + Math.max(0, Number(value) || 0), 0);
   return total ? values.map((value) => Math.max(0, Number(value) || 0) / total) : [0.42, 0.29, 0.29];
@@ -63,6 +96,7 @@ function pagePoissonModel(match) {
   let away = 0;
   let over25 = 0;
   let btts = 0;
+  const totalGoals = Array.from({ length: 7 }, (_, goals) => ({ goals: goals === 6 ? "6+" : String(goals), probability: 0 }));
   const scores = [];
   for (let h = 0; h <= 6; h += 1) {
     for (let a = 0; a <= 6; a += 1) {
@@ -72,6 +106,7 @@ function pagePoissonModel(match) {
       if (h < a) away += probability;
       if (h + a > 2.5) over25 += probability;
       if (h > 0 && a > 0) btts += probability;
+      totalGoals[Math.min(6, h + a)].probability += probability;
       scores.push({ score: `${h}-${a}`, probability });
     }
   }
@@ -81,6 +116,7 @@ function pagePoissonModel(match) {
     btts,
     homeXg,
     awayXg,
+    totalGoals: totalGoals.sort((a, b) => b.probability - a.probability),
     scores: scores.sort((a, b) => b.probability - a.probability).slice(0, 5)
   };
 }
@@ -317,10 +353,16 @@ function pageRecommendations(match, model) {
   const scorePicks = model.poisson.scores.slice(0, 2);
   const handicap = match.jcOdds?.handicapLabel || "让球待同步";
   const goals = model.poisson.over25 >= 0.5 ? `大 2.5（${pageExactPercent(model.poisson.over25)}）` : `小 2.5（${pageExactPercent(1 - model.poisson.over25)}）`;
+  const totalGoalPick = model.poisson.totalGoals?.[0];
+  const totalGoalNext = model.poisson.totalGoals?.[1];
+  const totalGoalText = totalGoalPick
+    ? `全场 ${totalGoalPick.goals} 球（${pageExactPercent(totalGoalPick.probability)}）${totalGoalNext ? `，次选 ${totalGoalNext.goals} 球 ${pageExactPercent(totalGoalNext.probability)}` : ""}`
+    : "等待模型计算";
   return [
     ["胜平负", model.pick],
     ["让球胜平负", handicap],
     ["比分", scorePicks.map((item) => `${item.score}（${pageExactPercent(item.probability)}）`).join(" / ")],
+    ["全场进球数", totalGoalText],
     ["进球", goals],
     ["半全场", model.pick === "主胜" ? "平胜 / 胜胜" : model.pick === "客胜" ? "平负 / 负负" : "平平 / 胜平"]
   ].map(([name, value]) => `
@@ -589,12 +631,13 @@ function renderMatchPage() {
     <div class="analysis-row"><b>${name}</b><span>${pagePercent(final)}</span><span>泊松 ${pagePercent(poisson)}</span><span>竞彩 ${pagePercent(market)}</span><span>模型校验</span></div>
   `).join("");
   const scoreCards = model.poisson.scores.map((item) => `<article><span>${item.score}</span><strong>${pagePercent(item.probability)}</strong></article>`).join("");
+  const totalGoalCards = (model.poisson.totalGoals || []).slice(0, 5).map((item) => `<article><span>${item.goals} 球</span><strong>${pageExactPercent(item.probability)}</strong></article>`).join("");
   const quality = match.dataQuality || {};
   const qualityCards = [
     ["真实数据", (quality.real || []).join("、") || "暂无"],
     ["派生数据", [...(quality.derived || []), ...(quality.estimated || [])].join("、") || "暂无"],
     ["待校验", (quality.pending || []).join("、") || "暂无"],
-    ["数据更新时间", (window.__JINCAI_DATA__?.enrichedAt || window.__JINCAI_DATA__?.generatedAt || "等待同步")]
+    ["数据更新时间", pageLatestUpdateTime(match)]
   ].map(([title, text]) => `<section><b>${title}</b><p>${text}</p></section>`).join("");
 
   root.innerHTML = `
@@ -628,6 +671,10 @@ function renderMatchPage() {
           <span class="label">比分场景</span>
           <h2>可能比分与玩法推荐</h2>
           <div class="score-scenarios">${scoreCards}</div>
+          <div class="play-recommendations">
+            <span class="label">全场进球数概率</span>
+            <div class="score-scenarios">${totalGoalCards}</div>
+          </div>
           <div class="play-recommendations">
             <span class="label">玩法推荐</span>
             <div class="play-grid">${pageRecommendations(match, model)}</div>
