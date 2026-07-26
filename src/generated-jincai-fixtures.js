@@ -4863,7 +4863,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -4946,7 +4946,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -9419,7 +9419,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -9502,7 +9502,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -13752,7 +13752,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -13835,7 +13835,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -18251,7 +18251,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -18334,7 +18334,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -23119,7 +23119,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -23202,7 +23202,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -26120,7 +26120,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -26182,7 +26182,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -28332,7 +28332,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -28394,7 +28394,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -33107,7 +33107,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -33190,7 +33190,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -34028,7 +34028,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "1",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:260:matchResult",
             "form": {
               "home": [
                 {
@@ -34374,7 +34374,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "BTTS No",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:260:matchResult",
             "form": {
               "home": [
                 {
@@ -34720,7 +34720,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "1 goals",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:260:matchResult",
             "form": {
               "home": [
                 {
@@ -35066,7 +35066,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "1 scored",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:260:matchResult",
             "form": {
               "home": [
                 {
@@ -35412,7 +35412,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "7 corners",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:260:matchResult",
             "form": {
               "home": [
                 {
@@ -38288,7 +38288,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -38371,7 +38371,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -43084,7 +43084,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -43167,7 +43167,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -47739,7 +47739,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -47822,7 +47822,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T21:24:10.989Z"
+        "generatedAt": "2026-07-26T22:27:13.226Z"
       }
     },
     {
@@ -48646,7 +48646,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-07-26T21:24:11.368Z",
+  "enrichedAt": "2026-07-26T22:27:13.504Z",
   "enrichment": {
     "providerOverrides": 20,
     "apiFootball": "synced",
