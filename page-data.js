@@ -399,8 +399,16 @@ function renderResultsPage() {
   document.body.insertAdjacentHTML("afterbegin", pageHeader("results"));
   const root = document.querySelector("#pageRoot");
   const archivedMatches = Object.values(window.__MATCH_HISTORY__?.matches || {});
+  const businessSortKey = (match) => {
+    const dateText = String(match.utcDate || "").slice(0, 10);
+    const timeText = String(match.time || "99:99");
+    const hour = Number(timeText.slice(0, 2));
+    const businessDate = /^\d{4}-\d{2}-\d{2}$/.test(dateText) ? new Date(`${dateText}T00:00:00+08:00`) : null;
+    if (businessDate && Number.isFinite(hour) && hour < 10) businessDate.setDate(businessDate.getDate() - 1);
+    return `${businessDate ? businessDate.toISOString().slice(0, 10) : dateText} ${timeText}`;
+  };
   const resultMatches = (archivedMatches.length ? archivedMatches : pageMatches)
-    .sort((a, b) => `${b.utcDate || ""} ${b.time || ""}`.localeCompare(`${a.utcDate || ""} ${a.time || ""}`));
+    .sort((a, b) => businessSortKey(a).localeCompare(businessSortKey(b)));
   const completedMatches = resultMatches.filter((match) => pageScoreParts(match.result?.score || match.score));
   const hits = completedMatches.filter((match) => pageSettlement(match).hitClass === "hit");
   const leagues = [...new Set(resultMatches.map((match) => match.league).filter(Boolean))].sort();
@@ -443,7 +451,7 @@ function renderResultsPage() {
       <div class="result-filters">
         <label><span>搜索球队</span><input id="resultSearch" type="search" placeholder="输入球队名称" /></label>
         <label><span>联赛</span><select id="resultLeague"><option value="">全部联赛</option>${leagues.map((league) => `<option value="${league}">${league}</option>`).join("")}</select></label>
-        <label><span>结算状态</span><select id="resultStatus"><option value="">全部结果</option><option value="hit">方向命中</option><option value="miss">方向未中</option></select></label>
+        <label><span>结算状态</span><select id="resultStatus" autocomplete="off"><option value="">全部结果</option><option value="pending">待赛果</option><option value="hit">方向命中</option><option value="miss">方向未中</option></select></label>
         <button id="resultReset" type="button">重置筛选</button>
         <small id="resultCount">显示 ${resultMatches.length} 场</small>
       </div>
@@ -471,7 +479,7 @@ function renderResultsPage() {
     let visible = 0;
     document.querySelectorAll(".result-row-rich").forEach((row) => {
       const index = Number(row.dataset.resultIndex);
-      const match = completedMatches[index];
+      const match = resultMatches[index];
       const matchesSearch = !keyword || `${match.home} ${match.away}`.toLowerCase().includes(keyword);
       const matchesLeague = !league.value || row.dataset.league === league.value;
       const matchesStatus = !status.value || row.dataset.status === status.value;
@@ -482,7 +490,8 @@ function renderResultsPage() {
   }
 
   function openReview(index, trigger) {
-    const match = completedMatches[index];
+    const match = resultMatches[index];
+    if (!match) return;
     const snapshot = window.__PREDICTION_SNAPSHOTS__?.snapshots?.[String(match.id || match.jcNumber || "")];
     const predictionMatch = snapshot?.match || match;
     const model = pageMatchModel(predictionMatch);
@@ -534,6 +543,8 @@ function renderResultsPage() {
     previousFocus?.focus();
   }
 
+  status.value = "";
+  league.value = "";
   [search, league, status].forEach((control) => control.addEventListener("input", applyResultFilters));
   document.querySelector("#resultReset").addEventListener("click", () => {
     search.value = "";
@@ -637,7 +648,7 @@ function renderMatchPage() {
     ["真实数据", (quality.real || []).join("、") || "暂无"],
     ["派生数据", [...(quality.derived || []), ...(quality.estimated || [])].join("、") || "暂无"],
     ["待校验", (quality.pending || []).join("、") || "暂无"],
-    ["数据更新时间", pageLatestUpdateTime(match)]
+    ["数据更新时间", `${pageLatestUpdateTime(match)}；自动同步约 30 分钟一轮，生产站以最近一次部署数据为准。`]
   ].map(([title, text]) => `<section><b>${title}</b><p>${text}</p></section>`).join("");
 
   root.innerHTML = `

@@ -317,7 +317,7 @@ searchInput?.addEventListener("input", renderMatches);
 
 if (dataStatus) {
   const source = window.__JINCAI_DATA__ || window.__FIXTURES_DATA__;
-  dataStatus.textContent = `首页预测：${homePredictionMatches.length} 场 · 命中纪录待回传：${recordWaitingMatches.length} 场 · ${source?.enrichedAt || source?.generatedAt || "等待同步"}`;
+  dataStatus.textContent = `首页预测：${homePredictionMatches.length} 场 · 命中纪录待回传：${recordWaitingMatches.length} 场 · 最近同步 ${source?.enrichedAt || source?.generatedAt || "等待同步"} · 自动任务约30分钟一轮`;
 }
 
 renderLeagues();

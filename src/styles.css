@@ -2052,6 +2052,33 @@ footer {
     align-items: stretch;
   }
 
+  .prediction-feed {
+    border-radius: 20px;
+    overflow: hidden;
+  }
+
+  .feed-header {
+    gap: 14px;
+    padding: 18px;
+  }
+
+  .search {
+    position: relative;
+    z-index: 2;
+    flex: none;
+    width: 100%;
+    min-width: 0;
+    height: 46px;
+    padding: 0 14px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.055);
+  }
+
+  .search input {
+    min-height: 44px;
+    font-size: 16px;
+  }
+
   .teams {
     grid-template-columns: 1fr;
   }
