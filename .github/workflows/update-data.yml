@@ -15,6 +15,10 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -44,9 +48,5 @@ jobs:
           file_pattern: "data/*.json src/generated-*.js"
 
       - name: Deploy to Vercel
-        if: env.VERCEL_TOKEN != ''
+        if: ${{ env.VERCEL_TOKEN != '' }}
         run: npx --yes vercel@latest --prod --yes --token "$VERCEL_TOKEN"
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
