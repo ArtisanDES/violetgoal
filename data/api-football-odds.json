@@ -1,10 +1,10 @@
 {
   "source": "api-football-odds",
-  "generatedAt": "2026-07-26T04:42:43.801Z",
+  "generatedAt": "2026-07-26T04:50:03.417Z",
   "targetCount": 19,
-  "matchedCount": 8,
+  "matchedCount": 7,
   "unmatchedCount": 0,
-  "errorCount": 11,
+  "errorCount": 12,
   "matched": [
     {
       "localId": "jc-7201",
@@ -558,89 +558,15 @@
         },
         "bookmakerCount": 13
       }
-    },
-    {
-      "localId": "jc-7209",
-      "jcNumber": "7209",
-      "fixtureId": "1494710",
-      "providerFixture": {
-        "provider": "api-football",
-        "providerFixtureId": 1494710,
-        "utcDate": "2026-07-26T12:30:00+00:00",
-        "timestamp": 1785069000,
-        "status": "NS",
-        "elapsed": null,
-        "venue": "Brann Stadion",
-        "league": "Eliteserien",
-        "leagueId": 103,
-        "season": 2026,
-        "round": "Regular Season - 15",
-        "country": "Norway",
-        "home": "Brann",
-        "away": "Valerenga",
-        "homeId": 319,
-        "awayId": 326,
-        "homeWinner": null,
-        "awayWinner": null,
-        "goalsHome": null,
-        "goalsAway": null,
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      "odds": {
-        "update": "2026-07-26T02:11:14+00:00",
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026
-        },
-        "fixture": {
-          "id": 1494710,
-          "timezone": "UTC",
-          "date": "2026-07-26T12:30:00+00:00",
-          "timestamp": 1785069000
-        },
-        "matchWinner": {
-          "bookmaker": "10Bet",
-          "home": 1.7,
-          "draw": 4.1,
-          "away": 4.2
-        },
-        "goalsOverUnder": {
-          "bookmaker": "10Bet",
-          "over25": 1.44,
-          "under25": 2.7
-        },
-        "bothTeamsScore": {
-          "bookmaker": "10Bet",
-          "yes": 1.42,
-          "no": 2.6
-        },
-        "bookmakerCount": 13
-      }
     }
   ],
   "unmatched": [],
   "errors": [
+    {
+      "id": "jc-7209",
+      "fixtureId": "1494710",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
     {
       "id": "jc-7210",
       "fixtureId": "1495744",
@@ -654,12 +580,12 @@
     {
       "id": "jc-7212",
       "fixtureId": "1494222",
-      "error": "fetch failed"
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
     },
     {
       "id": "jc-7213",
       "fixtureId": "1494715",
-      "error": "fetch failed"
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
     },
     {
       "id": "jc-7214",
@@ -694,7 +620,7 @@
     {
       "id": "jc-1202",
       "fixtureId": "1494713",
-      "error": "fetch failed"
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
     }
   ]
 }

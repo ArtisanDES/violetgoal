@@ -399,15 +399,16 @@ function renderResultsPage() {
   document.body.insertAdjacentHTML("afterbegin", pageHeader("results"));
   const root = document.querySelector("#pageRoot");
   const archivedMatches = Object.values(window.__MATCH_HISTORY__?.matches || {});
+  const currentBusinessDate = window.__JINCAI_DATA__?.currentBusinessDate || [...new Set(pageMatches.map((match) => match.businessDate).filter(Boolean))].sort()[0] || null;
+  const inCurrentOrPastBusinessDate = (match) => !currentBusinessDate || !match.businessDate || match.businessDate <= currentBusinessDate || pageScoreParts(match.result?.score || match.score);
   const businessSortKey = (match) => {
-    const dateText = String(match.utcDate || "").slice(0, 10);
+    const dateText = String(match.businessDate || match.utcDate || "").slice(0, 10);
     const timeText = String(match.time || "99:99");
-    const hour = Number(timeText.slice(0, 2));
-    const businessDate = /^\d{4}-\d{2}-\d{2}$/.test(dateText) ? new Date(`${dateText}T00:00:00+08:00`) : null;
-    if (businessDate && Number.isFinite(hour) && hour < 10) businessDate.setDate(businessDate.getDate() - 1);
-    return `${businessDate ? businessDate.toISOString().slice(0, 10) : dateText} ${timeText}`;
+    const jc = String(match.jcNumber || "").padStart(4, "0");
+    return `${dateText} ${jc || timeText}`;
   };
   const resultMatches = (archivedMatches.length ? archivedMatches : pageMatches)
+    .filter(inCurrentOrPastBusinessDate)
     .sort((a, b) => businessSortKey(a).localeCompare(businessSortKey(b)));
   const completedMatches = resultMatches.filter((match) => pageScoreParts(match.result?.score || match.score));
   const hits = completedMatches.filter((match) => pageSettlement(match).hitClass === "hit");

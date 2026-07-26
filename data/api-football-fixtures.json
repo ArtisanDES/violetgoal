@@ -1,6 +1,6 @@
 {
   "source": "api-football",
-  "generatedAt": "2026-07-26T04:41:04.359Z",
+  "generatedAt": "2026-07-26T04:49:40.763Z",
   "dateFrom": "2026-07-24",
   "dateTo": "2026-07-31",
   "count": 1418,
@@ -36252,7 +36252,7 @@
       "utcDate": "2026-07-26T03:00:00+00:00",
       "timestamp": 1785034800,
       "status": "2H",
-      "elapsed": 76,
+      "elapsed": 84,
       "venue": "Lancaster Municipal Stadium",
       "league": "USL League One",
       "leagueId": 489,
@@ -36292,7 +36292,7 @@
       "utcDate": "2026-07-26T03:00:00+00:00",
       "timestamp": 1785034800,
       "status": "2H",
-      "elapsed": 80,
+      "elapsed": 88,
       "venue": "",
       "league": "Northern NSW NPL",
       "leagueId": 481,
@@ -36411,8 +36411,8 @@
       "providerFixtureId": 1542342,
       "utcDate": "2026-07-26T03:00:00+00:00",
       "timestamp": 1785034800,
-      "status": "2H",
-      "elapsed": 83,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "Eden Park",
       "league": "Friendlies Clubs",
       "leagueId": 667,
@@ -36433,8 +36433,8 @@
           "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -36451,8 +36451,8 @@
       "providerFixtureId": 1549346,
       "utcDate": "2026-07-26T03:00:00+00:00",
       "timestamp": 1785034800,
-      "status": "2H",
-      "elapsed": 88,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "",
       "league": "Npl Nsw U20",
       "leagueId": 1230,
@@ -36463,18 +36463,18 @@
       "away": "Sutherland Sharks U20",
       "homeId": 27806,
       "awayId": 27810,
-      "homeWinner": null,
-      "awayWinner": null,
+      "homeWinner": false,
+      "awayWinner": true,
       "goalsHome": 1,
-      "goalsAway": 1,
+      "goalsAway": 2,
       "score": {
         "halftime": {
           "home": 1,
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -36492,7 +36492,7 @@
       "utcDate": "2026-07-26T03:00:00+00:00",
       "timestamp": 1785034800,
       "status": "2H",
-      "elapsed": 81,
+      "elapsed": 90,
       "venue": "",
       "league": "Npl Nsw U20",
       "leagueId": 1230,
@@ -36532,7 +36532,7 @@
       "utcDate": "2026-07-26T03:00:00+00:00",
       "timestamp": 1785034800,
       "status": "2H",
-      "elapsed": 68,
+      "elapsed": 77,
       "venue": "Estadio Universitario",
       "league": "Liga MX",
       "leagueId": 262,
@@ -36572,7 +36572,7 @@
       "utcDate": "2026-07-26T03:00:00+00:00",
       "timestamp": 1785034800,
       "status": "2H",
-      "elapsed": 71,
+      "elapsed": 80,
       "venue": "Estadio TSM Corona",
       "league": "Liga MX",
       "leagueId": 262,
@@ -36611,8 +36611,8 @@
       "providerFixtureId": 1560871,
       "utcDate": "2026-07-26T04:00:00+00:00",
       "timestamp": 1785038400,
-      "status": "1H",
-      "elapsed": 41,
+      "status": "HT",
+      "elapsed": 45,
       "venue": "Rockwell Automation Park",
       "league": "Australia Cup",
       "leagueId": 874,

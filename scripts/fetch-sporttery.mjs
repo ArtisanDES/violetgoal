@@ -133,6 +133,7 @@ function toLocalMatch(record, index, previousByNumber = new Map()) {
   const home = pick(record, ["homeTeamAbbName", "homeTeamAllName", "homeTeam", "home", "h_cn", "hostName", "homeTeamName"], "主队待定");
   const away = pick(record, ["awayTeamAbbName", "awayTeamAllName", "awayTeam", "away", "a_cn", "guestName", "awayTeamName"], "客队待定");
   const matchDate = pick(record, ["matchDate", "businessDate", "date", "b_date"], "");
+  const businessDate = pick(record, ["businessDate", "saleDate"], matchDate);
   const matchTime = pick(record, ["matchTime", "startTime", "time"], "");
   const startTime = matchTime || matchDate;
   const had = record.had || record.HAD || record.spf || {};
@@ -158,6 +159,7 @@ function toLocalMatch(record, index, previousByNumber = new Map()) {
     league,
     time: matchTime ? String(matchTime).slice(0, 5) : "待定",
     utcDate: matchDate || startTime || null,
+    businessDate,
     home,
     away,
     homeRank,
@@ -256,10 +258,13 @@ async function main() {
   const payload = await fetchSporttery();
   const rows = normalizeRows(payload);
   const matches = rows.map((record, index) => toLocalMatch(record, index, previousByNumber)).filter((match) => match.home !== "主队待定" || match.away !== "客队待定");
+  const businessDates = [...new Set(matches.map((match) => match.businessDate).filter(Boolean))].sort();
   const output = {
     source: "sporttery",
     endpoint,
     generatedAt: new Date().toISOString(),
+    currentBusinessDate: businessDates[0] || null,
+    businessDates,
     count: matches.length,
     matches
   };

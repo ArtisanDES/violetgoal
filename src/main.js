@@ -22,6 +22,7 @@ const fallbackMatches = [
 ];
 
 const matches = dataMatches.length ? dataMatches : fallbackMatches;
+const currentBusinessDate = window.__JINCAI_DATA__?.currentBusinessDate || [...new Set(matches.map((match) => match.businessDate).filter(Boolean))].sort()[0] || null;
 const now = new Date();
 const resultStatuses = new Set(["1H", "HT", "2H", "ET", "BT", "P", "SUSP", "INT", "FT", "AET", "PEN", "已完赛"]);
 
@@ -34,6 +35,10 @@ function kickOffTime(match) {
 
 function isSportteryMatch(match) {
   return match.source === "sporttery" || Boolean(match.jcNumber);
+}
+
+function isCurrentBusinessDate(match) {
+  return !currentBusinessDate || !match.businessDate || match.businessDate === currentBusinessDate;
 }
 
 function isNightRecordMatch(match) {
@@ -49,11 +54,11 @@ function hasStarted(match) {
 }
 
 function isHomePredictionMatch(match) {
-  return isSportteryMatch(match) && !isNightRecordMatch(match) && !hasStarted(match);
+  return isSportteryMatch(match) && isCurrentBusinessDate(match) && !isNightRecordMatch(match) && !hasStarted(match);
 }
 
 function isRecordWaitingMatch(match) {
-  return isSportteryMatch(match) && (isNightRecordMatch(match) || hasStarted(match) || Boolean(match.result?.score || match.score));
+  return isSportteryMatch(match) && isCurrentBusinessDate(match) && (isNightRecordMatch(match) || hasStarted(match) || Boolean(match.result?.score || match.score));
 }
 
 const homePredictionMatches = matches.filter(isHomePredictionMatch);
@@ -317,7 +322,8 @@ searchInput?.addEventListener("input", renderMatches);
 
 if (dataStatus) {
   const source = window.__JINCAI_DATA__ || window.__FIXTURES_DATA__;
-  dataStatus.textContent = `首页预测：${homePredictionMatches.length} 场 · 命中纪录待回传：${recordWaitingMatches.length} 场 · 最近同步 ${source?.enrichedAt || source?.generatedAt || "等待同步"} · 自动任务约30分钟一轮`;
+  const currentIssueCount = matches.filter((match) => isSportteryMatch(match) && isCurrentBusinessDate(match)).length;
+  dataStatus.textContent = `竞彩当前期 ${currentBusinessDate || "待定"}：${currentIssueCount} 场 · 首页预测 ${homePredictionMatches.length} 场 · 命中纪录待回传 ${recordWaitingMatches.length} 场 · 最近同步 ${source?.enrichedAt || source?.generatedAt || "等待同步"} · 自动任务约30分钟一轮`;
 }
 
 renderLeagues();
