@@ -1,7 +1,7 @@
 window.__JINCAI_DATA__ = {
   "source": "sporttery",
   "endpoint": "https://webapi.sporttery.cn/gateway/jc/football/getMatchCalculatorV1.qry",
-  "generatedAt": "2026-07-26T01:18:31.344Z",
+  "generatedAt": "2026-07-26T01:28:30.018Z",
   "count": 22,
   "matches": [
     {
@@ -3987,7 +3987,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-07-26T01:18:51.184Z",
+  "enrichedAt": "2026-07-26T01:28:50.499Z",
   "enrichment": {
     "providerOverrides": 0,
     "apiFootball": "synced",

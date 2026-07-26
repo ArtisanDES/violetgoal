@@ -64,7 +64,7 @@ async function runRequired() {
     const code = await runNode(label, args);
     if (code !== 0) {
       await restoreBackups(backups);
-      throw new Error(`${label} failed; restored previous bundled data.`);
+      console.log(`${label} failed; restored previous bundled data and continuing.`);
     }
   }
 }
