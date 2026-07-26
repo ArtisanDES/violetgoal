@@ -403,9 +403,9 @@ function renderResultsPage() {
     .sort((a, b) => `${b.utcDate || ""} ${b.time || ""}`.localeCompare(`${a.utcDate || ""} ${a.time || ""}`));
   const completedMatches = resultMatches.filter((match) => pageScoreParts(match.result?.score || match.score));
   const hits = completedMatches.filter((match) => pageSettlement(match).hitClass === "hit");
-  const leagues = [...new Set(completedMatches.map((match) => match.league).filter(Boolean))].sort();
+  const leagues = [...new Set(resultMatches.map((match) => match.league).filter(Boolean))].sort();
 
-  const rows = completedMatches.map((match, index) => {
+  const rows = resultMatches.map((match, index) => {
     const settlement = pageSettlement(match);
     const model = pageMatchModel(match);
     const scoreParts = pageScoreParts(match.result?.score || match.score);
@@ -445,9 +445,9 @@ function renderResultsPage() {
         <label><span>联赛</span><select id="resultLeague"><option value="">全部联赛</option>${leagues.map((league) => `<option value="${league}">${league}</option>`).join("")}</select></label>
         <label><span>结算状态</span><select id="resultStatus"><option value="">全部结果</option><option value="hit">方向命中</option><option value="miss">方向未中</option></select></label>
         <button id="resultReset" type="button">重置筛选</button>
-        <small id="resultCount">显示 ${completedMatches.length} 场</small>
+        <small id="resultCount">显示 ${resultMatches.length} 场</small>
       </div>
-      <div class="result-table">${rows || `<article class="empty-state">暂无已完赛并回传真实比分的比赛。</article>`}</div>
+      <div class="result-table">${rows || `<article class="empty-state">暂无命中纪录；跨夜场和已开赛场会在这里等待赛果回传。</article>`}</div>
     </section>
     <div class="review-modal" id="reviewModal" hidden>
       <div class="review-backdrop" data-close-review></div>

@@ -22,6 +22,42 @@ const fallbackMatches = [
 ];
 
 const matches = dataMatches.length ? dataMatches : fallbackMatches;
+const now = new Date();
+const resultStatuses = new Set(["1H", "HT", "2H", "ET", "BT", "P", "SUSP", "INT", "FT", "AET", "PEN", "已完赛"]);
+
+function kickOffTime(match) {
+  const dateText = String(match.utcDate || "").slice(0, 10);
+  const timeText = String(match.time || "");
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(dateText) || !/^\d{2}:\d{2}$/.test(timeText)) return null;
+  return new Date(`${dateText}T${timeText}:00+08:00`);
+}
+
+function isSportteryMatch(match) {
+  return match.source === "sporttery" || Boolean(match.jcNumber);
+}
+
+function isNightRecordMatch(match) {
+  const hour = Number(String(match.time || "").slice(0, 2));
+  return Number.isFinite(hour) && (hour >= 22 || hour < 10);
+}
+
+function hasStarted(match) {
+  const status = String(match.apiFootball?.status || match.result?.status || "").toUpperCase();
+  if (resultStatuses.has(status) || resultStatuses.has(match.result?.status)) return true;
+  const kickOff = kickOffTime(match);
+  return kickOff ? kickOff <= now : false;
+}
+
+function isHomePredictionMatch(match) {
+  return isSportteryMatch(match) && !isNightRecordMatch(match) && !hasStarted(match);
+}
+
+function isRecordWaitingMatch(match) {
+  return isSportteryMatch(match) && (isNightRecordMatch(match) || hasStarted(match) || Boolean(match.result?.score || match.score));
+}
+
+const homePredictionMatches = matches.filter(isHomePredictionMatch);
+const recordWaitingMatches = matches.filter(isRecordWaitingMatch);
 let activeLeague = "全部";
 
 const leagueCloud = document.querySelector("#leagueCloud");
@@ -133,11 +169,11 @@ function handicapText(match) {
 
 function leagueGroups() {
   const map = new Map();
-  for (const match of matches) {
+  for (const match of homePredictionMatches) {
     const league = match.league || "其他";
     map.set(league, (map.get(league) || 0) + 1);
   }
-  return [["竞彩", "JC", matches.filter((match) => match.source === "sporttery" || match.jcNumber).length || matches.length], ...[...map.entries()].map(([league, count]) => [league, league, count])];
+  return [["竞彩", "JC", homePredictionMatches.length], ...[...map.entries()].map(([league, count]) => [league, league, count])];
 }
 
 function renderLeagues() {
@@ -171,7 +207,7 @@ function renderLeagues() {
 function renderMatches() {
   if (!matchFeed) return;
   const query = (searchInput?.value || "").trim().toLowerCase();
-  const filtered = matches.filter((match) => {
+  const filtered = homePredictionMatches.filter((match) => {
     const inLeague = activeLeague === "全部" || activeLeague === "竞彩" || match.league === activeLeague;
     const text = `${match.home} ${match.away} ${match.league} ${match.jcNumber || ""}`.toLowerCase();
     return inLeague && (!query || text.includes(query));
@@ -232,7 +268,7 @@ function renderMatches() {
 }
 
 function updateHero() {
-  const models = matches.map(calculateModel);
+  const models = homePredictionMatches.map(calculateModel);
   const avgConfidence = models.reduce((sum, model) => sum + model.confidence, 0) / Math.max(1, models.length);
   const avgXg = models.reduce((sum, model) => sum + Math.abs(model.homeXg - model.awayXg), 0) / Math.max(1, models.length);
   const avgEdge = models.reduce((sum, model) => sum + model.marketEdge, 0) / Math.max(1, models.length);
@@ -243,7 +279,7 @@ function updateHero() {
 }
 
 function updateRecords() {
-  const count = matches.length;
+  const count = recordWaitingMatches.length;
   document.querySelector("#recordYesterdayCount") && (document.querySelector("#recordYesterdayCount").textContent = `0 / ${count}`);
   document.querySelector("#recordYesterdayRate") && (document.querySelector("#recordYesterdayRate").textContent = "待结算");
   document.querySelector("#recordYesterdayUnits") && (document.querySelector("#recordYesterdayUnits").textContent = "截至当前时间");
@@ -268,7 +304,7 @@ function updateClock() {
 
 function renderLiveGrid() {
   if (!liveGrid) return;
-  liveGrid.innerHTML = matches.slice(0, 6).map((match) => `
+  liveGrid.innerHTML = homePredictionMatches.slice(0, 6).map((match) => `
     <article class="live-card"><span>竞彩 ${match.jcNumber || ""}</span><strong>${match.home} vs ${match.away}</strong><small>${match.time || "--:--"} · ${match.jcOdds ? `SP ${match.jcOdds.win}/${match.jcOdds.draw}/${match.jcOdds.lose}` : "等待指数"}</small></article>
   `).join("");
 }
@@ -281,7 +317,7 @@ searchInput?.addEventListener("input", renderMatches);
 
 if (dataStatus) {
   const source = window.__JINCAI_DATA__ || window.__FIXTURES_DATA__;
-  dataStatus.textContent = `数据包：${matches.length} 场 · ${source?.enrichedAt || source?.generatedAt || "等待同步"}`;
+  dataStatus.textContent = `首页预测：${homePredictionMatches.length} 场 · 命中纪录待回传：${recordWaitingMatches.length} 场 · ${source?.enrichedAt || source?.generatedAt || "等待同步"}`;
 }
 
 renderLeagues();
