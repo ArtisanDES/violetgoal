@@ -230,6 +230,61 @@ function pageOuterOddsTriplet(match) {
   return values.every((item) => Number.isFinite(item) && item > 1) ? values : null;
 }
 
+function pageSourceStatus(value) {
+  return value ? "已接入" : "未匹配";
+}
+
+function pageSourceLedger(match) {
+  const hasJc = Boolean(match.jcOdds);
+  const hasScoreOdds = Boolean(match.sportteryMarkets?.scoreOdds?.length);
+  const hasGoalOdds = Boolean(match.sportteryMarkets?.totalGoalOdds?.length);
+  const hasHalfFullOdds = Boolean(match.sportteryMarkets?.halfFullOdds?.length);
+  const hasRank = Boolean(match.homeRank || match.awayRank);
+  const hasApiFootball = Boolean(match.apiFootball);
+  const hasOuterOdds = Boolean(pageOuterOddsTriplet(match));
+  const hasClubElo = Boolean(match.clubElo);
+  const thirdParty = match.thirdPartyCompare || match.footyMetrics;
+  const hasThirdParty = Boolean(thirdParty?.matchResult || thirdParty?.direction || thirdParty?.tips?.length);
+  const xgSource = match.footyMetrics?.modelStats
+    ? "FootyMetrics 近况均值辅助"
+    : hasScoreOdds || hasGoalOdds
+      ? "由竞彩比分 SP / 总进球 SP 反推"
+      : "模型默认值";
+  const eloSource = hasClubElo
+    ? "ClubElo"
+    : hasRank
+      ? "由球队排名差临时折算"
+      : "模型默认值";
+  const rows = [
+    ["竞彩胜平负 SP", pageSourceStatus(hasJc), hasJc ? `${match.jcOdds.win}/${match.jcOdds.draw}/${match.jcOdds.lose}` : "等待同步"],
+    ["竞彩让球 SP", pageSourceStatus(hasJc), hasJc ? `${match.jcOdds.handicapLabel || "让球"} ${match.jcOdds.handicapWin}/${match.jcOdds.handicapDraw}/${match.jcOdds.handicapLose}` : "等待同步"],
+    ["比分 / 总进球 / 半全场 SP", pageSourceStatus(hasScoreOdds || hasGoalOdds || hasHalfFullOdds), `比分 ${hasScoreOdds ? match.sportteryMarkets.scoreOdds.length : 0} 组；总进球 ${hasGoalOdds ? match.sportteryMarkets.totalGoalOdds.length : 0} 组；半全场 ${hasHalfFullOdds ? match.sportteryMarkets.halfFullOdds.length : 0} 组`],
+    ["球队排名", pageSourceStatus(hasRank), [match.homeRank, match.awayRank].filter(Boolean).join(" vs ") || "等待同步"],
+    ["xG", "派生", `${match.xgHome ?? "--"}-${match.xgAway ?? "--"}，${xgSource}`],
+    ["ELO", hasClubElo ? "已接入" : "派生", `${match.eloHome ?? "--"}-${match.eloAway ?? "--"}，${eloSource}`],
+    ["API-Football 赛程/赛果", pageSourceStatus(hasApiFootball), hasApiFootball ? `${match.apiFootball.status || "已匹配"} ${match.apiFootball.fixtureId || ""}` : "未匹配到该场，赛果待回填"],
+    ["外围赔率", pageSourceStatus(hasOuterOdds), hasOuterOdds ? pageOuterOddsTriplet(match).map((item) => item.toFixed(2)).join("/") : "未拿到具体赔率，不参与加权"],
+    ["FootyMetrics 机构对比", pageSourceStatus(hasThirdParty), hasThirdParty ? `${thirdParty.provider || "FootyMetrics"} 已匹配` : "未匹配到同场比赛"]
+  ];
+  return `
+    <div class="analysis-block source-ledger-block">
+      <span class="label">数据源账本</span>
+      <h2>本场模型到底用了哪些数据</h2>
+      <div class="compare-table">
+        <div class="compare-row compare-head"><b>指标</b><span>状态</span><span>来源 / 当前值</span></div>
+        ${rows.map(([name, status, detail]) => `
+          <div class="compare-row">
+            <b>${name}</b>
+            <span>${status}</span>
+            <span>${detail}</span>
+          </div>
+        `).join("")}
+      </div>
+      <p>结论只使用已接入的真实数据和明确标注的派生数据；未匹配的外部源不会参与概率加权。</p>
+    </div>
+  `;
+}
+
 function pageMarketCompare(match, model) {
   const labels = ["主胜", "平局", "客胜"];
   const jcOdds = pageOddsTripletFromJc(match);
@@ -252,7 +307,7 @@ function pageMarketCompare(match, model) {
         <div class="compare-row compare-head"><b>方向</b><span>模型概率</span><span>竞彩SP / 隐含概率</span><span>外围赔率 / 隐含概率</span></div>
         ${rows}
       </div>
-      <p>外围赔率只有赛事匹配时不会参与结论，必须拿到具体赔率后才进入加权校验。</p>
+      <p>${outerOdds ? "外围赔率已匹配，可作为市场交叉校验。" : "外围赔率未匹配到具体赔率，本场不参与加权，只保留竞彩 SP 与模型概率对照。"}</p>
     </div>
   `;
 }
@@ -556,6 +611,8 @@ function renderMatchPage() {
           <div><span>机构分歧</span><strong>${model.marketEdge}%</strong></div>
         </div>
         ${pageQualityTags(match)}
+
+        ${pageSourceLedger(match)}
 
         <div class="analysis-block">
           <span class="label">1X2 概率拆解</span>

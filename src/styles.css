@@ -1600,6 +1600,10 @@ body.modal-open {
   color: var(--muted);
 }
 
+.source-ledger-block .compare-row {
+  grid-template-columns: 160px 90px 1fr;
+}
+
 .analysis-table {
   display: grid;
   gap: 10px;
