@@ -941,7 +941,8 @@
           "球队排名",
           "API-Football赛程",
           "API-Football赛程状态",
-          "API-Football外围赔率"
+          "API-Football外围赔率",
+          "FootyMetrics第三方机构预测对比"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
@@ -1023,6 +1024,48 @@
           },
           "bookmakerCount": 13
         }
+      },
+      "footyMetrics": {
+        "role": "third-party-institution-compare",
+        "rows": [
+          {
+            "sourcePath": "/predictions/1x2-ht",
+            "rowId": "",
+            "fixtureApid": 19648116,
+            "slug": "26672131-k-league-1-anyang-gangwon",
+            "timestamp": "2026-07-26T10:30:00.000Z",
+            "league": {
+              "id": 73,
+              "name": "K League 1",
+              "country": "South Korea"
+            },
+            "home": "Anyang",
+            "away": "Gangwon",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          }
+        ],
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T07:30:54.273Z"
+      },
+      "thirdPartyCompare": {
+        "provider": "FootyMetrics",
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T07:30:54.273Z"
       }
     },
     {
@@ -2010,14 +2053,14 @@
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T04:50:40.875Z"
+        "generatedAt": "2026-07-26T07:30:54.273Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T04:50:40.875Z"
+        "generatedAt": "2026-07-26T07:30:54.273Z"
       }
     },
     {
@@ -2434,6 +2477,32 @@
         "role": "third-party-institution-compare",
         "rows": [
           {
+            "sourcePath": "/predictions/1x2",
+            "rowId": "",
+            "fixtureApid": 19635706,
+            "slug": "26672143-veikkausliiga-hjk-tps",
+            "timestamp": "2026-07-26T14:00:00.000Z",
+            "league": {
+              "id": 30,
+              "name": "Veikkausliiga",
+              "country": "Finland"
+            },
+            "home": "HJK",
+            "away": "TPS",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          },
+          {
             "sourcePath": "/predictions/btts",
             "rowId": "",
             "fixtureApid": 19635706,
@@ -2463,14 +2532,14 @@
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T04:50:40.875Z"
+        "generatedAt": "2026-07-26T07:30:54.273Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T04:50:40.875Z"
+        "generatedAt": "2026-07-26T07:30:54.273Z"
       }
     },
     {
@@ -2737,14 +2806,14 @@
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T04:50:40.875Z"
+        "generatedAt": "2026-07-26T07:30:54.273Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T04:50:40.875Z"
+        "generatedAt": "2026-07-26T07:30:54.273Z"
       }
     },
     {
@@ -4593,7 +4662,7 @@
       }
     }
   ],
-  "enrichedAt": "2026-07-26T04:50:41.066Z",
+  "enrichedAt": "2026-07-26T07:30:54.471Z",
   "enrichment": {
     "providerOverrides": 20,
     "apiFootball": "synced",
