@@ -16,6 +16,7 @@ const files = [
 ];
 const overridesPath = path.join(root, "data", "provider-overrides.json");
 const apiFootballPath = path.join(root, "data", "api-football-fixtures.json");
+const apiFootballOddsPath = path.join(root, "data", "api-football-odds.json");
 const oddsApiIoPath = path.join(root, "data", "odds-api-io.json");
 const clubEloPath = path.join(root, "data", "clubelo.json");
 const footyMetricsPath = path.join(root, "data", "footymetrics-public.json");
@@ -58,15 +59,42 @@ function readAlias(aliases, name) {
   return aliases.teams?.[name] || {};
 }
 
+function aliasNames(aliases, name) {
+  const alias = readAlias(aliases, name);
+  return [
+    name,
+    alias.apiFootballName,
+    alias.oddsApiName,
+    alias.footyMetricsName,
+    alias.clubEloName,
+    ...(alias.names || [])
+  ].filter(Boolean);
+}
+
 function matchDate(value) {
   return String(value || "").slice(0, 10);
+}
+
+function closeDate(a, b) {
+  const left = new Date(a || 0);
+  const right = new Date(b || 0);
+  if (!Number.isFinite(left.getTime()) || !Number.isFinite(right.getTime())) {
+    return matchDate(a) === matchDate(b);
+  }
+  return Math.abs(left.getTime() - right.getTime()) <= 36 * 60 * 60 * 1000;
 }
 
 function teamMatches(localName, providerName, providerId, aliases) {
   const alias = readAlias(aliases, localName);
   if (alias.apiFootballId && Number(alias.apiFootballId) === Number(providerId)) return true;
-  const names = [localName, alias.apiFootballName, ...(alias.names || [])].filter(Boolean).map(normalizeName);
-  return names.includes(normalizeName(providerName));
+  const normalizedProvider = normalizeName(providerName);
+  const names = aliasNames(aliases, localName).map(normalizeName).filter(Boolean);
+  if (names.includes(normalizedProvider)) return true;
+  return names.some((name) => (
+    name.length >= 5 &&
+    normalizedProvider.length >= 5 &&
+    (name.includes(normalizedProvider) || normalizedProvider.includes(name))
+  ));
 }
 
 function apiFootballPatch(local, provider) {
@@ -100,7 +128,7 @@ function normalizeApiFootball(payload, aliases) {
   const matches = payload.matches || [];
   return {
     findPatch(local) {
-      const sameDate = matches.filter((provider) => matchDate(provider.utcDate) === matchDate(local.utcDate));
+      const sameDate = matches.filter((provider) => closeDate(provider.utcDate, local.utcDate));
       const found = sameDate.find((provider) => (
         teamMatches(local.home, provider.home, provider.homeId, aliases) &&
         teamMatches(local.away, provider.away, provider.awayId, aliases)
@@ -109,7 +137,7 @@ function normalizeApiFootball(payload, aliases) {
     },
     candidates(local) {
       return matches
-        .filter((provider) => matchDate(provider.utcDate) === matchDate(local.utcDate))
+        .filter((provider) => closeDate(provider.utcDate, local.utcDate))
         .slice(0, 12)
         .map((provider) => ({
           fixtureId: provider.providerFixtureId,
@@ -126,12 +154,30 @@ function normalizeApiFootball(payload, aliases) {
 
 function normalizeOddsApiIo(payload) {
   const map = new Map((payload.matched || []).map((item) => [String(item.localId), item]));
+  const unmatched = new Set((payload.unmatched || []).map((item) => String(item.id)));
   return {
     findPatch(match) {
       const item = map.get(String(match.id));
-      if (!item) return null;
+      if (!item) {
+        if (!unmatched.has(String(match.id))) return null;
+        return {
+          oddsApiIo: {
+            status: "fetched-unmatched",
+            generatedAt: payload.generatedAt,
+            eventCount: payload.eventCount || 0,
+            matchedCount: payload.matchedCount || 0
+          },
+          dataQuality: {
+            real: [],
+            pending: [`Odds-API.io已抓取${payload.eventCount || 0}场，未覆盖本场`]
+          }
+        };
+      }
       return {
         oddsApiIo: {
+          status: "matched",
+          generatedAt: payload.generatedAt,
+          eventCount: payload.eventCount || 0,
           event: item.event,
           odds: item.odds,
           error: item.error
@@ -139,6 +185,47 @@ function normalizeOddsApiIo(payload) {
         dataQuality: {
           real: item.odds ? ["外围赔率"] : ["外围赛事匹配"],
           pending: item.odds ? [] : ["外围赔率"]
+        }
+      };
+    }
+  };
+}
+
+function normalizeApiFootballOdds(payload) {
+  const map = new Map((payload.matched || []).map((item) => [String(item.localId), item]));
+  return {
+    findPatch(match) {
+      const item = map.get(String(match.id));
+      if (!item?.odds) return null;
+      const winner = item.odds.matchWinner;
+      const odds = winner && [winner.home, winner.draw, winner.away].every((value) => Number.isFinite(Number(value)))
+        ? {
+          eventId: item.fixtureId,
+          bookmaker: winner.bookmaker || "API-Football",
+          market: "Match Winner",
+          home: Number(winner.home),
+          draw: Number(winner.draw),
+          away: Number(winner.away)
+        }
+        : null;
+      return {
+        oddsApiIo: {
+          status: odds ? "fallback-api-football-odds" : "api-football-odds-fetched",
+          generatedAt: payload.generatedAt,
+          eventCount: payload.targetCount || 0,
+          event: {
+            eventId: item.fixtureId,
+            league: item.odds.league?.name || item.providerFixture?.league || "",
+            home: item.providerFixture?.home || "",
+            away: item.providerFixture?.away || "",
+            date: item.providerFixture?.utcDate || item.odds.fixture?.date || ""
+          },
+          odds,
+          apiFootballOdds: item.odds
+        },
+        dataQuality: {
+          real: odds ? ["API-Football外围赔率"] : ["API-Football赔率源已抓取"],
+          pending: odds ? [] : ["API-Football胜平负赔率"]
         }
       };
     }
@@ -170,20 +257,12 @@ function normalizeClubElo(payload) {
   };
 }
 
-function aliasNames(aliases, name) {
-  const alias = aliases.teams?.[name] || {};
-  return [name, alias.apiFootballName, alias.oddsApiName, alias.clubEloName, alias.footyMetricsName, ...(alias.names || [])]
-    .filter(Boolean)
-    .map(normalizeName)
-    .filter((item) => item.length > 2);
-}
-
 function normalizeFootyMetrics(payload, aliases) {
   const rows = payload.rows || [];
   return {
     findPatch(match) {
-      const homeNames = aliasNames(aliases, match.home);
-      const awayNames = aliasNames(aliases, match.away);
+      const homeNames = aliasNames(aliases, match.home).map(normalizeName).filter((item) => item.length > 2);
+      const awayNames = aliasNames(aliases, match.away).map(normalizeName).filter((item) => item.length > 2);
       const matchedRows = rows.filter((row) => (
         homeNames.includes(normalizeName(row.home)) &&
         awayNames.includes(normalizeName(row.away))
@@ -279,6 +358,7 @@ async function main() {
   const overrides = normalizeProviderOverrides(await readJson(overridesPath, { matches: [] }));
   const aliases = await readJson(aliasesPath, { teams: {} });
   const apiFootball = normalizeApiFootball(await readJson(apiFootballPath, { matches: [] }), aliases);
+  const apiFootballOdds = normalizeApiFootballOdds(await readJson(apiFootballOddsPath, { matched: [] }));
   const oddsApiIo = normalizeOddsApiIo(await readJson(oddsApiIoPath, { matched: [] }));
   const clubElo = normalizeClubElo(await readJson(clubEloPath, { teams: [] }));
   const footyMetrics = normalizeFootyMetrics(await readJson(footyMetricsPath, { rows: [] }), aliases);
@@ -294,12 +374,13 @@ async function main() {
       const manualPatch = keyFor(match).map((key) => overrides.get(key)).find(Boolean);
       const apiPatch = apiFootball.findPatch(match);
       const oddsPatch = oddsApiIo.findPatch(match);
+      const apiOddsPatch = oddsPatch?.oddsApiIo?.odds ? null : apiFootballOdds.findPatch(match);
       const eloPatch = clubElo.findPatch(match);
       const footyPatch = footyMetrics.findPatch(match);
-      const patch = manualPatch || apiPatch || oddsPatch || eloPatch || footyPatch
-        ? applyPatch(applyPatch(applyPatch(applyPatch(applyPatch(match, apiPatch), oddsPatch), eloPatch), footyPatch), manualPatch)
+      const patch = manualPatch || apiPatch || oddsPatch || apiOddsPatch || eloPatch || footyPatch
+        ? applyPatch(applyPatch(applyPatch(applyPatch(applyPatch(applyPatch(match, apiPatch), oddsPatch), apiOddsPatch), eloPatch), footyPatch), manualPatch)
         : null;
-      if (manualPatch || apiPatch || oddsPatch || eloPatch || footyPatch) applied += 1;
+      if (manualPatch || apiPatch || oddsPatch || apiOddsPatch || eloPatch || footyPatch) applied += 1;
       if (!apiPatch && match.source === "sporttery") {
         unmatched.push({
           id: match.id,
@@ -316,6 +397,7 @@ async function main() {
     payload.enrichment = {
       providerOverrides: applied,
       apiFootball: (await readJson(apiFootballPath, { matches: [] })).matches?.length ? "synced" : "no synced payload",
+      apiFootballOdds: (await readJson(apiFootballOddsPath, { matched: [] })).matched?.length ? "synced" : "no synced payload",
       oddsApiIo: (await readJson(oddsApiIoPath, { matched: [] })).matched?.length ? "synced" : "no synced payload",
       clubElo: (await readJson(clubEloPath, { teams: [] })).count ? "synced" : "no synced payload",
       footyMetrics: (await readJson(footyMetricsPath, { rows: [] })).rows?.length ? "synced" : "no synced payload",

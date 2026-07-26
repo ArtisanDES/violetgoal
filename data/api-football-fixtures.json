@@ -1,9 +1,9 @@
 {
   "source": "api-football",
-  "generatedAt": "2026-07-26T01:28:36.827Z",
+  "generatedAt": "2026-07-26T02:12:00.693Z",
   "dateFrom": "2026-07-24",
   "dateTo": "2026-07-31",
-  "count": 1426,
+  "count": 1418,
   "errors": [],
   "matches": [
     {
@@ -2229,8 +2229,8 @@
       "goalsAway": 3,
       "score": {
         "halftime": {
-          "home": 2,
-          "away": 1
+          "home": 1,
+          "away": 2
         },
         "fulltime": {
           "home": 2,
@@ -3288,6 +3288,46 @@
     },
     {
       "provider": "api-football",
+      "providerFixtureId": 1562998,
+      "utcDate": "2026-07-25T08:00:00+00:00",
+      "timestamp": 1784966400,
+      "status": "FT",
+      "elapsed": 90,
+      "venue": "",
+      "league": "Friendlies Clubs",
+      "leagueId": 667,
+      "season": 2026,
+      "round": "Club Friendlies",
+      "country": "World",
+      "home": "Karpaty",
+      "away": "Veres Rivne",
+      "homeId": 3617,
+      "awayId": 6501,
+      "homeWinner": true,
+      "awayWinner": false,
+      "goalsHome": 5,
+      "goalsAway": 1,
+      "score": {
+        "halftime": {
+          "home": 4,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 5,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "provider": "api-football",
       "providerFixtureId": 1563052,
       "utcDate": "2026-07-25T08:00:00+00:00",
       "timestamp": 1784966400,
@@ -3699,10 +3739,10 @@
       "season": 2026,
       "round": "Club Friendlies",
       "country": "World",
-      "home": "Sokol Zápy",
-      "away": "Králův Dvůr",
-      "homeId": 7356,
-      "awayId": 7312,
+      "home": "Králův Dvůr",
+      "away": "Sokol Zápy",
+      "homeId": 7312,
+      "awayId": 7356,
       "homeWinner": true,
       "awayWinner": false,
       "goalsHome": 2,
@@ -5099,10 +5139,10 @@
       "season": 2026,
       "round": "Club Friendlies",
       "country": "World",
-      "home": "Unia Swarzędz",
-      "away": "Kotwica Kórnik",
-      "homeId": 16257,
-      "awayId": 24327,
+      "home": "Kotwica Kórnik",
+      "away": "Unia Swarzędz",
+      "homeId": 24327,
+      "awayId": 16257,
       "homeWinner": false,
       "awayWinner": true,
       "goalsHome": 1,
@@ -6195,46 +6235,6 @@
         "fulltime": {
           "home": null,
           "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
-      "providerFixtureId": 1562998,
-      "utcDate": "2026-07-25T10:00:00+00:00",
-      "timestamp": 1784973600,
-      "status": "FT",
-      "elapsed": 90,
-      "venue": "",
-      "league": "Friendlies Clubs",
-      "leagueId": 667,
-      "season": 2026,
-      "round": "Club Friendlies",
-      "country": "World",
-      "home": "Karpaty",
-      "away": "Veres Rivne",
-      "homeId": 3617,
-      "awayId": 6501,
-      "homeWinner": true,
-      "awayWinner": false,
-      "goalsHome": 5,
-      "goalsAway": 1,
-      "score": {
-        "halftime": {
-          "home": 4,
-          "away": 1
-        },
-        "fulltime": {
-          "home": 5,
-          "away": 1
         },
         "extratime": {
           "home": null,
@@ -11355,46 +11355,6 @@
         "fulltime": {
           "home": 0,
           "away": 5
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
-      "providerFixtureId": 1584957,
-      "utcDate": "2026-07-25T12:00:00+00:00",
-      "timestamp": 1784980800,
-      "status": "NS",
-      "elapsed": null,
-      "venue": "",
-      "league": "Friendlies Clubs",
-      "leagueId": 667,
-      "season": 2026,
-      "round": "Club Friendlies",
-      "country": "World",
-      "home": "Arka Pawlow",
-      "away": "Naprzód",
-      "homeId": 27384,
-      "awayId": 26184,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": 1,
-          "away": 3
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
         },
         "extratime": {
           "home": null,
@@ -21093,7 +21053,7 @@
       "timestamp": 1784989800,
       "status": "FT",
       "elapsed": 90,
-      "venue": "Stadionul Central-Academia Gheorghe Hagi",
+      "venue": "Central Stadium Hagi Academy",
       "league": "Liga I",
       "leagueId": 283,
       "season": 2026,
@@ -22835,46 +22795,6 @@
         "fulltime": {
           "home": 3,
           "away": 2
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
-      "providerFixtureId": 1593671,
-      "utcDate": "2026-07-25T15:00:00+00:00",
-      "timestamp": 1784991600,
-      "status": "PST",
-      "elapsed": null,
-      "venue": "",
-      "league": "Segunda División",
-      "leagueId": 269,
-      "season": 2026,
-      "round": "2nd Phase - 12",
-      "country": "Uruguay",
-      "home": "La Luz",
-      "away": "Rentistas",
-      "homeId": 18295,
-      "awayId": 2371,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
         },
         "extratime": {
           "home": null,
@@ -28173,7 +28093,7 @@
       "timestamp": 1785000600,
       "status": "FT",
       "elapsed": 90,
-      "venue": "National Arena",
+      "venue": "Stadionul Arcul de Triumf",
       "league": "Liga I",
       "leagueId": 283,
       "season": 2026,
@@ -30115,46 +30035,6 @@
         "fulltime": {
           "home": 1,
           "away": 0
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
-      "providerFixtureId": 1593672,
-      "utcDate": "2026-07-25T18:00:00+00:00",
-      "timestamp": 1785002400,
-      "status": "PST",
-      "elapsed": null,
-      "venue": "",
-      "league": "Segunda División",
-      "leagueId": 269,
-      "season": 2026,
-      "round": "2nd Phase - 12",
-      "country": "Uruguay",
-      "home": "Tacuarembo",
-      "away": "CA River Plate",
-      "homeId": 2374,
-      "awayId": 2351,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
         },
         "extratime": {
           "home": null,
@@ -32808,46 +32688,6 @@
     },
     {
       "provider": "api-football",
-      "providerFixtureId": 1593673,
-      "utcDate": "2026-07-25T21:00:00+00:00",
-      "timestamp": 1785013200,
-      "status": "PST",
-      "elapsed": null,
-      "venue": "Parque Cincuentenario Juan Prandi",
-      "league": "Segunda División",
-      "leagueId": 269,
-      "season": 2026,
-      "round": "2nd Phase - 12",
-      "country": "Uruguay",
-      "home": "Plaza Colonia",
-      "away": "Miramar",
-      "homeId": 2355,
-      "awayId": 2373,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
       "providerFixtureId": 1599181,
       "utcDate": "2026-07-25T21:00:00+00:00",
       "timestamp": 1785013200,
@@ -33133,7 +32973,7 @@
       "timestamp": 1785015000,
       "status": "FT",
       "elapsed": 90,
-      "venue": "Estádio Urbano Caldeira",
+      "venue": "Vila Belmiro",
       "league": "Serie A",
       "leagueId": 71,
       "season": 2026,
@@ -33173,7 +33013,7 @@
       "timestamp": 1785015000,
       "status": "FT",
       "elapsed": 90,
-      "venue": "Estadio Huachipato",
+      "venue": "Estadio Huachipato-CAP Acero",
       "league": "Primera División",
       "leagueId": 265,
       "season": 2026,
@@ -33811,8 +33651,8 @@
       "providerFixtureId": 1493588,
       "utcDate": "2026-07-25T23:00:00+00:00",
       "timestamp": 1785020400,
-      "status": "2H",
-      "elapsed": 81,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "Maimonides Park",
       "league": "USL Championship",
       "leagueId": 255,
@@ -33833,8 +33673,8 @@
           "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -34251,8 +34091,8 @@
       "providerFixtureId": 1581367,
       "utcDate": "2026-07-25T23:00:00+00:00",
       "timestamp": 1785020400,
-      "status": "2H",
-      "elapsed": 73,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "Estadio Carlos Iturralde Rivero",
       "league": "Liga de Expansión MX",
       "leagueId": 263,
@@ -34265,7 +34105,7 @@
       "awayId": 2300,
       "homeWinner": true,
       "awayWinner": false,
-      "goalsHome": 2,
+      "goalsHome": 3,
       "goalsAway": 0,
       "score": {
         "halftime": {
@@ -34273,8 +34113,8 @@
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -34373,7 +34213,7 @@
       "timestamp": 1785021300,
       "status": "FT",
       "elapsed": 90,
-      "venue": "Lower.com Field",
+      "venue": "ScottsMiracle-Gro Field",
       "league": "Major League Soccer",
       "leagueId": 253,
       "season": 2026,
@@ -34451,7 +34291,7 @@
       "providerFixtureId": 1490347,
       "utcDate": "2026-07-25T23:30:00+00:00",
       "timestamp": 1785022200,
-      "status": "2H",
+      "status": "FT",
       "elapsed": 90,
       "venue": "Saputo Stadium",
       "league": "Major League Soccer",
@@ -34473,8 +34313,8 @@
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -34491,8 +34331,8 @@
       "providerFixtureId": 1490348,
       "utcDate": "2026-07-25T23:30:00+00:00",
       "timestamp": 1785022200,
-      "status": "2H",
-      "elapsed": 89,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "Subaru Park",
       "league": "Major League Soccer",
       "leagueId": 253,
@@ -34513,8 +34353,8 @@
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -34531,8 +34371,8 @@
       "providerFixtureId": 1490349,
       "utcDate": "2026-07-25T23:30:00+00:00",
       "timestamp": 1785022200,
-      "status": "1H",
-      "elapsed": 43,
+      "status": "2H",
+      "elapsed": 65,
       "venue": "Exploria Stadium",
       "league": "Major League Soccer",
       "leagueId": 253,
@@ -34571,8 +34411,8 @@
       "providerFixtureId": 1490350,
       "utcDate": "2026-07-25T23:30:00+00:00",
       "timestamp": 1785022200,
-      "status": "2H",
-      "elapsed": 87,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "Yankee Stadium",
       "league": "Major League Soccer",
       "leagueId": 253,
@@ -34593,8 +34433,8 @@
           "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -34611,7 +34451,7 @@
       "providerFixtureId": 1490351,
       "utcDate": "2026-07-25T23:30:00+00:00",
       "timestamp": 1785022200,
-      "status": "2H",
+      "status": "FT",
       "elapsed": 90,
       "venue": "Gillette Stadium",
       "league": "Major League Soccer",
@@ -34633,8 +34473,8 @@
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -34651,8 +34491,8 @@
       "providerFixtureId": 1490353,
       "utcDate": "2026-07-25T23:30:00+00:00",
       "timestamp": 1785022200,
-      "status": "2H",
-      "elapsed": 89,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "Audi Field",
       "league": "Major League Soccer",
       "leagueId": 253,
@@ -34663,9 +34503,9 @@
       "away": "Toronto FC",
       "homeId": 1615,
       "awayId": 1601,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": 1,
+      "homeWinner": true,
+      "awayWinner": false,
+      "goalsHome": 2,
       "goalsAway": 1,
       "score": {
         "halftime": {
@@ -34673,8 +34513,8 @@
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -34771,7 +34611,7 @@
       "providerFixtureId": 1545381,
       "utcDate": "2026-07-25T23:30:00+00:00",
       "timestamp": 1785022200,
-      "status": "2H",
+      "status": "FT",
       "elapsed": 90,
       "venue": "",
       "league": "Primera División",
@@ -34785,7 +34625,7 @@
       "awayId": 3707,
       "homeWinner": false,
       "awayWinner": true,
-      "goalsHome": 0,
+      "goalsHome": 1,
       "goalsAway": 2,
       "score": {
         "halftime": {
@@ -34793,8 +34633,8 @@
           "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -34811,8 +34651,8 @@
       "providerFixtureId": 1589331,
       "utcDate": "2026-07-25T23:30:00+00:00",
       "timestamp": 1785022200,
-      "status": "2H",
-      "elapsed": 88,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "",
       "league": "Premier League - Summer Series",
       "leagueId": 1022,
@@ -34833,8 +34673,8 @@
           "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -34851,8 +34691,8 @@
       "providerFixtureId": 1508479,
       "utcDate": "2026-07-25T23:45:00+00:00",
       "timestamp": 1785023100,
-      "status": "2H",
-      "elapsed": 82,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "WakeMed Soccer Park",
       "league": "NWSL Women",
       "leagueId": 254,
@@ -34866,15 +34706,15 @@
       "homeWinner": false,
       "awayWinner": true,
       "goalsHome": 1,
-      "goalsAway": 3,
+      "goalsAway": 4,
       "score": {
         "halftime": {
           "home": 0,
           "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 4
         },
         "extratime": {
           "home": null,
@@ -34891,8 +34731,8 @@
       "providerFixtureId": 1505473,
       "utcDate": "2026-07-26T00:00:00+00:00",
       "timestamp": 1785024000,
-      "status": "2H",
-      "elapsed": 65,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "Claro Arena",
       "league": "Primera División",
       "leagueId": 265,
@@ -34903,18 +34743,18 @@
       "away": "D. La Serena",
       "homeId": 2994,
       "awayId": 2341,
-      "homeWinner": true,
-      "awayWinner": false,
-      "goalsHome": 2,
-      "goalsAway": 0,
+      "homeWinner": null,
+      "awayWinner": null,
+      "goalsHome": 3,
+      "goalsAway": 3,
       "score": {
         "halftime": {
           "home": 2,
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -34931,8 +34771,8 @@
       "providerFixtureId": 1519431,
       "utcDate": "2026-07-26T00:00:00+00:00",
       "timestamp": 1785024000,
-      "status": "2H",
-      "elapsed": 69,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "Estadio Bellavista",
       "league": "Liga Pro",
       "leagueId": 242,
@@ -34943,9 +34783,9 @@
       "away": "Manta FC",
       "homeId": 1151,
       "awayId": 1980,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": 0,
+      "homeWinner": true,
+      "awayWinner": false,
+      "goalsHome": 1,
       "goalsAway": 0,
       "score": {
         "halftime": {
@@ -34953,8 +34793,8 @@
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -34971,8 +34811,8 @@
       "providerFixtureId": 1549565,
       "utcDate": "2026-07-26T00:00:00+00:00",
       "timestamp": 1785024000,
-      "status": "2H",
-      "elapsed": 68,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "",
       "league": "Primera B",
       "leagueId": 240,
@@ -34985,7 +34825,7 @@
       "awayId": 1463,
       "homeWinner": true,
       "awayWinner": false,
-      "goalsHome": 4,
+      "goalsHome": 5,
       "goalsAway": 1,
       "score": {
         "halftime": {
@@ -34993,8 +34833,8 @@
           "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -35051,8 +34891,8 @@
       "providerFixtureId": 1586087,
       "utcDate": "2026-07-26T00:00:00+00:00",
       "timestamp": 1785024000,
-      "status": "2H",
-      "elapsed": 69,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "",
       "league": "Primera Division",
       "leagueId": 396,
@@ -35065,7 +34905,7 @@
       "awayId": 10160,
       "homeWinner": true,
       "awayWinner": false,
-      "goalsHome": 2,
+      "goalsHome": 3,
       "goalsAway": 0,
       "score": {
         "halftime": {
@@ -35073,8 +34913,8 @@
           "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -35091,8 +34931,8 @@
       "providerFixtureId": 1599456,
       "utcDate": "2026-07-26T00:00:00+00:00",
       "timestamp": 1785024000,
-      "status": "2H",
-      "elapsed": 65,
+      "status": "FT",
+      "elapsed": 90,
       "venue": "",
       "league": "Primera Division",
       "leagueId": 370,
@@ -35103,18 +34943,18 @@
       "away": "Alianza",
       "homeId": 28019,
       "awayId": 4299,
-      "homeWinner": null,
-      "awayWinner": null,
+      "homeWinner": false,
+      "awayWinner": true,
       "goalsHome": 1,
-      "goalsAway": 1,
+      "goalsAway": 3,
       "score": {
         "halftime": {
           "home": 0,
           "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -35131,8 +34971,8 @@
       "providerFixtureId": 1490354,
       "utcDate": "2026-07-26T00:30:00+00:00",
       "timestamp": 1785025800,
-      "status": "HT",
-      "elapsed": 45,
+      "status": "2H",
+      "elapsed": 73,
       "venue": "Allianz Field",
       "league": "Major League Soccer",
       "leagueId": 253,
@@ -35171,8 +35011,8 @@
       "providerFixtureId": 1490355,
       "utcDate": "2026-07-26T00:30:00+00:00",
       "timestamp": 1785025800,
-      "status": "1H",
-      "elapsed": 45,
+      "status": "2H",
+      "elapsed": 71,
       "venue": "Shell Energy Stadium",
       "league": "Major League Soccer",
       "leagueId": 253,
@@ -35211,8 +35051,8 @@
       "providerFixtureId": 1490356,
       "utcDate": "2026-07-26T00:30:00+00:00",
       "timestamp": 1785025800,
-      "status": "1H",
-      "elapsed": 45,
+      "status": "2H",
+      "elapsed": 70,
       "venue": "CITYPARK",
       "league": "Major League Soccer",
       "leagueId": 253,
@@ -35251,8 +35091,8 @@
       "providerFixtureId": 1493010,
       "utcDate": "2026-07-26T00:30:00+00:00",
       "timestamp": 1785025800,
-      "status": "HT",
-      "elapsed": 45,
+      "status": "2H",
+      "elapsed": 76,
       "venue": "",
       "league": "Liga Profesional Argentina",
       "leagueId": 128,
@@ -35263,9 +35103,9 @@
       "away": "San Lorenzo",
       "homeId": 446,
       "awayId": 460,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": 0,
+      "homeWinner": true,
+      "awayWinner": false,
+      "goalsHome": 1,
       "goalsAway": 0,
       "score": {
         "halftime": {
@@ -35291,8 +35131,8 @@
       "providerFixtureId": 1493592,
       "utcDate": "2026-07-26T00:30:00+00:00",
       "timestamp": 1785025800,
-      "status": "HT",
-      "elapsed": 45,
+      "status": "2H",
+      "elapsed": 74,
       "venue": "ONEOK Field",
       "league": "USL Championship",
       "leagueId": 255,
@@ -35331,8 +35171,8 @@
       "providerFixtureId": 1493913,
       "utcDate": "2026-07-26T00:30:00+00:00",
       "timestamp": 1785025800,
-      "status": "HT",
-      "elapsed": 45,
+      "status": "2H",
+      "elapsed": 76,
       "venue": "Cabaniss Athletic Complex",
       "league": "USL League One",
       "leagueId": 489,
@@ -35371,8 +35211,8 @@
       "providerFixtureId": 1582703,
       "utcDate": "2026-07-26T00:30:00+00:00",
       "timestamp": 1785025800,
-      "status": "HT",
-      "elapsed": 45,
+      "status": "2H",
+      "elapsed": 85,
       "venue": "",
       "league": "Chatham Cup",
       "leagueId": 1127,
@@ -35385,8 +35225,8 @@
       "awayId": 2373,
       "homeWinner": true,
       "awayWinner": false,
-      "goalsHome": 1,
-      "goalsAway": 0,
+      "goalsHome": 2,
+      "goalsAway": 1,
       "score": {
         "halftime": {
           "home": 1,
@@ -35411,9 +35251,9 @@
       "providerFixtureId": 1602952,
       "utcDate": "2026-07-26T00:30:00+00:00",
       "timestamp": 1785025800,
-      "status": "1H",
-      "elapsed": 17,
-      "venue": "",
+      "status": "HT",
+      "elapsed": 45,
+      "venue": "Dignity Health Sports Park",
       "league": "Campeón de Campeones",
       "leagueId": 857,
       "season": 2026,
@@ -35425,12 +35265,12 @@
       "awayId": 2295,
       "homeWinner": null,
       "awayWinner": null,
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "score": {
         "halftime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
           "home": null,
@@ -35451,8 +35291,8 @@
       "providerFixtureId": 1513242,
       "utcDate": "2026-07-26T00:45:00+00:00",
       "timestamp": 1785026700,
-      "status": "1H",
-      "elapsed": 40,
+      "status": "2H",
+      "elapsed": 57,
       "venue": "Choctaw Stadium",
       "league": "MLS Next Pro",
       "leagueId": 909,
@@ -35465,7 +35305,7 @@
       "awayId": 21141,
       "homeWinner": false,
       "awayWinner": true,
-      "goalsHome": 0,
+      "goalsHome": 1,
       "goalsAway": 2,
       "score": {
         "halftime": {
@@ -35491,8 +35331,8 @@
       "providerFixtureId": 1493589,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 22,
+      "status": "2H",
+      "elapsed": 46,
       "venue": "Weidner Field",
       "league": "USL Championship",
       "leagueId": 255,
@@ -35531,8 +35371,8 @@
       "providerFixtureId": 1493591,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 22,
+      "status": "2H",
+      "elapsed": 46,
       "venue": "Southwest University Park",
       "league": "USL Championship",
       "leagueId": 255,
@@ -35571,8 +35411,8 @@
       "providerFixtureId": 1493916,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 22,
+      "status": "2H",
+      "elapsed": 49,
       "venue": "One Spokane Stadium",
       "league": "USL League One",
       "leagueId": 489,
@@ -35611,8 +35451,8 @@
       "providerFixtureId": 1549423,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 28,
+      "status": "2H",
+      "elapsed": 53,
       "venue": "",
       "league": "Primera División",
       "leagueId": 281,
@@ -35651,8 +35491,8 @@
       "providerFixtureId": 1559592,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 23,
+      "status": "2H",
+      "elapsed": 48,
       "venue": "",
       "league": "Liga Nacional",
       "leagueId": 339,
@@ -35663,14 +35503,14 @@
       "away": "Cobán Imperial",
       "homeId": 3664,
       "awayId": 3657,
-      "homeWinner": null,
-      "awayWinner": null,
+      "homeWinner": false,
+      "awayWinner": true,
       "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsAway": 1,
       "score": {
         "halftime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "fulltime": {
           "home": null,
@@ -35691,8 +35531,8 @@
       "providerFixtureId": 1581368,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 28,
+      "status": "2H",
+      "elapsed": 50,
       "venue": "Estadio Morelos",
       "league": "Liga de Expansión MX",
       "leagueId": 263,
@@ -35703,14 +35543,14 @@
       "away": "CA La Paz",
       "homeId": 2284,
       "awayId": 19024,
-      "homeWinner": null,
-      "awayWinner": null,
+      "homeWinner": false,
+      "awayWinner": true,
       "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsAway": 2,
       "score": {
         "halftime": {
           "home": 0,
-          "away": 0
+          "away": 2
         },
         "fulltime": {
           "home": null,
@@ -35731,8 +35571,8 @@
       "providerFixtureId": 1581470,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 27,
+      "status": "2H",
+      "elapsed": 47,
       "venue": "Estadio Tamaulipas",
       "league": "Liga de Expansión MX",
       "leagueId": 263,
@@ -35771,8 +35611,8 @@
       "providerFixtureId": 1582705,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 25,
+      "status": "2H",
+      "elapsed": 48,
       "venue": "",
       "league": "Chatham Cup",
       "leagueId": 1127,
@@ -35785,12 +35625,12 @@
       "awayId": 20642,
       "homeWinner": false,
       "awayWinner": true,
-      "goalsHome": 1,
-      "goalsAway": 3,
+      "goalsHome": 2,
+      "goalsAway": 4,
       "score": {
         "halftime": {
-          "home": 1,
-          "away": 3
+          "home": 2,
+          "away": 4
         },
         "fulltime": {
           "home": null,
@@ -35851,8 +35691,8 @@
       "providerFixtureId": 1586086,
       "utcDate": "2026-07-26T01:00:00+00:00",
       "timestamp": 1785027600,
-      "status": "1H",
-      "elapsed": 23,
+      "status": "2H",
+      "elapsed": 51,
       "venue": "Estadio Independencia",
       "league": "Primera Division",
       "leagueId": 396,
@@ -35891,8 +35731,8 @@
       "providerFixtureId": 1549687,
       "utcDate": "2026-07-26T01:15:00+00:00",
       "timestamp": 1785028500,
-      "status": "1H",
-      "elapsed": 13,
+      "status": "HT",
+      "elapsed": 45,
       "venue": "Estadio Manuel Murillo Toro",
       "league": "Primera A",
       "leagueId": 239,
@@ -35903,6 +35743,46 @@
       "away": "Junior",
       "homeId": 1142,
       "awayId": 1135,
+      "homeWinner": true,
+      "awayWinner": false,
+      "goalsHome": 2,
+      "goalsAway": 0,
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "provider": "api-football",
+      "providerFixtureId": 1490357,
+      "utcDate": "2026-07-26T01:30:00+00:00",
+      "timestamp": 1785029400,
+      "status": "1H",
+      "elapsed": 31,
+      "venue": "Snapdragon Stadium",
+      "league": "Major League Soccer",
+      "leagueId": 253,
+      "season": 2026,
+      "round": "Regular Season - 17",
+      "country": "USA",
+      "home": "San Diego",
+      "away": "FC Dallas",
+      "homeId": 25484,
+      "awayId": 1597,
       "homeWinner": null,
       "awayWinner": null,
       "goalsHome": 0,
@@ -35928,51 +35808,11 @@
     },
     {
       "provider": "api-football",
-      "providerFixtureId": 1490357,
-      "utcDate": "2026-07-26T01:30:00+00:00",
-      "timestamp": 1785029400,
-      "status": "NS",
-      "elapsed": null,
-      "venue": "Snapdragon Stadium",
-      "league": "Major League Soccer",
-      "leagueId": 253,
-      "season": 2026,
-      "round": "Regular Season - 17",
-      "country": "USA",
-      "home": "San Diego",
-      "away": "FC Dallas",
-      "homeId": 25484,
-      "awayId": 1597,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
       "providerFixtureId": 1582706,
       "utcDate": "2026-07-26T01:30:00+00:00",
       "timestamp": 1785029400,
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 41,
       "venue": "",
       "league": "Chatham Cup",
       "leagueId": 1127,
@@ -35983,14 +35823,14 @@
       "away": "Auckland United",
       "homeId": 20665,
       "awayId": 20649,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
+      "homeWinner": false,
+      "awayWinner": true,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
           "home": null,
@@ -36011,8 +35851,8 @@
       "providerFixtureId": 1583719,
       "utcDate": "2026-07-26T01:30:00+00:00",
       "timestamp": 1785029400,
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 42,
       "venue": "Estadio Universidad Latina",
       "league": "Liga Panameña de Fútbol",
       "leagueId": 304,
@@ -36023,14 +35863,14 @@
       "away": "San Francisco FC",
       "homeId": 2888,
       "awayId": 2887,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
+      "homeWinner": false,
+      "awayWinner": true,
+      "goalsHome": 0,
+      "goalsAway": 2,
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "fulltime": {
           "home": null,
@@ -36051,8 +35891,8 @@
       "providerFixtureId": 1493595,
       "utcDate": "2026-07-26T02:00:00+00:00",
       "timestamp": 1785031200,
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 5,
       "venue": "Cardinale Stadium",
       "league": "USL Championship",
       "leagueId": 255,
@@ -36065,12 +35905,12 @@
       "awayId": 4007,
       "homeWinner": null,
       "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
           "home": null,
@@ -36091,8 +35931,8 @@
       "providerFixtureId": 1493596,
       "utcDate": "2026-07-26T02:00:00+00:00",
       "timestamp": 1785031200,
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 5,
       "venue": "Laney College Football Stadium",
       "league": "USL Championship",
       "leagueId": 255,
@@ -36105,12 +35945,12 @@
       "awayId": 4015,
       "homeWinner": null,
       "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
           "home": null,
@@ -36131,8 +35971,8 @@
       "providerFixtureId": 1513240,
       "utcDate": "2026-07-26T02:00:00+00:00",
       "timestamp": 1785031200,
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 8,
       "venue": "Dignity Health Sports Park",
       "league": "MLS Next Pro",
       "leagueId": 909,
@@ -36145,12 +35985,12 @@
       "awayId": 18816,
       "homeWinner": null,
       "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
           "home": null,
@@ -36171,8 +36011,8 @@
       "providerFixtureId": 1544720,
       "utcDate": "2026-07-26T02:00:00+00:00",
       "timestamp": 1785031200,
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 12,
       "venue": "Estadio Universitario BUAP",
       "league": "CONCACAF U20",
       "leagueId": 537,
@@ -36185,12 +36025,12 @@
       "awayId": 11003,
       "homeWinner": null,
       "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
           "home": null,
@@ -36211,8 +36051,8 @@
       "providerFixtureId": 1551651,
       "utcDate": "2026-07-26T02:00:00+00:00",
       "timestamp": 1785031200,
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 10,
       "venue": "Estadio Puente de Piedra",
       "league": "Primera División",
       "leagueId": 162,
@@ -36225,12 +36065,12 @@
       "awayId": 822,
       "homeWinner": null,
       "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
           "home": null,
@@ -40583,46 +40423,6 @@
       "away": "CPK",
       "homeId": 25715,
       "awayId": 9420,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
-      "providerFixtureId": 1593674,
-      "utcDate": "2026-07-26T12:00:00+00:00",
-      "timestamp": 1785067200,
-      "status": "PST",
-      "elapsed": null,
-      "venue": "",
-      "league": "Segunda División",
-      "leagueId": 269,
-      "season": 2026,
-      "round": "2nd Phase - 12",
-      "country": "Uruguay",
-      "home": "Sportivo Huracan",
-      "away": "Uruguay Montevideo",
-      "homeId": 2377,
-      "awayId": 16740,
       "homeWinner": null,
       "awayWinner": null,
       "goalsHome": null,
@@ -45248,46 +45048,6 @@
     },
     {
       "provider": "api-football",
-      "providerFixtureId": 1593675,
-      "utcDate": "2026-07-26T15:00:00+00:00",
-      "timestamp": 1785078000,
-      "status": "PST",
-      "elapsed": null,
-      "venue": "",
-      "league": "Segunda División",
-      "leagueId": 269,
-      "season": 2026,
-      "round": "2nd Phase - 12",
-      "country": "Uruguay",
-      "home": "Atenas",
-      "away": "Colón",
-      "homeId": 2364,
-      "awayId": 15628,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
       "providerFixtureId": 1593842,
       "utcDate": "2026-07-26T15:00:00+00:00",
       "timestamp": 1785078000,
@@ -48903,46 +48663,6 @@
       "away": "Villa Nova",
       "homeId": 23247,
       "awayId": 7869,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
-      "providerFixtureId": 1593676,
-      "utcDate": "2026-07-26T18:00:00+00:00",
-      "timestamp": 1785088800,
-      "status": "PST",
-      "elapsed": null,
-      "venue": "",
-      "league": "Segunda División",
-      "leagueId": 269,
-      "season": 2026,
-      "round": "2nd Phase - 12",
-      "country": "Uruguay",
-      "home": "Cerrito",
-      "away": "Fenix",
-      "homeId": 2367,
-      "awayId": 2357,
       "homeWinner": null,
       "awayWinner": null,
       "goalsHome": null,
@@ -56543,46 +56263,6 @@
       "away": "River Plate Res.",
       "homeId": 18699,
       "awayId": 18695,
-      "homeWinner": null,
-      "awayWinner": null,
-      "goalsHome": null,
-      "goalsAway": null,
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "provider": "api-football",
-      "providerFixtureId": 1593677,
-      "utcDate": "2026-07-27T22:00:00+00:00",
-      "timestamp": 1785189600,
-      "status": "PST",
-      "elapsed": null,
-      "venue": "",
-      "league": "Segunda División",
-      "leagueId": 269,
-      "season": 2026,
-      "round": "2nd Phase - 12",
-      "country": "Uruguay",
-      "home": "Paysandu",
-      "away": "Oriental",
-      "homeId": 19410,
-      "awayId": 2376,
       "homeWinner": null,
       "awayWinner": null,
       "goalsHome": null,

@@ -1,12 +1,407 @@
 {
   "teams": {
-    "金泉尚武": { "apiFootballId": 2768, "apiFootballName": "Gimcheon Sangmu FC" },
-    "大田市民": { "apiFootballId": 2750, "apiFootballName": "Daejeon Citizen" },
-    "浦项制铁": { "apiFootballId": 2764, "apiFootballName": "Pohang Steelers" },
-    "全北现代": { "apiFootballId": 2762, "apiFootballName": "Jeonbuk Motors" },
-    "雅罗": { "oddsApiName": "FF Jaro", "names": ["Jaro"] },
-    "塞伊奈": { "oddsApiName": "Seinajoen JK", "names": ["SJK", "Seinajoen"] },
-    "韦斯特罗": { "oddsApiName": "Vasteraas SK", "names": ["Vasteras SK", "Vasteraas SK"] },
-    "厄格里特": { "oddsApiName": "Orgryte IS", "names": ["Orgryte"] }
+    "金泉尚武": {
+      "apiFootballId": 2768,
+      "apiFootballName": "Gimcheon Sangmu FC"
+    },
+    "大田市民": {
+      "apiFootballId": 2750,
+      "apiFootballName": "Daejeon Citizen"
+    },
+    "浦项制铁": {
+      "apiFootballId": 2764,
+      "apiFootballName": "Pohang Steelers"
+    },
+    "全北现代": {
+      "apiFootballId": 2762,
+      "apiFootballName": "Jeonbuk Motors"
+    },
+    "雅罗": {
+      "oddsApiName": "FF Jaro",
+      "names": [
+        "Jaro"
+      ]
+    },
+    "塞伊奈": {
+      "oddsApiName": "Seinajoen JK",
+      "names": [
+        "SJK",
+        "Seinajoen"
+      ]
+    },
+    "韦斯特罗": {
+      "oddsApiName": "Vasteraas SK",
+      "names": [
+        "Vasteras SK",
+        "Vasteraas SK"
+      ]
+    },
+    "厄格里特": {
+      "oddsApiName": "Orgryte IS",
+      "names": [
+        "Orgryte"
+      ]
+    },
+    "圣迭戈FC": {
+      "apiFootballName": "San Diego FC",
+      "oddsApiName": "San Diego FC",
+      "names": [
+        "San Diego FC",
+        "San Diego"
+      ]
+    },
+    "达拉斯": {
+      "apiFootballName": "FC Dallas",
+      "oddsApiName": "FC Dallas",
+      "names": [
+        "FC Dallas",
+        "Dallas"
+      ]
+    },
+    "圣何塞": {
+      "apiFootballName": "San Jose Earthquakes",
+      "oddsApiName": "San Jose Earthquakes",
+      "names": [
+        "San Jose Earthquakes",
+        "San Jose"
+      ]
+    },
+    "洛城银河": {
+      "apiFootballName": "Los Angeles Galaxy",
+      "oddsApiName": "Los Angeles Galaxy",
+      "names": [
+        "Los Angeles Galaxy",
+        "LA Galaxy"
+      ]
+    },
+    "首尔FC": {
+      "apiFootballName": "FC Seoul",
+      "oddsApiName": "FC Seoul",
+      "names": [
+        "FC Seoul",
+        "Seoul"
+      ]
+    },
+    "蔚山现代": {
+      "apiFootballName": "Ulsan Hyundai FC",
+      "oddsApiName": "Ulsan Hyundai FC",
+      "names": [
+        "Ulsan Hyundai FC",
+        "Ulsan Hyundai",
+        "Ulsan HD",
+        "Ulsan"
+      ]
+    },
+    "仁川联": {
+      "apiFootballName": "Incheon United",
+      "oddsApiName": "Incheon United",
+      "names": [
+        "Incheon United",
+        "Incheon"
+      ]
+    },
+    "富川FC": {
+      "apiFootballName": "Bucheon FC 1995",
+      "oddsApiName": "Bucheon FC 1995",
+      "names": [
+        "Bucheon FC 1995",
+        "Bucheon"
+      ]
+    },
+    "光州FC": {
+      "apiFootballName": "Gwangju FC",
+      "oddsApiName": "Gwangju FC",
+      "names": [
+        "Gwangju FC",
+        "Gwangju"
+      ]
+    },
+    "济州SK": {
+      "apiFootballName": "Jeju SK FC",
+      "oddsApiName": "Jeju SK FC",
+      "names": [
+        "Jeju SK FC",
+        "Jeju United",
+        "Jeju SK",
+        "Jeju"
+      ]
+    },
+    "安养FC": {
+      "apiFootballName": "FC Anyang",
+      "oddsApiName": "FC Anyang",
+      "names": [
+        "FC Anyang",
+        "Anyang"
+      ]
+    },
+    "江原FC": {
+      "apiFootballName": "Gangwon FC",
+      "oddsApiName": "Gangwon FC",
+      "names": [
+        "Gangwon FC",
+        "Gangwon"
+      ]
+    },
+    "布鲁马波": {
+      "apiFootballName": "IF Brommapojkarna",
+      "oddsApiName": "IF Brommapojkarna",
+      "names": [
+        "IF Brommapojkarna",
+        "Brommapojkarna"
+      ]
+    },
+    "哈马比": {
+      "apiFootballName": "Hammarby FF",
+      "oddsApiName": "Hammarby FF",
+      "names": [
+        "Hammarby FF",
+        "Hammarby"
+      ]
+    },
+    "天狼星": {
+      "apiFootballName": "Sirius",
+      "oddsApiName": "Sirius",
+      "names": [
+        "Sirius",
+        "IK Sirius"
+      ]
+    },
+    "哥德堡": {
+      "apiFootballName": "IFK Goteborg",
+      "oddsApiName": "IFK Goteborg",
+      "names": [
+        "IFK Goteborg",
+        "IFK G?teborg",
+        "Goteborg",
+        "G?teborg"
+      ]
+    },
+    "国际图尔": {
+      "apiFootballName": "Inter Turku",
+      "oddsApiName": "Inter Turku",
+      "names": [
+        "Inter Turku",
+        "FC Inter"
+      ]
+    },
+    "赫尔火花": {
+      "apiFootballName": "Haka",
+      "oddsApiName": "Haka",
+      "names": [
+        "Haka",
+        "FC Haka"
+      ]
+    },
+    "坦山猫": {
+      "apiFootballName": "Ilves",
+      "oddsApiName": "Ilves",
+      "names": [
+        "Ilves",
+        "Ilves Tampere"
+      ]
+    },
+    "拉赫蒂": {
+      "apiFootballName": "FC Lahti",
+      "oddsApiName": "FC Lahti",
+      "names": [
+        "FC Lahti",
+        "Lahti"
+      ]
+    },
+    "布兰": {
+      "apiFootballName": "Brann",
+      "oddsApiName": "Brann",
+      "names": [
+        "Brann",
+        "SK Brann"
+      ]
+    },
+    "瓦勒伦加": {
+      "apiFootballName": "Valerenga",
+      "oddsApiName": "Valerenga",
+      "names": [
+        "Valerenga",
+        "V?lerenga"
+      ]
+    },
+    "赫尔辛基": {
+      "apiFootballName": "HJK Helsinki",
+      "oddsApiName": "HJK Helsinki",
+      "names": [
+        "HJK Helsinki",
+        "HJK"
+      ]
+    },
+    "TPS图尔": {
+      "apiFootballName": "Turku PS",
+      "oddsApiName": "Turku PS",
+      "names": [
+        "Turku PS",
+        "TPS"
+      ]
+    },
+    "盖斯": {
+      "apiFootballName": "GAIS",
+      "oddsApiName": "GAIS",
+      "names": [
+        "GAIS",
+        "Gais"
+      ]
+    },
+    "哈尔姆斯": {
+      "apiFootballName": "Halmstad",
+      "oddsApiName": "Halmstad",
+      "names": [
+        "Halmstad",
+        "Halmstads BK"
+      ]
+    },
+    "马尔默": {
+      "apiFootballName": "Malmo FF",
+      "oddsApiName": "Malmo FF",
+      "names": [
+        "Malmo FF",
+        "Malm? FF",
+        "Malmo",
+        "Malm?"
+      ]
+    },
+    "埃夫斯堡": {
+      "apiFootballName": "IF Elfsborg",
+      "oddsApiName": "IF Elfsborg",
+      "names": [
+        "IF Elfsborg",
+        "Elfsborg"
+      ]
+    },
+    "萨普斯堡": {
+      "apiFootballName": "Sarpsborg 08 FF",
+      "oddsApiName": "Sarpsborg 08 FF",
+      "names": [
+        "Sarpsborg 08 FF",
+        "Sarpsborg 08",
+        "Sarpsborg"
+      ]
+    },
+    "汉坎": {
+      "apiFootballName": "Ham-Kam",
+      "oddsApiName": "Ham-Kam",
+      "names": [
+        "Ham-Kam",
+        "HamKam"
+      ]
+    },
+    "奥斯KFUM": {
+      "apiFootballName": "KFUM Oslo",
+      "oddsApiName": "KFUM Oslo",
+      "names": [
+        "KFUM Oslo",
+        "KFUM"
+      ]
+    },
+    "莫尔德": {
+      "apiFootballName": "Molde FK",
+      "oddsApiName": "Molde FK",
+      "names": [
+        "Molde FK",
+        "Molde"
+      ]
+    },
+    "桑纳菲": {
+      "apiFootballName": "Sandefjord",
+      "oddsApiName": "Sandefjord",
+      "names": [
+        "Sandefjord"
+      ]
+    },
+    "博德闪耀": {
+      "apiFootballName": "Bodo/Glimt",
+      "oddsApiName": "Bodo/Glimt",
+      "names": [
+        "Bodo/Glimt",
+        "Bodoe/Glimt",
+        "Bod?/Glimt"
+      ]
+    },
+    "奥勒松": {
+      "apiFootballName": "Aalesund",
+      "oddsApiName": "Aalesund",
+      "names": [
+        "Aalesund",
+        "Aalesunds FK"
+      ]
+    },
+    "维京": {
+      "apiFootballName": "Viking FK",
+      "oddsApiName": "Viking FK",
+      "names": [
+        "Viking FK",
+        "Viking"
+      ]
+    },
+    "弗拉门戈": {
+      "apiFootballName": "Flamengo",
+      "oddsApiName": "Flamengo",
+      "names": [
+        "Flamengo"
+      ]
+    },
+    "圣保罗": {
+      "apiFootballName": "Sao Paulo",
+      "oddsApiName": "Sao Paulo",
+      "names": [
+        "Sao Paulo",
+        "S?o Paulo"
+      ]
+    },
+    "格雷米奥": {
+      "apiFootballName": "Gremio",
+      "oddsApiName": "Gremio",
+      "names": [
+        "Gremio",
+        "Gr?mio"
+      ]
+    },
+    "弗鲁米嫩": {
+      "apiFootballName": "Fluminense",
+      "oddsApiName": "Fluminense",
+      "names": [
+        "Fluminense"
+      ]
+    },
+    "赫根": {
+      "apiFootballName": "BK Hacken",
+      "oddsApiName": "BK Hacken",
+      "names": [
+        "BK Hacken",
+        "BK H?cken",
+        "Hacken",
+        "H?cken"
+      ]
+    },
+    "索尔纳": {
+      "apiFootballName": "AIK Stockholm",
+      "oddsApiName": "AIK Stockholm",
+      "names": [
+        "AIK Stockholm",
+        "AIK stockholm",
+        "AIK"
+      ]
+    },
+    "罗森博格": {
+      "apiFootballName": "Rosenborg",
+      "oddsApiName": "Rosenborg",
+      "names": [
+        "Rosenborg"
+      ]
+    },
+    "腓特烈": {
+      "apiFootballName": "Fredrikstad FK",
+      "oddsApiName": "Fredrikstad FK",
+      "names": [
+        "Fredrikstad FK",
+        "Fredrikstad"
+      ]
+    }
   }
 }

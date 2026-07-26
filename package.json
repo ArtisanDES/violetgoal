@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "sync": "node scripts/fetch-football-data.mjs && node scripts/fetch-sporttery.mjs && node scripts/fetch-api-football.mjs && node scripts/fetch-odds-api-io.mjs && node scripts/fetch-clubelo.mjs && node scripts/fetch-footymetrics.mjs && node scripts/enrich-matches.mjs && node scripts/archive-matches.mjs && node scripts/capture-predictions.mjs",
+    "sync": "node scripts/fetch-football-data.mjs && node scripts/fetch-sporttery.mjs && node scripts/fetch-api-football.mjs && node scripts/fetch-api-football-odds.mjs && node scripts/fetch-odds-api-io.mjs && node scripts/fetch-clubelo.mjs && node scripts/fetch-footymetrics.mjs && node scripts/enrich-matches.mjs && node scripts/archive-matches.mjs && node scripts/capture-predictions.mjs",
     "live-sync": "node scripts/live-sync.mjs",
-    "check": "node --check server.mjs && node --check scripts/fetch-football-data.mjs && node --check scripts/fetch-sporttery.mjs && node --check scripts/fetch-api-football.mjs && node --check scripts/fetch-odds-api-io.mjs && node --check scripts/fetch-clubelo.mjs && node --check scripts/fetch-footymetrics.mjs && node --check scripts/enrich-matches.mjs && node --check scripts/archive-matches.mjs && node --check scripts/capture-predictions.mjs && node --check scripts/live-sync.mjs"
+    "check": "node --check server.mjs && node --check scripts/fetch-football-data.mjs && node --check scripts/fetch-sporttery.mjs && node --check scripts/fetch-api-football.mjs && node --check scripts/fetch-api-football-odds.mjs && node --check scripts/fetch-odds-api-io.mjs && node --check scripts/fetch-clubelo.mjs && node --check scripts/fetch-footymetrics.mjs && node --check scripts/enrich-matches.mjs && node --check scripts/archive-matches.mjs && node --check scripts/capture-predictions.mjs && node --check scripts/live-sync.mjs"
   },
   "engines": {
     "node": ">=20"

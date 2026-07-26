@@ -8,6 +8,7 @@ const required = [
 const optional = [
   ["fetch-football-data", ["scripts/fetch-football-data.mjs"], "FOOTBALL_DATA_TOKEN"],
   ["fetch-api-football", ["scripts/fetch-api-football.mjs"], "API_FOOTBALL_KEY"],
+  ["fetch-api-football-odds", ["scripts/fetch-api-football-odds.mjs"], "API_FOOTBALL_KEY"],
   ["fetch-odds-api-io", ["scripts/fetch-odds-api-io.mjs"], "ODDS_API_IO_KEY"],
   ["fetch-clubelo", ["scripts/fetch-clubelo.mjs"]],
   ["fetch-footymetrics", ["scripts/fetch-footymetrics.mjs"]]

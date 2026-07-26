@@ -240,8 +240,9 @@ function pageSourceLedger(match) {
   const hasGoalOdds = Boolean(match.sportteryMarkets?.totalGoalOdds?.length);
   const hasHalfFullOdds = Boolean(match.sportteryMarkets?.halfFullOdds?.length);
   const hasRank = Boolean(match.homeRank || match.awayRank);
-  const hasApiFootball = Boolean(match.apiFootball);
+  const hasApiFootball = Boolean(match.apiFootball?.fixtureId);
   const hasOuterOdds = Boolean(pageOuterOddsTriplet(match));
+  const hasOuterFetch = Boolean(match.oddsApiIo?.eventCount);
   const hasClubElo = Boolean(match.clubElo);
   const thirdParty = match.thirdPartyCompare || match.footyMetrics;
   const hasThirdParty = Boolean(thirdParty?.matchResult || thirdParty?.direction || thirdParty?.tips?.length);
@@ -262,9 +263,9 @@ function pageSourceLedger(match) {
     ["球队排名", pageSourceStatus(hasRank), [match.homeRank, match.awayRank].filter(Boolean).join(" vs ") || "等待同步"],
     ["xG", "派生", `${match.xgHome ?? "--"}-${match.xgAway ?? "--"}，${xgSource}`],
     ["ELO", hasClubElo ? "已接入" : "派生", `${match.eloHome ?? "--"}-${match.eloAway ?? "--"}，${eloSource}`],
-    ["API-Football 赛程/赛果", pageSourceStatus(hasApiFootball), hasApiFootball ? `${match.apiFootball.status || "已匹配"} ${match.apiFootball.fixtureId || ""}` : "未匹配到该场，赛果待回填"],
-    ["外围赔率", pageSourceStatus(hasOuterOdds), hasOuterOdds ? pageOuterOddsTriplet(match).map((item) => item.toFixed(2)).join("/") : "未拿到具体赔率，不参与加权"],
-    ["FootyMetrics 机构对比", pageSourceStatus(hasThirdParty), hasThirdParty ? `${thirdParty.provider || "FootyMetrics"} 已匹配` : "未匹配到同场比赛"]
+    ["API-Football 赛程/赛果", pageSourceStatus(hasApiFootball), hasApiFootball ? `${match.apiFootball.status || "已匹配"} ${match.apiFootball.fixtureId || ""}` : "已运行抓取，未匹配到该场，赛果待回填"],
+    ["外围赔率", pageSourceStatus(hasOuterOdds), hasOuterOdds ? pageOuterOddsTriplet(match).map((item) => item.toFixed(2)).join("/") : (hasOuterFetch ? `Odds-API.io 已抓取 ${match.oddsApiIo.eventCount} 场，当前源未覆盖本场` : "等待抓取")],
+    ["FootyMetrics 机构对比", pageSourceStatus(hasThirdParty), hasThirdParty ? `${thirdParty.provider || "FootyMetrics"} 已匹配` : "已运行公开页抓取，当前页未返回同场比赛"]
   ];
   return `
     <div class="analysis-block source-ledger-block">
@@ -280,7 +281,7 @@ function pageSourceLedger(match) {
           </div>
         `).join("")}
       </div>
-      <p>结论只使用已接入的真实数据和明确标注的派生数据；未匹配的外部源不会参与概率加权。</p>
+      <p>所有数据源都进入抓取账本；有真实数据就参与模型和交叉校验，源暂未覆盖的场次会保留抓取状态并等待下一轮补齐，不删除、不隐藏。</p>
     </div>
   `;
 }
@@ -307,7 +308,7 @@ function pageMarketCompare(match, model) {
         <div class="compare-row compare-head"><b>方向</b><span>模型概率</span><span>竞彩SP / 隐含概率</span><span>外围赔率 / 隐含概率</span></div>
         ${rows}
       </div>
-      <p>${outerOdds ? "外围赔率已匹配，可作为市场交叉校验。" : "外围赔率未匹配到具体赔率，本场不参与加权，只保留竞彩 SP 与模型概率对照。"}</p>
+      <p>${outerOdds ? "外围赔率已匹配，可作为市场交叉校验。" : "外围赔率抓取已运行；当前源未返回本场具体赔率，先用竞彩 SP 托底，下一轮抓到后自动并入交叉校验。"}</p>
     </div>
   `;
 }

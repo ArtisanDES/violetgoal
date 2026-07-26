@@ -1,0 +1,858 @@
+{
+  "source": "api-football-odds",
+  "generatedAt": "2026-07-26T02:22:45.576Z",
+  "targetCount": 21,
+  "matchedCount": 10,
+  "unmatchedCount": 0,
+  "errorCount": 11,
+  "matched": [
+    {
+      "localId": "jc-6210",
+      "jcNumber": "6210",
+      "fixtureId": "1490357",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1490357,
+        "utcDate": "2026-07-26T01:30:00+00:00",
+        "timestamp": 1785029400,
+        "status": "1H",
+        "elapsed": 31,
+        "venue": "Snapdragon Stadium",
+        "league": "Major League Soccer",
+        "leagueId": 253,
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "country": "USA",
+        "home": "San Diego",
+        "away": "FC Dallas",
+        "homeId": 25484,
+        "awayId": 1597,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": 0,
+        "goalsAway": 0,
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-26T00:00:33+00:00",
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1490357,
+          "timezone": "UTC",
+          "date": "2026-07-26T01:30:00+00:00",
+          "timestamp": 1785029400
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 2.28,
+          "draw": 3.95,
+          "away": 2.64
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 1.4,
+          "under25": 2.9
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 1.35,
+          "no": 2.95
+        },
+        "bookmakerCount": 12
+      }
+    },
+    {
+      "localId": "jc-6211",
+      "jcNumber": "6211",
+      "fixtureId": "1490359",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1490359,
+        "utcDate": "2026-07-26T02:30:00+00:00",
+        "timestamp": 1785033000,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "PayPal Park",
+        "league": "Major League Soccer",
+        "leagueId": 253,
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "country": "USA",
+        "home": "San Jose Earthquakes",
+        "away": "Los Angeles Galaxy",
+        "homeId": 1596,
+        "awayId": 1605,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-26T00:00:33+00:00",
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1490359,
+          "timezone": "UTC",
+          "date": "2026-07-26T02:30:00+00:00",
+          "timestamp": 1785033000
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 1.84,
+          "draw": 3.95,
+          "away": 3.65
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 1.45,
+          "under25": 2.7
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 1.4,
+          "no": 2.7
+        },
+        "bookmakerCount": 12
+      }
+    },
+    {
+      "localId": "jc-7201",
+      "jcNumber": "7201",
+      "fixtureId": "1507015",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1507015,
+        "utcDate": "2026-07-26T10:30:00+00:00",
+        "timestamp": 1785061800,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "Seoul World Cup Stadium",
+        "league": "K League 1",
+        "leagueId": 292,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "country": "South-Korea",
+        "home": "FC Seoul",
+        "away": "Ulsan Hyundai FC",
+        "homeId": 2766,
+        "awayId": 2767,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-26T00:23:14+00:00",
+        "league": {
+          "id": 292,
+          "name": "K League 1",
+          "country": "South-Korea",
+          "logo": "https://media.api-sports.io/football/leagues/292.png",
+          "flag": "https://media.api-sports.io/flags/kr.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1507015,
+          "timezone": "UTC",
+          "date": "2026-07-26T10:30:00+00:00",
+          "timestamp": 1785061800
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 1.85,
+          "draw": 3.55,
+          "away": 4
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 1.83,
+          "under25": 1.95
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 1.7,
+          "no": 2
+        },
+        "bookmakerCount": 13
+      }
+    },
+    {
+      "localId": "jc-7202",
+      "jcNumber": "7202",
+      "fixtureId": "1507014",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1507014,
+        "utcDate": "2026-07-26T10:30:00+00:00",
+        "timestamp": 1785061800,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "Sungui Arena Park",
+        "league": "K League 1",
+        "leagueId": 292,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "country": "South-Korea",
+        "home": "Incheon United",
+        "away": "Bucheon FC 1995",
+        "homeId": 2763,
+        "awayId": 2745,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-26T00:23:14+00:00",
+        "league": {
+          "id": 292,
+          "name": "K League 1",
+          "country": "South-Korea",
+          "logo": "https://media.api-sports.io/football/leagues/292.png",
+          "flag": "https://media.api-sports.io/flags/kr.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1507014,
+          "timezone": "UTC",
+          "date": "2026-07-26T10:30:00+00:00",
+          "timestamp": 1785061800
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 1.7,
+          "draw": 3.4,
+          "away": 5.25
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 2.38,
+          "under25": 1.57
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 2.15,
+          "no": 1.6
+        },
+        "bookmakerCount": 13
+      }
+    },
+    {
+      "localId": "jc-7203",
+      "jcNumber": "7203",
+      "fixtureId": "1507013",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1507013,
+        "utcDate": "2026-07-26T10:30:00+00:00",
+        "timestamp": 1785061800,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "Gwangju Football Stadium",
+        "league": "K League 1",
+        "leagueId": 292,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "country": "South-Korea",
+        "home": "Gwangju FC",
+        "away": "Jeju United FC",
+        "homeId": 2759,
+        "awayId": 2761,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-26T00:23:14+00:00",
+        "league": {
+          "id": 292,
+          "name": "K League 1",
+          "country": "South-Korea",
+          "logo": "https://media.api-sports.io/football/leagues/292.png",
+          "flag": "https://media.api-sports.io/flags/kr.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1507013,
+          "timezone": "UTC",
+          "date": "2026-07-26T10:30:00+00:00",
+          "timestamp": 1785061800
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 3.95,
+          "draw": 3.25,
+          "away": 1.95
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 2.35,
+          "under25": 1.57
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 2,
+          "no": 1.7
+        },
+        "bookmakerCount": 13
+      }
+    },
+    {
+      "localId": "jc-7204",
+      "jcNumber": "7204",
+      "fixtureId": "1507012",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1507012,
+        "utcDate": "2026-07-26T10:30:00+00:00",
+        "timestamp": 1785061800,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "Anyang Stadium",
+        "league": "K League 1",
+        "leagueId": 292,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "country": "South-Korea",
+        "home": "FC Anyang",
+        "away": "Gangwon FC",
+        "homeId": 2748,
+        "awayId": 2746,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-25T20:23:16+00:00",
+        "league": {
+          "id": 292,
+          "name": "K League 1",
+          "country": "South-Korea",
+          "logo": "https://media.api-sports.io/football/leagues/292.png",
+          "flag": "https://media.api-sports.io/flags/kr.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1507012,
+          "timezone": "UTC",
+          "date": "2026-07-26T10:30:00+00:00",
+          "timestamp": 1785061800
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 4,
+          "draw": 3.2,
+          "away": 1.95
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 2.3,
+          "under25": 1.6
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 1.95,
+          "no": 1.73
+        },
+        "bookmakerCount": 13
+      }
+    },
+    {
+      "localId": "jc-7205",
+      "jcNumber": "7205",
+      "fixtureId": "1494217",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1494217,
+        "utcDate": "2026-07-26T12:00:00+00:00",
+        "timestamp": 1785067200,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "Grimsta IP",
+        "league": "Allsvenskan",
+        "leagueId": 113,
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "country": "Sweden",
+        "home": "IF Brommapojkarna",
+        "away": "Hammarby FF",
+        "homeId": 371,
+        "awayId": 363,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-25T20:06:13+00:00",
+        "league": {
+          "id": 113,
+          "name": "Allsvenskan",
+          "country": "Sweden",
+          "logo": "https://media.api-sports.io/football/leagues/113.png",
+          "flag": "https://media.api-sports.io/flags/se.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1494217,
+          "timezone": "UTC",
+          "date": "2026-07-26T12:00:00+00:00",
+          "timestamp": 1785067200
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 7,
+          "draw": 4.5,
+          "away": 1.4
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 1.53,
+          "under25": 2.55
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 1.62,
+          "no": 2.1
+        },
+        "bookmakerCount": 13
+      }
+    },
+    {
+      "localId": "jc-7206",
+      "jcNumber": "7206",
+      "fixtureId": "1494223",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1494223,
+        "utcDate": "2026-07-26T12:00:00+00:00",
+        "timestamp": 1785067200,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "Studenternas IP",
+        "league": "Allsvenskan",
+        "leagueId": 113,
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "country": "Sweden",
+        "home": "Sirius",
+        "away": "IFK Goteborg",
+        "homeId": 370,
+        "awayId": 366,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-26T00:06:13+00:00",
+        "league": {
+          "id": 113,
+          "name": "Allsvenskan",
+          "country": "Sweden",
+          "logo": "https://media.api-sports.io/football/leagues/113.png",
+          "flag": "https://media.api-sports.io/flags/se.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1494223,
+          "timezone": "UTC",
+          "date": "2026-07-26T12:00:00+00:00",
+          "timestamp": 1785067200
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 1.44,
+          "draw": 4.6,
+          "away": 6.4
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 1.45,
+          "under25": 2.75
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 1.53,
+          "no": 2.3
+        },
+        "bookmakerCount": 13
+      }
+    },
+    {
+      "localId": "jc-7208",
+      "jcNumber": "7208",
+      "fixtureId": "1495742",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1495742,
+        "utcDate": "2026-07-26T12:00:00+00:00",
+        "timestamp": 1785067200,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "Tammelan Stadion",
+        "league": "Veikkausliiga",
+        "leagueId": 244,
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "country": "Finland",
+        "home": "Ilves",
+        "away": "Lahti",
+        "homeId": 1163,
+        "awayId": 1166,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-26T00:09:13+00:00",
+        "league": {
+          "id": 244,
+          "name": "Veikkausliiga",
+          "country": "Finland",
+          "logo": "https://media.api-sports.io/football/leagues/244.png",
+          "flag": "https://media.api-sports.io/flags/fi.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1495742,
+          "timezone": "UTC",
+          "date": "2026-07-26T12:00:00+00:00",
+          "timestamp": 1785067200
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 2.24,
+          "draw": 3.55,
+          "away": 2.76
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 1.62,
+          "under25": 2.2
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 1.5,
+          "no": 2.3
+        },
+        "bookmakerCount": 13
+      }
+    },
+    {
+      "localId": "jc-7209",
+      "jcNumber": "7209",
+      "fixtureId": "1494710",
+      "providerFixture": {
+        "provider": "api-football",
+        "providerFixtureId": 1494710,
+        "utcDate": "2026-07-26T12:30:00+00:00",
+        "timestamp": 1785069000,
+        "status": "NS",
+        "elapsed": null,
+        "venue": "Brann Stadion",
+        "league": "Eliteserien",
+        "leagueId": 103,
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "country": "Norway",
+        "home": "Brann",
+        "away": "Valerenga",
+        "homeId": 319,
+        "awayId": 326,
+        "homeWinner": null,
+        "awayWinner": null,
+        "goalsHome": null,
+        "goalsAway": null,
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      "odds": {
+        "update": "2026-07-25T20:07:14+00:00",
+        "league": {
+          "id": 103,
+          "name": "Eliteserien",
+          "country": "Norway",
+          "logo": "https://media.api-sports.io/football/leagues/103.png",
+          "flag": "https://media.api-sports.io/flags/no.svg",
+          "season": 2026
+        },
+        "fixture": {
+          "id": 1494710,
+          "timezone": "UTC",
+          "date": "2026-07-26T12:30:00+00:00",
+          "timestamp": 1785069000
+        },
+        "matchWinner": {
+          "bookmaker": "10Bet",
+          "home": 1.73,
+          "draw": 4.2,
+          "away": 4.1
+        },
+        "goalsOverUnder": {
+          "bookmaker": "10Bet",
+          "over25": 1.44,
+          "under25": 2.75
+        },
+        "bothTeamsScore": {
+          "bookmaker": "10Bet",
+          "yes": 1.42,
+          "no": 2.6
+        },
+        "bookmakerCount": 13
+      }
+    }
+  ],
+  "unmatched": [],
+  "errors": [
+    {
+      "id": "jc-7210",
+      "fixtureId": "1495744",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-7211",
+      "fixtureId": "1494219",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-7212",
+      "fixtureId": "1494222",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-7213",
+      "fixtureId": "1494715",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-7214",
+      "fixtureId": "1494711",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-7215",
+      "fixtureId": "1494714",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-7216",
+      "fixtureId": "1494709",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-7217",
+      "fixtureId": "1492304",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-7218",
+      "fixtureId": "1492305",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-1201",
+      "fixtureId": "1494220",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    },
+    {
+      "id": "jc-1202",
+      "fixtureId": "1494713",
+      "error": "429 Too Many Requests: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}"
+    }
+  ]
+}

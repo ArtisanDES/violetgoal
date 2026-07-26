@@ -170,19 +170,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1490357,
+        "leagueId": 253,
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "venue": "Snapdragon Stadium",
+        "status": "1H",
+        "elapsed": 31
+      },
+      "result": {
+        "status": "1H",
+        "score": "0-0"
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1490357",
+          "league": "Major League Soccer",
+          "home": "San Diego",
+          "away": "FC Dallas",
+          "date": "2026-07-26T01:30:00+00:00"
+        },
+        "odds": {
+          "eventId": "1490357",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 2.28,
+          "draw": 3.95,
+          "away": 2.64
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-26T00:00:33+00:00",
+          "league": {
+            "id": 253,
+            "name": "Major League Soccer",
+            "country": "USA",
+            "logo": "https://media.api-sports.io/football/leagues/253.png",
+            "flag": "https://media.api-sports.io/flags/us.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1490357,
+            "timezone": "UTC",
+            "date": "2026-07-26T01:30:00+00:00",
+            "timestamp": 1785029400
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 2.28,
+            "draw": 3.95,
+            "away": 2.64
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 1.4,
+            "under25": 2.9
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 1.35,
+            "no": 2.95
+          },
+          "bookmakerCount": 12
+        }
       }
     },
     {
@@ -351,19 +423,134 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率",
+          "FootyMetrics第三方机构预测对比"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1490359,
+        "leagueId": 253,
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "venue": "PayPal Park",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "footyMetrics": {
+        "role": "third-party-institution-compare",
+        "rows": [
+          {
+            "sourcePath": "/predictions/btts",
+            "rowId": "",
+            "fixtureApid": 19609651,
+            "slug": "26672125-major-league-soccer-sj-earthquakes-la-galaxy",
+            "timestamp": "2026-07-26T02:30:00.000Z",
+            "league": {
+              "id": 58,
+              "name": "Major League Soccer",
+              "country": "United States"
+            },
+            "home": "San Jose",
+            "away": "LA Galaxy",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          }
+        ],
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T01:32:48.968Z"
+      },
+      "thirdPartyCompare": {
+        "provider": "FootyMetrics",
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T01:32:48.968Z"
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1490359",
+          "league": "Major League Soccer",
+          "home": "San Jose Earthquakes",
+          "away": "Los Angeles Galaxy",
+          "date": "2026-07-26T02:30:00+00:00"
+        },
+        "odds": {
+          "eventId": "1490359",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 1.84,
+          "draw": 3.95,
+          "away": 3.65
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-26T00:00:33+00:00",
+          "league": {
+            "id": 253,
+            "name": "Major League Soccer",
+            "country": "USA",
+            "logo": "https://media.api-sports.io/football/leagues/253.png",
+            "flag": "https://media.api-sports.io/flags/us.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1490359,
+            "timezone": "UTC",
+            "date": "2026-07-26T02:30:00+00:00",
+            "timestamp": 1785033000
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 1.84,
+            "draw": 3.95,
+            "away": 3.65
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 1.45,
+            "under25": 2.7
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 1.4,
+            "no": 2.7
+          },
+          "bookmakerCount": 12
+        }
       }
     },
     {
@@ -532,19 +719,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1507015,
+        "leagueId": 292,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "venue": "Seoul World Cup Stadium",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1507015",
+          "league": "K League 1",
+          "home": "FC Seoul",
+          "away": "Ulsan Hyundai FC",
+          "date": "2026-07-26T10:30:00+00:00"
+        },
+        "odds": {
+          "eventId": "1507015",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 1.85,
+          "draw": 3.55,
+          "away": 4
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-26T00:23:14+00:00",
+          "league": {
+            "id": 292,
+            "name": "K League 1",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/292.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1507015,
+            "timezone": "UTC",
+            "date": "2026-07-26T10:30:00+00:00",
+            "timestamp": 1785061800
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 1.85,
+            "draw": 3.55,
+            "away": 4
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 1.83,
+            "under25": 1.95
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 1.7,
+            "no": 2
+          },
+          "bookmakerCount": 13
+        }
       }
     },
     {
@@ -713,19 +972,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1507014,
+        "leagueId": 292,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "venue": "Sungui Arena Park",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1507014",
+          "league": "K League 1",
+          "home": "Incheon United",
+          "away": "Bucheon FC 1995",
+          "date": "2026-07-26T10:30:00+00:00"
+        },
+        "odds": {
+          "eventId": "1507014",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 1.7,
+          "draw": 3.4,
+          "away": 5.25
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-26T00:23:14+00:00",
+          "league": {
+            "id": 292,
+            "name": "K League 1",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/292.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1507014,
+            "timezone": "UTC",
+            "date": "2026-07-26T10:30:00+00:00",
+            "timestamp": 1785061800
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 1.7,
+            "draw": 3.4,
+            "away": 5.25
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 2.38,
+            "under25": 1.57
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 2.15,
+            "no": 1.6
+          },
+          "bookmakerCount": 13
+        }
       }
     },
     {
@@ -894,19 +1225,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1507013,
+        "leagueId": 292,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "venue": "Gwangju Football Stadium",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1507013",
+          "league": "K League 1",
+          "home": "Gwangju FC",
+          "away": "Jeju United FC",
+          "date": "2026-07-26T10:30:00+00:00"
+        },
+        "odds": {
+          "eventId": "1507013",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 3.95,
+          "draw": 3.25,
+          "away": 1.95
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-26T00:23:14+00:00",
+          "league": {
+            "id": 292,
+            "name": "K League 1",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/292.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1507013,
+            "timezone": "UTC",
+            "date": "2026-07-26T10:30:00+00:00",
+            "timestamp": 1785061800
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 3.95,
+            "draw": 3.25,
+            "away": 1.95
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 2.35,
+            "under25": 1.57
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 2,
+            "no": 1.7
+          },
+          "bookmakerCount": 13
+        }
       }
     },
     {
@@ -1075,19 +1478,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1507012,
+        "leagueId": 292,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "venue": "Anyang Stadium",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1507012",
+          "league": "K League 1",
+          "home": "FC Anyang",
+          "away": "Gangwon FC",
+          "date": "2026-07-26T10:30:00+00:00"
+        },
+        "odds": {
+          "eventId": "1507012",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 4,
+          "draw": 3.2,
+          "away": 1.95
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-25T20:23:16+00:00",
+          "league": {
+            "id": 292,
+            "name": "K League 1",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/292.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1507012,
+            "timezone": "UTC",
+            "date": "2026-07-26T10:30:00+00:00",
+            "timestamp": 1785061800
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 4,
+            "draw": 3.2,
+            "away": 1.95
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 2.3,
+            "under25": 1.6
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 1.95,
+            "no": 1.73
+          },
+          "bookmakerCount": 13
+        }
       }
     },
     {
@@ -1256,19 +1731,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494217,
+        "leagueId": 113,
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "venue": "Grimsta IP",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1494217",
+          "league": "Allsvenskan",
+          "home": "IF Brommapojkarna",
+          "away": "Hammarby FF",
+          "date": "2026-07-26T12:00:00+00:00"
+        },
+        "odds": {
+          "eventId": "1494217",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 7,
+          "draw": 4.5,
+          "away": 1.4
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-25T20:06:13+00:00",
+          "league": {
+            "id": 113,
+            "name": "Allsvenskan",
+            "country": "Sweden",
+            "logo": "https://media.api-sports.io/football/leagues/113.png",
+            "flag": "https://media.api-sports.io/flags/se.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1494217,
+            "timezone": "UTC",
+            "date": "2026-07-26T12:00:00+00:00",
+            "timestamp": 1785067200
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 7,
+            "draw": 4.5,
+            "away": 1.4
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 1.53,
+            "under25": 2.55
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 1.62,
+            "no": 2.1
+          },
+          "bookmakerCount": 13
+        }
       }
     },
     {
@@ -1437,19 +1984,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494223,
+        "leagueId": 113,
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "venue": "Studenternas IP",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1494223",
+          "league": "Allsvenskan",
+          "home": "Sirius",
+          "away": "IFK Goteborg",
+          "date": "2026-07-26T12:00:00+00:00"
+        },
+        "odds": {
+          "eventId": "1494223",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 1.44,
+          "draw": 4.6,
+          "away": 6.4
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-26T00:06:13+00:00",
+          "league": {
+            "id": 113,
+            "name": "Allsvenskan",
+            "country": "Sweden",
+            "logo": "https://media.api-sports.io/football/leagues/113.png",
+            "flag": "https://media.api-sports.io/flags/se.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1494223,
+            "timezone": "UTC",
+            "date": "2026-07-26T12:00:00+00:00",
+            "timestamp": 1785067200
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 1.44,
+            "draw": 4.6,
+            "away": 6.4
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 1.45,
+            "under25": 2.75
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 1.53,
+            "no": 2.3
+          },
+          "bookmakerCount": 13
+        }
       }
     },
     {
@@ -1625,12 +2244,20 @@ window.__JINCAI_DATA__ = {
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -1799,19 +2426,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1495742,
+        "leagueId": 244,
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "venue": "Tammelan Stadion",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1495742",
+          "league": "Veikkausliiga",
+          "home": "Ilves",
+          "away": "Lahti",
+          "date": "2026-07-26T12:00:00+00:00"
+        },
+        "odds": {
+          "eventId": "1495742",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 2.24,
+          "draw": 3.55,
+          "away": 2.76
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-26T00:09:13+00:00",
+          "league": {
+            "id": 244,
+            "name": "Veikkausliiga",
+            "country": "Finland",
+            "logo": "https://media.api-sports.io/football/leagues/244.png",
+            "flag": "https://media.api-sports.io/flags/fi.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1495742,
+            "timezone": "UTC",
+            "date": "2026-07-26T12:00:00+00:00",
+            "timestamp": 1785067200
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 2.24,
+            "draw": 3.55,
+            "away": 2.76
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 1.62,
+            "under25": 2.2
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 1.5,
+            "no": 2.3
+          },
+          "bookmakerCount": 13
+        }
       }
     },
     {
@@ -1980,19 +2679,91 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "API-Football外围赔率"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494710,
+        "leagueId": 103,
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "venue": "Brann Stadion",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fallback-api-football-odds",
+        "generatedAt": "2026-07-26T02:22:45.576Z",
+        "eventCount": 21,
+        "event": {
+          "eventId": "1494710",
+          "league": "Eliteserien",
+          "home": "Brann",
+          "away": "Valerenga",
+          "date": "2026-07-26T12:30:00+00:00"
+        },
+        "odds": {
+          "eventId": "1494710",
+          "bookmaker": "10Bet",
+          "market": "Match Winner",
+          "home": 1.73,
+          "draw": 4.2,
+          "away": 4.1
+        },
+        "apiFootballOdds": {
+          "update": "2026-07-25T20:07:14+00:00",
+          "league": {
+            "id": 103,
+            "name": "Eliteserien",
+            "country": "Norway",
+            "logo": "https://media.api-sports.io/football/leagues/103.png",
+            "flag": "https://media.api-sports.io/flags/no.svg",
+            "season": 2026
+          },
+          "fixture": {
+            "id": 1494710,
+            "timezone": "UTC",
+            "date": "2026-07-26T12:30:00+00:00",
+            "timestamp": 1785069000
+          },
+          "matchWinner": {
+            "bookmaker": "10Bet",
+            "home": 1.73,
+            "draw": 4.2,
+            "away": 4.1
+          },
+          "goalsOverUnder": {
+            "bookmaker": "10Bet",
+            "over25": 1.44,
+            "under25": 2.75
+          },
+          "bothTeamsScore": {
+            "bookmaker": "10Bet",
+            "yes": 1.42,
+            "no": 2.6
+          },
+          "bookmakerCount": 13
+        }
       }
     },
     {
@@ -2161,19 +2932,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1495744,
+        "leagueId": 244,
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "venue": "Bolt Arena",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -2342,19 +3136,111 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态",
+          "FootyMetrics第三方机构预测对比"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494219,
+        "leagueId": 113,
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "venue": "Gamla Ullevi",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "footyMetrics": {
+        "role": "third-party-institution-compare",
+        "rows": [
+          {
+            "sourcePath": "/predictions/1x2",
+            "rowId": "",
+            "fixtureApid": 19635943,
+            "slug": "26672147-allsvenskan-gais-halmstad",
+            "timestamp": "2026-07-26T14:30:00.000Z",
+            "league": {
+              "id": 46,
+              "name": "Allsvenskan",
+              "country": "Sweden"
+            },
+            "home": "GAIS",
+            "away": "Halmstad",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          },
+          {
+            "sourcePath": "/predictions/double-chance",
+            "rowId": "",
+            "fixtureApid": 19635943,
+            "slug": "26672147-allsvenskan-gais-halmstad",
+            "timestamp": "2026-07-26T14:30:00.000Z",
+            "league": {
+              "id": 46,
+              "name": "Allsvenskan",
+              "country": "Sweden"
+            },
+            "home": "GAIS",
+            "away": "Halmstad",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          }
+        ],
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T01:32:48.968Z"
+      },
+      "thirdPartyCompare": {
+        "provider": "FootyMetrics",
+        "direction": null,
+        "matchResult": null,
+        "tips": [],
+        "generatedAt": "2026-07-26T01:32:48.968Z"
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -2523,19 +3409,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494222,
+        "leagueId": 113,
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "venue": "Eleda Stadion",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -2704,19 +3613,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494715,
+        "leagueId": 103,
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "venue": "Sarpsborg Stadion",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -2885,19 +3817,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494711,
+        "leagueId": 103,
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "venue": "KFUM Arena",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -3066,19 +4021,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494714,
+        "leagueId": 103,
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "venue": "Jotun Arena",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -3247,19 +4225,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494709,
+        "leagueId": 103,
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "venue": "Color Line Stadion",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -3428,19 +4429,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1492304,
+        "leagueId": 71,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "venue": "",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -3609,19 +4633,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1492305,
+        "leagueId": 71,
+        "season": 2026,
+        "round": "Regular Season - 20",
+        "venue": "",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -3790,19 +4837,42 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494220,
+        "leagueId": 113,
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "venue": "Nordic Wellness Arena",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     },
     {
@@ -3971,26 +5041,50 @@ window.__JINCAI_DATA__ = {
           "比分SP",
           "总进球SP",
           "半全场SP",
-          "球队排名"
+          "球队排名",
+          "API-Football赛程",
+          "API-Football赛程状态"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
           "ELO由排名差临时折算",
           "近期状态由排名与市场概率辅助"
         ],
+        "estimated": [],
         "pending": [
           "伤停阵容",
           "完整积分形势",
           "赛后赛果",
-          "第三方真实xG/ELO"
+          "第三方真实xG/ELO",
+          "Odds-API.io已抓取500场，未覆盖本场"
         ]
+      },
+      "apiFootball": {
+        "fixtureId": 1494713,
+        "leagueId": 103,
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "venue": "Lerkendal Stadion",
+        "status": "NS",
+        "elapsed": null
+      },
+      "result": {
+        "status": "NS",
+        "score": null
+      },
+      "oddsApiIo": {
+        "status": "fetched-unmatched",
+        "generatedAt": "2026-07-26T02:14:53.272Z",
+        "eventCount": 500,
+        "matchedCount": 0
       }
     }
   ],
-  "enrichedAt": "2026-07-26T01:32:49.072Z",
+  "enrichedAt": "2026-07-26T02:22:45.793Z",
   "enrichment": {
-    "providerOverrides": 0,
+    "providerOverrides": 22,
     "apiFootball": "synced",
+    "apiFootballOdds": "synced",
     "oddsApiIo": "no synced payload",
     "clubElo": "no synced payload",
     "footyMetrics": "synced",

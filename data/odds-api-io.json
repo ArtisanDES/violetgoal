@@ -1,9 +1,811 @@
 {
   "source": "odds-api-io",
-  "generatedAt": "2026-07-26T01:28:39.622Z",
+  "generatedAt": "2026-07-26T02:14:53.272Z",
   "eventCount": 500,
   "matchedCount": 0,
   "unmatchedCount": 22,
+  "sampleEvents": [
+    {
+      "eventId": 72529082,
+      "sport": "football",
+      "league": "Argentina - Primera LPF, Clausura",
+      "leagueSlug": "argentina-primera-lpf-clausura",
+      "home": "CA Huracan",
+      "away": "CA Banfield",
+      "date": "2026-07-25T00:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72529084,
+      "sport": "football",
+      "league": "Argentina - Primera LPF, Clausura",
+      "leagueSlug": "argentina-primera-lpf-clausura",
+      "home": "CA Platense",
+      "away": "Union de Santa Fe",
+      "date": "2026-07-25T00:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67681914,
+      "sport": "football",
+      "league": "Chile - Primera Division",
+      "leagueSlug": "chile-primera-division",
+      "home": "Colo-Colo",
+      "away": "Deportes Limache",
+      "date": "2026-07-25T00:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68097982,
+      "sport": "football",
+      "league": "Chile - Liga de Ascenso",
+      "leagueSlug": "chile-liga-de-ascenso",
+      "home": "Deportes Iquique",
+      "away": "Deportes Temuco",
+      "date": "2026-07-25T00:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68215884,
+      "sport": "football",
+      "league": "Brazil - Brasileiro A1, Women",
+      "leagueSlug": "brazil-brasileiro-a1-women",
+      "home": "Cruzeiro EC MG",
+      "away": "Sao Paulo FC SP",
+      "date": "2026-07-25T00:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 73126130,
+      "sport": "football",
+      "league": "Panama - Liga Prom, Apertura",
+      "leagueSlug": "panama-liga-prom-apertura",
+      "home": "SD Atletico Nacional",
+      "away": "San Francisco FC B",
+      "date": "2026-07-25T01:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72661516,
+      "sport": "football",
+      "league": "Mexico - Liga de Expansion MX, Apertura",
+      "leagueSlug": "mexico-liga-de-expansion-mx-apertura",
+      "home": "Tepatitlan FC",
+      "away": "Alacranes de Durango",
+      "date": "2026-07-25T01:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72661518,
+      "sport": "football",
+      "league": "Mexico - Liga de Expansion MX, Apertura",
+      "leagueSlug": "mexico-liga-de-expansion-mx-apertura",
+      "home": "CD Mineros de Zacatecas",
+      "away": "CF Correcaminos UAT",
+      "date": "2026-07-25T01:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72334922,
+      "sport": "football",
+      "league": "Colombia - Liga DIMAYOR, Finalizacion",
+      "leagueSlug": "colombia-liga-dimayor-finalizacion",
+      "home": "Deportivo Cali",
+      "away": "Jaguares de Cordoba",
+      "date": "2026-07-25T01:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72661130,
+      "sport": "football",
+      "league": "Panama - Liga Panamena de Futbol, Apertura",
+      "leagueSlug": "panama-liga-panamena-de-futbol-apertura",
+      "home": "CD Arabe Unido",
+      "away": "CD Plaza Amador Panama City",
+      "date": "2026-07-25T01:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72993750,
+      "sport": "football",
+      "league": "USA - USL, League Two, Playoffs",
+      "leagueSlug": "usa-usl-league-two-playoffs",
+      "home": "Laredo Heat SC",
+      "away": "Fort Lauderdale United FC",
+      "date": "2026-07-25T01:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 73008272,
+      "sport": "football",
+      "league": "New Zealand - Cup, Women",
+      "leagueSlug": "new-zealand-cup-women",
+      "home": "Eastern Suburbs Auckland AFC",
+      "away": "Auckland United FC",
+      "date": "2026-07-25T01:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67808552,
+      "sport": "football",
+      "league": "Australia - Northern NSW NPL, Reserves",
+      "leagueSlug": "australia-northern-nsw-npl-reserves",
+      "home": "Cooks Hill United FC Reserve",
+      "away": "Lambton Jaffas FC Reserve",
+      "date": "2026-07-25T01:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 73075158,
+      "sport": "football",
+      "league": "El Salvador - Primera Division, Apertura",
+      "leagueSlug": "el-salvador-primera-division-apertura",
+      "home": "CD FAS Santa Ana",
+      "away": "Municipal Limeno",
+      "date": "2026-07-25T01:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 71935992,
+      "sport": "football",
+      "league": "Peru - Primera Division, Clausura",
+      "leagueSlug": "peru-primera-division-clausura",
+      "home": "Universitario de Deportes",
+      "away": "Cusco FC",
+      "date": "2026-07-25T01:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72053546,
+      "sport": "football",
+      "league": "Costa Rica - Primera Division, Apertura",
+      "leagueSlug": "costa-rica-primera-division-apertura",
+      "home": "Deportivo Saprissa San Jose",
+      "away": "Perez Zeledon",
+      "date": "2026-07-25T02:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67808554,
+      "sport": "football",
+      "league": "Australia - Northern NSW NPL, Reserves",
+      "leagueSlug": "australia-northern-nsw-npl-reserves",
+      "home": "Weston Bears FC",
+      "away": "Adamstown Rosebud FC Reserve",
+      "date": "2026-07-25T02:00:00Z",
+      "status": "cancelled"
+    },
+    {
+      "eventId": 67808738,
+      "sport": "football",
+      "league": "Australia - Northern NSW League One, Reserves",
+      "leagueSlug": "australia-northern-nsw-league-one-reserves",
+      "home": "New Lambton FC Reserves",
+      "away": "Lake Macquarie City FC Reserve",
+      "date": "2026-07-25T02:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67912170,
+      "sport": "football",
+      "league": "USA - National Women's Soccer League",
+      "leagueSlug": "usa-national-women's-soccer-league",
+      "home": "Portland Thorns FC",
+      "away": "Gotham FC",
+      "date": "2026-07-25T02:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68686046,
+      "sport": "football",
+      "league": "Canada - Canadian Premier League",
+      "leagueSlug": "canada-canadian-premier-league",
+      "home": "Vancouver FC",
+      "away": "Cavalry FC",
+      "date": "2026-07-25T02:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72474862,
+      "sport": "football",
+      "league": "Guatemala - Liga Nacional, Apertura",
+      "leagueSlug": "guatemala-liga-nacional-apertura",
+      "home": "CSD Municipal",
+      "away": "Deportivo Mixco",
+      "date": "2026-07-25T02:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 69195906,
+      "sport": "football",
+      "league": "Australia - U23 Capital NPL",
+      "leagueSlug": "australia-u23-capital-npl",
+      "home": "Canberra Olympic FC U23",
+      "away": "Queanbeyan City FC U23",
+      "date": "2026-07-25T02:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68161450,
+      "sport": "football",
+      "league": "Australia - U23 Victoria NPL",
+      "leagueSlug": "australia-u23-victoria-npl",
+      "home": "Green Gully SC U23",
+      "away": "Dandenong City SC U23",
+      "date": "2026-07-25T02:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67694382,
+      "sport": "football",
+      "league": "Australia - U23 NSW NPL, Women",
+      "leagueSlug": "australia-u23-nsw-npl-women",
+      "home": "NWS Spirit FC U23",
+      "away": "Hills United FC U23",
+      "date": "2026-07-25T02:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050400,
+      "sport": "football",
+      "league": "Australia - South Australia State League 1, Reserves",
+      "leagueSlug": "australia-south-australia-state-league-1-reserves",
+      "home": "Eastern United Reserve",
+      "away": "Salisbury United Reserve",
+      "date": "2026-07-25T02:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68051060,
+      "sport": "football",
+      "league": "Australia - South Australia NPL, Reserves, Women",
+      "leagueSlug": "australia-south-australia-npl-reserves-women",
+      "home": "Metrostars Reserve",
+      "away": "Flinders United Wfc Reserves",
+      "date": "2026-07-25T02:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68160064,
+      "sport": "football",
+      "league": "Australia - U20 Victoria NPL, Women",
+      "leagueSlug": "australia-u20-victoria-npl-women",
+      "home": "Essendon Royals SC U20",
+      "away": "Melbourne Victory FC U20",
+      "date": "2026-07-25T02:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68161452,
+      "sport": "football",
+      "league": "Australia - U23 Victoria NPL",
+      "leagueSlug": "australia-u23-victoria-npl",
+      "home": "ST Albans Saints Dinamo SC U23",
+      "away": "Hume City FC U23",
+      "date": "2026-07-25T02:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68161454,
+      "sport": "football",
+      "league": "Australia - U23 Victoria NPL",
+      "leagueSlug": "australia-u23-victoria-npl",
+      "home": "Melbourne City FC U23",
+      "away": "Avondale FC U23",
+      "date": "2026-07-25T02:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050128,
+      "sport": "football",
+      "league": "Australia - South Australia NPL, Reserves",
+      "leagueSlug": "australia-south-australia-npl-reserves",
+      "home": "Croydon Kings FC Reserve",
+      "away": "Campbelltown City SC Reserve",
+      "date": "2026-07-25T02:45:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050130,
+      "sport": "football",
+      "league": "Australia - South Australia NPL, Reserves",
+      "leagueSlug": "australia-south-australia-npl-reserves",
+      "home": "Adelaide City FC Reserve",
+      "away": "West Torrens Birkalla Reserve",
+      "date": "2026-07-25T02:45:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050778,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, South",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-south",
+      "home": "Plympton FC Reserve",
+      "away": "Ghan United Reserves",
+      "date": "2026-07-25T02:45:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 69195908,
+      "sport": "football",
+      "league": "Australia - U23 Capital NPL",
+      "leagueSlug": "australia-u23-capital-npl",
+      "home": "Brindabella Blues FC U23",
+      "away": "Canberra White Eagles FC U23",
+      "date": "2026-07-25T02:45:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67694718,
+      "sport": "football",
+      "league": "Australia - U23 NSW League One, Women",
+      "leagueSlug": "australia-u23-nsw-league-one-women",
+      "home": "South Coast Flame FC U23",
+      "away": "Central Coast Mariners U23",
+      "date": "2026-07-25T03:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72055054,
+      "sport": "football",
+      "league": "Mexico - Liga MX, Apertura",
+      "leagueSlug": "mexico-liga-mx-apertura",
+      "home": "Atlante FC",
+      "away": "CF America",
+      "date": "2026-07-25T03:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72055056,
+      "sport": "football",
+      "league": "Mexico - Liga MX, Apertura",
+      "leagueSlug": "mexico-liga-mx-apertura",
+      "home": "Club Tijuana de Caliente",
+      "away": "Club Leon",
+      "date": "2026-07-25T03:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050780,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, South",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-south",
+      "home": "Adelaide Titans FC Reserve",
+      "away": "Western Strikers Reserve",
+      "date": "2026-07-25T03:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68160060,
+      "sport": "football",
+      "league": "Australia - U20 Victoria NPL, Women",
+      "leagueSlug": "australia-u20-victoria-npl-women",
+      "home": "South Melbourne FC U20",
+      "away": "FC Bulleen Lions U20",
+      "date": "2026-07-25T03:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68161052,
+      "sport": "football",
+      "league": "Australia - U23 Victoria Premier League 1",
+      "leagueSlug": "australia-u23-victoria-premier-league-1",
+      "home": "Manningham United Blues FC U23",
+      "away": "Melbourne Knights FC U23",
+      "date": "2026-07-25T03:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72824366,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, North",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-north",
+      "home": "Salisbury International SC Reserve",
+      "away": "Elizabeth Downs SC Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050134,
+      "sport": "football",
+      "league": "Australia - South Australia NPL, Reserves",
+      "leagueSlug": "australia-south-australia-npl-reserves",
+      "home": "Adelaide Comets Reserves",
+      "away": "FK Beograd Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050132,
+      "sport": "football",
+      "league": "Australia - South Australia NPL, Reserves",
+      "leagueSlug": "australia-south-australia-npl-reserves",
+      "home": "Para Hills Knights SC Reserve",
+      "away": "Playford City Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050136,
+      "sport": "football",
+      "league": "Australia - South Australia NPL, Reserves",
+      "leagueSlug": "australia-south-australia-npl-reserves",
+      "home": "Adelaide United FC Reserves",
+      "away": "Sturt Lions Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050404,
+      "sport": "football",
+      "league": "Australia - South Australia State League 1, Reserves",
+      "leagueSlug": "australia-south-australia-state-league-1-reserves",
+      "home": "Adelaide Croatia Raiders SC Reserve",
+      "away": "Fulham United FC Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050406,
+      "sport": "football",
+      "league": "Australia - South Australia State League 1, Reserves",
+      "leagueSlug": "australia-south-australia-state-league-1-reserves",
+      "home": "Modbury Jets SC Reserve",
+      "away": "Adelaide Atletico Victory Reserves",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050402,
+      "sport": "football",
+      "league": "Australia - South Australia State League 1, Reserves",
+      "leagueSlug": "australia-south-australia-state-league-1-reserves",
+      "home": "Adelaide Olympic FC Reserve",
+      "away": "South Adelaide Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050602,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, North",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-north",
+      "home": "Salisbury United Reserve 2",
+      "away": "Elizabeth Downs SC Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "cancelled"
+    },
+    {
+      "eventId": 68050606,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, North",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-north",
+      "home": "Angle Vale Reserve",
+      "away": "Pontian Eagles SC Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050600,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, North",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-north",
+      "home": "Gawler Easgles FC Reserve",
+      "away": "Port Adelaide Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050598,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, North",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-north",
+      "home": "Barossa United Reserve",
+      "away": "Modbury Vista Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050786,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, South",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-south",
+      "home": "Mount Barker United SC Reserve",
+      "away": "Adelaide Hills Reserves",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050782,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, South",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-south",
+      "home": "Seaford Rangers FC Reserves",
+      "away": "Adelaide University SC Reserves",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050784,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, South",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-south",
+      "home": "Vipers FC Reserves",
+      "away": "Noarlunga United Reserve",
+      "date": "2026-07-25T03:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68051062,
+      "sport": "football",
+      "league": "Australia - South Australia NPL, Reserves, Women",
+      "leagueSlug": "australia-south-australia-npl-reserves-women",
+      "home": "Campbelltown City SC Reserves",
+      "away": "Adelaide Comets FC Reserves",
+      "date": "2026-07-25T03:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050604,
+      "sport": "football",
+      "league": "Australia - South Australia State League 2, Reserves, North",
+      "leagueSlug": "australia-south-australia-state-league-2-reserves-north",
+      "home": "Elizabeth Grove Reserve",
+      "away": "Northern Demons Reserve",
+      "date": "2026-07-25T03:45:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68160068,
+      "sport": "football",
+      "league": "Australia - U20 Victoria NPL, Women",
+      "leagueSlug": "australia-u20-victoria-npl-women",
+      "home": "Bentleigh Greens SC U20",
+      "away": "Melbourne City U20",
+      "date": "2026-07-25T03:45:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67807664,
+      "sport": "football",
+      "league": "Australia - Northern NSW League One",
+      "leagueSlug": "australia-northern-nsw-league-one",
+      "home": "New Lambton FC",
+      "away": "Lake Macquarie City FC",
+      "date": "2026-07-25T04:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67807864,
+      "sport": "football",
+      "league": "Australia - Northern NSW NPL",
+      "leagueSlug": "australia-northern-nsw-npl",
+      "home": "Charlestown Azzurri FC",
+      "away": "Adamstown Rosebud JFC",
+      "date": "2026-07-25T04:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67807478,
+      "sport": "football",
+      "league": "Australia - Northern NSW NPL",
+      "leagueSlug": "australia-northern-nsw-npl",
+      "home": "Weston Bears FC",
+      "away": "Adamstown Rosebud FC",
+      "date": "2026-07-25T04:00:00Z",
+      "status": "cancelled"
+    },
+    {
+      "eventId": 67807476,
+      "sport": "football",
+      "league": "Australia - Northern NSW NPL",
+      "leagueSlug": "australia-northern-nsw-npl",
+      "home": "Cooks Hill United",
+      "away": "Lambton Jaffas FC",
+      "date": "2026-07-25T04:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68160074,
+      "sport": "football",
+      "league": "Australia - U20 Victoria NPL, Women",
+      "leagueSlug": "australia-u20-victoria-npl-women",
+      "home": "Heidelberg United FC U20",
+      "away": "Avondale FC U20",
+      "date": "2026-07-25T04:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68160680,
+      "sport": "football",
+      "league": "Australia - Victoria Premier League 1",
+      "leagueSlug": "australia-victoria-premier-league-1",
+      "home": "Port Melbourne Sharks",
+      "away": "Northcote City",
+      "date": "2026-07-25T04:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68161828,
+      "sport": "football",
+      "league": "Australia - Victoria Premier League 2",
+      "leagueSlug": "australia-victoria-premier-league-2",
+      "home": "Moreland City FC",
+      "away": "Werribee City FC",
+      "date": "2026-07-25T04:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 69195910,
+      "sport": "football",
+      "league": "Australia - U23 Capital NPL",
+      "leagueSlug": "australia-u23-capital-npl",
+      "home": "Belconnen United FC U23",
+      "away": "O'Connor Knights SC U23",
+      "date": "2026-07-25T04:15:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 72187994,
+      "sport": "football",
+      "league": "Australia - Tasmania Super League, Women",
+      "leagueSlug": "australia-tasmania-super-league-women",
+      "home": "Riverside Olympic",
+      "away": "Kingborough Lions United FC",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "cancelled"
+    },
+    {
+      "eventId": 72138540,
+      "sport": "football",
+      "league": "Australia - Tasmania NPL",
+      "leagueSlug": "australia-tasmania-npl",
+      "home": "Launceston United SC",
+      "away": "Devonport City SC",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 73034178,
+      "sport": "football",
+      "league": "Australia - Tasmania NPL",
+      "leagueSlug": "australia-tasmania-npl",
+      "home": "Riverside Olympic FC",
+      "away": "Launceston City FC",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67808556,
+      "sport": "football",
+      "league": "Australia - Northern NSW NPL, Reserves",
+      "leagueSlug": "australia-northern-nsw-npl-reserves",
+      "home": "Maitland FC Reserve",
+      "away": "Broadmeadow Magic FC Reserve",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67808558,
+      "sport": "football",
+      "league": "Australia - Northern NSW NPL, Reserves",
+      "leagueSlug": "australia-northern-nsw-npl-reserves",
+      "home": "Valentine FC Reserve",
+      "away": "Charlestown Azzurri FC Reserve",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67808740,
+      "sport": "football",
+      "league": "Australia - Northern NSW League One, Reserves",
+      "leagueSlug": "australia-northern-nsw-league-one-reserves",
+      "home": "Newcastle Croatia FC Reserve",
+      "away": "Singleton Strikers FC Reserves",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68160086,
+      "sport": "football",
+      "league": "Australia - U20 Victoria NPL, Women",
+      "leagueSlug": "australia-u20-victoria-npl-women",
+      "home": "Boroondara-Carey Eagles U20",
+      "away": "Spring Hills FC U20",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68161456,
+      "sport": "football",
+      "league": "Australia - U23 Victoria NPL",
+      "leagueSlug": "australia-u23-victoria-npl",
+      "home": "Dandenong Thunder FC U23",
+      "away": "Altona Magic SC U23",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 69195010,
+      "sport": "football",
+      "league": "Australia - Capital NPL 1",
+      "leagueSlug": "australia-capital-npl-1",
+      "home": "Canberra Olympic",
+      "away": "Queanbeyan City FC",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 71635432,
+      "sport": "football",
+      "league": "Australia - Tasmania Northern Championship",
+      "leagueSlug": "australia-tasmania-northern-championship",
+      "home": "Ulverstone SC 2",
+      "away": "Devonport City SC 2",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 71635506,
+      "sport": "football",
+      "league": "Australia - Tasmania Northern Championship",
+      "leagueSlug": "australia-tasmania-northern-championship",
+      "home": "Burnie United",
+      "away": "Launceston United SC 2",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 71635502,
+      "sport": "football",
+      "league": "Australia - Tasmania Northern Championship",
+      "leagueSlug": "australia-tasmania-northern-championship",
+      "home": "Launceston City FC 2",
+      "away": "Northern Rangers",
+      "date": "2026-07-25T04:30:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 68050138,
+      "sport": "football",
+      "league": "Australia - South Australia NPL, Reserves",
+      "leagueSlug": "australia-south-australia-npl-reserves",
+      "home": "North Eastern Metrostars SC Reserves",
+      "away": "West Adelaide SC Reserve",
+      "date": "2026-07-25T04:45:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67692738,
+      "sport": "football",
+      "league": "Australia - NSW NPL 1, Women",
+      "leagueSlug": "australia-nsw-npl-1-women",
+      "home": "NWS Spirit FC",
+      "away": "Hills United FC",
+      "date": "2026-07-25T05:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67694042,
+      "sport": "football",
+      "league": "Australia - NSW League One, Women",
+      "leagueSlug": "australia-nsw-league-one-women",
+      "home": "South Coast Flame FC",
+      "away": "Central Coast Mariners Academy",
+      "date": "2026-07-25T05:00:00Z",
+      "status": "settled"
+    },
+    {
+      "eventId": 67694384,
+      "sport": "football",
+      "league": "Australia - U23 NSW NPL, Women",
+      "leagueSlug": "australia-u23-nsw-npl-women",
+      "home": "UNSW FC U23",
+      "away": "APIA Leichhardt FC U23",
+      "date": "2026-07-25T05:00:00Z",
+      "status": "settled"
+    }
+  ],
   "matched": [],
   "unmatched": [
     {

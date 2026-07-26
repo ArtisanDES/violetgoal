@@ -36,7 +36,7 @@ function normalizeName(value) {
 
 function aliasNames(aliases, name) {
   const alias = aliases.teams?.[name] || {};
-  return [name, alias.apiFootballName, alias.oddsApiName, ...(alias.names || [])]
+  return [name, alias.apiFootballName, alias.oddsApiName, alias.footyMetricsName, alias.clubEloName, ...(alias.names || [])]
     .filter(Boolean)
     .map(normalizeName);
 }
@@ -52,7 +52,12 @@ function sameDate(a, b) {
 
 function teamMatches(localNames, providerName) {
   const normalized = normalizeName(providerName);
-  return localNames.includes(normalized);
+  if (localNames.includes(normalized)) return true;
+  return localNames.some((name) => (
+    name.length >= 5 &&
+    normalized.length >= 5 &&
+    (name.includes(normalized) || normalized.includes(name))
+  ));
 }
 
 function findEvent(match, events, aliases) {
@@ -206,6 +211,7 @@ async function main() {
     eventCount: events.length,
     matchedCount: matched.length,
     unmatchedCount: unmatched.length,
+    sampleEvents: events.slice(0, 80).map(simplifyEvent),
     matched,
     unmatched
   };
