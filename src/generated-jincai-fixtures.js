@@ -4863,7 +4863,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -4946,7 +4946,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -9419,7 +9419,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -9502,7 +9502,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -13752,7 +13752,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -13835,7 +13835,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -18251,7 +18251,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -18334,7 +18334,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -23119,7 +23119,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -23202,7 +23202,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -26120,7 +26120,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -26182,7 +26182,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -28332,7 +28332,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -28394,7 +28394,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": ""
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -29027,7 +29027,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": null,
-            "matchResult": "$1a:props:children:1:props:children:props:rows:234:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:241:matchResult",
             "form": {
               "home": [
                 {
@@ -29373,7 +29373,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "BTTS Yes",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:234:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:241:matchResult",
             "form": {
               "home": [
                 {
@@ -29719,7 +29719,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "2 goals",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:234:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:241:matchResult",
             "form": {
               "home": [
                 {
@@ -30065,7 +30065,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "1 scored",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:234:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:241:matchResult",
             "form": {
               "home": [
                 {
@@ -30411,7 +30411,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "15 corners",
-            "matchResult": "$1a:props:children:1:props:children:props:rows:234:matchResult",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:241:matchResult",
             "form": {
               "home": [
                 {
@@ -33107,7 +33107,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -33190,7 +33190,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -33567,7 +33567,8 @@ window.__JINCAI_DATA__ = {
           "半全场SP",
           "球队排名",
           "API-Football赛程",
-          "API-Football赛程状态"
+          "API-Football赛程状态",
+          "FootyMetrics第三方机构预测对比"
         ],
         "derived": [
           "xG由竞彩比分/总进球SP反推",
@@ -33601,6 +33602,4776 @@ window.__JINCAI_DATA__ = {
         "generatedAt": "2026-07-26T04:50:07.520Z",
         "eventCount": 500,
         "matchedCount": 0
+      },
+      "footyMetrics": {
+        "role": "third-party-institution-compare",
+        "rows": [
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629621-1x2-2-x",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "1x2",
+              "selection": "2",
+              "label": "Away win",
+              "probability": 27,
+              "odds": 4.5,
+              "edge": 4.8,
+              "hasEdge": true,
+              "line": null,
+              "marketLabel": "Match result",
+              "bookmaker": "Kambi",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 4.5
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 4.5
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 4.4
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 4.2
+                }
+              ]
+            },
+            "settlement": "lost",
+            "actual": "1",
+            "matchResult": {
+              "home": {
+                "prob": 47,
+                "odds": 1.67
+              },
+              "draw": {
+                "prob": 26,
+                "odds": 4.1
+              },
+              "away": {
+                "prob": 27,
+                "odds": 4.5
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629621-1x2_fh-2-x",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "1x2_fh",
+              "selection": "2",
+              "label": "Away HT",
+              "probability": 24,
+              "odds": 4.75,
+              "edge": 2.9,
+              "hasEdge": true,
+              "line": null,
+              "marketLabel": "Half-time result",
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 4.75
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 4.4
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 4.5
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": null
+                }
+              ]
+            },
+            "settlement": "lost",
+            "actual": "1",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:254:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629621-btts-no-x",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "btts",
+              "selection": "no",
+              "label": "BTTS: No",
+              "probability": 48,
+              "odds": 2.25,
+              "edge": 3.6,
+              "hasEdge": true,
+              "line": null,
+              "marketLabel": "BTTS",
+              "bookmaker": "Paddy Power",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 2.2
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 2.25
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 2.25
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 2.25
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "BTTS No",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:254:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629621-total_goals-under-4.5",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "total_goals",
+              "selection": "under",
+              "label": "Under 4.5 goals",
+              "probability": 86,
+              "odds": 1.2,
+              "edge": 2.7,
+              "hasEdge": true,
+              "line": 4.5,
+              "marketLabel": "Total goals",
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.2
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.2
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 1.2
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.2
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "1 goals",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:254:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629621-home_goals-under-2.5",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "home_goals",
+              "selection": "under",
+              "label": "Home under 2.5 goals",
+              "probability": 81,
+              "odds": 1.4,
+              "edge": 9.6,
+              "hasEdge": true,
+              "line": 2.5,
+              "marketLabel": "Home goals",
+              "bookmaker": "Ladbrokes",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": null
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.38
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.4
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "1 scored",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:254:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629621-total_corners-over-8.5",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "total_corners",
+              "selection": "over",
+              "label": "Over 8.5 corners",
+              "probability": 68,
+              "odds": 1.28,
+              "edge": -10.1,
+              "hasEdge": false,
+              "line": 8.5,
+              "marketLabel": "Corners",
+              "bookmaker": "Kambi",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": null
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.28
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": null
+                }
+              ]
+            },
+            "settlement": "lost",
+            "actual": "7 corners",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:254:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": 7,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": 10,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": 14,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": 13,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": 10,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": 9,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": 15,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": 13,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": 8,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": 19,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": 11,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": 11,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": 12,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": 12,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": 7,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": 8,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": 11,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": 8,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": 12,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": 15,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": 11.8,
+                "cf": 5.7,
+                "ca": 6.1,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": 80
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": 10.7,
+                "cf": 5,
+                "ca": 5.7,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": 70
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions/1x2",
+            "rowId": "",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "1x2",
+              "selection": "1",
+              "label": "Home win",
+              "probability": 47,
+              "odds": 1.67,
+              "edge": -12.9,
+              "hasEdge": false,
+              "line": null,
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.67
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.65
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 1.62
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.61
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "1",
+            "matchResult": {
+              "home": {
+                "prob": 47,
+                "odds": 1.67
+              },
+              "draw": {
+                "prob": 26,
+                "odds": 4.1
+              },
+              "away": {
+                "prob": 27,
+                "odds": 4.5
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "31 Aug 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 4,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "11 May 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Oct 2024"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 7,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 May 2024"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "24 Sept 2023"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 Jul 2023"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "4 Sept 2022"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "26 Jun 2022"
+                }
+              ]
+            }
+          },
+          {
+            "sourcePath": "/predictions/btts",
+            "rowId": "",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "btts",
+              "selection": "yes",
+              "label": "BTTS: Yes",
+              "probability": 52,
+              "odds": 1.62,
+              "edge": -9.7,
+              "hasEdge": false,
+              "line": null,
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.62
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.55
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 1.57
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.57
+                }
+              ]
+            },
+            "settlement": "lost",
+            "actual": "BTTS No",
+            "matchResult": {
+              "home": {
+                "prob": 47,
+                "odds": 1.67
+              },
+              "draw": {
+                "prob": 26,
+                "odds": 4.1
+              },
+              "away": {
+                "prob": 27,
+                "odds": 4.5
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "31 Aug 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 4,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "11 May 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Oct 2024"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 7,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 May 2024"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "24 Sept 2023"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 Jul 2023"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "4 Sept 2022"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "26 Jun 2022"
+                }
+              ]
+            }
+          },
+          {
+            "sourcePath": "/predictions/goals-over-under",
+            "rowId": "",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "total_goals",
+              "selection": "under",
+              "label": "Under 2.5 goals",
+              "probability": 52,
+              "odds": 2.4,
+              "edge": 10.3,
+              "hasEdge": true,
+              "line": 2.5,
+              "bookmaker": "Paddy Power",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 2.35
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 2.3
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 2.4
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 2.3
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "1 goals",
+            "matchResult": {
+              "home": {
+                "prob": 47,
+                "odds": 1.67
+              },
+              "draw": {
+                "prob": 26,
+                "odds": 4.1
+              },
+              "away": {
+                "prob": 27,
+                "odds": 4.5
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "31 Aug 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 4,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "11 May 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Oct 2024"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 7,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 May 2024"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "24 Sept 2023"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 Jul 2023"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "4 Sept 2022"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "26 Jun 2022"
+                }
+              ]
+            }
+          },
+          {
+            "sourcePath": "/predictions/team-goals",
+            "rowId": "",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "home_goals",
+              "selection": "under",
+              "label": "Home under 2.5 goals",
+              "probability": 81,
+              "odds": 1.4,
+              "edge": 9.6,
+              "hasEdge": true,
+              "line": 2.5,
+              "bookmaker": "Ladbrokes",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": null
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.38
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.4
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "1 scored",
+            "matchResult": {
+              "home": {
+                "prob": 47,
+                "odds": 1.67
+              },
+              "draw": {
+                "prob": 26,
+                "odds": 4.1
+              },
+              "away": {
+                "prob": 27,
+                "odds": 4.5
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions/double-chance",
+            "rowId": "",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "double_chance",
+              "selection": "12",
+              "label": "Home or away",
+              "probability": 74,
+              "odds": null,
+              "edge": null,
+              "hasEdge": false,
+              "line": null,
+              "bookmaker": "",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": null
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": null
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": null
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": null,
+            "matchResult": {
+              "home": {
+                "prob": 47,
+                "odds": 1.67
+              },
+              "draw": {
+                "prob": 26,
+                "odds": 4.1
+              },
+              "away": {
+                "prob": 27,
+                "odds": 4.5
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "31 Aug 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 4,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "11 May 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Oct 2024"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 7,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 May 2024"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "24 Sept 2023"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 Jul 2023"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "4 Sept 2022"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "26 Jun 2022"
+                }
+              ]
+            }
+          },
+          {
+            "sourcePath": "/predictions/1x2-ht",
+            "rowId": "",
+            "fixtureApid": 19629621,
+            "slug": "26672150-eliteserien-sarpsborg-08-hamkam",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Sarpsborg 08",
+            "away": "HamKam",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 1,
+              "away": 0
+            },
+            "bestTip": {
+              "market": "1x2_fh",
+              "selection": "X",
+              "label": "Draw HT",
+              "probability": 39,
+              "odds": 2.5,
+              "edge": -1,
+              "hasEdge": false,
+              "line": null,
+              "bookmaker": "Kambi",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 2.5
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 2.5
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 2.4
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": null
+                }
+              ]
+            },
+            "settlement": "lost",
+            "actual": "1",
+            "matchResult": {
+              "home": {
+                "prob": 47,
+                "odds": 1.67
+              },
+              "draw": {
+                "prob": 26,
+                "odds": 4.1
+              },
+              "away": {
+                "prob": 27,
+                "odds": 4.5
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "9 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "15 Apr",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "6 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 Oct",
+                  "opponent": "KFUM",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-5",
+                  "corners": null,
+                  "date": "18 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "22 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "16 May",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "3 May",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "12 Apr",
+                  "opponent": "Molde",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-1",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Brann",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "3-0",
+                  "corners": null,
+                  "date": "8 Nov",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-3",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "5 Oct",
+                  "opponent": "Fredrikstad",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 1.3,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 40,
+                "btts": 60,
+                "scored2": 40,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 5,
+                  "d": 2,
+                  "l": 3
+                },
+                "htRecord": {
+                  "w": 4,
+                  "d": 5,
+                  "l": 1
+                },
+                "fhFor": 0.9,
+                "fhAgainst": 0.5,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1.2,
+                "ga": 2.2,
+                "cs": 0,
+                "fts": 20,
+                "ov25": 80,
+                "btts": 80,
+                "scored2": 30,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 1,
+                  "d": 4,
+                  "l": 5
+                },
+                "fhFor": 0.3,
+                "fhAgainst": 1,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "31 Aug 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 4,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "11 May 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Oct 2024"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 7,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 May 2024"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "24 Sept 2023"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "16 Jul 2023"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "4 Sept 2022"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 2,
+                  "ag": 3,
+                  "hc": null,
+                  "ac": null,
+                  "date": "26 Jun 2022"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": {
+          "market": "Match result",
+          "selection": "Away win",
+          "odds": 4.5,
+          "edge": 4.8,
+          "bookmaker": "Kambi"
+        },
+        "matchResult": {
+          "home": {
+            "prob": 47,
+            "odds": 1.67
+          },
+          "draw": {
+            "prob": 26,
+            "odds": 4.1
+          },
+          "away": {
+            "prob": 27,
+            "odds": 4.5
+          }
+        },
+        "tips": [
+          {
+            "market": "Match result",
+            "selection": "Away win",
+            "odds": 4.5,
+            "edge": 4.8,
+            "bookmaker": "Kambi"
+          },
+          {
+            "market": "Total goals",
+            "selection": "Under 4.5 goals",
+            "odds": 1.2,
+            "edge": 2.7,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "Home goals",
+            "selection": "Home under 2.5 goals",
+            "odds": 1.4,
+            "edge": 9.6,
+            "bookmaker": "Ladbrokes"
+          },
+          {
+            "market": "Corners",
+            "selection": "Over 8.5 corners",
+            "odds": 1.28,
+            "edge": -10.1,
+            "bookmaker": "Kambi"
+          },
+          {
+            "market": "total_goals",
+            "selection": "Under 2.5 goals",
+            "odds": 2.4,
+            "edge": 10.3,
+            "bookmaker": "Paddy Power"
+          },
+          {
+            "market": "home_goals",
+            "selection": "Home under 2.5 goals",
+            "odds": 1.4,
+            "edge": 9.6,
+            "bookmaker": "Ladbrokes"
+          },
+          {
+            "market": "Half-time result",
+            "selection": "Away HT",
+            "odds": 4.75,
+            "edge": 2.9,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "BTTS",
+            "selection": "BTTS: No",
+            "odds": 2.25,
+            "edge": 3.6,
+            "bookmaker": "Paddy Power"
+          }
+        ],
+        "generatedAt": "2026-07-26T17:54:26.475Z"
+      },
+      "thirdPartyCompare": {
+        "provider": "FootyMetrics",
+        "direction": {
+          "market": "Match result",
+          "selection": "Away win",
+          "odds": 4.5,
+          "edge": 4.8,
+          "bookmaker": "Kambi"
+        },
+        "matchResult": {
+          "home": {
+            "prob": 47,
+            "odds": 1.67
+          },
+          "draw": {
+            "prob": 26,
+            "odds": 4.1
+          },
+          "away": {
+            "prob": 27,
+            "odds": 4.5
+          }
+        },
+        "tips": [
+          {
+            "market": "Match result",
+            "selection": "Away win",
+            "odds": 4.5,
+            "edge": 4.8,
+            "bookmaker": "Kambi"
+          },
+          {
+            "market": "Total goals",
+            "selection": "Under 4.5 goals",
+            "odds": 1.2,
+            "edge": 2.7,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "Home goals",
+            "selection": "Home under 2.5 goals",
+            "odds": 1.4,
+            "edge": 9.6,
+            "bookmaker": "Ladbrokes"
+          },
+          {
+            "market": "Corners",
+            "selection": "Over 8.5 corners",
+            "odds": 1.28,
+            "edge": -10.1,
+            "bookmaker": "Kambi"
+          },
+          {
+            "market": "total_goals",
+            "selection": "Under 2.5 goals",
+            "odds": 2.4,
+            "edge": 10.3,
+            "bookmaker": "Paddy Power"
+          },
+          {
+            "market": "home_goals",
+            "selection": "Home under 2.5 goals",
+            "odds": 1.4,
+            "edge": 9.6,
+            "bookmaker": "Ladbrokes"
+          },
+          {
+            "market": "Half-time result",
+            "selection": "Away HT",
+            "odds": 4.75,
+            "edge": 2.9,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "BTTS",
+            "selection": "BTTS: No",
+            "odds": 2.25,
+            "edge": 3.6,
+            "bookmaker": "Paddy Power"
+          }
+        ],
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -33812,6 +38583,3280 @@ window.__JINCAI_DATA__ = {
         "role": "third-party-institution-compare",
         "rows": [
           {
+            "sourcePath": "/predictions",
+            "rowId": "19629625-1x2-1-x",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "1x2",
+              "selection": "1",
+              "label": "Home win",
+              "probability": 35,
+              "odds": 3.2,
+              "edge": 3.8,
+              "hasEdge": true,
+              "line": null,
+              "marketLabel": "Match result",
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 3.2
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 3
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 3
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 2.87
+                }
+              ]
+            },
+            "settlement": "lost",
+            "actual": "2",
+            "matchResult": {
+              "home": {
+                "prob": 35,
+                "odds": 3.2
+              },
+              "draw": {
+                "prob": 25,
+                "odds": 3.6
+              },
+              "away": {
+                "prob": 40,
+                "odds": 2.15
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629625-double_chance-12-x",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "double_chance",
+              "selection": "12",
+              "label": "Home or away",
+              "probability": 75,
+              "odds": 1.29,
+              "edge": -2.5,
+              "hasEdge": false,
+              "line": null,
+              "marketLabel": "Double chance",
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.29
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": null
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": null
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": null,
+            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629625-btts-no-x",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "btts",
+              "selection": "no",
+              "label": "BTTS: No",
+              "probability": 47,
+              "odds": 2.5,
+              "edge": 7,
+              "hasEdge": true,
+              "line": null,
+              "marketLabel": "BTTS",
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 2.5
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 2.25
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 2.4
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 2.45
+                }
+              ]
+            },
+            "settlement": "lost",
+            "actual": "BTTS Yes",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629625-total_goals-under-4.5",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "total_goals",
+              "selection": "under",
+              "label": "Under 4.5 goals",
+              "probability": 85,
+              "odds": 1.2,
+              "edge": 1.7,
+              "hasEdge": true,
+              "line": 4.5,
+              "marketLabel": "Total goals",
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.2
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.15
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 1.14
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.18
+                }
+              ]
+            },
+            "settlement": "lost",
+            "actual": "6 goals",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629625-home_goals-under-2.5",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "home_goals",
+              "selection": "under",
+              "label": "Home under 2.5 goals",
+              "probability": 87,
+              "odds": 1.14,
+              "edge": -0.7,
+              "hasEdge": false,
+              "line": 2.5,
+              "marketLabel": "Home goals",
+              "bookmaker": "Ladbrokes",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": null
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": null
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.14
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "2 scored",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions",
+            "rowId": "19629625-total_corners-over-6.5",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "total_corners",
+              "selection": "over",
+              "label": "Over 6.5 corners",
+              "probability": 79,
+              "odds": 1.11,
+              "edge": -11.1,
+              "hasEdge": false,
+              "line": 6.5,
+              "marketLabel": "Corners",
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.11
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": null
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": null
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "12 corners",
+            "matchResult": "$1a:props:children:1:props:children:props:rows:266:matchResult",
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": 10,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": 8,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": 11,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": 10,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": 3,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": 14,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": 6,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": 10,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": 17,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": 6,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": 9,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": 10,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": 9,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": 12,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": 8,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": 12,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": 15,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": 9,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": 3,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": 12,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": 9.5,
+                "cf": 6,
+                "ca": 3.5,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": 70
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": 9.9,
+                "cf": 5.8,
+                "ca": 4.1,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": 90
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions/1x2",
+            "rowId": "",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "1x2",
+              "selection": "2",
+              "label": "Away win",
+              "probability": 40,
+              "odds": 2.15,
+              "edge": -6.5,
+              "hasEdge": false,
+              "line": null,
+              "bookmaker": "Kambi",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 2.1
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 2.15
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 2
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 2.1
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "2",
+            "matchResult": {
+              "home": {
+                "prob": 35,
+                "odds": 3.2
+              },
+              "draw": {
+                "prob": 25,
+                "odds": 3.6
+              },
+              "away": {
+                "prob": 40,
+                "odds": 2.15
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 0,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "17 Aug 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "29 Jun 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "23 Sept 2024"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Jul 2024"
+                }
+              ]
+            }
+          },
+          {
+            "sourcePath": "/predictions/btts",
+            "rowId": "",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "btts",
+              "selection": "yes",
+              "label": "BTTS: Yes",
+              "probability": 53,
+              "odds": 1.54,
+              "edge": -11.9,
+              "hasEdge": false,
+              "line": null,
+              "bookmaker": "Kambi",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.5
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.54
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 1.5
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.5
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "BTTS Yes",
+            "matchResult": {
+              "home": {
+                "prob": 35,
+                "odds": 3.2
+              },
+              "draw": {
+                "prob": 25,
+                "odds": 3.6
+              },
+              "away": {
+                "prob": 40,
+                "odds": 2.15
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 0,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "17 Aug 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "29 Jun 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "23 Sept 2024"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Jul 2024"
+                }
+              ]
+            }
+          },
+          {
+            "sourcePath": "/predictions/goals-over-under",
+            "rowId": "",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "total_goals",
+              "selection": "over",
+              "label": "Over 2.5 goals",
+              "probability": 50,
+              "odds": 1.65,
+              "edge": -10.6,
+              "hasEdge": false,
+              "line": 2.5,
+              "bookmaker": "Kambi",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.6
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 1.65
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 1.57
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.57
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "6 goals",
+            "matchResult": {
+              "home": {
+                "prob": 35,
+                "odds": 3.2
+              },
+              "draw": {
+                "prob": 25,
+                "odds": 3.6
+              },
+              "away": {
+                "prob": 40,
+                "odds": 2.15
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 0,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "17 Aug 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "29 Jun 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "23 Sept 2024"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Jul 2024"
+                }
+              ]
+            }
+          },
+          {
             "sourcePath": "/predictions/team-goals",
             "rowId": "",
             "fixtureApid": 19629625,
@@ -33824,31 +41869,1305 @@ window.__JINCAI_DATA__ = {
             },
             "home": "KFUM",
             "away": "Molde",
-            "locked": true,
-            "finished": false,
-            "score": null,
-            "bestTip": null,
-            "settlement": null,
-            "actual": null,
-            "matchResult": null,
-            "form": {
-              "home": [],
-              "away": []
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
             },
-            "modelStats": null
+            "bestTip": {
+              "market": "home_goals",
+              "selection": "under",
+              "label": "Home under 2.5 goals",
+              "probability": 87,
+              "odds": 1.14,
+              "edge": -0.7,
+              "hasEdge": false,
+              "line": 2.5,
+              "bookmaker": "Ladbrokes",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": null
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": null
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": 1.14
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "2 scored",
+            "matchResult": {
+              "home": {
+                "prob": 35,
+                "odds": 3.2
+              },
+              "draw": {
+                "prob": 25,
+                "odds": 3.6
+              },
+              "away": {
+                "prob": 40,
+                "odds": 2.15
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": []
+            }
+          },
+          {
+            "sourcePath": "/predictions/double-chance",
+            "rowId": "",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "double_chance",
+              "selection": "12",
+              "label": "Home or away",
+              "probability": 75,
+              "odds": 1.29,
+              "edge": -2.5,
+              "hasEdge": false,
+              "line": null,
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 1.29
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": null
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": null
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": null
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": null,
+            "matchResult": {
+              "home": {
+                "prob": 35,
+                "odds": 3.2
+              },
+              "draw": {
+                "prob": 25,
+                "odds": 3.6
+              },
+              "away": {
+                "prob": 40,
+                "odds": 2.15
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 0,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "17 Aug 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "29 Jun 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "23 Sept 2024"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Jul 2024"
+                }
+              ]
+            }
+          },
+          {
+            "sourcePath": "/predictions/1x2-ht",
+            "rowId": "",
+            "fixtureApid": 19629625,
+            "slug": "26672152-eliteserien-kfum-molde",
+            "timestamp": "2026-07-26T15:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "KFUM",
+            "away": "Molde",
+            "locked": false,
+            "finished": true,
+            "score": {
+              "home": 2,
+              "away": 4
+            },
+            "bestTip": {
+              "market": "1x2_fh",
+              "selection": "X",
+              "label": "Draw HT",
+              "probability": 42,
+              "odds": 2.38,
+              "edge": "$-0",
+              "hasEdge": false,
+              "line": null,
+              "bookmaker": "Bet365",
+              "prices": [
+                {
+                  "id": 1,
+                  "name": "Bet365",
+                  "shortName": "Bet365",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+                  "odds": 2.38
+                },
+                {
+                  "id": 2,
+                  "name": "Kambi",
+                  "shortName": "Kambi",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+                  "odds": 2.32
+                },
+                {
+                  "id": 3,
+                  "name": "Paddy Power",
+                  "shortName": "Paddy",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+                  "odds": 2.3
+                },
+                {
+                  "id": 4,
+                  "name": "Ladbrokes",
+                  "shortName": "Ladbrokes",
+                  "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+                  "odds": null
+                }
+              ]
+            },
+            "settlement": "won",
+            "actual": "X",
+            "matchResult": {
+              "home": {
+                "prob": 35,
+                "odds": 3.2
+              },
+              "draw": {
+                "prob": 25,
+                "odds": 3.6
+              },
+              "away": {
+                "prob": 40,
+                "odds": 2.15
+              }
+            },
+            "form": {
+              "home": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "12 Jul",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "D",
+                  "score": "0-0",
+                  "corners": null,
+                  "date": "29 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Rosenborg",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "26 Apr",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "7 Apr",
+                  "opponent": "Sandefjord",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "15 Mar",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-2",
+                  "corners": null,
+                  "date": "21 Nov",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-4",
+                  "corners": null,
+                  "date": "2 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ],
+              "away": [
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "2-2",
+                  "corners": null,
+                  "date": "11 Jul",
+                  "opponent": "Aalesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "25 May",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-0",
+                  "corners": null,
+                  "date": "10 May",
+                  "opponent": "Tromsø",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-1",
+                  "corners": null,
+                  "date": "4 May",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "D",
+                  "score": "1-1",
+                  "corners": null,
+                  "date": "19 Apr",
+                  "opponent": "Start",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "21 Mar",
+                  "opponent": "Viking",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "1-0",
+                  "corners": null,
+                  "date": "30 Nov",
+                  "opponent": "Sarpsborg 08",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "res": "W",
+                  "score": "0-2",
+                  "corners": null,
+                  "date": "9 Nov",
+                  "opponent": "Haugesund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "4-1",
+                  "corners": null,
+                  "date": "26 Oct",
+                  "opponent": "Bodø / Glimt",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "res": "L",
+                  "score": "2-1",
+                  "corners": null,
+                  "date": "4 Oct",
+                  "opponent": "Kristiansund",
+                  "leagueLogo": "https://cdn.footymetrics.com/leagues/444.webp",
+                  "leagueLogoDark": null
+                }
+              ]
+            },
+            "modelStats": {
+              "home": {
+                "n": 10,
+                "gf": 0.9,
+                "ga": 1.3,
+                "cs": 40,
+                "fts": 30,
+                "ov25": 30,
+                "btts": 40,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 3,
+                  "d": 2,
+                  "l": 5
+                },
+                "htRecord": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "fhFor": 0.4,
+                "fhAgainst": 0.8,
+                "ovLine": null
+              },
+              "away": {
+                "n": 10,
+                "gf": 1,
+                "ga": 1.8,
+                "cs": 20,
+                "fts": 20,
+                "ov25": 50,
+                "btts": 60,
+                "scored2": 20,
+                "cAvg": null,
+                "cf": null,
+                "ca": null,
+                "record": {
+                  "w": 2,
+                  "d": 2,
+                  "l": 6
+                },
+                "htRecord": {
+                  "w": 3,
+                  "d": 3,
+                  "l": 4
+                },
+                "fhFor": 0.7,
+                "fhAgainst": 0.9,
+                "ovLine": null
+              },
+              "h2h": [
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 0,
+                  "ag": 0,
+                  "hc": null,
+                  "ac": null,
+                  "date": "17 Aug 2025"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "29 Jun 2025"
+                },
+                {
+                  "hit": true,
+                  "pending": false,
+                  "hg": 1,
+                  "ag": 1,
+                  "hc": null,
+                  "ac": null,
+                  "date": "23 Sept 2024"
+                },
+                {
+                  "hit": false,
+                  "pending": false,
+                  "hg": 3,
+                  "ag": 2,
+                  "hc": null,
+                  "ac": null,
+                  "date": "20 Jul 2024"
+                }
+              ]
+            }
           }
         ],
-        "direction": null,
-        "matchResult": null,
-        "tips": [],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "direction": {
+          "market": "Match result",
+          "selection": "Home win",
+          "odds": 3.2,
+          "edge": 3.8,
+          "bookmaker": "Bet365"
+        },
+        "matchResult": {
+          "home": {
+            "prob": 35,
+            "odds": 3.2
+          },
+          "draw": {
+            "prob": 25,
+            "odds": 3.6
+          },
+          "away": {
+            "prob": 40,
+            "odds": 2.15
+          }
+        },
+        "tips": [
+          {
+            "market": "Match result",
+            "selection": "Home win",
+            "odds": 3.2,
+            "edge": 3.8,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "Total goals",
+            "selection": "Under 4.5 goals",
+            "odds": 1.2,
+            "edge": 1.7,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "Home goals",
+            "selection": "Home under 2.5 goals",
+            "odds": 1.14,
+            "edge": -0.7,
+            "bookmaker": "Ladbrokes"
+          },
+          {
+            "market": "Corners",
+            "selection": "Over 6.5 corners",
+            "odds": 1.11,
+            "edge": -11.1,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "total_goals",
+            "selection": "Over 2.5 goals",
+            "odds": 1.65,
+            "edge": -10.6,
+            "bookmaker": "Kambi"
+          },
+          {
+            "market": "home_goals",
+            "selection": "Home under 2.5 goals",
+            "odds": 1.14,
+            "edge": -0.7,
+            "bookmaker": "Ladbrokes"
+          },
+          {
+            "market": "Double chance",
+            "selection": "Home or away",
+            "odds": 1.29,
+            "edge": -2.5,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "BTTS",
+            "selection": "BTTS: No",
+            "odds": 2.5,
+            "edge": 7,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
-        "direction": null,
-        "matchResult": null,
-        "tips": [],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "direction": {
+          "market": "Match result",
+          "selection": "Home win",
+          "odds": 3.2,
+          "edge": 3.8,
+          "bookmaker": "Bet365"
+        },
+        "matchResult": {
+          "home": {
+            "prob": 35,
+            "odds": 3.2
+          },
+          "draw": {
+            "prob": 25,
+            "odds": 3.6
+          },
+          "away": {
+            "prob": 40,
+            "odds": 2.15
+          }
+        },
+        "tips": [
+          {
+            "market": "Match result",
+            "selection": "Home win",
+            "odds": 3.2,
+            "edge": 3.8,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "Total goals",
+            "selection": "Under 4.5 goals",
+            "odds": 1.2,
+            "edge": 1.7,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "Home goals",
+            "selection": "Home under 2.5 goals",
+            "odds": 1.14,
+            "edge": -0.7,
+            "bookmaker": "Ladbrokes"
+          },
+          {
+            "market": "Corners",
+            "selection": "Over 6.5 corners",
+            "odds": 1.11,
+            "edge": -11.1,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "total_goals",
+            "selection": "Over 2.5 goals",
+            "odds": 1.65,
+            "edge": -10.6,
+            "bookmaker": "Kambi"
+          },
+          {
+            "market": "home_goals",
+            "selection": "Home under 2.5 goals",
+            "odds": 1.14,
+            "edge": -0.7,
+            "bookmaker": "Ladbrokes"
+          },
+          {
+            "market": "Double chance",
+            "selection": "Home or away",
+            "odds": 1.29,
+            "edge": -2.5,
+            "bookmaker": "Bet365"
+          },
+          {
+            "market": "BTTS",
+            "selection": "BTTS: No",
+            "odds": 2.5,
+            "edge": 7,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -34320,14 +43639,14 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-26T16:47:38.403Z"
+        "generatedAt": "2026-07-26T17:54:26.475Z"
       }
     },
     {
@@ -35151,7 +44470,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-07-26T16:47:38.621Z",
+  "enrichedAt": "2026-07-26T17:54:26.734Z",
   "enrichment": {
     "providerOverrides": 20,
     "apiFootball": "synced",
