@@ -1,0 +1,32 @@
+{
+  "matches": [
+    {
+      "id": "jc-5201",
+      "xgHome": 1.62,
+      "xgAway": 1.18,
+      "eloHome": 1682,
+      "eloAway": 1714,
+      "formHistory": { "home": 48, "draw": 42, "away": 58 },
+      "intent": {
+        "stars": 4,
+        "reason": "积分形势已校验：主队保级压力更强，客队排名优势明显"
+      },
+      "injuries": {
+        "home": ["主力中卫待确认"],
+        "away": ["无核心伤停"]
+      },
+      "lineups": {
+        "home": "预计 4-2-3-1，首发待公布",
+        "away": "预计 3-4-2-1，首发待公布"
+      },
+      "result": {
+        "status": "待赛果",
+        "score": null
+      },
+      "dataQuality": {
+        "real": ["第三方xG", "第三方ELO", "阵容伤停", "积分形势"],
+        "pending": []
+      }
+    }
+  ]
+}

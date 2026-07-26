@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>比赛详细解读 - 紫域进球</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <div class="glow glow-a"></div><div class="glow glow-b"></div>
+    <header class="site-header">
+      <div class="nav">
+        <a class="logo" href="./index.html"><span>球</span><strong>紫域进球</strong></a>
+        <nav><a href="./index.html#predictions">今日预测</a><a href="./results.html">命中记录</a><a href="./future.html">赛事分类</a><a href="./live.html">实时直播</a></nav>
+        <div class="nav-actions"><a class="solid-button" href="./login.html">登录</a></div>
+      </div>
+    </header>
+    <main id="matchRoot"></main>
+    <script src="./src/generated-fixtures.js"></script>
+    <script src="./src/generated-jincai-fixtures.js"></script>
+    <script src="./page-data.js"></script>
+    <script>renderMatchPage();</script>
+  </body>
+</html>

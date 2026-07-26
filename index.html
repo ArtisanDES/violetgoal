@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="紫域进球是一款黑紫光感足球预测网站，提供赛前分析、胜平负方向、比分倾向、赔率变化和近期命中记录。"
+    />
+    <title>紫域进球 - 高级足球预测数据站</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <div class="glow glow-a"></div>
+    <div class="glow glow-b"></div>
+
+    <header class="site-header">
+      <div class="nav">
+        <a class="logo" href="#top"><span>球</span><strong>紫域进球</strong></a>
+        <nav>
+          <a href="#predictions">今日预测</a>
+          <a href="./results.html">命中记录</a>
+          <a href="./live.html">实时直播</a>
+        </nav>
+        <div class="nav-actions">
+          <button class="icon-button" aria-label="菜单">≡</button>
+          <button class="outline-button">中文</button>
+          <a class="solid-button" href="./login.html">登录</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" id="top">
+        <div class="hero-copy">
+          <span class="label">今日重点足球预测 · <b id="liveClock">--:--:--</b></span>
+          <h1>AI足球预测</h1>
+          <p>
+            以战意分析、赔率走势、状态历史为第一决策层，再融合基本面、xG、指数趋势、AI模型和传统统计，生成清晰可读的赛前预测面板。
+          </p>
+          <div class="hero-buttons">
+            <a class="solid-button large" href="#predictions">查看今日预测 →</a>
+            <a class="outline-button large" href="#wins">查看近期战绩</a>
+          </div>
+          <div class="trust-row">
+            <span>30 天公开记录</span>
+            <span>三维加权优先</span>
+            <span>热门自动降权</span>
+          </div>
+        </div>
+
+        <div class="hero-board tilt-card">
+          <div class="board-top">
+            <div><span>综合命中率</span><strong id="heroAccuracy">--</strong></div>
+            <div class="live-chip">实时</div>
+          </div>
+          <div class="pitch">
+            <div class="pitch-line center"></div>
+            <div class="pitch-circle"></div>
+            <span class="node n1"></span>
+            <span class="node n2"></span>
+            <span class="node n3"></span>
+            <span class="node n4"></span>
+            <span class="laser l1"></span>
+            <span class="laser l2"></span>
+          </div>
+          <div class="board-bottom">
+            <div><span>模型分歧</span><strong id="heroIndexMove">--</strong></div>
+            <div><span>xG优势</span><strong id="heroXgEdge">--</strong></div>
+            <div><span>风险等级</span><strong id="heroRisk">--</strong></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="league-cloud" id="leagueCloud"></section>
+
+      <section class="promo-grid">
+        <article class="promo primary tilt-card">
+          <div>
+            <span class="label">三维优先模型</span>
+            <h2>战意分析 + 赔率走势 + 状态历史优先出结论，五维模型做辅助校验。</h2>
+          </div>
+        </article>
+        <article class="promo"><strong>胜平负 / 双方进球 / 大小球</strong><span>覆盖主流预测市场</span></article>
+        <article class="promo"><strong>透明战绩记录</strong><span>每一场预测都可复盘</span></article>
+      </section>
+
+      <section class="model-pipeline">
+        <div class="section-heading">
+          <span class="label">模型管道</span>
+          <h2>战意、赔率、状态历史优先，自动识别热门风险</h2>
+        </div>
+        <div class="pipeline-grid">
+          <article><span>01</span><strong>战意分析</strong><p>常规权重 40%，赛季末段提升到 50%，优先判断保级、争冠、争四和德比。</p></article>
+          <article><span>02</span><strong>赔率走势</strong><p>目标方向下降 0.15+ 为强信号，热门方向上升为警示，平赔下降 0.2+ 防平。</p></article>
+          <article><span>03</span><strong>状态历史</strong><p>近况、主客场、交锋、阵容和xG趋势作为第三维校验。</p></article>
+          <article><span>04</span><strong>智能避热</strong><p>皇马、巴萨、曼城等热门队自动降权 10-15%，信心上限 75%。</p></article>
+        </div>
+      </section>
+
+      <section class="records" id="wins">
+        <div class="section-heading">
+          <span class="label">命中记录</span>
+          <h2>近期足球预测结果</h2>
+        </div>
+        <div class="record-grid">
+          <article class="record-card"><span>今日入库</span><strong id="recordYesterdayCount">--</strong><div><b id="recordYesterdayRate">--</b><small id="recordYesterdayUnits">--</small></div></article>
+          <article class="record-card"><span>近 7 天累计</span><strong id="recordWeekCount">--</strong><div><b id="recordWeekRate">--</b><small id="recordWeekUnits">--</small></div></article>
+          <article class="record-card"><span>近 30 天累计</span><strong id="recordMonthCount">--</strong><div><b id="recordMonthRate">--</b><small id="recordMonthUnits">--</small></div></article>
+        </div>
+      </section>
+
+      <section class="live-section" id="liveStream">
+        <div class="section-heading">
+          <span class="label">实时直播</span>
+          <h2>竞彩与热门赛事动态</h2>
+        </div>
+        <div class="live-grid" id="liveGrid"></div>
+      </section>
+
+      <section class="prediction-layout" id="predictions">
+        <aside class="sidebar">
+          <div class="side-title"><span>今日赛事分类</span><button id="allBtn">全部</button></div>
+          <div id="sideLeagues"></div>
+        </aside>
+        <section class="prediction-feed">
+          <div class="feed-header">
+            <div>
+              <span class="label">免费足球预测</span>
+              <h2 id="feedTitle">今日比赛推荐</h2>
+              <small class="data-status" id="dataStatus">数据包：演示数据</small>
+            </div>
+            <label class="search" aria-label="搜索比赛">
+              <span class="search-icon">⌕</span>
+              <input id="searchInput" placeholder="搜索球队、联赛或方向" />
+            </label>
+          </div>
+          <div class="match-feed" id="matchFeed"></div>
+        </section>
+      </section>
+
+      <footer>
+        <span>紫域进球 © 2026</span>
+        <span>预测内容仅供数据分析与娱乐参考，不构成投注建议。</span>
+      </footer>
+    </main>
+
+    <script src="./src/generated-fixtures.js"></script>
+    <script src="./src/generated-jincai-fixtures.js"></script>
+    <script src="./src/main.js"></script>
+  </body>
+</html>
