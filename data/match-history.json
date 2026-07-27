@@ -1,7 +1,7 @@
 {
   "version": 1,
   "launchedAt": "2026-07-26T00:05:12.841Z",
-  "updatedAt": "2026-07-27T17:15:12.715Z",
+  "updatedAt": "2026-07-27T18:53:11.487Z",
   "matches": {
     "jc-6210": {
       "id": "jc-6210",
@@ -5449,7 +5449,7 @@
       },
       "archive": {
         "firstSeenAt": "2026-07-26T00:05:12.844Z",
-        "lastSeenAt": "2026-07-27T17:15:12.715Z"
+        "lastSeenAt": "2026-07-27T18:53:11.487Z"
       },
       "apiFootball": {
         "fixtureId": 1494220,
@@ -5693,7 +5693,7 @@
       },
       "archive": {
         "firstSeenAt": "2026-07-26T00:05:12.844Z",
-        "lastSeenAt": "2026-07-27T17:15:12.715Z"
+        "lastSeenAt": "2026-07-27T18:53:11.487Z"
       },
       "apiFootball": {
         "fixtureId": 1494713,
@@ -5818,6 +5818,58 @@
             "modelStats": null
           },
           {
+            "sourcePath": "/predictions/goals-over-under",
+            "rowId": "",
+            "fixtureApid": 19629623,
+            "slug": "26692672-eliteserien-rosenborg-fredrikstad",
+            "timestamp": "2026-07-27T17:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Rosenborg",
+            "away": "Fredrikstad",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          },
+          {
+            "sourcePath": "/predictions/team-goals",
+            "rowId": "",
+            "fixtureApid": 19629623,
+            "slug": "26692672-eliteserien-rosenborg-fredrikstad",
+            "timestamp": "2026-07-27T17:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Rosenborg",
+            "away": "Fredrikstad",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          },
+          {
             "sourcePath": "/predictions/double-chance",
             "rowId": "",
             "fixtureApid": 19629623,
@@ -5845,12 +5897,12 @@
           }
         ],
         "tips": [],
-        "generatedAt": "2026-07-27T17:15:12.527Z"
+        "generatedAt": "2026-07-27T18:53:11.292Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "tips": [],
-        "generatedAt": "2026-07-27T17:15:12.527Z"
+        "generatedAt": "2026-07-27T18:53:11.292Z"
       }
     }
   }

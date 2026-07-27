@@ -572,6 +572,58 @@ window.__JINCAI_DATA__ = {
             "modelStats": null
           },
           {
+            "sourcePath": "/predictions/goals-over-under",
+            "rowId": "",
+            "fixtureApid": 19629623,
+            "slug": "26692672-eliteserien-rosenborg-fredrikstad",
+            "timestamp": "2026-07-27T17:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Rosenborg",
+            "away": "Fredrikstad",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          },
+          {
+            "sourcePath": "/predictions/team-goals",
+            "rowId": "",
+            "fixtureApid": 19629623,
+            "slug": "26692672-eliteserien-rosenborg-fredrikstad",
+            "timestamp": "2026-07-27T17:00:00.000Z",
+            "league": {
+              "id": 38,
+              "name": "Eliteserien",
+              "country": "Norway"
+            },
+            "home": "Rosenborg",
+            "away": "Fredrikstad",
+            "locked": true,
+            "finished": false,
+            "score": null,
+            "bestTip": null,
+            "settlement": null,
+            "actual": null,
+            "matchResult": null,
+            "form": {
+              "home": [],
+              "away": []
+            },
+            "modelStats": null
+          },
+          {
             "sourcePath": "/predictions/double-chance",
             "rowId": "",
             "fixtureApid": 19629623,
@@ -601,18 +653,18 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-27T17:15:12.527Z"
+        "generatedAt": "2026-07-27T18:53:11.292Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-27T17:15:12.527Z"
+        "generatedAt": "2026-07-27T18:53:11.292Z"
       }
     }
   ],
-  "enrichedAt": "2026-07-27T17:15:12.621Z",
+  "enrichedAt": "2026-07-27T18:53:11.393Z",
   "enrichment": {
     "providerOverrides": 2,
     "apiFootball": "synced",
