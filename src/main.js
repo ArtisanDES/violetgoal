@@ -53,15 +53,20 @@ function hasStarted(match) {
   return kickOff ? kickOff <= now : false;
 }
 
-function isHomePredictionMatch(match) {
+function isBaseHomePredictionMatch(match) {
   return isSportteryMatch(match) && isCurrentBusinessDate(match) && !isNightRecordMatch(match) && !hasStarted(match);
 }
 
-function isRecordWaitingMatch(match) {
-  return isSportteryMatch(match) && isCurrentBusinessDate(match) && (isNightRecordMatch(match) || hasStarted(match) || Boolean(match.result?.score || match.score));
+function isFallbackHomePredictionMatch(match) {
+  return isSportteryMatch(match) && isCurrentBusinessDate(match) && !hasStarted(match);
 }
 
-const homePredictionMatches = matches.filter(isHomePredictionMatch);
+function isRecordWaitingMatch(match) {
+  return isSportteryMatch(match) && isCurrentBusinessDate(match) && (hasStarted(match) || Boolean(match.result?.score || match.score));
+}
+
+const baseHomePredictionMatches = matches.filter(isBaseHomePredictionMatch);
+const homePredictionMatches = baseHomePredictionMatches.length ? baseHomePredictionMatches : matches.filter(isFallbackHomePredictionMatch);
 const recordWaitingMatches = matches.filter(isRecordWaitingMatch);
 const currentIssueMatches = matches.filter((match) => isSportteryMatch(match) && isCurrentBusinessDate(match));
 const futureIssueMatches = matches.filter((match) => isSportteryMatch(match) && !isCurrentBusinessDate(match));
