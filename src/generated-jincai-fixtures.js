@@ -601,18 +601,18 @@ window.__JINCAI_DATA__ = {
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-27T12:11:33.894Z"
+        "generatedAt": "2026-07-27T15:20:59.763Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
         "direction": null,
         "matchResult": null,
         "tips": [],
-        "generatedAt": "2026-07-27T12:11:33.894Z"
+        "generatedAt": "2026-07-27T15:20:59.763Z"
       }
     }
   ],
-  "enrichedAt": "2026-07-27T12:11:34.000Z",
+  "enrichedAt": "2026-07-27T15:20:59.852Z",
   "enrichment": {
     "providerOverrides": 2,
     "apiFootball": "synced",
