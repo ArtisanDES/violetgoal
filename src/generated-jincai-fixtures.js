@@ -941,7 +941,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "1",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:45:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
             "form": {
               "home": [
                 {
@@ -1287,7 +1287,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "BTTS No",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:45:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
             "form": {
               "home": [
                 {
@@ -1633,7 +1633,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "4 goals",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:45:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
             "form": {
               "home": [
                 {
@@ -1979,7 +1979,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "4 scored",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:45:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
             "form": {
               "home": [
                 {
@@ -2325,7 +2325,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "13 corners",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:45:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
             "form": {
               "home": [
                 {
@@ -2674,7 +2674,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-28T10:24:15.031Z"
+        "generatedAt": "2026-07-28T12:19:07.945Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -2743,11 +2743,11 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-28T10:24:15.031Z"
+        "generatedAt": "2026-07-28T12:19:07.945Z"
       }
     }
   ],
-  "enrichedAt": "2026-07-28T10:24:15.092Z",
+  "enrichedAt": "2026-07-28T12:19:08.005Z",
   "enrichment": {
     "providerOverrides": 2,
     "apiFootball": "synced",
