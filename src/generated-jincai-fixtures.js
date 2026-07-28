@@ -2674,7 +2674,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-28T21:55:37.671Z"
+        "generatedAt": "2026-07-28T22:51:59.692Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -2743,11 +2743,11 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-07-28T21:55:37.671Z"
+        "generatedAt": "2026-07-28T22:51:59.692Z"
       }
     }
   ],
-  "enrichedAt": "2026-07-28T21:55:37.737Z",
+  "enrichedAt": "2026-07-28T22:51:59.751Z",
   "enrichment": {
     "providerOverrides": 2,
     "apiFootball": "synced",
