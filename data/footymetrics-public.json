@@ -1,27 +1,27 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-07-31T08:33:59.157Z",
+  "generatedAt": "2026-07-31T11:20:13.962Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-07-31T08:33:57.228Z",
-      "bytes": 444193,
+      "fetchedAt": "2026-07-31T11:20:09.645Z",
+      "bytes": 442287,
       "rowCount": 34,
       "serverTotal": 139
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-07-31T08:33:57.443Z",
-      "bytes": 286101,
+      "fetchedAt": "2026-07-31T11:20:10.353Z",
+      "bytes": 286087,
       "rowCount": 10,
       "serverTotal": 24
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-07-31T08:33:57.666Z",
+      "fetchedAt": "2026-07-31T11:20:11.151Z",
       "bytes": 285211,
       "rowCount": 10,
       "serverTotal": 24
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-07-31T08:33:57.894Z",
+      "fetchedAt": "2026-07-31T11:20:11.500Z",
       "bytes": 287414,
       "rowCount": 10,
       "serverTotal": 24
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-07-31T08:33:58.120Z",
+      "fetchedAt": "2026-07-31T11:20:11.794Z",
       "bytes": 281453,
       "rowCount": 10,
       "serverTotal": 21
@@ -45,31 +45,31 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-07-31T08:33:58.332Z",
-      "bytes": 285845,
+      "fetchedAt": "2026-07-31T11:20:12.217Z",
+      "bytes": 285842,
       "rowCount": 10,
       "serverTotal": 24
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-07-31T08:33:58.556Z",
-      "bytes": 285457,
+      "fetchedAt": "2026-07-31T11:20:12.492Z",
+      "bytes": 285454,
       "rowCount": 10,
       "serverTotal": 24
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-07-31T08:33:58.709Z",
+      "fetchedAt": "2026-07-31T11:20:12.696Z",
       "bytes": 253765,
       "rowCount": 5,
-      "serverTotal": 325
+      "serverTotal": 331
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-07-31T08:33:58.865Z",
+      "fetchedAt": "2026-07-31T11:20:12.907Z",
       "bytes": 607651,
       "rowCount": 53,
       "serverTotal": 53
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-07-31T08:33:59.157Z",
+      "fetchedAt": "2026-07-31T11:20:13.961Z",
       "bytes": 392383,
       "rowCount": 0,
       "serverTotal": 0
@@ -10005,38 +10005,38 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19753189-away_goals-under-2.5",
-      "fixtureApid": 19753189,
-      "slug": "26907807-first-division-aarhus-fremad-aalborg-bk",
-      "timestamp": "2026-07-31T16:00:00.000Z",
+      "rowId": "19753188-total_corners-over-6.5",
+      "fixtureApid": 19753188,
+      "slug": "26907811-first-division-ab-fredericia",
+      "timestamp": "2026-07-31T17:00:00.000Z",
       "league": {
         "id": 29,
         "name": "First Division",
         "country": "Denmark"
       },
-      "home": "Aarhus Fremad",
-      "away": "Aalborg BK",
+      "home": "AB",
+      "away": "Fredericia",
       "locked": false,
       "finished": false,
       "score": null,
       "bestTip": {
-        "market": "away_goals",
-        "selection": "under",
-        "label": "Away under 2.5 goals",
-        "probability": 89,
-        "odds": 1.15,
-        "edge": 2,
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 92,
+        "odds": 1.1,
+        "edge": 1.1,
         "hasEdge": true,
-        "line": 2.5,
-        "marketLabel": "Away goals",
-        "bookmaker": "Ladbrokes",
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.1
           },
           {
             "id": 2,
@@ -10057,7 +10057,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.15
+            "odds": null
           },
           {
             "id": 5,
@@ -10072,299 +10072,215 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 53,
-          "odds": 2.3
+          "prob": 50,
+          "odds": 3.1
         },
         "draw": {
-          "prob": 23,
+          "prob": 24,
           "odds": 3.6
         },
         "away": {
-          "prob": 24,
-          "odds": 2.88
+          "prob": 26,
+          "odds": 2.15
         }
       },
       "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "22 May",
-            "opponent": "Aalborg BK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "HB Køge",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
+        "home": [],
+        "away": [
           {
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Hobro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Middelfart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "B 93",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "14 Mar",
-            "opponent": "Horsens",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Middelfart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
+            "score": "2-0",
+            "corners": 9,
+            "date": "10 May",
+            "opponent": "Vejle Boldklub",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
           },
           {
             "hit": true,
             "pending": false,
             "res": "D",
             "score": "2-2",
-            "corners": null,
-            "date": "23 Nov",
-            "opponent": "HB Køge",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
+            "corners": 14,
+            "date": "23 Apr",
+            "opponent": "Randers FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
           },
           {
             "hit": true,
             "pending": false,
             "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "1 Nov",
-            "opponent": "Hvidovre",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "25 Oct",
-            "opponent": "Esbjerg",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-0",
-            "corners": null,
-            "date": "22 May",
-            "opponent": "Aarhus Fremad",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "15 May",
-            "opponent": "B 93",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "HB Køge",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Hobro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Middelfart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
+            "score": "2-2",
+            "corners": 9,
+            "date": "19 Apr",
+            "opponent": "Silkeborg",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
           },
           {
             "hit": true,
             "pending": false,
             "res": "L",
             "score": "1-0",
-            "corners": null,
-            "date": "14 Mar",
-            "opponent": "Hobro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "30 Nov",
-            "opponent": "Horsens",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "9 Nov",
-            "opponent": "Hvidovre",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
+            "corners": 14,
+            "date": "6 Apr",
+            "opponent": "Odense BK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
           },
           {
             "hit": true,
             "pending": false,
             "res": "W",
             "score": "1-2",
-            "corners": null,
-            "date": "1 Nov",
-            "opponent": "Middelfart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
+            "corners": 17,
+            "date": "22 Mar",
+            "opponent": "FC København",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
           },
           {
             "hit": true,
             "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "17 Oct",
-            "opponent": "B 93",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/274.webp",
-            "leagueLogoDark": null
+            "res": "W",
+            "score": "1-2",
+            "corners": 17,
+            "date": "22 Feb",
+            "opponent": "Randers FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": 14,
+            "date": "9 Feb",
+            "opponent": "Vejle Boldklub",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": 11,
+            "date": "1 Dec",
+            "opponent": "Brøndby IF",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": 11,
+            "date": "23 Nov",
+            "opponent": "Nordsjælland",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": 4,
+            "date": "1 Nov",
+            "opponent": "FC København",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/271.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/271-dark.webp"
           }
         ]
       },
       "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.9,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 50,
-          "ov25": 50,
-          "btts": 40,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
+        "home": null,
         "away": {
           "n": 10,
-          "gf": 1.4,
-          "ga": 1.5,
-          "cs": 20,
+          "gf": 1.6,
+          "ga": 2,
+          "cs": 0,
           "fts": 30,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
+          "ov25": 80,
+          "btts": 70,
+          "scored2": 70,
+          "cAvg": 12,
+          "cf": 4.1,
+          "ca": 7.9,
           "record": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 4,
+            "w": 4,
+            "d": 2,
             "l": 4
           },
-          "fhFor": 0.4,
-          "fhAgainst": 0.8,
-          "ovLine": null
+          "htRecord": {
+            "w": 4,
+            "d": 2,
+            "l": 4
+          },
+          "fhFor": 1,
+          "fhAgainst": 0.9,
+          "ovLine": 90
         },
         "h2h": []
       }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19753189-away_goals-under-2.5",
+      "fixtureApid": 19753189,
+      "slug": "26907807-first-division-aarhus-fremad-aalborg-bk",
+      "timestamp": "2026-07-31T16:00:00.000Z",
+      "league": {
+        "id": 29,
+        "name": "First Division",
+        "country": "Denmark"
+      },
+      "home": "Aarhus Fremad",
+      "away": "Aalborg BK",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19629619-total_corners-over-6.5",
+      "fixtureApid": 19629619,
+      "slug": "26780947-eliteserien-bodo-glimt-lillestrom",
+      "timestamp": "2026-07-31T19:00:00.000Z",
+      "league": {
+        "id": 38,
+        "name": "Eliteserien",
+        "country": "Norway"
+      },
+      "home": "Bodø / Glimt",
+      "away": "Lillestrøm",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
     },
     {
       "sourcePath": "/predictions",
@@ -10405,58 +10321,6 @@
       },
       "home": "Slavia Sofia",
       "away": "Lokomotiv Sofia 1929",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19629613-total_corners-over-7.5",
-      "fixtureApid": 19629613,
-      "slug": "26780941-eliteserien-valerenga-hamkam",
-      "timestamp": "2026-07-31T17:00:00.000Z",
-      "league": {
-        "id": 38,
-        "name": "Eliteserien",
-        "country": "Norway"
-      },
-      "home": "Vålerenga",
-      "away": "HamKam",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19753188-away_goals-under-2.5",
-      "fixtureApid": 19753188,
-      "slug": "26907811-first-division-ab-fredericia",
-      "timestamp": "2026-07-31T17:00:00.000Z",
-      "league": {
-        "id": 29,
-        "name": "First Division",
-        "country": "Denmark"
-      },
-      "home": "AB",
-      "away": "Fredericia",
       "locked": true,
       "finished": false,
       "score": null,
@@ -12455,18 +12319,18 @@
         "selection": "1",
         "label": "Home win",
         "probability": 75,
-        "odds": 1.22,
-        "edge": -7,
+        "odds": 1.25,
+        "edge": -5,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.2
+            "odds": 1.25
           },
           {
             "id": 2,
@@ -12503,11 +12367,11 @@
       "matchResult": {
         "home": {
           "prob": 75,
-          "odds": 1.22
+          "odds": 1.25
         },
         "draw": {
           "prob": 16,
-          "odds": 6.25
+          "odds": 6
         },
         "away": {
           "prob": 10,
@@ -22248,11 +22112,11 @@
       "matchResult": {
         "home": {
           "prob": 75,
-          "odds": 1.22
+          "odds": 1.25
         },
         "draw": {
           "prob": 16,
-          "odds": 6.25
+          "odds": 6
         },
         "away": {
           "prob": 10,
@@ -24703,8 +24567,8 @@
         "selection": "1",
         "label": "Home HT",
         "probability": 57,
-        "odds": 1.57,
-        "edge": -6.7,
+        "odds": 1.62,
+        "edge": -4.7,
         "hasEdge": false,
         "line": null,
         "bookmaker": "Bet365",
@@ -24714,7 +24578,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.57
+            "odds": 1.62
           },
           {
             "id": 2,
@@ -24751,11 +24615,11 @@
       "matchResult": {
         "home": {
           "prob": 75,
-          "odds": 1.22
+          "odds": 1.25
         },
         "draw": {
           "prob": 16,
-          "odds": 6.25
+          "odds": 6
         },
         "away": {
           "prob": 10,
