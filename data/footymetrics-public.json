@@ -1,75 +1,75 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-01T05:18:40.617Z",
+  "generatedAt": "2026-08-01T07:40:29.929Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-01T05:18:37.752Z",
-      "bytes": 374731,
-      "rowCount": 23,
-      "serverTotal": 338
+      "fetchedAt": "2026-08-01T07:40:27.552Z",
+      "bytes": 422578,
+      "rowCount": 30,
+      "serverTotal": 337
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-01T05:18:38.065Z",
-      "bytes": 273971,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-01T07:40:28.051Z",
+      "bytes": 281803,
+      "rowCount": 9,
       "serverTotal": 54
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-01T05:18:38.378Z",
-      "bytes": 272748,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-01T07:40:28.283Z",
+      "bytes": 280517,
+      "rowCount": 9,
       "serverTotal": 54
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-01T05:18:38.673Z",
-      "bytes": 275569,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-01T07:40:28.514Z",
+      "bytes": 283373,
+      "rowCount": 9,
       "serverTotal": 54
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-01T05:18:38.971Z",
-      "bytes": 269574,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-01T07:40:28.747Z",
+      "bytes": 276406,
+      "rowCount": 9,
       "serverTotal": 52
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-01T05:18:39.449Z",
-      "bytes": 273667,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-01T07:40:28.975Z",
+      "bytes": 281520,
+      "rowCount": 9,
       "serverTotal": 54
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-01T05:18:39.765Z",
-      "bytes": 272809,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-01T07:40:29.203Z",
+      "bytes": 280653,
+      "rowCount": 9,
       "serverTotal": 54
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-01T05:18:39.994Z",
+      "fetchedAt": "2026-08-01T07:40:29.360Z",
       "bytes": 254663,
       "rowCount": 5,
-      "serverTotal": 475
+      "serverTotal": 474
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-01T05:18:40.269Z",
+      "fetchedAt": "2026-08-01T07:40:29.645Z",
       "bytes": 1180824,
       "rowCount": 137,
       "serverTotal": 137
@@ -77,13 +77,13 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-01T05:18:40.616Z",
+      "fetchedAt": "2026-08-01T07:40:29.928Z",
       "bytes": 392367,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 213,
+  "count": 226,
   "errors": [],
   "rows": [
     {
@@ -6481,6 +6481,2490 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19715295-1x2-1-x",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 39,
+        "odds": 2.7,
+        "edge": 2,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.7
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.55
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 39,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.4
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.55
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19715295-double_chance-12-x",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 74,
+        "odds": 1.31,
+        "edge": -2.3,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.3
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.27
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.25
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.31
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1a:props:children:1:props:children:props:rows:18:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19715295-1x2_fh-1-x",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "1",
+        "label": "Home HT",
+        "probability": 35,
+        "odds": 3.2,
+        "edge": 3.8,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 3.2
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 3.05
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 3
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:18:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19715295-btts-no-x",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "no",
+        "label": "BTTS: No",
+        "probability": 48,
+        "odds": 2.4,
+        "edge": 6.3,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "BTTS",
+        "bookmaker": "Paddy Power",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.25
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.15
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.4
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.2
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS Yes",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:18:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19715295-total_goals-under-4.5",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 4.5 goals",
+        "probability": 85,
+        "odds": 1.17,
+        "edge": -0.5,
+        "hasEdge": false,
+        "line": 4.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.11
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.11
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "6 goals",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:18:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19715295-away_goals-under-2.5",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "under",
+        "label": "Away under 2.5 goals",
+        "probability": 87,
+        "odds": 1.13,
+        "edge": -1.5,
+        "hasEdge": false,
+        "line": 2.5,
+        "marketLabel": "Away goals",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "5 scored",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:18:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19715295-total_corners-over-6.5",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 83,
+        "odds": 1.17,
+        "edge": -2.5,
+        "hasEdge": false,
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.15
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.17
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2 corners",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:18:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": 12,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": 8,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": 14,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": 10,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": 7,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": 8,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": 13,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": 11,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": 5,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": 13,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 10,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 8,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 10,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": 8,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": 12,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": 9,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": 9,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 11,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 7,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": 6,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": 10.1,
+          "cf": 4.7,
+          "ca": 5.4,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": 90
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": 9,
+          "cf": 2.3,
+          "ca": 6.7,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": 90
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19665094-total_corners-over-6.5",
       "fixtureApid": 19665094,
       "slug": "26813809-brasileiro-women-gremio-w-america-mineiro-w",
@@ -8256,6 +10740,444 @@
             "hc": null,
             "ac": null,
             "date": "2 Sept 2022"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 39,
+        "odds": 2.7,
+        "edge": 2,
+        "hasEdge": true,
+        "line": null,
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.7
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.55
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 39,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.4
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.55
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 2,
+            "ag": 4,
+            "hc": null,
+            "ac": null,
+            "date": "22 Apr 2026"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 3,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "24 Sept 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "28 Apr 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "12 Apr 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "18 Jul 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "14 Jan 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 4,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "23 Aug 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "8 Jan 2023"
           }
         ]
       }
@@ -10098,6 +13020,444 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 52,
+        "odds": 1.58,
+        "edge": -11.3,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.57
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.58
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.56
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "BTTS Yes",
+      "matchResult": {
+        "home": {
+          "prob": 39,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.4
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.55
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 2,
+            "ag": 4,
+            "hc": null,
+            "ac": null,
+            "date": "22 Apr 2026"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 3,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "24 Sept 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "28 Apr 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "12 Apr 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "18 Jul 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "14 Jan 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 4,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "23 Aug 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "8 Jan 2023"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
       "fixtureApid": 19720028,
       "slug": "26813802-super-league-thun-young-boys",
       "timestamp": "2026-08-01T18:30:00.000Z",
@@ -10141,7 +13501,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.33
+            "odds": 1.36
           },
           {
             "id": 4,
@@ -10164,7 +13524,7 @@
       "matchResult": {
         "home": {
           "prob": 38,
-          "odds": 2.63
+          "odds": 2.75
         },
         "draw": {
           "prob": 24,
@@ -11915,6 +15275,444 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 2.5 goals",
+        "probability": 52,
+        "odds": 2.1,
+        "edge": 4.4,
+        "hasEdge": true,
+        "line": 2.5,
+        "bookmaker": "Paddy Power",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.1
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.95
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.1
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.05
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "6 goals",
+      "matchResult": {
+        "home": {
+          "prob": 39,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.4
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.55
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 2,
+            "ag": 4,
+            "hc": null,
+            "ac": null,
+            "date": "22 Apr 2026"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 3,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "24 Sept 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "28 Apr 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "12 Apr 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "18 Jul 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "14 Jan 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 4,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "23 Aug 2023"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "8 Jan 2023"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
       "fixtureApid": 19635702,
       "slug": "26813782-veikkausliiga-lahti-jaro",
       "timestamp": "2026-08-01T15:00:00.000Z",
@@ -13486,6 +17284,371 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "under",
+        "label": "Away under 2.5 goals",
+        "probability": 87,
+        "odds": 1.13,
+        "edge": -1.5,
+        "hasEdge": false,
+        "line": 2.5,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "5 scored",
+      "matchResult": {
+        "home": {
+          "prob": 39,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.4
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.55
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/team-goals",
+      "rowId": "",
       "fixtureApid": 19710153,
       "slug": "26813804-copa-do-brasil-vasco-da-gama-fluminense",
       "timestamp": "2026-08-01T20:30:00.000Z",
@@ -13536,7 +17699,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.12
+            "odds": 1.11
           },
           {
             "id": 5,
@@ -13560,7 +17723,7 @@
         },
         "away": {
           "prob": 27,
-          "odds": 2.22
+          "odds": 2.25
         }
       },
       "form": {
@@ -13926,16 +18089,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19715295,
-      "slug": "26813762-liga-mx-juarez-pumas-unam",
-      "timestamp": "2026-08-01T03:00:00.000Z",
+      "fixtureApid": 19716403,
+      "slug": "26813776-ekstraklasa-piast-gliwice-wisla-krakow",
+      "timestamp": "2026-08-01T12:45:00.000Z",
       "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
+        "id": 39,
+        "name": "Ekstraklasa",
+        "country": "Poland"
       },
-      "home": "Juárez",
-      "away": "Pumas UNAM",
+      "home": "Piast Gliwice",
+      "away": "Wisła Kraków",
       "locked": true,
       "finished": false,
       "score": null,
@@ -15259,6 +19422,444 @@
             "hc": null,
             "ac": null,
             "date": "2 Sept 2022"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 74,
+        "odds": 1.31,
+        "edge": -2.3,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.3
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.27
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.25
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.31
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 39,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.4
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.55
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 2,
+            "ag": 4,
+            "hc": null,
+            "ac": null,
+            "date": "22 Apr 2026"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 3,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "24 Sept 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "28 Apr 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "12 Apr 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "18 Jul 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "14 Jan 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 4,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "23 Aug 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "8 Jan 2023"
           }
         ]
       }
@@ -17094,6 +21695,444 @@
             "hc": null,
             "ac": null,
             "date": "2 Sept 2022"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19715295,
+      "slug": "26813762-liga-mx-juarez-pumas-unam",
+      "timestamp": "2026-08-01T03:00:00.000Z",
+      "league": {
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": "Juárez",
+      "away": "Pumas UNAM",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 42,
+        "odds": 2.25,
+        "edge": -2.4,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Paddy Power",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.25
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.2
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.25
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 39,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.4
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.55
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "23 Mar",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Monterrey",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Atlas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-4",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 Jan",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "22 May",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "15 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Atlético San Luis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Tijuana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.7,
+          "cs": 0,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 80,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 1,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 1.1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 1,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 50,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 2,
+            "ag": 4,
+            "hc": null,
+            "ac": null,
+            "date": "22 Apr 2026"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 3,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "24 Sept 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "28 Apr 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "12 Apr 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "18 Jul 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "14 Jan 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 4,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "23 Aug 2023"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "8 Jan 2023"
           }
         ]
       }
