@@ -1,75 +1,75 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-04T13:13:49.944Z",
+  "generatedAt": "2026-08-04T15:42:55.952Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-04T13:13:47.270Z",
-      "bytes": 407114,
+      "fetchedAt": "2026-08-04T15:42:53.669Z",
+      "bytes": 404952,
       "rowCount": 29,
       "serverTotal": 37
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-04T13:13:47.560Z",
-      "bytes": 269722,
+      "fetchedAt": "2026-08-04T15:42:53.907Z",
+      "bytes": 269721,
       "rowCount": 6,
       "serverTotal": 6
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-04T13:13:47.846Z",
-      "bytes": 269137,
+      "fetchedAt": "2026-08-04T15:42:54.140Z",
+      "bytes": 269142,
       "rowCount": 6,
       "serverTotal": 6
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-04T13:13:48.128Z",
-      "bytes": 271291,
+      "fetchedAt": "2026-08-04T15:42:54.365Z",
+      "bytes": 271290,
       "rowCount": 6,
       "serverTotal": 6
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-04T13:13:48.415Z",
-      "bytes": 264383,
+      "fetchedAt": "2026-08-04T15:42:54.600Z",
+      "bytes": 264388,
       "rowCount": 5,
       "serverTotal": 5
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-04T13:13:48.699Z",
-      "bytes": 269415,
+      "fetchedAt": "2026-08-04T15:42:55.022Z",
+      "bytes": 269416,
       "rowCount": 6,
       "serverTotal": 6
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-04T13:13:49.015Z",
-      "bytes": 268971,
+      "fetchedAt": "2026-08-04T15:42:55.313Z",
+      "bytes": 268970,
       "rowCount": 6,
       "serverTotal": 6
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-04T13:13:49.236Z",
-      "bytes": 250803,
+      "fetchedAt": "2026-08-04T15:42:55.471Z",
+      "bytes": 250871,
       "rowCount": 5,
-      "serverTotal": 55
+      "serverTotal": 78
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-04T13:13:49.596Z",
+      "fetchedAt": "2026-08-04T15:42:55.653Z",
       "bytes": 949055,
       "rowCount": 102,
       "serverTotal": 102
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-04T13:13:49.943Z",
+      "fetchedAt": "2026-08-04T15:42:55.951Z",
       "bytes": 392460,
       "rowCount": 0,
       "serverTotal": 0
@@ -8216,30 +8216,30 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19710144-away_goals-under-2.5",
-      "fixtureApid": 19710144,
-      "slug": "26927060-copa-do-brasil-juventude-atletico-mineiro",
-      "timestamp": "2026-08-04T22:30:00.000Z",
+      "rowId": "19722213-total_goals-over-1.5",
+      "fixtureApid": 19722213,
+      "slug": "26927059-uefa-women's-champions-league-breidablik-w-aktobe-w",
+      "timestamp": "2026-08-04T14:00:00.000Z",
       "league": {
-        "id": 54,
-        "name": "Copa do Brasil",
-        "country": "Brazil"
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
       },
-      "home": "Juventude",
-      "away": "Atlético Mineiro",
+      "home": "Breidablik W",
+      "away": "Aktobe W",
       "locked": false,
       "finished": false,
       "score": null,
       "bestTip": {
-        "market": "away_goals",
-        "selection": "under",
-        "label": "Away under 2.5 goals",
-        "probability": 94,
-        "odds": 1.11,
-        "edge": 3.9,
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 1.5 goals",
+        "probability": 88,
+        "odds": 1.14,
+        "edge": 0.3,
         "hasEdge": true,
-        "line": 2.5,
-        "marketLabel": "Away goals",
+        "line": 1.5,
+        "marketLabel": "Total goals",
         "bookmaker": "Kambi",
         "prices": [
           {
@@ -8254,21 +8254,21 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.11
+            "odds": 1.14
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
+            "odds": 1.13
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
+            "odds": 1.12
           },
           {
             "id": 5,
@@ -8283,16 +8283,16 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 47,
-          "odds": 3.3
+          "prob": 67,
+          "odds": 1.44
         },
         "draw": {
-          "prob": 29,
-          "odds": 3
+          "prob": 15,
+          "odds": 5
         },
         "away": {
-          "prob": 25,
-          "odds": 2.45
+          "prob": 18,
+          "odds": 7
         }
       },
       "form": {
@@ -8301,110 +8301,88 @@
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "1-0",
+            "score": "3-1",
             "corners": null,
-            "date": "28 Jul",
-            "opponent": "Avaí",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "17 Jul",
-            "opponent": "Cuiabá",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Jul",
-            "opponent": "Vila Nova",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "28 Jun",
-            "opponent": "Ceará",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "14 Jun",
-            "opponent": "Ponte Preta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "30 May",
-            "opponent": "América Mineiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
+            "date": "27 Aug",
+            "opponent": "Athlone Town WFC W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "0-1",
+            "score": "0-2",
             "corners": null,
-            "date": "23 May",
-            "opponent": "Sport Recife",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
+            "date": "7 Sept",
+            "opponent": "Sporting W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-4",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Rosenborg W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "8 Dec",
+            "opponent": "Real Madrid W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "18 Nov",
+            "opponent": "Metalist 1925 Kharkiv W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "6 Oct",
+            "opponent": "Paris SG W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "3-1",
+            "score": "3-0",
             "corners": null,
-            "date": "13 May",
-            "opponent": "São Paulo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 May",
-            "opponent": "Criciúma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
+            "date": "9 Sept",
+            "opponent": "Osijek W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "1-0",
+            "score": "7-0",
             "corners": null,
-            "date": "26 Apr",
-            "opponent": "Londrina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/651.webp",
+            "date": "18 Aug",
+            "opponent": "Klaksvik W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
@@ -8412,78 +8390,12 @@
           {
             "hit": true,
             "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "31 May",
-            "opponent": "Vasco da Gama",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
             "res": "L",
-            "score": "1-0",
+            "score": "4-2",
             "corners": null,
-            "date": "24 May",
-            "opponent": "Corinthians",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Ceará",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "5 May",
-            "opponent": "Juventud",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-3",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Cruzeiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "30 Apr",
-            "opponent": "Cienciano",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "date": "30 Aug",
+            "opponent": "Farum BK W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
@@ -8492,116 +8404,68 @@
             "res": "L",
             "score": "2-0",
             "corners": null,
-            "date": "19 Apr",
-            "opponent": "Coritiba",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Santos",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "9 Apr",
-            "opponent": "Academia Puerto Cabello",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "date": "27 Aug",
+            "opponent": "Roma W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ]
       },
       "modelStats": {
         "home": {
-          "n": 10,
-          "gf": 1.6,
-          "ga": 0.2,
-          "cs": 80,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 10,
+          "n": 8,
+          "gf": 1.88,
+          "ga": 1.75,
+          "cs": 25,
+          "fts": 50,
+          "ov25": 63,
+          "btts": 25,
           "scored2": 50,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 8,
-            "d": 1,
-            "l": 1
+            "w": 3,
+            "d": 0,
+            "l": 5
           },
           "htRecord": {
-            "w": 6,
-            "d": 4,
-            "l": 0
+            "w": 2,
+            "d": 1,
+            "l": 5
           },
-          "fhFor": 0.8,
-          "fhAgainst": 0,
+          "fhFor": 0.88,
+          "fhAgainst": 1,
           "ovLine": null
         },
         "away": {
-          "n": 10,
+          "n": 2,
           "gf": 1,
-          "ga": 1.3,
-          "cs": 10,
-          "fts": 40,
+          "ga": 3,
+          "cs": 0,
+          "fts": 50,
           "ov25": 50,
           "btts": 50,
-          "scored2": 30,
+          "scored2": 50,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 3,
-            "d": 1,
-            "l": 6
+            "w": 0,
+            "d": 0,
+            "l": 2
           },
           "htRecord": {
-            "w": 3,
-            "d": 3,
-            "l": 4
+            "w": 0,
+            "d": 0,
+            "l": 2
           },
           "fhFor": 0.5,
-          "fhAgainst": 0.6,
+          "fhAgainst": 2,
           "ovLine": null
         },
         "h2h": []
       }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19722213-total_goals-over-1.5",
-      "fixtureApid": 19722213,
-      "slug": "26927059-uefa-women's-champions-league-breidablik-w-aktobe-w",
-      "timestamp": "2026-08-04T14:00:00.000Z",
-      "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
-      },
-      "home": "Breidablik W",
-      "away": "Aktobe W",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions",
@@ -8632,6 +8496,32 @@
     {
       "sourcePath": "/predictions",
       "rowId": "19710144-total_goals-under-3.5",
+      "fixtureApid": 19710144,
+      "slug": "26927060-copa-do-brasil-juventude-atletico-mineiro",
+      "timestamp": "2026-08-04T22:30:00.000Z",
+      "league": {
+        "id": 54,
+        "name": "Copa do Brasil",
+        "country": "Brazil"
+      },
+      "home": "Juventude",
+      "away": "Atlético Mineiro",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19710144-away_goals-under-1.5",
       "fixtureApid": 19710144,
       "slug": "26927060-copa-do-brasil-juventude-atletico-mineiro",
       "timestamp": "2026-08-04T22:30:00.000Z",
@@ -10237,9 +10127,9 @@
         "selection": "1",
         "label": "Home win",
         "probability": 67,
-        "odds": 1.5,
-        "edge": 0.3,
-        "hasEdge": true,
+        "odds": 1.44,
+        "edge": -2.4,
+        "hasEdge": false,
         "line": null,
         "bookmaker": "Kambi",
         "prices": [
@@ -10248,35 +10138,35 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.42
+            "odds": 1.3
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.5
+            "odds": 1.44
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.3
+            "odds": 1.29
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.44
+            "odds": 1.3
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.42
+            "odds": 1.38
           }
         ]
       },
@@ -10285,11 +10175,11 @@
       "matchResult": {
         "home": {
           "prob": 67,
-          "odds": 1.5
+          "odds": 1.44
         },
         "draw": {
           "prob": 15,
-          "odds": 4.75
+          "odds": 5
         },
         "away": {
           "prob": 18,
@@ -12050,11 +11940,11 @@
         "selection": "yes",
         "label": "BTTS: Yes",
         "probability": 56,
-        "odds": 1.73,
-        "edge": -1.8,
+        "odds": 1.75,
+        "edge": -1.1,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Paddy Power",
+        "bookmaker": "Ladbrokes",
         "prices": [
           {
             "id": 1,
@@ -12082,7 +11972,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.67
+            "odds": 1.75
           },
           {
             "id": 5,
@@ -12098,11 +11988,11 @@
       "matchResult": {
         "home": {
           "prob": 67,
-          "odds": 1.5
+          "odds": 1.44
         },
         "draw": {
           "prob": 15,
-          "odds": 4.75
+          "odds": 5
         },
         "away": {
           "prob": 18,
@@ -13881,21 +13771,21 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.52
+            "odds": 1.5
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.5
+            "odds": 1.44
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.48
+            "odds": 1.44
           },
           {
             "id": 5,
@@ -13911,11 +13801,11 @@
       "matchResult": {
         "home": {
           "prob": 67,
-          "odds": 1.5
+          "odds": 1.44
         },
         "draw": {
           "prob": 15,
-          "odds": 4.75
+          "odds": 5
         },
         "away": {
           "prob": 18,
@@ -15234,12 +15124,12 @@
       "bestTip": {
         "market": "away_goals",
         "selection": "under",
-        "label": "Away under 2.5 goals",
-        "probability": 94,
-        "odds": 1.11,
-        "edge": 3.9,
+        "label": "Away under 1.5 goals",
+        "probability": 78,
+        "odds": 1.4,
+        "edge": 6.6,
         "hasEdge": true,
-        "line": 2.5,
+        "line": 1.5,
         "bookmaker": "Kambi",
         "prices": [
           {
@@ -15254,7 +15144,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.11
+            "odds": 1.4
           },
           {
             "id": 3,
@@ -15288,7 +15178,7 @@
         },
         "draw": {
           "prob": 29,
-          "odds": 3
+          "odds": 2.88
         },
         "away": {
           "prob": 25,
@@ -15309,7 +15199,7 @@
             "leagueLogoDark": null
           },
           {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "W",
             "score": "2-0",
@@ -15331,7 +15221,7 @@
             "leagueLogoDark": null
           },
           {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "W",
             "score": "2-0",
@@ -15410,7 +15300,7 @@
         ],
         "away": [
           {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "W",
             "score": "1-2",
@@ -15454,7 +15344,7 @@
             "leagueLogoDark": null
           },
           {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "D",
             "score": "2-2",
@@ -17159,18 +17049,18 @@
         "selection": "12",
         "label": "Home or away",
         "probability": 85,
-        "odds": 1.17,
-        "edge": -0.5,
+        "odds": 1.15,
+        "edge": -2,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "Altenar",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.17
+            "odds": 1.14
           },
           {
             "id": 2,
@@ -17191,14 +17081,14 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.17
+            "odds": 1.14
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.17
+            "odds": 1.15
           }
         ]
       },
@@ -17207,11 +17097,11 @@
       "matchResult": {
         "home": {
           "prob": 67,
-          "odds": 1.5
+          "odds": 1.44
         },
         "draw": {
           "prob": 15,
-          "odds": 4.75
+          "odds": 5
         },
         "away": {
           "prob": 18,
@@ -18983,7 +18873,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.83
+            "odds": 1.73
           },
           {
             "id": 2,
@@ -18997,7 +18887,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.8
+            "odds": 1.73
           },
           {
             "id": 4,
@@ -19020,11 +18910,11 @@
       "matchResult": {
         "home": {
           "prob": 67,
-          "odds": 1.5
+          "odds": 1.44
         },
         "draw": {
           "prob": 15,
-          "odds": 4.75
+          "odds": 5
         },
         "away": {
           "prob": 18,
@@ -19594,6 +19484,32 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
+      "rowId": "19722219-total_goals-over-1.5",
+      "fixtureApid": 19722219,
+      "slug": "26966820-uefa-women's-champions-league-znk-mura-w-farul-constanta-w",
+      "timestamp": "2026-08-05T16:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "ŽNK Mura W",
+      "away": "Farul Constanţa W",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
       "rowId": "19710142-total_corners-over-6.5",
       "fixtureApid": 19710142,
       "slug": "26966827-copa-do-brasil-cruzeiro-chapecoense",
@@ -19657,32 +19573,6 @@
       },
       "home": "Boca Juniors",
       "away": "Estudiantes",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
-      "rowId": "19710143-total_corners-over-6.5",
-      "fixtureApid": 19710143,
-      "slug": "26966810-copa-do-brasil-remo-santos",
-      "timestamp": "2026-08-05T00:30:00.000Z",
-      "league": {
-        "id": 54,
-        "name": "Copa do Brasil",
-        "country": "Brazil"
-      },
-      "home": "Remo",
-      "away": "Santos",
       "locked": true,
       "finished": false,
       "score": null,
