@@ -1,75 +1,75 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-05T21:41:06.797Z",
+  "generatedAt": "2026-08-05T22:49:17.577Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-05T21:41:04.864Z",
-      "bytes": 704409,
+      "fetchedAt": "2026-08-05T22:49:14.969Z",
+      "bytes": 704433,
       "rowCount": 103,
-      "serverTotal": 116
+      "serverTotal": 115
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-05T21:41:05.095Z",
-      "bytes": 344516,
+      "fetchedAt": "2026-08-05T22:49:15.267Z",
+      "bytes": 344544,
       "rowCount": 24,
       "serverTotal": 24
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-05T21:41:05.310Z",
-      "bytes": 343383,
+      "fetchedAt": "2026-08-05T22:49:15.629Z",
+      "bytes": 343416,
       "rowCount": 24,
       "serverTotal": 24
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-05T21:41:05.570Z",
-      "bytes": 345832,
+      "fetchedAt": "2026-08-05T22:49:15.935Z",
+      "bytes": 345860,
       "rowCount": 24,
       "serverTotal": 24
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-05T21:41:05.791Z",
-      "bytes": 295926,
+      "fetchedAt": "2026-08-05T22:49:16.216Z",
+      "bytes": 295950,
       "rowCount": 14,
       "serverTotal": 14
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-05T21:41:06.015Z",
-      "bytes": 344574,
+      "fetchedAt": "2026-08-05T22:49:16.523Z",
+      "bytes": 344600,
       "rowCount": 24,
       "serverTotal": 24
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-05T21:41:06.248Z",
-      "bytes": 343891,
+      "fetchedAt": "2026-08-05T22:49:16.813Z",
+      "bytes": 343919,
       "rowCount": 24,
       "serverTotal": 24
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-05T21:41:06.378Z",
-      "bytes": 250681,
+      "fetchedAt": "2026-08-05T22:49:17.041Z",
+      "bytes": 250671,
       "rowCount": 5,
       "serverTotal": 35
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-05T21:41:06.511Z",
+      "fetchedAt": "2026-08-05T22:49:17.247Z",
       "bytes": 316539,
       "rowCount": 13,
       "serverTotal": 13
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-05T21:41:06.797Z",
+      "fetchedAt": "2026-08-05T22:49:17.577Z",
       "bytes": 392461,
       "rowCount": 0,
       "serverTotal": 0
@@ -15150,6 +15150,1147 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19722207-1x2-1-x",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "timestamp": "2026-08-05T17:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Racing W",
+      "away": "HJK W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 28,
+        "odds": 6.75,
+        "edge": 13.2,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 6
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 6.75
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 6.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 5.75
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 28,
+          "odds": 6.75
+        },
+        "draw": {
+          "prob": 21,
+          "odds": 5
+        },
+        "away": {
+          "prob": 51,
+          "odds": 1.4
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Riga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Sept",
+            "opponent": "NSA Sofia W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-4",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Galatasaray W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 4,
+          "gf": 2.5,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 2,
+            "l": 1
+          },
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19722207-double_chance-12-x",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "timestamp": "2026-08-05T17:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Racing W",
+      "away": "HJK W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 79,
+        "odds": 1.2,
+        "edge": -4.3,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.2
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.11
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.15
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.17
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Riga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Sept",
+            "opponent": "NSA Sofia W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-4",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Galatasaray W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 4,
+          "gf": 2.5,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 2,
+            "l": 1
+          },
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19722207-1x2_fh-1-x",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "timestamp": "2026-08-05T17:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Racing W",
+      "away": "HJK W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "1",
+        "label": "Home HT",
+        "probability": 24,
+        "odds": 5.6,
+        "edge": 6.1,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 5.5
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 5.6
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 5.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Riga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Sept",
+            "opponent": "NSA Sofia W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-4",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Galatasaray W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 4,
+          "gf": 2.5,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 2,
+            "l": 1
+          },
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19722207-btts-yes-x",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "timestamp": "2026-08-05T17:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Racing W",
+      "away": "HJK W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 55,
+        "odds": 1.58,
+        "edge": -8.3,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "BTTS",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.58
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.57
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.57
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS No",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Riga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Sept",
+            "opponent": "NSA Sofia W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-4",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Galatasaray W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 4,
+          "gf": 2.5,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 2,
+            "l": 1
+          },
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19722207-total_goals-over-1.5",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "timestamp": "2026-08-05T17:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Racing W",
+      "away": "HJK W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 1.5 goals",
+        "probability": 83,
+        "odds": 1.1,
+        "edge": -7.9,
+        "hasEdge": false,
+        "line": 1.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "2 goals",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Riga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Sept",
+            "opponent": "NSA Sofia W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-4",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Galatasaray W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 4,
+          "gf": 2.5,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 2,
+            "l": 1
+          },
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19722207-away_goals-under-2.5",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "timestamp": "2026-08-05T17:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Racing W",
+      "away": "HJK W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "under",
+        "label": "Away under 2.5 goals",
+        "probability": 73,
+        "odds": 1.67,
+        "edge": 13.1,
+        "hasEdge": true,
+        "line": 2.5,
+        "marketLabel": "Away goals",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.67
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "2 scored",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Riga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Sept",
+            "opponent": "NSA Sofia W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-4",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Galatasaray W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 4,
+          "gf": 2.5,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 2,
+            "l": 1
+          },
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19722221-1x2-1-x",
       "fixtureApid": 19722221,
       "slug": "27610409-uefa-women's-champions-league-koge-riga-w",
@@ -15474,7 +16615,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:70:matchResult",
       "form": {
         "home": [
           {
@@ -15717,7 +16858,7 @@
       },
       "settlement": "won",
       "actual": "X",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:70:matchResult",
       "form": {
         "home": [
           {
@@ -15960,7 +17101,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:70:matchResult",
       "form": {
         "home": [
           {
@@ -16203,7 +17344,7 @@
       },
       "settlement": "lost",
       "actual": "5 goals",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:64:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:70:matchResult",
       "form": {
         "home": [
           {
@@ -16371,1147 +17512,6 @@
           },
           "fhFor": 1.33,
           "fhAgainst": 0.67,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19722207-1x2-1-x",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
-      "timestamp": "2026-08-05T17:00:00.000Z",
-      "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
-      },
-      "home": "Racing W",
-      "away": "HJK W",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "1",
-        "label": "Home win",
-        "probability": 28,
-        "odds": 6.75,
-        "edge": 13.2,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 6
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 6.75
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 6.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 5.75
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 6
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 28,
-          "odds": 6.75
-        },
-        "draw": {
-          "prob": 21,
-          "odds": 5
-        },
-        "away": {
-          "prob": 51,
-          "odds": 1.4
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 4,
-          "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
-          "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "fhFor": 0,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19722207-double_chance-12-x",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
-      "timestamp": "2026-08-05T17:00:00.000Z",
-      "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
-      },
-      "home": "Racing W",
-      "away": "HJK W",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 79,
-        "odds": 1.2,
-        "edge": -4.3,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.11
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.15
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.17
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1a:props:children:1:props:children:props:rows:69:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 4,
-          "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
-          "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "fhFor": 0,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19722207-1x2_fh-1-x",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
-      "timestamp": "2026-08-05T17:00:00.000Z",
-      "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
-      },
-      "home": "Racing W",
-      "away": "HJK W",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "1",
-        "label": "Home HT",
-        "probability": 24,
-        "odds": 5.6,
-        "edge": 6.1,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 5.5
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 5.6
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 5.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "2",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:69:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 4,
-          "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
-          "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "fhFor": 0,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19722207-btts-yes-x",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
-      "timestamp": "2026-08-05T17:00:00.000Z",
-      "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
-      },
-      "home": "Racing W",
-      "away": "HJK W",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 55,
-        "odds": 1.58,
-        "edge": -8.3,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.58
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.57
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.57
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS No",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:69:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 4,
-          "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
-          "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "fhFor": 0,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19722207-total_goals-over-1.5",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
-      "timestamp": "2026-08-05T17:00:00.000Z",
-      "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
-      },
-      "home": "Racing W",
-      "away": "HJK W",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "over",
-        "label": "Over 1.5 goals",
-        "probability": 83,
-        "odds": 1.1,
-        "edge": -7.9,
-        "hasEdge": false,
-        "line": 1.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2 goals",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:69:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 4,
-          "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
-          "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "fhFor": 0,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19722207-away_goals-under-2.5",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
-      "timestamp": "2026-08-05T17:00:00.000Z",
-      "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
-      },
-      "home": "Racing W",
-      "away": "HJK W",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "away_goals",
-        "selection": "under",
-        "label": "Away under 2.5 goals",
-        "probability": 73,
-        "odds": 1.67,
-        "edge": 13.1,
-        "hasEdge": true,
-        "line": 2.5,
-        "marketLabel": "Away goals",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.67
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2 scored",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:69:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 4,
-          "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
-          "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 0,
-            "l": 1
-          },
-          "fhFor": 0,
-          "fhAgainst": 1,
           "ovLine": null
         },
         "h2h": []
@@ -23307,8 +23307,8 @@
         "selection": "under",
         "label": "Away under 1.5 goals",
         "probability": 87,
-        "odds": 1.11,
-        "edge": -3.1,
+        "odds": 1.1,
+        "edge": -3.9,
         "hasEdge": false,
         "line": 1.5,
         "marketLabel": "Away goals",
@@ -23326,7 +23326,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.11
+            "odds": 1.1
           },
           {
             "id": 3,
@@ -23356,11 +23356,11 @@
       "matchResult": {
         "home": {
           "prob": 70,
-          "odds": 1.33
+          "odds": 1.35
         },
         "draw": {
           "prob": 19,
-          "odds": 5.1
+          "odds": 5
         },
         "away": {
           "prob": 11,
@@ -27112,84 +27112,84 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19722222,
-      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Eintracht Frankfurt W",
-      "away": "Omonia Nicosia W",
+      "home": "Racing W",
+      "away": "HJK W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 8,
-        "away": 0
+        "home": 0,
+        "away": 2
       },
       "bestTip": {
         "market": "1x2",
-        "selection": "1",
-        "label": "Home win",
-        "probability": 81,
-        "odds": null,
-        "edge": null,
+        "selection": "2",
+        "label": "Away win",
+        "probability": 51,
+        "odds": 1.4,
+        "edge": -20.4,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.4
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.33
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
+            "odds": 1.3
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
+            "odds": 1.36
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
+            "odds": 1.4
           }
         ]
       },
       "settlement": "won",
-      "actual": "1",
+      "actual": "2",
       "matchResult": {
         "home": {
-          "prob": 81,
-          "odds": null
+          "prob": 28,
+          "odds": 6.75
         },
         "draw": {
-          "prob": 11,
-          "odds": null
+          "prob": 21,
+          "odds": 5
         },
         "away": {
-          "prob": 9,
-          "odds": null
+          "prob": 51,
+          "odds": 1.4
         }
       },
       "form": {
@@ -27197,122 +27197,115 @@
           {
             "hit": false,
             "pending": false,
-            "res": "L",
-            "score": "1-2",
+            "res": "W",
+            "score": "2-1",
             "corners": null,
-            "date": "11 Sept",
-            "opponent": "Real Madrid W",
+            "date": "2 Aug",
+            "opponent": "Riga W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "W",
-            "score": "6-0",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
             "corners": null,
             "date": "7 Sept",
-            "opponent": "Minsk FK W",
+            "opponent": "NSA Sofia W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": false,
+            "hit": true,
             "pending": false,
             "res": "L",
-            "score": "0-2",
+            "score": "1-4",
             "corners": null,
             "date": "4 Sept",
-            "opponent": "Sporting W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Rosengard W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Dec",
-            "opponent": "SL Benfica W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "22 Nov",
-            "opponent": "Barcelona W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "10 Oct",
-            "opponent": "Sparta Praha W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "6 Sept",
-            "opponent": "Slovácko W",
+            "opponent": "Galatasaray W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": []
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
       },
       "modelStats": {
         "home": {
-          "n": 8,
+          "n": 4,
           "gf": 2.5,
-          "ga": 1,
-          "cs": 50,
-          "fts": 13,
-          "ov25": 63,
-          "btts": 38,
-          "scored2": 38,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 4,
-            "d": 1,
-            "l": 3
+            "w": 3,
+            "d": 0,
+            "l": 1
           },
           "htRecord": {
-            "w": 6,
-            "d": 0,
-            "l": 2
+            "w": 1,
+            "d": 2,
+            "l": 1
           },
-          "fhFor": 1.38,
-          "fhAgainst": 0.38,
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
           "ovLine": null
         },
-        "away": null,
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
         "h2h": []
       }
     },
@@ -27574,84 +27567,84 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "fixtureApid": 19722222,
+      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Racing W",
-      "away": "HJK W",
+      "home": "Eintracht Frankfurt W",
+      "away": "Omonia Nicosia W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 0,
-        "away": 2
+        "home": 8,
+        "away": 0
       },
       "bestTip": {
         "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 51,
-        "odds": 1.4,
-        "edge": -20.4,
+        "selection": "1",
+        "label": "Home win",
+        "probability": 81,
+        "odds": null,
+        "edge": null,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.4
+            "odds": null
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.33
+            "odds": null
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.3
+            "odds": null
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.36
+            "odds": null
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.4
+            "odds": null
           }
         ]
       },
       "settlement": "won",
-      "actual": "2",
+      "actual": "1",
       "matchResult": {
         "home": {
-          "prob": 28,
-          "odds": 6.75
+          "prob": 81,
+          "odds": null
         },
         "draw": {
-          "prob": 21,
-          "odds": 5
+          "prob": 11,
+          "odds": null
         },
         "away": {
-          "prob": 51,
-          "odds": 1.4
+          "prob": 9,
+          "odds": null
         }
       },
       "form": {
@@ -27659,115 +27652,122 @@
           {
             "hit": false,
             "pending": false,
-            "res": "W",
-            "score": "2-1",
+            "res": "L",
+            "score": "1-2",
             "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
+            "date": "11 Sept",
+            "opponent": "Real Madrid W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
-            "res": "L",
-            "score": "1-4",
+            "res": "W",
+            "score": "6-0",
             "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
+            "date": "7 Sept",
+            "opponent": "Minsk FK W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
-          }
-        ],
-        "away": [
+          },
           {
             "hit": false,
             "pending": false,
             "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Sporting W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "SL Benfica W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "22 Nov",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "10 Oct",
+            "opponent": "Sparta Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
             "score": "1-0",
             "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
+            "date": "6 Sept",
+            "opponent": "Slovácko W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
-        ]
+        ],
+        "away": []
       },
       "modelStats": {
         "home": {
-          "n": 4,
+          "n": 8,
           "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
           "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
+          "cs": 50,
+          "fts": 13,
+          "ov25": 63,
+          "btts": 38,
+          "scored2": 38,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
+            "w": 4,
+            "d": 1,
+            "l": 3
           },
           "htRecord": {
-            "w": 0,
+            "w": 6,
             "d": 0,
-            "l": 1
+            "l": 2
           },
-          "fhFor": 0,
-          "fhAgainst": 1,
+          "fhFor": 1.38,
+          "fhAgainst": 0.38,
           "ovLine": null
         },
+        "away": null,
         "h2h": []
       }
     },
@@ -28858,11 +28858,11 @@
         "selection": "1",
         "label": "Home win",
         "probability": 70,
-        "odds": 1.33,
-        "edge": -5.2,
+        "odds": 1.35,
+        "edge": -4.1,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "Altenar",
         "prices": [
           {
             "id": 1,
@@ -28883,7 +28883,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.22
+            "odds": 1.25
           },
           {
             "id": 4,
@@ -28897,7 +28897,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.3
+            "odds": 1.35
           }
         ]
       },
@@ -28906,11 +28906,11 @@
       "matchResult": {
         "home": {
           "prob": 70,
-          "odds": 1.33
+          "odds": 1.35
         },
         "draw": {
           "prob": 19,
-          "odds": 5.1
+          "odds": 5
         },
         "away": {
           "prob": 11,
@@ -32647,32 +32647,32 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19722222,
-      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Eintracht Frankfurt W",
-      "away": "Omonia Nicosia W",
+      "home": "Racing W",
+      "away": "HJK W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 8,
-        "away": 0
+        "home": 0,
+        "away": 2
       },
       "bestTip": {
         "market": "btts",
         "selection": "yes",
         "label": "BTTS: Yes",
-        "probability": 53,
-        "odds": null,
-        "edge": null,
+        "probability": 55,
+        "odds": 1.58,
+        "edge": -8.3,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "",
+        "bookmaker": "Kambi",
         "prices": [
           {
             "id": 1,
@@ -32686,21 +32686,21 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.58
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
+            "odds": 1.57
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
+            "odds": 1.57
           },
           {
             "id": 5,
@@ -32715,16 +32715,16 @@
       "actual": "BTTS No",
       "matchResult": {
         "home": {
-          "prob": 81,
-          "odds": null
+          "prob": 28,
+          "odds": 6.75
         },
         "draw": {
-          "prob": 11,
-          "odds": null
+          "prob": 21,
+          "odds": 5
         },
         "away": {
-          "prob": 9,
-          "odds": null
+          "prob": 51,
+          "odds": 1.4
         }
       },
       "form": {
@@ -32732,11 +32732,22 @@
           {
             "hit": true,
             "pending": false,
-            "res": "L",
-            "score": "1-2",
+            "res": "W",
+            "score": "2-1",
             "corners": null,
-            "date": "11 Sept",
-            "opponent": "Real Madrid W",
+            "date": "2 Aug",
+            "opponent": "Riga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
@@ -32744,110 +32755,92 @@
             "hit": false,
             "pending": false,
             "res": "W",
-            "score": "6-0",
+            "score": "2-0",
             "corners": null,
             "date": "7 Sept",
-            "opponent": "Minsk FK W",
+            "opponent": "NSA Sofia W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": false,
+            "hit": true,
             "pending": false,
             "res": "L",
-            "score": "0-2",
+            "score": "1-4",
             "corners": null,
             "date": "4 Sept",
-            "opponent": "Sporting W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Rosengard W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Dec",
-            "opponent": "SL Benfica W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "22 Nov",
-            "opponent": "Barcelona W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "10 Oct",
-            "opponent": "Sparta Praha W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "6 Sept",
-            "opponent": "Slovácko W",
+            "opponent": "Galatasaray W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": []
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
       },
       "modelStats": {
         "home": {
-          "n": 8,
+          "n": 4,
           "gf": 2.5,
-          "ga": 1,
-          "cs": 50,
-          "fts": 13,
-          "ov25": 63,
-          "btts": 38,
-          "scored2": 38,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 4,
-            "d": 1,
-            "l": 3
+            "w": 3,
+            "d": 0,
+            "l": 1
           },
           "htRecord": {
-            "w": 6,
-            "d": 0,
-            "l": 2
+            "w": 1,
+            "d": 2,
+            "l": 1
           },
-          "fhFor": 1.38,
-          "fhAgainst": 0.38,
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
           "ovLine": null
         },
-        "away": null,
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
         "h2h": []
       }
     },
@@ -33109,32 +33102,32 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "fixtureApid": 19722222,
+      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Racing W",
-      "away": "HJK W",
+      "home": "Eintracht Frankfurt W",
+      "away": "Omonia Nicosia W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 0,
-        "away": 2
+        "home": 8,
+        "away": 0
       },
       "bestTip": {
         "market": "btts",
         "selection": "yes",
         "label": "BTTS: Yes",
-        "probability": 55,
-        "odds": 1.58,
-        "edge": -8.3,
+        "probability": 53,
+        "odds": null,
+        "edge": null,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Kambi",
+        "bookmaker": "",
         "prices": [
           {
             "id": 1,
@@ -33148,21 +33141,21 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.58
+            "odds": null
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.57
+            "odds": null
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.57
+            "odds": null
           },
           {
             "id": 5,
@@ -33177,16 +33170,16 @@
       "actual": "BTTS No",
       "matchResult": {
         "home": {
-          "prob": 28,
-          "odds": 6.75
+          "prob": 81,
+          "odds": null
         },
         "draw": {
-          "prob": 21,
-          "odds": 5
+          "prob": 11,
+          "odds": null
         },
         "away": {
-          "prob": 51,
-          "odds": 1.4
+          "prob": 9,
+          "odds": null
         }
       },
       "form": {
@@ -33194,22 +33187,11 @@
           {
             "hit": true,
             "pending": false,
-            "res": "W",
-            "score": "2-1",
+            "res": "L",
+            "score": "1-2",
             "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
+            "date": "11 Sept",
+            "opponent": "Real Madrid W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
@@ -33217,10 +33199,43 @@
             "hit": false,
             "pending": false,
             "res": "W",
-            "score": "2-0",
+            "score": "6-0",
             "corners": null,
             "date": "7 Sept",
-            "opponent": "NSA Sofia W",
+            "opponent": "Minsk FK W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Sporting W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "SL Benfica W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
@@ -33228,81 +33243,66 @@
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "1-4",
+            "score": "1-3",
             "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
+            "date": "22 Nov",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "10 Oct",
+            "opponent": "Sparta Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Slovácko W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
+        "away": []
       },
       "modelStats": {
         "home": {
-          "n": 4,
+          "n": 8,
           "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
           "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
+          "cs": 50,
+          "fts": 13,
+          "ov25": 63,
+          "btts": 38,
+          "scored2": 38,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
+            "w": 4,
+            "d": 1,
+            "l": 3
           },
           "htRecord": {
-            "w": 0,
+            "w": 6,
             "d": 0,
-            "l": 1
+            "l": 2
           },
-          "fhFor": 0,
-          "fhAgainst": 1,
+          "fhFor": 1.38,
+          "fhAgainst": 0.38,
           "ovLine": null
         },
+        "away": null,
         "h2h": []
       }
     },
@@ -34393,25 +34393,25 @@
         "selection": "no",
         "label": "BTTS: No",
         "probability": 61,
-        "odds": 1.57,
-        "edge": -2.7,
+        "odds": 1.55,
+        "edge": -3.5,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "Ladbrokes",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.57
+            "odds": 1.53
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.55
+            "odds": 1.54
           },
           {
             "id": 3,
@@ -34432,7 +34432,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.45
+            "odds": 1.5
           }
         ]
       },
@@ -34441,7 +34441,7 @@
       "matchResult": {
         "home": {
           "prob": 51,
-          "odds": 1.94
+          "odds": 1.89
         },
         "draw": {
           "prob": 29,
@@ -34449,7 +34449,7 @@
         },
         "away": {
           "prob": 20,
-          "odds": 5.25
+          "odds": 5
         }
       },
       "form": {
@@ -38218,60 +38218,60 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19722222,
-      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Eintracht Frankfurt W",
-      "away": "Omonia Nicosia W",
+      "home": "Racing W",
+      "away": "HJK W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 8,
-        "away": 0
+        "home": 0,
+        "away": 2
       },
       "bestTip": {
         "market": "total_goals",
         "selection": "over",
         "label": "Over 2.5 goals",
-        "probability": 71,
-        "odds": null,
-        "edge": null,
+        "probability": 61,
+        "odds": 1.38,
+        "edge": -11.5,
         "hasEdge": false,
         "line": 2.5,
-        "bookmaker": "",
+        "bookmaker": "Kambi",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.36
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.38
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
+            "odds": 1.36
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
+            "odds": 1.36
           },
           {
             "id": 5,
@@ -38282,20 +38282,20 @@
           }
         ]
       },
-      "settlement": "won",
-      "actual": "8 goals",
+      "settlement": "lost",
+      "actual": "2 goals",
       "matchResult": {
         "home": {
-          "prob": 81,
-          "odds": null
+          "prob": 28,
+          "odds": 6.75
         },
         "draw": {
-          "prob": 11,
-          "odds": null
+          "prob": 21,
+          "odds": 5
         },
         "away": {
-          "prob": 9,
-          "odds": null
+          "prob": 51,
+          "odds": 1.4
         }
       },
       "form": {
@@ -38303,11 +38303,11 @@
           {
             "hit": true,
             "pending": false,
-            "res": "L",
-            "score": "1-2",
+            "res": "W",
+            "score": "2-1",
             "corners": null,
-            "date": "11 Sept",
-            "opponent": "Real Madrid W",
+            "date": "2 Aug",
+            "opponent": "Riga W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
@@ -38315,110 +38315,103 @@
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "6-0",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
             "corners": null,
             "date": "7 Sept",
-            "opponent": "Minsk FK W",
+            "opponent": "NSA Sofia W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": false,
+            "hit": true,
             "pending": false,
             "res": "L",
-            "score": "0-2",
+            "score": "1-4",
             "corners": null,
             "date": "4 Sept",
-            "opponent": "Sporting W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Rosengard W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Dec",
-            "opponent": "SL Benfica W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "22 Nov",
-            "opponent": "Barcelona W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "10 Oct",
-            "opponent": "Sparta Praha W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "6 Sept",
-            "opponent": "Slovácko W",
+            "opponent": "Galatasaray W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": []
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
       },
       "modelStats": {
         "home": {
-          "n": 8,
+          "n": 4,
           "gf": 2.5,
-          "ga": 1,
-          "cs": 50,
-          "fts": 13,
-          "ov25": 63,
-          "btts": 38,
-          "scored2": 38,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 4,
-            "d": 1,
-            "l": 3
+            "w": 3,
+            "d": 0,
+            "l": 1
           },
           "htRecord": {
-            "w": 6,
-            "d": 0,
-            "l": 2
+            "w": 1,
+            "d": 2,
+            "l": 1
           },
-          "fhFor": 1.38,
-          "fhAgainst": 0.38,
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
           "ovLine": null
         },
-        "away": null,
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
         "h2h": []
       }
     },
@@ -38680,60 +38673,60 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "fixtureApid": 19722222,
+      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Racing W",
-      "away": "HJK W",
+      "home": "Eintracht Frankfurt W",
+      "away": "Omonia Nicosia W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 0,
-        "away": 2
+        "home": 8,
+        "away": 0
       },
       "bestTip": {
         "market": "total_goals",
         "selection": "over",
         "label": "Over 2.5 goals",
-        "probability": 61,
-        "odds": 1.38,
-        "edge": -11.5,
+        "probability": 71,
+        "odds": null,
+        "edge": null,
         "hasEdge": false,
         "line": 2.5,
-        "bookmaker": "Kambi",
+        "bookmaker": "",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.36
+            "odds": null
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.38
+            "odds": null
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.36
+            "odds": null
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.36
+            "odds": null
           },
           {
             "id": 5,
@@ -38744,20 +38737,20 @@
           }
         ]
       },
-      "settlement": "lost",
-      "actual": "2 goals",
+      "settlement": "won",
+      "actual": "8 goals",
       "matchResult": {
         "home": {
-          "prob": 28,
-          "odds": 6.75
+          "prob": 81,
+          "odds": null
         },
         "draw": {
-          "prob": 21,
-          "odds": 5
+          "prob": 11,
+          "odds": null
         },
         "away": {
-          "prob": 51,
-          "odds": 1.4
+          "prob": 9,
+          "odds": null
         }
       },
       "form": {
@@ -38765,11 +38758,11 @@
           {
             "hit": true,
             "pending": false,
-            "res": "W",
-            "score": "2-1",
+            "res": "L",
+            "score": "1-2",
             "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
+            "date": "11 Sept",
+            "opponent": "Real Madrid W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
@@ -38777,21 +38770,43 @@
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "5-3",
+            "score": "6-0",
             "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
+            "date": "7 Sept",
+            "opponent": "Minsk FK W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
             "hit": false,
             "pending": false,
-            "res": "W",
-            "score": "2-0",
+            "res": "L",
+            "score": "0-2",
             "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
+            "date": "4 Sept",
+            "opponent": "Sporting W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "SL Benfica W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
@@ -38799,81 +38814,66 @@
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "1-4",
+            "score": "1-3",
             "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
+            "date": "22 Nov",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "10 Oct",
+            "opponent": "Sparta Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Slovácko W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
+        "away": []
       },
       "modelStats": {
         "home": {
-          "n": 4,
+          "n": 8,
           "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
           "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
+          "cs": 50,
+          "fts": 13,
+          "ov25": 63,
+          "btts": 38,
+          "scored2": 38,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
+            "w": 4,
+            "d": 1,
+            "l": 3
           },
           "htRecord": {
-            "w": 0,
+            "w": 6,
             "d": 0,
-            "l": 1
+            "l": 2
           },
-          "fhFor": 0,
-          "fhAgainst": 1,
+          "fhFor": 1.38,
+          "fhAgainst": 0.38,
           "ovLine": null
         },
+        "away": null,
         "h2h": []
       }
     },
@@ -39964,18 +39964,18 @@
         "selection": "under",
         "label": "Under 2.5 goals",
         "probability": 67,
-        "odds": 1.45,
-        "edge": -2,
+        "odds": 1.47,
+        "edge": -1,
         "hasEdge": false,
         "line": 2.5,
-        "bookmaker": "Bet365",
+        "bookmaker": "Altenar",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.45
+            "odds": 1.44
           },
           {
             "id": 2,
@@ -40003,7 +40003,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
+            "odds": 1.47
           }
         ]
       },
@@ -40012,7 +40012,7 @@
       "matchResult": {
         "home": {
           "prob": 51,
-          "odds": 1.94
+          "odds": 1.89
         },
         "draw": {
           "prob": 29,
@@ -40020,7 +40020,7 @@
         },
         "away": {
           "prob": 20,
-          "odds": 5.25
+          "odds": 5
         }
       },
       "form": {
@@ -43185,8 +43185,8 @@
         "selection": "under",
         "label": "Away under 1.5 goals",
         "probability": 87,
-        "odds": 1.11,
-        "edge": -3.1,
+        "odds": 1.1,
+        "edge": -3.9,
         "hasEdge": false,
         "line": 1.5,
         "bookmaker": "Kambi",
@@ -43203,7 +43203,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.11
+            "odds": 1.1
           },
           {
             "id": 3,
@@ -43233,11 +43233,11 @@
       "matchResult": {
         "home": {
           "prob": 70,
-          "odds": 1.33
+          "odds": 1.35
         },
         "draw": {
           "prob": 19,
-          "odds": 5.1
+          "odds": 5
         },
         "away": {
           "prob": 11,
@@ -46937,67 +46937,67 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19722222,
-      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Eintracht Frankfurt W",
-      "away": "Omonia Nicosia W",
+      "home": "Racing W",
+      "away": "HJK W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 8,
-        "away": 0
+        "home": 0,
+        "away": 2
       },
       "bestTip": {
         "market": "double_chance",
-        "selection": "1X",
-        "label": "Home or draw",
-        "probability": 91,
-        "odds": null,
-        "edge": null,
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 79,
+        "odds": 1.2,
+        "edge": -4.3,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.2
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.11
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
+            "odds": 1.13
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
+            "odds": 1.15
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
+            "odds": 1.17
           }
         ]
       },
@@ -47005,28 +47005,28 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 81,
-          "odds": null
+          "prob": 28,
+          "odds": 6.75
         },
         "draw": {
-          "prob": 11,
-          "odds": null
+          "prob": 21,
+          "odds": 5
         },
         "away": {
-          "prob": 9,
-          "odds": null
+          "prob": 51,
+          "odds": 1.4
         }
       },
       "form": {
         "home": [
           {
-            "hit": false,
+            "hit": true,
             "pending": false,
-            "res": "L",
-            "score": "1-2",
+            "res": "W",
+            "score": "2-1",
             "corners": null,
-            "date": "11 Sept",
-            "opponent": "Real Madrid W",
+            "date": "2 Aug",
+            "opponent": "Riga W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
@@ -47034,110 +47034,103 @@
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "6-0",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
             "corners": null,
             "date": "7 Sept",
-            "opponent": "Minsk FK W",
+            "opponent": "NSA Sofia W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": false,
+            "hit": true,
             "pending": false,
             "res": "L",
-            "score": "0-2",
+            "score": "1-4",
             "corners": null,
             "date": "4 Sept",
-            "opponent": "Sporting W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Rosengard W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Dec",
-            "opponent": "SL Benfica W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "22 Nov",
-            "opponent": "Barcelona W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "10 Oct",
-            "opponent": "Sparta Praha W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "6 Sept",
-            "opponent": "Slovácko W",
+            "opponent": "Galatasaray W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": []
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
       },
       "modelStats": {
         "home": {
-          "n": 8,
+          "n": 4,
           "gf": 2.5,
-          "ga": 1,
-          "cs": 50,
-          "fts": 13,
-          "ov25": 63,
-          "btts": 38,
-          "scored2": 38,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 4,
-            "d": 1,
-            "l": 3
+            "w": 3,
+            "d": 0,
+            "l": 1
           },
           "htRecord": {
-            "w": 6,
-            "d": 0,
-            "l": 2
+            "w": 1,
+            "d": 2,
+            "l": 1
           },
-          "fhFor": 1.38,
-          "fhAgainst": 0.38,
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
           "ovLine": null
         },
-        "away": null,
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
         "h2h": []
       }
     },
@@ -47399,67 +47392,67 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "fixtureApid": 19722222,
+      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Racing W",
-      "away": "HJK W",
+      "home": "Eintracht Frankfurt W",
+      "away": "Omonia Nicosia W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 0,
-        "away": 2
+        "home": 8,
+        "away": 0
       },
       "bestTip": {
         "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 79,
-        "odds": 1.2,
-        "edge": -4.3,
+        "selection": "1X",
+        "label": "Home or draw",
+        "probability": 91,
+        "odds": null,
+        "edge": null,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.2
+            "odds": null
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.11
+            "odds": null
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.13
+            "odds": null
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.15
+            "odds": null
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.17
+            "odds": null
           }
         ]
       },
@@ -47467,132 +47460,139 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 28,
-          "odds": 6.75
+          "prob": 81,
+          "odds": null
         },
         "draw": {
-          "prob": 21,
-          "odds": 5
+          "prob": 11,
+          "odds": null
         },
         "away": {
-          "prob": 51,
-          "odds": 1.4
+          "prob": 9,
+          "odds": null
         }
       },
       "form": {
         "home": [
           {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Sept",
-            "opponent": "NSA Sofia W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "L",
-            "score": "1-4",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Sept",
+            "opponent": "Real Madrid W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-0",
+            "corners": null,
+            "date": "7 Sept",
+            "opponent": "Minsk FK W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
             "corners": null,
             "date": "4 Sept",
-            "opponent": "Galatasaray W",
+            "opponent": "Sporting W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "SL Benfica W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "22 Nov",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "10 Oct",
+            "opponent": "Sparta Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Slovácko W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
+        "away": []
       },
       "modelStats": {
         "home": {
-          "n": 4,
+          "n": 8,
           "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
           "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
+          "cs": 50,
+          "fts": 13,
+          "ov25": 63,
+          "btts": 38,
+          "scored2": 38,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
+            "w": 4,
+            "d": 1,
+            "l": 3
           },
           "htRecord": {
-            "w": 0,
+            "w": 6,
             "d": 0,
-            "l": 1
+            "l": 2
           },
-          "fhFor": 0,
-          "fhAgainst": 1,
+          "fhFor": 1.38,
+          "fhAgainst": 0.38,
           "ovLine": null
         },
+        "away": null,
         "h2h": []
       }
     },
@@ -48683,8 +48683,8 @@
         "selection": "1X",
         "label": "Home or draw",
         "probability": 89,
-        "odds": 1.06,
-        "edge": -5.3,
+        "odds": 1.08,
+        "edge": -3.6,
         "hasEdge": false,
         "line": null,
         "bookmaker": "Altenar",
@@ -48708,7 +48708,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.02
+            "odds": 1.03
           },
           {
             "id": 4,
@@ -48722,7 +48722,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.06
+            "odds": 1.08
           }
         ]
       },
@@ -48731,11 +48731,11 @@
       "matchResult": {
         "home": {
           "prob": 70,
-          "odds": 1.33
+          "odds": 1.35
         },
         "draw": {
           "prob": 19,
-          "odds": 5.1
+          "odds": 5
         },
         "away": {
           "prob": 11,
@@ -52472,53 +52472,53 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
-      "fixtureApid": 19722222,
-      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Eintracht Frankfurt W",
-      "away": "Omonia Nicosia W",
+      "home": "Racing W",
+      "away": "HJK W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 8,
-        "away": 0
+        "home": 0,
+        "away": 2
       },
       "bestTip": {
         "market": "1x2_fh",
-        "selection": "1",
-        "label": "Home HT",
-        "probability": 58,
-        "odds": null,
-        "edge": null,
+        "selection": "2",
+        "label": "Away HT",
+        "probability": 49,
+        "odds": 1.8,
+        "edge": -6.6,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.8
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.74
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
+            "odds": 1.73
           },
           {
             "id": 4,
@@ -52537,19 +52537,19 @@
         ]
       },
       "settlement": "won",
-      "actual": "1",
+      "actual": "2",
       "matchResult": {
         "home": {
-          "prob": 81,
-          "odds": null
+          "prob": 28,
+          "odds": 6.75
         },
         "draw": {
-          "prob": 11,
-          "odds": null
+          "prob": 21,
+          "odds": 5
         },
         "away": {
-          "prob": 9,
-          "odds": null
+          "prob": 51,
+          "odds": 1.4
         }
       },
       "form": {
@@ -52557,122 +52557,115 @@
           {
             "hit": false,
             "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 Sept",
-            "opponent": "Real Madrid W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
             "res": "W",
-            "score": "6-0",
+            "score": "2-1",
             "corners": null,
-            "date": "7 Sept",
-            "opponent": "Minsk FK W",
+            "date": "2 Aug",
+            "opponent": "Riga W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
             "hit": false,
             "pending": false,
+            "res": "W",
+            "score": "5-3",
+            "corners": null,
+            "date": "30 Jul",
+            "opponent": "AEK Athens W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Sept",
+            "opponent": "NSA Sofia W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
             "res": "L",
-            "score": "0-2",
+            "score": "1-4",
             "corners": null,
             "date": "4 Sept",
-            "opponent": "Sporting W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Rosengard W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Dec",
-            "opponent": "SL Benfica W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "22 Nov",
-            "opponent": "Barcelona W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "10 Oct",
-            "opponent": "Sparta Praha W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "6 Sept",
-            "opponent": "Slovácko W",
+            "opponent": "Galatasaray W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": []
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
       },
       "modelStats": {
         "home": {
-          "n": 8,
+          "n": 4,
           "gf": 2.5,
-          "ga": 1,
-          "cs": 50,
-          "fts": 13,
-          "ov25": 63,
-          "btts": 38,
-          "scored2": 38,
+          "ga": 2,
+          "cs": 25,
+          "fts": 0,
+          "ov25": 75,
+          "btts": 75,
+          "scored2": 75,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 4,
-            "d": 1,
-            "l": 3
+            "w": 3,
+            "d": 0,
+            "l": 1
           },
           "htRecord": {
-            "w": 6,
-            "d": 0,
-            "l": 2
+            "w": 1,
+            "d": 2,
+            "l": 1
           },
-          "fhFor": 1.38,
-          "fhAgainst": 0.38,
+          "fhFor": 0.25,
+          "fhAgainst": 0.75,
           "ovLine": null
         },
-        "away": null,
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 1,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 0,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
         "h2h": []
       }
     },
@@ -52934,53 +52927,53 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "fixtureApid": 19722222,
+      "slug": "26966822-uefa-women's-champions-league-eintracht-frankfurt-w-omonia-nicosia-w",
       "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Racing W",
-      "away": "HJK W",
+      "home": "Eintracht Frankfurt W",
+      "away": "Omonia Nicosia W",
       "locked": false,
       "finished": true,
       "score": {
-        "home": 0,
-        "away": 2
+        "home": 8,
+        "away": 0
       },
       "bestTip": {
         "market": "1x2_fh",
-        "selection": "2",
-        "label": "Away HT",
-        "probability": 49,
-        "odds": 1.8,
-        "edge": -6.6,
+        "selection": "1",
+        "label": "Home HT",
+        "probability": 58,
+        "odds": null,
+        "edge": null,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.8
+            "odds": null
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.74
+            "odds": null
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.73
+            "odds": null
           },
           {
             "id": 4,
@@ -52999,19 +52992,19 @@
         ]
       },
       "settlement": "won",
-      "actual": "2",
+      "actual": "1",
       "matchResult": {
         "home": {
-          "prob": 28,
-          "odds": 6.75
+          "prob": 81,
+          "odds": null
         },
         "draw": {
-          "prob": 21,
-          "odds": 5
+          "prob": 11,
+          "odds": null
         },
         "away": {
-          "prob": 51,
-          "odds": 1.4
+          "prob": 9,
+          "odds": null
         }
       },
       "form": {
@@ -53019,33 +53012,55 @@
           {
             "hit": false,
             "pending": false,
-            "res": "W",
-            "score": "2-1",
+            "res": "L",
+            "score": "1-2",
             "corners": null,
-            "date": "2 Aug",
-            "opponent": "Riga W",
+            "date": "11 Sept",
+            "opponent": "Real Madrid W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": false,
+            "hit": true,
             "pending": false,
             "res": "W",
-            "score": "5-3",
-            "corners": null,
-            "date": "30 Jul",
-            "opponent": "AEK Athens W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
+            "score": "6-0",
             "corners": null,
             "date": "7 Sept",
-            "opponent": "NSA Sofia W",
+            "opponent": "Minsk FK W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Sporting W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "SL Benfica W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           },
@@ -53053,81 +53068,66 @@
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "1-4",
+            "score": "1-3",
             "corners": null,
-            "date": "4 Sept",
-            "opponent": "Galatasaray W",
+            "date": "22 Nov",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "10 Oct",
+            "opponent": "Sparta Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Slovácko W",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
             "leagueLogoDark": null
           }
         ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "27 Aug",
-            "opponent": "Vålerenga W",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
-            "leagueLogoDark": null
-          }
-        ]
+        "away": []
       },
       "modelStats": {
         "home": {
-          "n": 4,
+          "n": 8,
           "gf": 2.5,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 75,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 0,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 2,
-            "l": 1
-          },
-          "fhFor": 0.25,
-          "fhAgainst": 0.75,
-          "ovLine": null
-        },
-        "away": {
-          "n": 1,
-          "gf": 0,
           "ga": 1,
-          "cs": 0,
-          "fts": 100,
-          "ov25": 0,
-          "btts": 0,
-          "scored2": 0,
+          "cs": 50,
+          "fts": 13,
+          "ov25": 63,
+          "btts": 38,
+          "scored2": 38,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 0,
-            "d": 0,
-            "l": 1
+            "w": 4,
+            "d": 1,
+            "l": 3
           },
           "htRecord": {
-            "w": 0,
+            "w": 6,
             "d": 0,
-            "l": 1
+            "l": 2
           },
-          "fhFor": 0,
-          "fhAgainst": 1,
+          "fhFor": 1.38,
+          "fhAgainst": 0.38,
           "ovLine": null
         },
+        "away": null,
         "h2h": []
       }
     },
@@ -54236,14 +54236,14 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.73
+            "odds": 1.75
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.67
+            "odds": 1.73
           },
           {
             "id": 4,
@@ -54266,11 +54266,11 @@
       "matchResult": {
         "home": {
           "prob": 70,
-          "odds": 1.33
+          "odds": 1.35
         },
         "draw": {
           "prob": 19,
-          "odds": 5.1
+          "odds": 5
         },
         "away": {
           "prob": 11,
@@ -54726,7 +54726,7 @@
         },
         "away": {
           "prob": 34,
-          "odds": 1.79
+          "odds": 1.81
         }
       },
       "form": {
@@ -55039,32 +55039,6 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19710141-total_goals-under-4.5",
-      "fixtureApid": 19710141,
-      "slug": "27007518-copa-do-brasil-fortaleza-palmeiras",
-      "timestamp": "2026-08-06T00:30:00.000Z",
-      "league": {
-        "id": 54,
-        "name": "Copa do Brasil",
-        "country": "Brazil"
-      },
-      "home": "Fortaleza",
-      "away": "Palmeiras",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
       "rowId": "19710141-total_corners-over-6.5",
       "fixtureApid": 19710141,
       "slug": "27007518-copa-do-brasil-fortaleza-palmeiras",
@@ -55092,6 +55066,32 @@
     {
       "sourcePath": "/predictions/tomorrow",
       "rowId": "19726977-total_goals-under-4.5",
+      "fixtureApid": 19726977,
+      "slug": "27050994-carabao-cup-bristol-city-walsall",
+      "timestamp": "2026-08-06T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Bristol",
+      "away": "Walsall",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
+      "rowId": "19726977-total_corners-over-6.5",
       "fixtureApid": 19726977,
       "slug": "27050994-carabao-cup-bristol-city-walsall",
       "timestamp": "2026-08-06T18:45:00.000Z",
