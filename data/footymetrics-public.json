@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-05T04:55:38.892Z",
+  "generatedAt": "2026-08-05T07:33:13.790Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-05T04:55:36.816Z",
-      "bytes": 285291,
+      "fetchedAt": "2026-08-05T07:33:11.769Z",
+      "bytes": 285278,
       "rowCount": 11,
-      "serverTotal": 104
+      "serverTotal": 100
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-05T04:55:37.023Z",
+      "fetchedAt": "2026-08-05T07:33:11.993Z",
       "bytes": 250364,
       "rowCount": 6,
       "serverTotal": 24
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-05T04:55:37.252Z",
+      "fetchedAt": "2026-08-05T07:33:12.211Z",
       "bytes": 249590,
       "rowCount": 6,
       "serverTotal": 24
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-05T04:55:37.456Z",
+      "fetchedAt": "2026-08-05T07:33:12.433Z",
       "bytes": 251965,
       "rowCount": 6,
       "serverTotal": 24
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-05T04:55:37.926Z",
-      "bytes": 253059,
+      "fetchedAt": "2026-08-05T07:33:12.684Z",
+      "bytes": 252949,
       "rowCount": 6,
-      "serverTotal": 6
+      "serverTotal": 13
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-05T04:55:38.130Z",
+      "fetchedAt": "2026-08-05T07:33:12.918Z",
       "bytes": 249988,
       "rowCount": 6,
       "serverTotal": 24
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-05T04:55:38.323Z",
+      "fetchedAt": "2026-08-05T07:33:13.192Z",
       "bytes": 251279,
       "rowCount": 6,
       "serverTotal": 24
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-05T04:55:38.464Z",
+      "fetchedAt": "2026-08-05T07:33:13.351Z",
       "bytes": 250807,
       "rowCount": 5,
       "serverTotal": 34
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-05T04:55:38.607Z",
+      "fetchedAt": "2026-08-05T07:33:13.517Z",
       "bytes": 475546,
       "rowCount": 37,
       "serverTotal": 37
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-05T04:55:38.892Z",
+      "fetchedAt": "2026-08-05T07:33:13.790Z",
       "bytes": 392461,
       "rowCount": 0,
       "serverTotal": 0
@@ -2291,7 +2291,7 @@
         },
         "draw": {
           "prob": 13,
-          "odds": 6
+          "odds": 6.5
         },
         "away": {
           "prob": 7,
@@ -2410,17 +2410,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19722219-total_goals-over-1.5",
-      "fixtureApid": 19722219,
-      "slug": "26966820-uefa-women's-champions-league-znk-mura-w-farul-constanta-w",
-      "timestamp": "2026-08-05T16:00:00.000Z",
+      "rowId": "19710142-total_corners-over-6.5",
+      "fixtureApid": 19710142,
+      "slug": "26966827-copa-do-brasil-cruzeiro-chapecoense",
+      "timestamp": "2026-08-05T22:00:00.000Z",
       "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
+        "id": 54,
+        "name": "Copa do Brasil",
+        "country": "Brazil"
       },
-      "home": "ŽNK Mura W",
-      "away": "Farul Constanţa W",
+      "home": "Cruzeiro",
+      "away": "Chapecoense",
       "locked": true,
       "finished": false,
       "score": null,
@@ -2436,17 +2436,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19710142-total_corners-over-6.5",
-      "fixtureApid": 19710142,
-      "slug": "26966827-copa-do-brasil-cruzeiro-chapecoense",
+      "rowId": "19636746-total_goals-under-3.5",
+      "fixtureApid": 19636746,
+      "slug": "26966826-liga-profesional-de-futbol-boca-juniors-estudiantes",
       "timestamp": "2026-08-05T22:00:00.000Z",
       "league": {
-        "id": 54,
-        "name": "Copa do Brasil",
-        "country": "Brazil"
+        "id": 51,
+        "name": "Liga Profesional de Fútbol",
+        "country": "Argentina"
       },
-      "home": "Cruzeiro",
-      "away": "Chapecoense",
+      "home": "Boca Juniors",
+      "away": "Estudiantes",
       "locked": true,
       "finished": false,
       "score": null,
@@ -2865,8 +2865,8 @@
         "selection": "1",
         "label": "Home win",
         "probability": 91,
-        "odds": 1.03,
-        "edge": -6.1,
+        "odds": 1.09,
+        "edge": -0.7,
         "hasEdge": false,
         "line": null,
         "bookmaker": "Bet365",
@@ -2876,7 +2876,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.03
+            "odds": 1.09
           },
           {
             "id": 2,
@@ -2904,7 +2904,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
+            "odds": 1.04
           }
         ]
       },
@@ -2913,15 +2913,15 @@
       "matchResult": {
         "home": {
           "prob": 91,
-          "odds": 1.03
+          "odds": 1.09
         },
         "draw": {
           "prob": 6,
-          "odds": 19
+          "odds": 11
         },
         "away": {
           "prob": 3,
-          "odds": 41
+          "odds": 26
         }
       },
       "form": {
@@ -3572,15 +3572,15 @@
       "matchResult": {
         "home": {
           "prob": 91,
-          "odds": 1.03
+          "odds": 1.09
         },
         "draw": {
           "prob": 6,
-          "odds": 19
+          "odds": 11
         },
         "away": {
           "prob": 3,
-          "odds": 41
+          "odds": 26
         }
       },
       "form": {
@@ -4231,15 +4231,15 @@
       "matchResult": {
         "home": {
           "prob": 91,
-          "odds": 1.03
+          "odds": 1.09
         },
         "draw": {
           "prob": 6,
-          "odds": 19
+          "odds": 11
         },
         "away": {
           "prob": 3,
-          "odds": 41
+          "odds": 26
         }
       },
       "form": {
@@ -4871,7 +4871,7 @@
       "matchResult": {
         "home": {
           "prob": 70,
-          "odds": 1.36
+          "odds": 1.33
         },
         "draw": {
           "prob": 19,
@@ -5219,16 +5219,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19722225,
-      "slug": "27610404-uefa-women's-champions-league-apollon-w-czarni-sosnowiec-w",
-      "timestamp": "2026-08-05T14:00:00.000Z",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Apollon W",
-      "away": "Czarni Sosnowiec W",
+      "home": "Racing W",
+      "away": "HJK W",
       "locked": true,
       "finished": false,
       "score": null,
@@ -5245,16 +5245,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19722212,
-      "slug": "26966816-uefa-women's-champions-league-ajax-w-brondby-w",
-      "timestamp": "2026-08-05T13:00:00.000Z",
+      "fixtureApid": 19722218,
+      "slug": "26966815-uefa-women's-champions-league-sporting-w-seasters-w",
+      "timestamp": "2026-08-05T12:30:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Ajax W",
-      "away": "Brondby W",
+      "home": "Sporting W",
+      "away": "SeaSters W",
       "locked": true,
       "finished": false,
       "score": null,
@@ -5721,15 +5721,15 @@
       "matchResult": {
         "home": {
           "prob": 91,
-          "odds": 1.03
+          "odds": 1.09
         },
         "draw": {
           "prob": 6,
-          "odds": 19
+          "odds": 11
         },
         "away": {
           "prob": 3,
-          "odds": 41
+          "odds": 26
         }
       },
       "form": {
@@ -6756,7 +6756,7 @@
         },
         "away": {
           "prob": 32,
-          "odds": 3.5
+          "odds": 3.4
         }
       },
       "form": {
