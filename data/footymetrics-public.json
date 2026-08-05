@@ -1,67 +1,67 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-05T07:33:13.790Z",
+  "generatedAt": "2026-08-05T10:25:25.141Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-05T07:33:11.769Z",
-      "bytes": 285278,
+      "fetchedAt": "2026-08-05T10:25:22.903Z",
+      "bytes": 285295,
       "rowCount": 11,
-      "serverTotal": 100
+      "serverTotal": 109
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-05T07:33:11.993Z",
-      "bytes": 250364,
-      "rowCount": 6,
+      "fetchedAt": "2026-08-05T10:25:23.142Z",
+      "bytes": 255395,
+      "rowCount": 7,
       "serverTotal": 24
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-05T07:33:12.211Z",
-      "bytes": 249590,
-      "rowCount": 6,
+      "fetchedAt": "2026-08-05T10:25:23.378Z",
+      "bytes": 254718,
+      "rowCount": 7,
       "serverTotal": 24
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-05T07:33:12.433Z",
-      "bytes": 251965,
-      "rowCount": 6,
+      "fetchedAt": "2026-08-05T10:25:23.598Z",
+      "bytes": 257018,
+      "rowCount": 7,
       "serverTotal": 24
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-05T07:33:12.684Z",
-      "bytes": 252949,
+      "fetchedAt": "2026-08-05T10:25:23.817Z",
+      "bytes": 252951,
       "rowCount": 6,
-      "serverTotal": 13
+      "serverTotal": 14
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-05T07:33:12.918Z",
-      "bytes": 249988,
-      "rowCount": 6,
+      "fetchedAt": "2026-08-05T10:25:24.299Z",
+      "bytes": 255046,
+      "rowCount": 7,
       "serverTotal": 24
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-05T07:33:13.192Z",
-      "bytes": 251279,
-      "rowCount": 6,
+      "fetchedAt": "2026-08-05T10:25:24.523Z",
+      "bytes": 254788,
+      "rowCount": 7,
       "serverTotal": 24
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-05T07:33:13.351Z",
+      "fetchedAt": "2026-08-05T10:25:24.686Z",
       "bytes": 250807,
       "rowCount": 5,
       "serverTotal": 34
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-05T07:33:13.517Z",
+      "fetchedAt": "2026-08-05T10:25:24.847Z",
       "bytes": 475546,
       "rowCount": 37,
       "serverTotal": 37
@@ -77,13 +77,13 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-05T07:33:13.790Z",
+      "fetchedAt": "2026-08-05T10:25:25.141Z",
       "bytes": 392461,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 89,
+  "count": 94,
   "errors": [],
   "rows": [
     {
@@ -2257,7 +2257,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.08
           },
           {
             "id": 3,
@@ -2271,7 +2271,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.1
+            "odds": 1.09
           },
           {
             "id": 5,
@@ -2287,7 +2287,7 @@
       "matchResult": {
         "home": {
           "prob": 80,
-          "odds": 1.2
+          "odds": 1.21
         },
         "draw": {
           "prob": 13,
@@ -2295,7 +2295,7 @@
         },
         "away": {
           "prob": 7,
-          "odds": 11
+          "odds": 13
         }
       },
       "form": {
@@ -2410,17 +2410,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19710142-total_corners-over-6.5",
-      "fixtureApid": 19710142,
-      "slug": "26966827-copa-do-brasil-cruzeiro-chapecoense",
-      "timestamp": "2026-08-05T22:00:00.000Z",
+      "rowId": "19722219-total_goals-over-1.5",
+      "fixtureApid": 19722219,
+      "slug": "26966820-uefa-women's-champions-league-znk-mura-w-farul-constanta-w",
+      "timestamp": "2026-08-05T16:00:00.000Z",
       "league": {
-        "id": 54,
-        "name": "Copa do Brasil",
-        "country": "Brazil"
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
       },
-      "home": "Cruzeiro",
-      "away": "Chapecoense",
+      "home": "ŽNK Mura W",
+      "away": "Farul Constanţa W",
       "locked": true,
       "finished": false,
       "score": null,
@@ -2436,17 +2436,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19636746-total_goals-under-3.5",
-      "fixtureApid": 19636746,
-      "slug": "26966826-liga-profesional-de-futbol-boca-juniors-estudiantes",
+      "rowId": "19710142-total_corners-over-6.5",
+      "fixtureApid": 19710142,
+      "slug": "26966827-copa-do-brasil-cruzeiro-chapecoense",
       "timestamp": "2026-08-05T22:00:00.000Z",
       "league": {
-        "id": 51,
-        "name": "Liga Profesional de Fútbol",
-        "country": "Argentina"
+        "id": 54,
+        "name": "Copa do Brasil",
+        "country": "Brazil"
       },
-      "home": "Boca Juniors",
-      "away": "Estudiantes",
+      "home": "Cruzeiro",
+      "away": "Chapecoense",
       "locked": true,
       "finished": false,
       "score": null,
@@ -2847,36 +2847,39 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19722209,
-      "slug": "26966817-uefa-women's-champions-league-hammarby-w-apolonia-w",
-      "timestamp": "2026-08-05T13:30:00.000Z",
+      "fixtureApid": 19722216,
+      "slug": "27610395-uefa-women's-champions-league-brann-w-mitrovica-w",
+      "timestamp": "2026-08-05T08:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Hammarby W",
-      "away": "Apolonia W",
+      "home": "Brann W",
+      "away": "Mitrovica W",
       "locked": false,
-      "finished": false,
-      "score": null,
+      "finished": true,
+      "score": {
+        "home": 5,
+        "away": 0
+      },
       "bestTip": {
         "market": "1x2",
         "selection": "1",
         "label": "Home win",
-        "probability": 91,
-        "odds": 1.09,
-        "edge": -0.7,
+        "probability": 76,
+        "odds": null,
+        "edge": null,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.09
+            "odds": null
           },
           {
             "id": 2,
@@ -2904,7 +2907,270 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1",
+      "matchResult": {
+        "home": {
+          "prob": 76,
+          "odds": null
+        },
+        "draw": {
+          "prob": 13,
+          "odds": null
+        },
+        "away": {
+          "prob": 11,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Sept",
+            "opponent": "Man United W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Aug",
+            "opponent": "Sporting Braga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Inter Milano W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Mar",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "St. Polten W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "OL Lyonnes W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "22 Nov",
+            "opponent": "Slavia Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Oct",
+            "opponent": "Glasgow City W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Lokomotiv Stara Zagora W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Sept",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 5,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
+      "fixtureApid": 19722209,
+      "slug": "26966817-uefa-women's-champions-league-hammarby-w-apolonia-w",
+      "timestamp": "2026-08-05T13:30:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Hammarby W",
+      "away": "Apolonia W",
+      "locked": false,
+      "finished": false,
+      "score": null,
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 91,
+        "odds": 1.07,
+        "edge": -2.5,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.05
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.07
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
             "odds": 1.04
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.01
           }
         ]
       },
@@ -2913,15 +3179,15 @@
       "matchResult": {
         "home": {
           "prob": 91,
-          "odds": 1.09
+          "odds": 1.07
         },
         "draw": {
           "prob": 6,
-          "odds": 11
+          "odds": 17
         },
         "away": {
           "prob": 3,
-          "odds": 26
+          "odds": 36
         }
       },
       "form": {
@@ -3070,16 +3336,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19722216,
-      "slug": "27610395-uefa-women's-champions-league-brann-w-mitrovica-w",
-      "timestamp": "2026-08-05T08:00:00.000Z",
+      "fixtureApid": 19722205,
+      "slug": "26966823-uefa-women's-champions-league-oh-leuven-w-tsc-backa-topola",
+      "timestamp": "2026-08-05T18:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Brann W",
-      "away": "Mitrovica W",
+      "home": "OH Leuven W",
+      "away": "TSC Bačka Topola",
       "locked": true,
       "finished": false,
       "score": null,
@@ -3096,16 +3362,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19722205,
-      "slug": "26966823-uefa-women's-champions-league-oh-leuven-w-tsc-backa-topola",
-      "timestamp": "2026-08-05T18:00:00.000Z",
+      "fixtureApid": 19710142,
+      "slug": "26966827-copa-do-brasil-cruzeiro-chapecoense",
+      "timestamp": "2026-08-05T22:00:00.000Z",
       "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
+        "id": 54,
+        "name": "Copa do Brasil",
+        "country": "Brazil"
       },
-      "home": "OH Leuven W",
-      "away": "TSC Bačka Topola",
+      "home": "Cruzeiro",
+      "away": "Chapecoense",
       "locked": true,
       "finished": false,
       "score": null,
@@ -3506,24 +3772,27 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19722209,
-      "slug": "26966817-uefa-women's-champions-league-hammarby-w-apolonia-w",
-      "timestamp": "2026-08-05T13:30:00.000Z",
+      "fixtureApid": 19722216,
+      "slug": "27610395-uefa-women's-champions-league-brann-w-mitrovica-w",
+      "timestamp": "2026-08-05T08:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Hammarby W",
-      "away": "Apolonia W",
+      "home": "Brann W",
+      "away": "Mitrovica W",
       "locked": false,
-      "finished": false,
-      "score": null,
+      "finished": true,
+      "score": {
+        "home": 5,
+        "away": 0
+      },
       "bestTip": {
         "market": "btts",
-        "selection": "no",
-        "label": "BTTS: No",
-        "probability": 66,
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 50,
         "odds": null,
         "edge": null,
         "hasEdge": false,
@@ -3567,20 +3836,283 @@
           }
         ]
       },
+      "settlement": "lost",
+      "actual": "BTTS No",
+      "matchResult": {
+        "home": {
+          "prob": 76,
+          "odds": null
+        },
+        "draw": {
+          "prob": 13,
+          "odds": null
+        },
+        "away": {
+          "prob": 11,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Sept",
+            "opponent": "Man United W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Aug",
+            "opponent": "Sporting Braga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Inter Milano W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Mar",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "St. Polten W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "OL Lyonnes W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "22 Nov",
+            "opponent": "Slavia Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Oct",
+            "opponent": "Glasgow City W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Lokomotiv Stara Zagora W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Sept",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 5,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
+      "fixtureApid": 19722209,
+      "slug": "26966817-uefa-women's-champions-league-hammarby-w-apolonia-w",
+      "timestamp": "2026-08-05T13:30:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Hammarby W",
+      "away": "Apolonia W",
+      "locked": false,
+      "finished": false,
+      "score": null,
+      "bestTip": {
+        "market": "btts",
+        "selection": "no",
+        "label": "BTTS: No",
+        "probability": 66,
+        "odds": 1.61,
+        "edge": 3.9,
+        "hasEdge": true,
+        "line": null,
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.61
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
       "settlement": null,
       "actual": null,
       "matchResult": {
         "home": {
           "prob": 91,
-          "odds": 1.09
+          "odds": 1.07
         },
         "draw": {
           "prob": 6,
-          "odds": 11
+          "odds": 17
         },
         "away": {
           "prob": 3,
-          "odds": 26
+          "odds": 36
         }
       },
       "form": {
@@ -4165,6 +4697,272 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
+      "fixtureApid": 19722216,
+      "slug": "27610395-uefa-women's-champions-league-brann-w-mitrovica-w",
+      "timestamp": "2026-08-05T08:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Brann W",
+      "away": "Mitrovica W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 2.5 goals",
+        "probability": 70,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": 2.5,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "5 goals",
+      "matchResult": {
+        "home": {
+          "prob": 76,
+          "odds": null
+        },
+        "draw": {
+          "prob": 13,
+          "odds": null
+        },
+        "away": {
+          "prob": 11,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Sept",
+            "opponent": "Man United W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Aug",
+            "opponent": "Sporting Braga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Inter Milano W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Mar",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "St. Polten W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "OL Lyonnes W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "22 Nov",
+            "opponent": "Slavia Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Oct",
+            "opponent": "Glasgow City W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Lokomotiv Stara Zagora W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Sept",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 5,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
       "fixtureApid": 19722209,
       "slug": "26966817-uefa-women's-champions-league-hammarby-w-apolonia-w",
       "timestamp": "2026-08-05T13:30:00.000Z",
@@ -4183,8 +4981,8 @@
         "selection": "over",
         "label": "Over 2.5 goals",
         "probability": 76,
-        "odds": 1.13,
-        "edge": -12.5,
+        "odds": 1.11,
+        "edge": -14.1,
         "hasEdge": false,
         "line": 2.5,
         "bookmaker": "Bet365",
@@ -4194,7 +4992,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.13
+            "odds": 1.11
           },
           {
             "id": 2,
@@ -4231,15 +5029,15 @@
       "matchResult": {
         "home": {
           "prob": 91,
-          "odds": 1.09
+          "odds": 1.07
         },
         "draw": {
           "prob": 6,
-          "odds": 11
+          "odds": 17
         },
         "away": {
           "prob": 3,
-          "odds": 26
+          "odds": 36
         }
       },
       "form": {
@@ -4362,32 +5160,6 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19722216,
-      "slug": "27610395-uefa-women's-champions-league-brann-w-mitrovica-w",
-      "timestamp": "2026-08-05T08:00:00.000Z",
-      "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
-      },
-      "home": "Brann W",
-      "away": "Mitrovica W",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/goals-over-under",
-      "rowId": "",
       "fixtureApid": 19722204,
       "slug": "27610412-uefa-women's-champions-league-vllaznia-w-spartak-myjava-w",
       "timestamp": "2026-08-05T18:30:00.000Z",
@@ -4424,6 +5196,32 @@
       },
       "home": "Boca Juniors",
       "away": "Estudiantes",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
+      "fixtureApid": 19722219,
+      "slug": "26966820-uefa-women's-champions-league-znk-mura-w-farul-constanta-w",
+      "timestamp": "2026-08-05T16:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "ŽNK Mura W",
+      "away": "Farul Constanţa W",
       "locked": true,
       "finished": false,
       "score": null,
@@ -4823,8 +5621,8 @@
         "selection": "under",
         "label": "Away under 1.5 goals",
         "probability": 87,
-        "odds": 1.13,
-        "edge": -1.5,
+        "odds": 1.12,
+        "edge": -2.3,
         "hasEdge": false,
         "line": 1.5,
         "bookmaker": "Kambi",
@@ -4841,7 +5639,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.13
+            "odds": 1.12
           },
           {
             "id": 3,
@@ -4875,7 +5673,7 @@
         },
         "draw": {
           "prob": 19,
-          "odds": 4.75
+          "odds": 4.9
         },
         "away": {
           "prob": 11,
@@ -5219,16 +6017,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19722207,
-      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
-      "timestamp": "2026-08-05T17:00:00.000Z",
+      "fixtureApid": 19722210,
+      "slug": "26966825-uefa-women's-champions-league-juventus-w-torreense-w",
+      "timestamp": "2026-08-05T19:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Racing W",
-      "away": "HJK W",
+      "home": "Juventus W",
+      "away": "Torreense W",
       "locked": true,
       "finished": false,
       "score": null,
@@ -5245,16 +6043,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19722218,
-      "slug": "26966815-uefa-women's-champions-league-sporting-w-seasters-w",
-      "timestamp": "2026-08-05T12:30:00.000Z",
+      "fixtureApid": 19722207,
+      "slug": "26966821-uefa-women's-champions-league-racing-w-hjk-w",
+      "timestamp": "2026-08-05T17:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Sporting W",
-      "away": "SeaSters W",
+      "home": "Racing W",
+      "away": "HJK W",
       "locked": true,
       "finished": false,
       "score": null,
@@ -5655,36 +6453,39 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19722209,
-      "slug": "26966817-uefa-women's-champions-league-hammarby-w-apolonia-w",
-      "timestamp": "2026-08-05T13:30:00.000Z",
+      "fixtureApid": 19722216,
+      "slug": "27610395-uefa-women's-champions-league-brann-w-mitrovica-w",
+      "timestamp": "2026-08-05T08:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Hammarby W",
-      "away": "Apolonia W",
+      "home": "Brann W",
+      "away": "Mitrovica W",
       "locked": false,
-      "finished": false,
-      "score": null,
+      "finished": true,
+      "score": {
+        "home": 5,
+        "away": 0
+      },
       "bestTip": {
         "market": "double_chance",
         "selection": "1X",
         "label": "Home or draw",
-        "probability": 97,
-        "odds": 1,
-        "edge": -3,
+        "probability": 89,
+        "odds": null,
+        "edge": null,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1
+            "odds": null
           },
           {
             "id": 2,
@@ -5716,20 +6517,283 @@
           }
         ]
       },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 76,
+          "odds": null
+        },
+        "draw": {
+          "prob": 13,
+          "odds": null
+        },
+        "away": {
+          "prob": 11,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Sept",
+            "opponent": "Man United W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Aug",
+            "opponent": "Sporting Braga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Inter Milano W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Mar",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "St. Polten W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Dec",
+            "opponent": "OL Lyonnes W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "22 Nov",
+            "opponent": "Slavia Praha W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Oct",
+            "opponent": "Glasgow City W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Lokomotiv Stara Zagora W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Sept",
+            "opponent": "Rosengard W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 5,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
+      "fixtureApid": 19722209,
+      "slug": "26966817-uefa-women's-champions-league-hammarby-w-apolonia-w",
+      "timestamp": "2026-08-05T13:30:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Hammarby W",
+      "away": "Apolonia W",
+      "locked": false,
+      "finished": false,
+      "score": null,
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "1X",
+        "label": "Home or draw",
+        "probability": 97,
+        "odds": 1.01,
+        "edge": -2,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.01
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
       "settlement": null,
       "actual": null,
       "matchResult": {
         "home": {
           "prob": 91,
-          "odds": 1.09
+          "odds": 1.07
         },
         "draw": {
           "prob": 6,
-          "odds": 11
+          "odds": 17
         },
         "away": {
           "prob": 3,
-          "odds": 26
+          "odds": 36
         }
       },
       "form": {
@@ -5878,16 +6942,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19722216,
-      "slug": "27610395-uefa-women's-champions-league-brann-w-mitrovica-w",
-      "timestamp": "2026-08-05T08:00:00.000Z",
+      "fixtureApid": 19722205,
+      "slug": "26966823-uefa-women's-champions-league-oh-leuven-w-tsc-backa-topola",
+      "timestamp": "2026-08-05T18:00:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Brann W",
-      "away": "Mitrovica W",
+      "home": "OH Leuven W",
+      "away": "TSC Bačka Topola",
       "locked": true,
       "finished": false,
       "score": null,
@@ -5904,16 +6968,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19722205,
-      "slug": "26966823-uefa-women's-champions-league-oh-leuven-w-tsc-backa-topola",
-      "timestamp": "2026-08-05T18:00:00.000Z",
+      "fixtureApid": 19710142,
+      "slug": "26966827-copa-do-brasil-cruzeiro-chapecoense",
+      "timestamp": "2026-08-05T22:00:00.000Z",
       "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
+        "id": 54,
+        "name": "Copa do Brasil",
+        "country": "Brazil"
       },
-      "home": "OH Leuven W",
-      "away": "TSC Bačka Topola",
+      "home": "Cruzeiro",
+      "away": "Chapecoense",
       "locked": true,
       "finished": false,
       "score": null,
@@ -6325,8 +7389,11 @@
       "home": "Brann W",
       "away": "Mitrovica W",
       "locked": false,
-      "finished": false,
-      "score": null,
+      "finished": true,
+      "score": {
+        "home": 5,
+        "away": 0
+      },
       "bestTip": {
         "market": "1x2_fh",
         "selection": "1",
@@ -6375,8 +7442,8 @@
           }
         ]
       },
-      "settlement": null,
-      "actual": null,
+      "settlement": "won",
+      "actual": "1",
       "matchResult": {
         "home": {
           "prob": 76,
@@ -6587,18 +7654,163 @@
       },
       "home": "Hammarby W",
       "away": "Apolonia W",
-      "locked": true,
+      "locked": false,
       "finished": false,
       "score": null,
-      "bestTip": null,
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "1",
+        "label": "Home HT",
+        "probability": 70,
+        "odds": 1.2,
+        "edge": -13.3,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.2
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.18
+          }
+        ]
+      },
       "settlement": null,
       "actual": null,
-      "matchResult": null,
+      "matchResult": {
+        "home": {
+          "prob": 91,
+          "odds": 1.07
+        },
+        "draw": {
+          "prob": 6,
+          "odds": 17
+        },
+        "away": {
+          "prob": 3,
+          "odds": 36
+        }
+      },
       "form": {
-        "home": [],
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-4",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Metalist 1925 Kharkiv W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "12 Dec",
+            "opponent": "Barcelona W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "21 Nov",
+            "opponent": "Man City W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "9 Oct",
+            "opponent": "St. Polten W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Sept",
+            "opponent": "SL Benfica W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
         "away": []
       },
-      "modelStats": null
+      "modelStats": {
+        "home": {
+          "n": 5,
+          "gf": 1.8,
+          "ga": 2.2,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 80,
+          "btts": 60,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 0,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 2,
+            "l": 2
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "away": null,
+        "h2h": []
+      }
     },
     {
       "sourcePath": "/predictions/1x2-ht",
@@ -6665,6 +7877,32 @@
       },
       "home": "Vllaznia W",
       "away": "Spartak Myjava W",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19722205,
+      "slug": "26966823-uefa-women's-champions-league-oh-leuven-w-tsc-backa-topola",
+      "timestamp": "2026-08-05T18:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "OH Leuven W",
+      "away": "TSC Bačka Topola",
       "locked": true,
       "finished": false,
       "score": null,
