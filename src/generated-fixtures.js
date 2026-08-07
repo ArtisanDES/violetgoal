@@ -5,7 +5,7 @@ window.__FIXTURES_DATA__ = {
   "dateTo": "2026-07-31",
   "count": 0,
   "matches": [],
-  "enrichedAt": "2026-08-07T15:43:59.692Z",
+  "enrichedAt": "2026-08-07T16:41:50.887Z",
   "enrichment": {
     "providerOverrides": 0,
     "apiFootball": "synced",
