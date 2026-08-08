@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-08T09:08:07.906Z",
+  "generatedAt": "2026-08-08T10:01:17.465Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-08T09:08:05.843Z",
-      "bytes": 340260,
+      "fetchedAt": "2026-08-08T10:01:15.251Z",
+      "bytes": 340540,
       "rowCount": 18,
-      "serverTotal": 734
+      "serverTotal": 766
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-08T09:08:06.077Z",
+      "fetchedAt": "2026-08-08T10:01:15.500Z",
       "bytes": 264706,
       "rowCount": 7,
       "serverTotal": 300
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-08T09:08:06.292Z",
+      "fetchedAt": "2026-08-08T10:01:15.740Z",
       "bytes": 261933,
       "rowCount": 7,
       "serverTotal": 300
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-08T09:08:06.534Z",
+      "fetchedAt": "2026-08-08T10:01:15.988Z",
       "bytes": 264777,
       "rowCount": 7,
       "serverTotal": 300
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-08T09:08:06.772Z",
-      "bytes": 263443,
+      "fetchedAt": "2026-08-08T10:01:16.239Z",
+      "bytes": 263442,
       "rowCount": 7,
       "serverTotal": 117
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-08T09:08:06.992Z",
+      "fetchedAt": "2026-08-08T10:01:16.471Z",
       "bytes": 264304,
       "rowCount": 7,
       "serverTotal": 300
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-08T09:08:07.213Z",
+      "fetchedAt": "2026-08-08T10:01:16.698Z",
       "bytes": 262988,
       "rowCount": 7,
       "serverTotal": 300
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-08T09:08:07.358Z",
-      "bytes": 254084,
+      "fetchedAt": "2026-08-08T10:01:16.867Z",
+      "bytes": 254348,
       "rowCount": 5,
-      "serverTotal": 576
+      "serverTotal": 601
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-08T09:08:07.643Z",
+      "fetchedAt": "2026-08-08T10:01:17.183Z",
       "bytes": 1620739,
       "rowCount": 198,
       "serverTotal": 198
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-08T09:08:07.905Z",
+      "fetchedAt": "2026-08-08T10:01:17.464Z",
       "bytes": 392461,
       "rowCount": 0,
       "serverTotal": 0
@@ -4698,11 +4698,11 @@
         },
         "draw": {
           "prob": 18,
-          "odds": 3.8
+          "odds": 3.75
         },
         "away": {
           "prob": 69,
-          "odds": 2.14
+          "odds": 2.15
         }
       },
       "form": {
@@ -9317,7 +9317,7 @@
         },
         "draw": {
           "prob": 18,
-          "odds": 3.75
+          "odds": 3.7
         },
         "away": {
           "prob": 69,
@@ -12448,6 +12448,32 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
+      "rowId": "19748733-away_goals-under-2.5",
+      "fixtureApid": 19748733,
+      "slug": "27146600-1.-lig-igdir-fk-fatih-karagumruk",
+      "timestamp": "2026-08-09T16:00:00.000Z",
+      "league": {
+        "id": 49,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": "Iğdır FK",
+      "away": "Karagümrük",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
       "rowId": "19674643-away_goals-under-2.5",
       "fixtureApid": 19674643,
       "slug": "27146564-super-league-chongqing-tonglianglong-fc-shanghai-port",
@@ -12485,32 +12511,6 @@
       },
       "home": "Botafogo",
       "away": "Fluminense",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
-      "rowId": "19714207-total_goals-under-4.5",
-      "fixtureApid": 19714207,
-      "slug": "27094106-first-league-cherno-more-ludogorets",
-      "timestamp": "2026-08-09T16:00:00.000Z",
-      "league": {
-        "id": 25,
-        "name": "First League",
-        "country": "Bulgaria"
-      },
-      "home": "Cherno More",
-      "away": "Ludogorets",
       "locked": true,
       "finished": false,
       "score": null,
