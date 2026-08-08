@@ -1,75 +1,75 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-08T10:01:17.465Z",
+  "generatedAt": "2026-08-08T10:57:21.762Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-08T10:01:15.251Z",
+      "fetchedAt": "2026-08-08T10:57:19.612Z",
       "bytes": 340540,
       "rowCount": 18,
-      "serverTotal": 766
+      "serverTotal": 783
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-08T10:01:15.500Z",
-      "bytes": 264706,
-      "rowCount": 7,
+      "fetchedAt": "2026-08-08T10:57:19.855Z",
+      "bytes": 269659,
+      "rowCount": 8,
       "serverTotal": 300
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-08T10:01:15.740Z",
-      "bytes": 261933,
-      "rowCount": 7,
+      "fetchedAt": "2026-08-08T10:57:20.090Z",
+      "bytes": 266928,
+      "rowCount": 8,
       "serverTotal": 300
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-08T10:01:15.988Z",
-      "bytes": 264777,
-      "rowCount": 7,
+      "fetchedAt": "2026-08-08T10:57:20.320Z",
+      "bytes": 269790,
+      "rowCount": 8,
       "serverTotal": 300
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-08T10:01:16.239Z",
-      "bytes": 263442,
+      "fetchedAt": "2026-08-08T10:57:20.555Z",
+      "bytes": 263581,
       "rowCount": 7,
-      "serverTotal": 117
+      "serverTotal": 119
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-08T10:01:16.471Z",
-      "bytes": 264304,
-      "rowCount": 7,
+      "fetchedAt": "2026-08-08T10:57:20.792Z",
+      "bytes": 269345,
+      "rowCount": 8,
       "serverTotal": 300
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-08T10:01:16.698Z",
-      "bytes": 262988,
-      "rowCount": 7,
-      "serverTotal": 300
+      "fetchedAt": "2026-08-08T10:57:21.016Z",
+      "bytes": 265535,
+      "rowCount": 8,
+      "serverTotal": 298
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-08T10:01:16.867Z",
+      "fetchedAt": "2026-08-08T10:57:21.172Z",
       "bytes": 254348,
       "rowCount": 5,
-      "serverTotal": 601
+      "serverTotal": 604
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-08T10:01:17.183Z",
+      "fetchedAt": "2026-08-08T10:57:21.483Z",
       "bytes": 1620739,
       "rowCount": 198,
       "serverTotal": 198
@@ -77,13 +77,13 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-08T10:01:17.464Z",
+      "fetchedAt": "2026-08-08T10:57:21.762Z",
       "bytes": 392461,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 263,
+  "count": 268,
   "errors": [],
   "rows": [
     {
@@ -4698,7 +4698,7 @@
         },
         "draw": {
           "prob": 18,
-          "odds": 3.75
+          "odds": 3.7
         },
         "away": {
           "prob": 69,
@@ -5869,6 +5869,272 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
+      "fixtureApid": 19792749,
+      "slug": "28890344-uefa-women's-champions-league-ferencvarosi-w-mitrovica-w",
+      "timestamp": "2026-08-08T08:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Ferencvárosi W",
+      "away": "Mitrovica W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 77,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 77,
+          "odds": null
+        },
+        "draw": {
+          "prob": 11,
+          "odds": null
+        },
+        "away": {
+          "prob": 12,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-3",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "PAOK W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Sept",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-0",
+            "corners": null,
+            "date": "30 Aug",
+            "opponent": "Dinamo-BGU W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Racing W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Flora W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "7-0",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Spartak Myjava W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Kiryat Gat W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Rangers W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "17 Aug",
+            "opponent": "Czarni Sosnowiec W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "Brann W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 9,
+          "gf": 2.67,
+          "ga": 1.33,
+          "cs": 33,
+          "fts": 0,
+          "ov25": 100,
+          "btts": 67,
+          "scored2": 78,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 2
+          },
+          "fhFor": 1.56,
+          "fhAgainst": 0.78,
+          "ovLine": null
+        },
+        "away": {
+          "n": 2,
+          "gf": 0,
+          "ga": 5,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 2
+          },
+          "fhFor": 0,
+          "fhAgainst": 2.5,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
       "fixtureApid": 19739885,
       "slug": "27094319-fa-cup-stourport-swifts-hanley-town",
       "timestamp": "2026-08-08T14:00:00.000Z",
@@ -6247,16 +6513,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19792749,
-      "slug": "28890344-uefa-women's-champions-league-ferencvarosi-w-mitrovica-w",
-      "timestamp": "2026-08-08T08:00:00.000Z",
+      "fixtureApid": 19739966,
+      "slug": "27094400-fa-cup-swindon-supermarine-tuffley-rovers",
+      "timestamp": "2026-08-08T14:00:00.000Z",
       "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
       },
-      "home": "Ferencvárosi W",
-      "away": "Mitrovica W",
+      "home": "Swindon Supermarine",
+      "away": "Tuffley Rovers",
       "locked": true,
       "finished": false,
       "score": null,
@@ -6273,16 +6539,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19739966,
-      "slug": "27094400-fa-cup-swindon-supermarine-tuffley-rovers",
-      "timestamp": "2026-08-08T14:00:00.000Z",
+      "fixtureApid": 19792764,
+      "slug": "28890382-uefa-women's-champions-league-torreense-w-apolonia-w",
+      "timestamp": "2026-08-08T13:30:00.000Z",
       "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
       },
-      "home": "Swindon Supermarine",
-      "away": "Tuffley Rovers",
+      "home": "Torreense W",
+      "away": "Apolonia W",
       "locked": true,
       "finished": false,
       "score": null,
@@ -7069,6 +7335,272 @@
             "date": "10 Feb 2026"
           }
         ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
+      "fixtureApid": 19792749,
+      "slug": "28890344-uefa-women's-champions-league-ferencvarosi-w-mitrovica-w",
+      "timestamp": "2026-08-08T08:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Ferencvárosi W",
+      "away": "Mitrovica W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "no",
+        "label": "BTTS: No",
+        "probability": 52,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS Yes",
+      "matchResult": {
+        "home": {
+          "prob": 77,
+          "odds": null
+        },
+        "draw": {
+          "prob": 11,
+          "odds": null
+        },
+        "away": {
+          "prob": 12,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-3",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "PAOK W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Sept",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-0",
+            "corners": null,
+            "date": "30 Aug",
+            "opponent": "Dinamo-BGU W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Racing W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Flora W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "7-0",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Spartak Myjava W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Kiryat Gat W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Rangers W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "17 Aug",
+            "opponent": "Czarni Sosnowiec W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "Brann W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 9,
+          "gf": 2.67,
+          "ga": 1.33,
+          "cs": 33,
+          "fts": 0,
+          "ov25": 100,
+          "btts": 67,
+          "scored2": 78,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 2
+          },
+          "fhFor": 1.56,
+          "fhAgainst": 0.78,
+          "ovLine": null
+        },
+        "away": {
+          "n": 2,
+          "gf": 0,
+          "ga": 5,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 2
+          },
+          "fhFor": 0,
+          "fhAgainst": 2.5,
+          "ovLine": null
+        },
+        "h2h": []
       }
     },
     {
@@ -8167,6 +8699,272 @@
             "date": "10 Feb 2026"
           }
         ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
+      "fixtureApid": 19792749,
+      "slug": "28890344-uefa-women's-champions-league-ferencvarosi-w-mitrovica-w",
+      "timestamp": "2026-08-08T08:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Ferencvárosi W",
+      "away": "Mitrovica W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 2.5 goals",
+        "probability": 74,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": 2.5,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "3 goals",
+      "matchResult": {
+        "home": {
+          "prob": 77,
+          "odds": null
+        },
+        "draw": {
+          "prob": 11,
+          "odds": null
+        },
+        "away": {
+          "prob": 12,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-3",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "PAOK W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Sept",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-0",
+            "corners": null,
+            "date": "30 Aug",
+            "opponent": "Dinamo-BGU W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Racing W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Flora W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "7-0",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Spartak Myjava W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Kiryat Gat W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Rangers W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "17 Aug",
+            "opponent": "Czarni Sosnowiec W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "Brann W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 9,
+          "gf": 2.67,
+          "ga": 1.33,
+          "cs": 33,
+          "fts": 0,
+          "ov25": 100,
+          "btts": 67,
+          "scored2": 78,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 2
+          },
+          "fhFor": 1.56,
+          "fhAgainst": 0.78,
+          "ovLine": null
+        },
+        "away": {
+          "n": 2,
+          "gf": 0,
+          "ga": 5,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 2
+          },
+          "fhFor": 0,
+          "fhAgainst": 2.5,
+          "ovLine": null
+        },
+        "h2h": []
       }
     },
     {
@@ -10488,6 +11286,272 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
+      "fixtureApid": 19792749,
+      "slug": "28890344-uefa-women's-champions-league-ferencvarosi-w-mitrovica-w",
+      "timestamp": "2026-08-08T08:00:00.000Z",
+      "league": {
+        "id": 88,
+        "name": "UEFA Women's Champions League",
+        "country": "Europe"
+      },
+      "home": "Ferencvárosi W",
+      "away": "Mitrovica W",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 89,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 77,
+          "odds": null
+        },
+        "draw": {
+          "prob": 11,
+          "odds": null
+        },
+        "away": {
+          "prob": 12,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-3",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "PAOK W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Sept",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-0",
+            "corners": null,
+            "date": "30 Aug",
+            "opponent": "Dinamo-BGU W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "27 Aug",
+            "opponent": "Racing W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Flora W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "7-0",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Spartak Myjava W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Kiryat Gat W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Rangers W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "17 Aug",
+            "opponent": "Czarni Sosnowiec W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "Brann W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-0",
+            "corners": null,
+            "date": "18 Aug",
+            "opponent": "Vålerenga W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 9,
+          "gf": 2.67,
+          "ga": 1.33,
+          "cs": 33,
+          "fts": 0,
+          "ov25": 100,
+          "btts": 67,
+          "scored2": 78,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 2
+          },
+          "fhFor": 1.56,
+          "fhAgainst": 0.78,
+          "ovLine": null
+        },
+        "away": {
+          "n": 2,
+          "gf": 0,
+          "ga": 5,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 2
+          },
+          "fhFor": 0,
+          "fhAgainst": 2.5,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
       "fixtureApid": 19739885,
       "slug": "27094319-fa-cup-stourport-swifts-hanley-town",
       "timestamp": "2026-08-08T14:00:00.000Z",
@@ -10866,16 +11930,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19792749,
-      "slug": "28890344-uefa-women's-champions-league-ferencvarosi-w-mitrovica-w",
-      "timestamp": "2026-08-08T08:00:00.000Z",
+      "fixtureApid": 19792764,
+      "slug": "28890382-uefa-women's-champions-league-torreense-w-apolonia-w",
+      "timestamp": "2026-08-08T13:30:00.000Z",
       "league": {
         "id": 88,
         "name": "UEFA Women's Champions League",
         "country": "Europe"
       },
-      "home": "Ferencvárosi W",
-      "away": "Mitrovica W",
+      "home": "Torreense W",
+      "away": "Apolonia W",
       "locked": true,
       "finished": false,
       "score": null,
@@ -10892,16 +11956,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19792764,
-      "slug": "28890382-uefa-women's-champions-league-torreense-w-apolonia-w",
-      "timestamp": "2026-08-08T13:30:00.000Z",
+      "fixtureApid": 19739951,
+      "slug": "27094385-fa-cup-bexhill-united-east-grinstead-town",
+      "timestamp": "2026-08-08T14:00:00.000Z",
       "league": {
-        "id": 88,
-        "name": "UEFA Women's Champions League",
-        "country": "Europe"
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
       },
-      "home": "Torreense W",
-      "away": "Apolonia W",
+      "home": "Bexhill United",
+      "away": "East Grinstead Town",
       "locked": true,
       "finished": false,
       "score": null,
@@ -11704,8 +12768,11 @@
       "home": "Ferencvárosi W",
       "away": "Mitrovica W",
       "locked": false,
-      "finished": false,
-      "score": null,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
       "bestTip": {
         "market": "1x2_fh",
         "selection": "1",
@@ -11754,8 +12821,8 @@
           }
         ]
       },
-      "settlement": null,
-      "actual": null,
+      "settlement": "lost",
+      "actual": "X",
       "matchResult": {
         "home": {
           "prob": 77,
@@ -11966,18 +13033,119 @@
       },
       "home": "Torreense W",
       "away": "Apolonia W",
-      "locked": true,
+      "locked": false,
       "finished": false,
       "score": null,
-      "bestTip": null,
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "1",
+        "label": "Home HT",
+        "probability": 74,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
       "settlement": null,
       "actual": null,
-      "matchResult": null,
+      "matchResult": {
+        "home": {
+          "prob": 76,
+          "odds": null
+        },
+        "draw": {
+          "prob": 11,
+          "odds": null
+        },
+        "away": {
+          "prob": 13,
+          "odds": null
+        }
+      },
       "form": {
         "home": [],
-        "away": []
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "Hammarby W",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1419.webp",
+            "leagueLogoDark": null
+          }
+        ]
       },
-      "modelStats": null
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 1,
+          "gf": 0,
+          "ga": 4,
+          "cs": 0,
+          "fts": 100,
+          "ov25": 100,
+          "btts": 0,
+          "scored2": 0,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 0,
+            "l": 1
+          },
+          "fhFor": 0,
+          "fhAgainst": 2,
+          "ovLine": null
+        },
+        "h2h": []
+      }
     },
     {
       "sourcePath": "/predictions/1x2-ht",
@@ -12044,6 +13212,32 @@
       },
       "home": "Young Boys W",
       "away": "SeaSters W",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19739885,
+      "slug": "27094319-fa-cup-stourport-swifts-hanley-town",
+      "timestamp": "2026-08-08T14:00:00.000Z",
+      "league": {
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
+      },
+      "home": "Stourport Swifts",
+      "away": "Hanley Town",
       "locked": true,
       "finished": false,
       "score": null,
@@ -66042,2490 +67236,6 @@
     },
     {
       "sourcePath": "/predictions/yesterday",
-      "rowId": "19726112-1x2-1-x",
-      "fixtureApid": 19726112,
-      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
-      "timestamp": "2026-08-07T18:45:00.000Z",
-      "league": {
-        "id": 23,
-        "name": "Pro League",
-        "country": "Belgium"
-      },
-      "home": "Club Brugge",
-      "away": "KV Kortrijk",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "1",
-        "label": "Home win",
-        "probability": 57,
-        "odds": 1.23,
-        "edge": -24.3,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.18
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.19
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.22
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.23
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "1",
-      "matchResult": {
-        "home": {
-          "prob": 57,
-          "odds": 1.23
-        },
-        "draw": {
-          "prob": 22,
-          "odds": 7
-        },
-        "away": {
-          "prob": 21,
-          "odds": 12
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jul",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Gent",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "St.Truiden",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "OH Leuven",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Feb",
-            "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "SK Beveren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Royal Francs Borains",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Lommel SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "KAS Eupen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Jan",
-            "opponent": "Club NXT U23",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "17 Jan",
-            "opponent": "Patro Eisden Maasmechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "16 Dec",
-            "opponent": "Koninklijke Lierse Sportkring",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Dec",
-            "opponent": "RFC Liège",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "KSC Lokeren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "2 Nov",
-            "opponent": "K. Beerschot V.A.",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 3.4,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 0,
-          "ov25": 80,
-          "btts": 70,
-          "scored2": 90,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 7,
-            "d": 3,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1.5,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.4,
-          "cs": 10,
-          "fts": 60,
-          "ov25": 20,
-          "btts": 40,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 3,
-            "l": 6
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.2,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19726112-double_chance-12-x",
-      "fixtureApid": 19726112,
-      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
-      "timestamp": "2026-08-07T18:45:00.000Z",
-      "league": {
-        "id": 23,
-        "name": "Pro League",
-        "country": "Belgium"
-      },
-      "home": "Club Brugge",
-      "away": "KV Kortrijk",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 78,
-        "odds": 1.11,
-        "edge": -12.1,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.11
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.07
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.11
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jul",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Gent",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "St.Truiden",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "OH Leuven",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Feb",
-            "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "SK Beveren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Royal Francs Borains",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Lommel SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "KAS Eupen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Jan",
-            "opponent": "Club NXT U23",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "17 Jan",
-            "opponent": "Patro Eisden Maasmechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "16 Dec",
-            "opponent": "Koninklijke Lierse Sportkring",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Dec",
-            "opponent": "RFC Liège",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "KSC Lokeren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "2 Nov",
-            "opponent": "K. Beerschot V.A.",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 3.4,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 0,
-          "ov25": 80,
-          "btts": 70,
-          "scored2": 90,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 7,
-            "d": 3,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1.5,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.4,
-          "cs": 10,
-          "fts": 60,
-          "ov25": 20,
-          "btts": 40,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 3,
-            "l": 6
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.2,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19726112-1x2_fh-X-x",
-      "fixtureApid": 19726112,
-      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
-      "timestamp": "2026-08-07T18:45:00.000Z",
-      "league": {
-        "id": 23,
-        "name": "Pro League",
-        "country": "Belgium"
-      },
-      "home": "Club Brugge",
-      "away": "KV Kortrijk",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "X",
-        "label": "Draw HT",
-        "probability": 37,
-        "odds": 3.1,
-        "edge": 4.7,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 3.1
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.95
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 3.1
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jul",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Gent",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "St.Truiden",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "OH Leuven",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Feb",
-            "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "SK Beveren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Royal Francs Borains",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Lommel SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "KAS Eupen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Jan",
-            "opponent": "Club NXT U23",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "17 Jan",
-            "opponent": "Patro Eisden Maasmechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "16 Dec",
-            "opponent": "Koninklijke Lierse Sportkring",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Dec",
-            "opponent": "RFC Liège",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "KSC Lokeren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "2 Nov",
-            "opponent": "K. Beerschot V.A.",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 3.4,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 0,
-          "ov25": 80,
-          "btts": 70,
-          "scored2": 90,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 7,
-            "d": 3,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1.5,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.4,
-          "cs": 10,
-          "fts": 60,
-          "ov25": 20,
-          "btts": 40,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 3,
-            "l": 6
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.2,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19726112-btts-yes-x",
-      "fixtureApid": 19726112,
-      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
-      "timestamp": "2026-08-07T18:45:00.000Z",
-      "league": {
-        "id": 23,
-        "name": "Pro League",
-        "country": "Belgium"
-      },
-      "home": "Club Brugge",
-      "away": "KV Kortrijk",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 56,
-        "odds": 1.84,
-        "edge": 1.7,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.8
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.84
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.75
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.8
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.7
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jul",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Gent",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "St.Truiden",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "OH Leuven",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Feb",
-            "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "SK Beveren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Royal Francs Borains",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Lommel SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "KAS Eupen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Jan",
-            "opponent": "Club NXT U23",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "17 Jan",
-            "opponent": "Patro Eisden Maasmechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "16 Dec",
-            "opponent": "Koninklijke Lierse Sportkring",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Dec",
-            "opponent": "RFC Liège",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "KSC Lokeren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "2 Nov",
-            "opponent": "K. Beerschot V.A.",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 3.4,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 0,
-          "ov25": 80,
-          "btts": 70,
-          "scored2": 90,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 7,
-            "d": 3,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1.5,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.4,
-          "cs": 10,
-          "fts": 60,
-          "ov25": 20,
-          "btts": 40,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 3,
-            "l": 6
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.2,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19726112-total_goals-over-1.5",
-      "fixtureApid": 19726112,
-      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
-      "timestamp": "2026-08-07T18:45:00.000Z",
-      "league": {
-        "id": 23,
-        "name": "Pro League",
-        "country": "Belgium"
-      },
-      "home": "Club Brugge",
-      "away": "KV Kortrijk",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "over",
-        "label": "Over 1.5 goals",
-        "probability": 79,
-        "odds": 1.1,
-        "edge": -11.9,
-        "hasEdge": false,
-        "line": 1.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.09
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.07
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.08
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jul",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Gent",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "St.Truiden",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "OH Leuven",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Feb",
-            "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "SK Beveren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Royal Francs Borains",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Lommel SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "KAS Eupen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Jan",
-            "opponent": "Club NXT U23",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "17 Jan",
-            "opponent": "Patro Eisden Maasmechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "16 Dec",
-            "opponent": "Koninklijke Lierse Sportkring",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Dec",
-            "opponent": "RFC Liège",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "KSC Lokeren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "2 Nov",
-            "opponent": "K. Beerschot V.A.",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 3.4,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 0,
-          "ov25": 80,
-          "btts": 70,
-          "scored2": 90,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 7,
-            "d": 3,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1.5,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.4,
-          "cs": 10,
-          "fts": 60,
-          "ov25": 20,
-          "btts": 40,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 3,
-            "l": 6
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.2,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19726112-away_goals-under-1.5",
-      "fixtureApid": 19726112,
-      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
-      "timestamp": "2026-08-07T18:45:00.000Z",
-      "league": {
-        "id": 23,
-        "name": "Pro League",
-        "country": "Belgium"
-      },
-      "home": "Club Brugge",
-      "away": "KV Kortrijk",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "away_goals",
-        "selection": "under",
-        "label": "Away under 1.5 goals",
-        "probability": 73,
-        "odds": 1.17,
-        "edge": -12.5,
-        "hasEdge": false,
-        "line": 1.5,
-        "marketLabel": "Away goals",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jul",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Gent",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "St.Truiden",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "OH Leuven",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Feb",
-            "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "SK Beveren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Royal Francs Borains",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Lommel SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "KAS Eupen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Jan",
-            "opponent": "Club NXT U23",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "17 Jan",
-            "opponent": "Patro Eisden Maasmechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "16 Dec",
-            "opponent": "Koninklijke Lierse Sportkring",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "7 Dec",
-            "opponent": "RFC Liège",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "KSC Lokeren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "2 Nov",
-            "opponent": "K. Beerschot V.A.",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 3.4,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 0,
-          "ov25": 80,
-          "btts": 70,
-          "scored2": 90,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 7,
-            "d": 3,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1.5,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.4,
-          "cs": 10,
-          "fts": 60,
-          "ov25": 20,
-          "btts": 40,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 3,
-            "l": 6
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.2,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19726112-total_corners-over-7.5",
-      "fixtureApid": 19726112,
-      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
-      "timestamp": "2026-08-07T18:45:00.000Z",
-      "league": {
-        "id": 23,
-        "name": "Pro League",
-        "country": "Belgium"
-      },
-      "home": "Club Brugge",
-      "away": "KV Kortrijk",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 7.5 corners",
-        "probability": 79,
-        "odds": 1.17,
-        "edge": -6.5,
-        "hasEdge": false,
-        "line": 7.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.16
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.17
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "7 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 10,
-            "date": "31 Jul",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": 13,
-            "date": "24 May",
-            "opponent": "Gent",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": 16,
-            "date": "17 May",
-            "opponent": "Union St.Gilloise",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": 8,
-            "date": "9 May",
-            "opponent": "St.Truiden",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "6-1",
-            "corners": 6,
-            "date": "22 Apr",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": 10,
-            "date": "6 Apr",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": 17,
-            "date": "22 Mar",
-            "opponent": "Mechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 13,
-            "date": "8 Mar",
-            "opponent": "Anderlecht",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": 16,
-            "date": "21 Feb",
-            "opponent": "OH Leuven",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": 10,
-            "date": "18 Feb",
-            "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 7,
-            "date": "11 Apr",
-            "opponent": "SK Beveren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": 12,
-            "date": "21 Mar",
-            "opponent": "Royal Francs Borains",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 13,
-            "date": "7 Mar",
-            "opponent": "Lommel SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 12,
-            "date": "7 Feb",
-            "opponent": "KAS Eupen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": 8,
-            "date": "27 Jan",
-            "opponent": "Club NXT U23",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 8,
-            "date": "17 Jan",
-            "opponent": "Patro Eisden Maasmechelen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 10,
-            "date": "16 Dec",
-            "opponent": "Koninklijke Lierse Sportkring",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": 9,
-            "date": "7 Dec",
-            "opponent": "RFC Liège",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 12,
-            "date": "29 Nov",
-            "opponent": "KSC Lokeren",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 10,
-            "date": "2 Nov",
-            "opponent": "K. Beerschot V.A.",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 3.4,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 0,
-          "ov25": 80,
-          "btts": 70,
-          "scored2": 90,
-          "cAvg": 11.9,
-          "cf": 7.8,
-          "ca": 4.1,
-          "record": {
-            "w": 7,
-            "d": 3,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1.5,
-          "fhAgainst": 0.4,
-          "ovLine": 90
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.4,
-          "cs": 10,
-          "fts": 60,
-          "ov25": 20,
-          "btts": 40,
-          "scored2": 10,
-          "cAvg": 10.1,
-          "cf": 5.4,
-          "ca": 4.7,
-          "record": {
-            "w": 1,
-            "d": 3,
-            "l": 6
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.2,
-          "fhAgainst": 0.3,
-          "ovLine": 90
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
       "rowId": "19726957-1x2-2-x",
       "fixtureApid": 19726957,
       "slug": "27050992-carabao-cup-wolverhampton-wanderers-port-vale",
@@ -68960,7 +67670,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
       "form": {
         "home": [
           {
@@ -69313,7 +68023,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
       "form": {
         "home": [
           {
@@ -69666,7 +68376,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
       "form": {
         "home": [
           {
@@ -70019,7 +68729,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
       "form": {
         "home": [
           {
@@ -70372,7 +69082,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
       "form": {
         "home": [
           {
@@ -70725,7 +69435,7 @@
       },
       "settlement": "won",
       "actual": "13 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:153:matchResult",
       "form": {
         "home": [
           {
@@ -71444,7 +70154,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:167:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
       "form": {
         "home": [
           {
@@ -71797,7 +70507,7 @@
       },
       "settlement": "won",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:167:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
       "form": {
         "home": [
           {
@@ -72150,7 +70860,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:167:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
       "form": {
         "home": [
           {
@@ -72503,7 +71213,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:167:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
       "form": {
         "home": [
           {
@@ -72856,7 +71566,7 @@
       },
       "settlement": "won",
       "actual": "7 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:167:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:160:matchResult",
       "form": {
         "home": [
           {
@@ -73134,6 +71844,2490 @@
           },
           "fhFor": 0.4,
           "fhAgainst": 0.9,
+          "ovLine": 90
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19726112-1x2-1-x",
+      "fixtureApid": 19726112,
+      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
+      "timestamp": "2026-08-07T18:45:00.000Z",
+      "league": {
+        "id": 23,
+        "name": "Pro League",
+        "country": "Belgium"
+      },
+      "home": "Club Brugge",
+      "away": "KV Kortrijk",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 57,
+        "odds": 1.23,
+        "edge": -24.3,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.18
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.19
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.22
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.23
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1",
+      "matchResult": {
+        "home": {
+          "prob": 57,
+          "odds": 1.23
+        },
+        "draw": {
+          "prob": 22,
+          "odds": 7
+        },
+        "away": {
+          "prob": 21,
+          "odds": 12
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jul",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Gent",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "St.Truiden",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "22 Apr",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "OH Leuven",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Feb",
+            "opponent": "Atlético de Madrid",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "SK Beveren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Royal Francs Borains",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Lommel SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "KAS Eupen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Jan",
+            "opponent": "Club NXT U23",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jan",
+            "opponent": "Patro Eisden Maasmechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "16 Dec",
+            "opponent": "Koninklijke Lierse Sportkring",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Dec",
+            "opponent": "RFC Liège",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "KSC Lokeren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "2 Nov",
+            "opponent": "K. Beerschot V.A.",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 3.4,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 0,
+          "ov25": 80,
+          "btts": 70,
+          "scored2": 90,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 3,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.4,
+          "cs": 10,
+          "fts": 60,
+          "ov25": 20,
+          "btts": 40,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 5,
+            "l": 3
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19726112-double_chance-12-x",
+      "fixtureApid": 19726112,
+      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
+      "timestamp": "2026-08-07T18:45:00.000Z",
+      "league": {
+        "id": 23,
+        "name": "Pro League",
+        "country": "Belgium"
+      },
+      "home": "Club Brugge",
+      "away": "KV Kortrijk",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 78,
+        "odds": 1.11,
+        "edge": -12.1,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.11
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.07
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.11
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1b:props:children:1:props:children:props:rows:166:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jul",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Gent",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "St.Truiden",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "22 Apr",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "OH Leuven",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Feb",
+            "opponent": "Atlético de Madrid",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "SK Beveren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Royal Francs Borains",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Lommel SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "KAS Eupen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Jan",
+            "opponent": "Club NXT U23",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jan",
+            "opponent": "Patro Eisden Maasmechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "16 Dec",
+            "opponent": "Koninklijke Lierse Sportkring",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Dec",
+            "opponent": "RFC Liège",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "KSC Lokeren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "2 Nov",
+            "opponent": "K. Beerschot V.A.",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 3.4,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 0,
+          "ov25": 80,
+          "btts": 70,
+          "scored2": 90,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 3,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.4,
+          "cs": 10,
+          "fts": 60,
+          "ov25": 20,
+          "btts": 40,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 5,
+            "l": 3
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19726112-1x2_fh-X-x",
+      "fixtureApid": 19726112,
+      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
+      "timestamp": "2026-08-07T18:45:00.000Z",
+      "league": {
+        "id": 23,
+        "name": "Pro League",
+        "country": "Belgium"
+      },
+      "home": "Club Brugge",
+      "away": "KV Kortrijk",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 37,
+        "odds": 3.1,
+        "edge": 4.7,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 3.1
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.95
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 3.1
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:166:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jul",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Gent",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "St.Truiden",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "22 Apr",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "OH Leuven",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Feb",
+            "opponent": "Atlético de Madrid",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "SK Beveren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Royal Francs Borains",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Lommel SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "KAS Eupen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Jan",
+            "opponent": "Club NXT U23",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jan",
+            "opponent": "Patro Eisden Maasmechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "16 Dec",
+            "opponent": "Koninklijke Lierse Sportkring",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Dec",
+            "opponent": "RFC Liège",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "KSC Lokeren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "2 Nov",
+            "opponent": "K. Beerschot V.A.",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 3.4,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 0,
+          "ov25": 80,
+          "btts": 70,
+          "scored2": 90,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 3,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.4,
+          "cs": 10,
+          "fts": 60,
+          "ov25": 20,
+          "btts": 40,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 5,
+            "l": 3
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19726112-btts-yes-x",
+      "fixtureApid": 19726112,
+      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
+      "timestamp": "2026-08-07T18:45:00.000Z",
+      "league": {
+        "id": 23,
+        "name": "Pro League",
+        "country": "Belgium"
+      },
+      "home": "Club Brugge",
+      "away": "KV Kortrijk",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 56,
+        "odds": 1.84,
+        "edge": 1.7,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "BTTS",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.8
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.84
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.75
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.8
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.7
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS No",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:166:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jul",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Gent",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "St.Truiden",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "22 Apr",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "OH Leuven",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Feb",
+            "opponent": "Atlético de Madrid",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "SK Beveren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Royal Francs Borains",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Lommel SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "KAS Eupen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Jan",
+            "opponent": "Club NXT U23",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jan",
+            "opponent": "Patro Eisden Maasmechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "16 Dec",
+            "opponent": "Koninklijke Lierse Sportkring",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Dec",
+            "opponent": "RFC Liège",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "KSC Lokeren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "2 Nov",
+            "opponent": "K. Beerschot V.A.",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 3.4,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 0,
+          "ov25": 80,
+          "btts": 70,
+          "scored2": 90,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 3,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.4,
+          "cs": 10,
+          "fts": 60,
+          "ov25": 20,
+          "btts": 40,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 5,
+            "l": 3
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19726112-total_goals-over-1.5",
+      "fixtureApid": 19726112,
+      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
+      "timestamp": "2026-08-07T18:45:00.000Z",
+      "league": {
+        "id": 23,
+        "name": "Pro League",
+        "country": "Belgium"
+      },
+      "home": "Club Brugge",
+      "away": "KV Kortrijk",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 1.5 goals",
+        "probability": 79,
+        "odds": 1.1,
+        "edge": -11.9,
+        "hasEdge": false,
+        "line": 1.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.09
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.07
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.08
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "3 goals",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:166:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jul",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Gent",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "St.Truiden",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "22 Apr",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "OH Leuven",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Feb",
+            "opponent": "Atlético de Madrid",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "SK Beveren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Royal Francs Borains",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Lommel SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "KAS Eupen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Jan",
+            "opponent": "Club NXT U23",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jan",
+            "opponent": "Patro Eisden Maasmechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "16 Dec",
+            "opponent": "Koninklijke Lierse Sportkring",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Dec",
+            "opponent": "RFC Liège",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "KSC Lokeren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "2 Nov",
+            "opponent": "K. Beerschot V.A.",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 3.4,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 0,
+          "ov25": 80,
+          "btts": 70,
+          "scored2": 90,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 3,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.4,
+          "cs": 10,
+          "fts": 60,
+          "ov25": 20,
+          "btts": 40,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 5,
+            "l": 3
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19726112-away_goals-under-1.5",
+      "fixtureApid": 19726112,
+      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
+      "timestamp": "2026-08-07T18:45:00.000Z",
+      "league": {
+        "id": 23,
+        "name": "Pro League",
+        "country": "Belgium"
+      },
+      "home": "Club Brugge",
+      "away": "KV Kortrijk",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "under",
+        "label": "Away under 1.5 goals",
+        "probability": 73,
+        "odds": 1.17,
+        "edge": -12.5,
+        "hasEdge": false,
+        "line": 1.5,
+        "marketLabel": "Away goals",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "0 scored",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:166:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jul",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Gent",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "St.Truiden",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "22 Apr",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "OH Leuven",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Feb",
+            "opponent": "Atlético de Madrid",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "SK Beveren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Royal Francs Borains",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Lommel SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "KAS Eupen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Jan",
+            "opponent": "Club NXT U23",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jan",
+            "opponent": "Patro Eisden Maasmechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "16 Dec",
+            "opponent": "Koninklijke Lierse Sportkring",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "7 Dec",
+            "opponent": "RFC Liège",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "KSC Lokeren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "2 Nov",
+            "opponent": "K. Beerschot V.A.",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 3.4,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 0,
+          "ov25": 80,
+          "btts": 70,
+          "scored2": 90,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 3,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.4,
+          "cs": 10,
+          "fts": 60,
+          "ov25": 20,
+          "btts": 40,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 5,
+            "l": 3
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19726112-total_corners-over-7.5",
+      "fixtureApid": 19726112,
+      "slug": "27050991-pro-league-club-brugge-kv-kortrijk",
+      "timestamp": "2026-08-07T18:45:00.000Z",
+      "league": {
+        "id": 23,
+        "name": "Pro League",
+        "country": "Belgium"
+      },
+      "home": "Club Brugge",
+      "away": "KV Kortrijk",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 7.5 corners",
+        "probability": 79,
+        "odds": 1.17,
+        "edge": -6.5,
+        "hasEdge": false,
+        "line": 7.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.16
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.17
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "7 corners",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:166:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 10,
+            "date": "31 Jul",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1128.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": 13,
+            "date": "24 May",
+            "opponent": "Gent",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "5-0",
+            "corners": 16,
+            "date": "17 May",
+            "opponent": "Union St.Gilloise",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": 8,
+            "date": "9 May",
+            "opponent": "St.Truiden",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": 6,
+            "date": "22 Apr",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": 10,
+            "date": "6 Apr",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": 17,
+            "date": "22 Mar",
+            "opponent": "Mechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": 13,
+            "date": "8 Mar",
+            "opponent": "Anderlecht",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": 16,
+            "date": "21 Feb",
+            "opponent": "OH Leuven",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/208.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": 10,
+            "date": "18 Feb",
+            "opponent": "Atlético de Madrid",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 7,
+            "date": "11 Apr",
+            "opponent": "SK Beveren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": 12,
+            "date": "21 Mar",
+            "opponent": "Royal Francs Borains",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 13,
+            "date": "7 Mar",
+            "opponent": "Lommel SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 12,
+            "date": "7 Feb",
+            "opponent": "KAS Eupen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": 8,
+            "date": "27 Jan",
+            "opponent": "Club NXT U23",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 8,
+            "date": "17 Jan",
+            "opponent": "Patro Eisden Maasmechelen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 10,
+            "date": "16 Dec",
+            "opponent": "Koninklijke Lierse Sportkring",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": 9,
+            "date": "7 Dec",
+            "opponent": "RFC Liège",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 12,
+            "date": "29 Nov",
+            "opponent": "KSC Lokeren",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 10,
+            "date": "2 Nov",
+            "opponent": "K. Beerschot V.A.",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/211.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 3.4,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 0,
+          "ov25": 80,
+          "btts": 70,
+          "scored2": 90,
+          "cAvg": 11.9,
+          "cf": 7.8,
+          "ca": 4.1,
+          "record": {
+            "w": 7,
+            "d": 3,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1.5,
+          "fhAgainst": 0.4,
+          "ovLine": 90
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.4,
+          "cs": 10,
+          "fts": 60,
+          "ov25": 20,
+          "btts": 40,
+          "scored2": 10,
+          "cAvg": 10.1,
+          "cf": 5.4,
+          "ca": 4.7,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 5,
+            "l": 3
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
           "ovLine": 90
         },
         "h2h": []
