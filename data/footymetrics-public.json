@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-11T18:46:45.412Z",
+  "generatedAt": "2026-08-11T19:54:55.323Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-11T18:46:41.816Z",
+      "fetchedAt": "2026-08-11T19:54:52.606Z",
       "bytes": 475644,
       "rowCount": 38,
       "serverTotal": 51
@@ -13,31 +13,31 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-11T18:46:42.240Z",
-      "bytes": 286233,
+      "fetchedAt": "2026-08-11T19:54:52.956Z",
+      "bytes": 288070,
       "rowCount": 11,
-      "serverTotal": 38
+      "serverTotal": 28
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-11T18:46:43.152Z",
-      "bytes": 286889,
+      "fetchedAt": "2026-08-11T19:54:53.268Z",
+      "bytes": 286821,
       "rowCount": 11,
-      "serverTotal": 38
+      "serverTotal": 28
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-11T18:46:43.963Z",
-      "bytes": 287502,
+      "fetchedAt": "2026-08-11T19:54:53.565Z",
+      "bytes": 289366,
       "rowCount": 11,
-      "serverTotal": 38
+      "serverTotal": 28
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-11T18:46:44.193Z",
+      "fetchedAt": "2026-08-11T19:54:53.864Z",
       "bytes": 279297,
       "rowCount": 8,
       "serverTotal": 8
@@ -45,23 +45,23 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-11T18:46:44.419Z",
-      "bytes": 285970,
+      "fetchedAt": "2026-08-11T19:54:54.161Z",
+      "bytes": 287830,
       "rowCount": 11,
-      "serverTotal": 38
+      "serverTotal": 28
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-11T18:46:44.627Z",
-      "bytes": 287403,
+      "fetchedAt": "2026-08-11T19:54:54.463Z",
+      "bytes": 287427,
       "rowCount": 11,
-      "serverTotal": 38
+      "serverTotal": 28
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-11T18:46:44.769Z",
+      "fetchedAt": "2026-08-11T19:54:54.693Z",
       "bytes": 250586,
       "rowCount": 5,
       "serverTotal": 51
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-11T18:46:44.940Z",
+      "fetchedAt": "2026-08-11T19:54:54.953Z",
       "bytes": 1005825,
       "rowCount": 113,
       "serverTotal": 113
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-11T18:46:45.412Z",
+      "fetchedAt": "2026-08-11T19:54:55.322Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -14376,16 +14376,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19806630,
-      "slug": "29514868-fa-cup-dearne-&-district-runcorn-town",
-      "timestamp": "2026-08-11T19:00:00.000Z",
+      "fixtureApid": 19806626,
+      "slug": "29514863-fa-cup-portishead-town-ardley-united",
+      "timestamp": "2026-08-11T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Dearne & District",
-      "away": "Runcorn Town",
+      "home": "Portishead Town",
+      "away": "Ardley United",
       "locked": false,
       "finished": false,
       "score": null,
@@ -14393,7 +14393,7 @@
         "market": "1x2",
         "selection": "1",
         "label": "Home win",
-        "probability": 80,
+        "probability": 74,
         "odds": null,
         "edge": null,
         "hasEdge": false,
@@ -14441,56 +14441,159 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 80,
+          "prob": 74,
           "odds": null
         },
         "draw": {
-          "prob": 11,
+          "prob": 14,
           "odds": null
         },
         "away": {
-          "prob": 9,
+          "prob": 12,
           "odds": null
         }
       },
       "form": {
-        "home": [],
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-6",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Slimbridge",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Windsor & Eton",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "3 Aug",
+            "opponent": "Easington Sports",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          }
+        ],
         "away": [
           {
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "6-1",
+            "score": "3-2",
             "corners": null,
-            "date": "7 Aug",
-            "opponent": "Barnoldswick Town",
+            "date": "3 Aug",
+            "opponent": "Reading City",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "8 Aug",
+            "opponent": "Ascot United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Aug",
+            "opponent": "Aylesbury United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Banbury United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Aug",
+            "opponent": "Wootton Bassett Town",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           }
         ]
       },
       "modelStats": {
-        "home": null,
-        "away": {
-          "n": 1,
-          "gf": 1,
-          "ga": 6,
+        "home": {
+          "n": 3,
+          "gf": 2,
+          "ga": 3.33,
           "cs": 0,
-          "fts": 0,
-          "ov25": 100,
-          "btts": 100,
-          "scored2": 0,
+          "fts": 33,
+          "ov25": 67,
+          "btts": 67,
+          "scored2": 67,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 0,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 3,
+            "l": 0
+          },
+          "fhFor": 0,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "away": {
+          "n": 5,
+          "gf": 1,
+          "ga": 1.8,
+          "cs": 0,
+          "fts": 40,
+          "ov25": 60,
+          "btts": 60,
+          "scored2": 40,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
             "w": 0,
-            "d": 0,
-            "l": 1
+            "d": 1,
+            "l": 4
           },
           "htRecord": {
             "w": 0,
-            "d": 1,
+            "d": 5,
             "l": 0
           },
           "fhFor": 0,
@@ -14501,40 +14604,14 @@
           {
             "hit": false,
             "pending": false,
-            "hg": 2,
-            "ag": 2,
+            "hg": 0,
+            "ag": 0,
             "hc": null,
             "ac": null,
             "date": "8 Aug 2026"
           }
         ]
       }
-    },
-    {
-      "sourcePath": "/predictions/1x2",
-      "rowId": "",
-      "fixtureApid": 19806626,
-      "slug": "29514863-fa-cup-portishead-town-ardley-united",
-      "timestamp": "2026-08-11T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Portishead Town",
-      "away": "Ardley United",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions/1x2",
@@ -14601,6 +14678,32 @@
       },
       "home": "Yaxley FC",
       "away": "Thetford Town",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
+      "fixtureApid": 19806620,
+      "slug": "29514857-fa-cup-st-neots-town-stowmarket-town",
+      "timestamp": "2026-08-11T18:45:00.000Z",
+      "league": {
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
+      },
+      "home": "St Neots Town",
+      "away": "Stowmarket Town",
       "locked": true,
       "finished": false,
       "score": null,
@@ -17132,32 +17235,6 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19806625,
-      "slug": "29514862-fa-cup-marlow-newport-pagnell-town-fc",
-      "timestamp": "2026-08-11T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Marlow",
-      "away": "Newport Pagnell Town FC",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/btts",
-      "rowId": "",
       "fixtureApid": 19806617,
       "slug": "29514854-fa-cup-walsham-le-willows-dereham-town",
       "timestamp": "2026-08-11T18:45:00.000Z",
@@ -17194,6 +17271,32 @@
       },
       "home": "St Neots Town",
       "away": "Stowmarket Town",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
+      "fixtureApid": 19806616,
+      "slug": "29514853-fa-cup-droylsden-burscough",
+      "timestamp": "2026-08-11T18:45:00.000Z",
+      "league": {
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
+      },
+      "home": "Droylsden",
+      "away": "Burscough",
       "locked": true,
       "finished": false,
       "score": null,
@@ -19470,16 +19573,16 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19806630,
-      "slug": "29514868-fa-cup-dearne-&-district-runcorn-town",
-      "timestamp": "2026-08-11T19:00:00.000Z",
+      "fixtureApid": 19806619,
+      "slug": "29514856-fa-cup-saffron-walden-town-fc-wisbech-town",
+      "timestamp": "2026-08-11T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Dearne & District",
-      "away": "Runcorn Town",
+      "home": "Saffron Walden Town FC",
+      "away": "Wisbech Town",
       "locked": false,
       "finished": false,
       "score": null,
@@ -19487,7 +19590,7 @@
         "market": "total_goals",
         "selection": "over",
         "label": "Over 2.5 goals",
-        "probability": 80,
+        "probability": 72,
         "odds": null,
         "edge": null,
         "hasEdge": false,
@@ -19535,60 +19638,163 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 80,
+          "prob": 66,
           "odds": null
         },
         "draw": {
-          "prob": 11,
+          "prob": 17,
           "odds": null
         },
         "away": {
-          "prob": 9,
+          "prob": 18,
           "odds": null
         }
       },
       "form": {
-        "home": [],
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Harlow Town",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "6 Aug",
+            "opponent": "Barton Rovers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "5 Aug",
+            "opponent": "Great Wakering Rovers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "21 Aug",
+            "opponent": "Hadley",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          }
+        ],
         "away": [
           {
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "6-1",
+            "score": "3-2",
             "corners": null,
-            "date": "7 Aug",
-            "opponent": "Barnoldswick Town",
+            "date": "2 Aug",
+            "opponent": "Haverhill Rovers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "3 Aug",
+            "opponent": "Dereham Town",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "20 Aug",
+            "opponent": "AFC Kempston Rovers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "5 Sept",
+            "opponent": "Baldock Town",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           }
         ]
       },
       "modelStats": {
-        "home": null,
+        "home": {
+          "n": 4,
+          "gf": 0.75,
+          "ga": 1.25,
+          "cs": 50,
+          "fts": 50,
+          "ov25": 50,
+          "btts": 25,
+          "scored2": 25,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 1,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 4,
+            "l": 0
+          },
+          "fhFor": 0,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
         "away": {
-          "n": 1,
-          "gf": 1,
-          "ga": 6,
+          "n": 4,
+          "gf": 0.75,
+          "ga": 1.75,
           "cs": 0,
-          "fts": 0,
-          "ov25": 100,
-          "btts": 100,
-          "scored2": 0,
+          "fts": 50,
+          "ov25": 25,
+          "btts": 50,
+          "scored2": 25,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
             "w": 0,
-            "d": 0,
-            "l": 1
+            "d": 1,
+            "l": 3
           },
           "htRecord": {
             "w": 0,
-            "d": 1,
-            "l": 0
+            "d": 3,
+            "l": 1
           },
           "fhFor": 0,
-          "fhAgainst": 0,
+          "fhAgainst": 0.25,
           "ovLine": null
         },
         "h2h": [
@@ -19603,32 +19809,6 @@
           }
         ]
       }
-    },
-    {
-      "sourcePath": "/predictions/goals-over-under",
-      "rowId": "",
-      "fixtureApid": 19806619,
-      "slug": "29514856-fa-cup-saffron-walden-town-fc-wisbech-town",
-      "timestamp": "2026-08-11T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Saffron Walden Town FC",
-      "away": "Wisbech Town",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions/goals-over-under",
@@ -19695,6 +19875,32 @@
       },
       "home": "Hereford Pegasus",
       "away": "Lutterworth Town",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
+      "fixtureApid": 19806609,
+      "slug": "29514846-fa-cup-west-didsbury-&-chorlton-garforth-town",
+      "timestamp": "2026-08-11T18:45:00.000Z",
+      "league": {
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
+      },
+      "home": "West Didsbury & Chorlton",
+      "away": "Garforth Town",
       "locked": true,
       "finished": false,
       "score": null,
@@ -24188,16 +24394,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19806630,
-      "slug": "29514868-fa-cup-dearne-&-district-runcorn-town",
-      "timestamp": "2026-08-11T19:00:00.000Z",
+      "fixtureApid": 19806626,
+      "slug": "29514863-fa-cup-portishead-town-ardley-united",
+      "timestamp": "2026-08-11T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Dearne & District",
-      "away": "Runcorn Town",
+      "home": "Portishead Town",
+      "away": "Ardley United",
       "locked": false,
       "finished": false,
       "score": null,
@@ -24205,7 +24411,7 @@
         "market": "double_chance",
         "selection": "1X",
         "label": "Home or draw",
-        "probability": 91,
+        "probability": 88,
         "odds": null,
         "edge": null,
         "hasEdge": false,
@@ -24253,56 +24459,159 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 80,
+          "prob": 74,
           "odds": null
         },
         "draw": {
-          "prob": 11,
+          "prob": 14,
           "odds": null
         },
         "away": {
-          "prob": 9,
+          "prob": 12,
           "odds": null
         }
       },
       "form": {
-        "home": [],
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-6",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Slimbridge",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Windsor & Eton",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "3 Aug",
+            "opponent": "Easington Sports",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          }
+        ],
         "away": [
           {
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "6-1",
+            "score": "3-2",
             "corners": null,
-            "date": "7 Aug",
-            "opponent": "Barnoldswick Town",
+            "date": "3 Aug",
+            "opponent": "Reading City",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "8 Aug",
+            "opponent": "Ascot United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Aug",
+            "opponent": "Aylesbury United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Banbury United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Aug",
+            "opponent": "Wootton Bassett Town",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           }
         ]
       },
       "modelStats": {
-        "home": null,
-        "away": {
-          "n": 1,
-          "gf": 1,
-          "ga": 6,
+        "home": {
+          "n": 3,
+          "gf": 2,
+          "ga": 3.33,
           "cs": 0,
-          "fts": 0,
-          "ov25": 100,
-          "btts": 100,
-          "scored2": 0,
+          "fts": 33,
+          "ov25": 67,
+          "btts": 67,
+          "scored2": 67,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 0,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 3,
+            "l": 0
+          },
+          "fhFor": 0,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "away": {
+          "n": 5,
+          "gf": 1,
+          "ga": 1.8,
+          "cs": 0,
+          "fts": 40,
+          "ov25": 60,
+          "btts": 60,
+          "scored2": 40,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
             "w": 0,
-            "d": 0,
-            "l": 1
+            "d": 1,
+            "l": 4
           },
           "htRecord": {
             "w": 0,
-            "d": 1,
+            "d": 5,
             "l": 0
           },
           "fhFor": 0,
@@ -24313,40 +24622,14 @@
           {
             "hit": true,
             "pending": false,
-            "hg": 2,
-            "ag": 2,
+            "hg": 0,
+            "ag": 0,
             "hc": null,
             "ac": null,
             "date": "8 Aug 2026"
           }
         ]
       }
-    },
-    {
-      "sourcePath": "/predictions/double-chance",
-      "rowId": "",
-      "fixtureApid": 19806626,
-      "slug": "29514863-fa-cup-portishead-town-ardley-united",
-      "timestamp": "2026-08-11T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Portishead Town",
-      "away": "Ardley United",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions/double-chance",
@@ -24413,6 +24696,32 @@
       },
       "home": "St Neots Town",
       "away": "Stowmarket Town",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
+      "fixtureApid": 19806609,
+      "slug": "29514846-fa-cup-west-didsbury-&-chorlton-garforth-town",
+      "timestamp": "2026-08-11T18:45:00.000Z",
+      "league": {
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
+      },
+      "home": "West Didsbury & Chorlton",
+      "away": "Garforth Town",
       "locked": true,
       "finished": false,
       "score": null,
@@ -26955,32 +27264,6 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
-      "fixtureApid": 19806630,
-      "slug": "29514868-fa-cup-dearne-&-district-runcorn-town",
-      "timestamp": "2026-08-11T19:00:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Dearne & District",
-      "away": "Runcorn Town",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/1x2-ht",
-      "rowId": "",
       "fixtureApid": 19806629,
       "slug": "29514866-fa-cup-ashby-ivanhoe-worcester-raiders",
       "timestamp": "2026-08-11T18:45:00.000Z",
@@ -27017,6 +27300,32 @@
       },
       "home": "Portishead Town",
       "away": "Ardley United",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19806602,
+      "slug": "29514838-fa-cup-amersham-town-north-leigh",
+      "timestamp": "2026-08-11T18:30:00.000Z",
+      "league": {
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
+      },
+      "home": "Amersham Town",
+      "away": "North Leigh",
       "locked": true,
       "finished": false,
       "score": null,
