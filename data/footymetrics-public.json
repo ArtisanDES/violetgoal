@@ -1,75 +1,75 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-11T12:04:43.578Z",
+  "generatedAt": "2026-08-11T13:50:45.333Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-11T12:04:38.262Z",
-      "bytes": 395527,
-      "rowCount": 26,
+      "fetchedAt": "2026-08-11T13:50:42.987Z",
+      "bytes": 430458,
+      "rowCount": 31,
       "serverTotal": 50
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-11T12:04:38.935Z",
-      "bytes": 265403,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-11T13:50:43.240Z",
+      "bytes": 272579,
+      "rowCount": 9,
       "serverTotal": 39
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-11T12:04:39.571Z",
-      "bytes": 268977,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-11T13:50:43.493Z",
+      "bytes": 276109,
+      "rowCount": 9,
       "serverTotal": 39
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-11T12:04:40.236Z",
-      "bytes": 266777,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-11T13:50:43.814Z",
+      "bytes": 273921,
+      "rowCount": 9,
       "serverTotal": 39
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-11T12:04:40.882Z",
-      "bytes": 267599,
+      "fetchedAt": "2026-08-11T13:50:44.095Z",
+      "bytes": 273697,
       "rowCount": 8,
       "serverTotal": 8
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-11T12:04:41.545Z",
-      "bytes": 265064,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-11T13:50:44.354Z",
+      "bytes": 272275,
+      "rowCount": 9,
       "serverTotal": 39
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-11T12:04:42.191Z",
-      "bytes": 266554,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-11T13:50:44.604Z",
+      "bytes": 273735,
+      "rowCount": 9,
       "serverTotal": 39
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-11T12:04:42.616Z",
+      "fetchedAt": "2026-08-11T13:50:44.797Z",
       "bytes": 250572,
       "rowCount": 5,
-      "serverTotal": 53
+      "serverTotal": 52
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-11T12:04:43.040Z",
+      "fetchedAt": "2026-08-11T13:50:45.019Z",
       "bytes": 1005825,
       "rowCount": 113,
       "serverTotal": 113
@@ -77,13 +77,13 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-11T12:04:43.578Z",
+      "fetchedAt": "2026-08-11T13:50:45.333Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 192,
+  "count": 202,
   "errors": [],
   "rows": [
     {
@@ -7540,6 +7540,1784 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19766318-1x2-1-x",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 38,
+        "odds": 2.7,
+        "edge": 1,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.35
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.7
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 2.5
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 38,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.3
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.75
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19766318-double_chance-12-x",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 74,
+        "odds": 1.35,
+        "edge": -0.1,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.29
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.27
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.33
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.35
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.35
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19766318-total_goals-over-1.5",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 1.5 goals",
+        "probability": 73,
+        "odds": 1.35,
+        "edge": -1.1,
+        "hasEdge": false,
+        "line": 1.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.32
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.3
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.35
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1 goals",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19766318-away_goals-under-2.5",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "under",
+        "label": "Away under 2.5 goals",
+        "probability": 86,
+        "odds": 1.11,
+        "edge": -4.1,
+        "hasEdge": false,
+        "line": 2.5,
+        "marketLabel": "Away goals",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.11
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.08
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 scored",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19766318-total_corners-over-6.5",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 81,
+        "odds": 1.16,
+        "edge": -5.2,
+        "hasEdge": false,
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.16
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "7 corners",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": 11,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": 15,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": 4,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": 7,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 8,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": 10,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 10,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": 10,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 14,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 18,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 12,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": 6,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 23,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 7,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 8,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": 9,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 7,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": 12,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 2,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": 11,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": 10.7,
+          "cf": 7.7,
+          "ca": 3,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": 90
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": 9.7,
+          "cf": 4.9,
+          "ca": 4.8,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": 80
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19667231-home_goals-under-2.5",
       "fixtureApid": 19667231,
       "slug": "27257095-serie-b-avai-crb",
@@ -7608,7 +9386,7 @@
       "matchResult": {
         "home": {
           "prob": 36,
-          "odds": 2.75
+          "odds": 2.7
         },
         "draw": {
           "prob": 30,
@@ -7616,7 +9394,7 @@
         },
         "away": {
           "prob": 34,
-          "odds": 2.63
+          "odds": 2.7
         }
       },
       "form": {
@@ -7929,32 +9707,6 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19766318-away_goals-under-2.5",
-      "fixtureApid": 19766318,
-      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
-      "timestamp": "2026-08-11T10:30:00.000Z",
-      "league": {
-        "id": 8026,
-        "name": "AFC Champions League Elite",
-        "country": "Asia"
-      },
-      "home": "Gangwon",
-      "away": "Gamba Osaka",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions",
       "rowId": "19766317-home_goals-under-2.5",
       "fixtureApid": 19766317,
       "slug": "27285989-afc-champions-league-elite-pakhtakor-al-hussein",
@@ -7981,17 +9733,43 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19766318-total_corners-over-6.5",
-      "fixtureApid": 19766318,
-      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
-      "timestamp": "2026-08-11T10:30:00.000Z",
+      "rowId": "19712020-total_corners-over-6.5",
+      "fixtureApid": 19712020,
+      "slug": "28226032-copa-sudamericana-boca-juniors-deportivo-recoleta",
+      "timestamp": "2026-08-11T22:00:00.000Z",
       "league": {
-        "id": 8026,
-        "name": "AFC Champions League Elite",
-        "country": "Asia"
+        "id": 8107,
+        "name": "Copa Sudamericana",
+        "country": "South America"
       },
-      "home": "Gangwon",
-      "away": "Gamba Osaka",
+      "home": "Boca Juniors",
+      "away": "Deportivo Recoleta",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19712157-home_goals-under-2.5",
+      "fixtureApid": 19712157,
+      "slug": "27257094-copa-libertadores-fluminense-independiente-rivadavia",
+      "timestamp": "2026-08-11T22:00:00.000Z",
+      "league": {
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
+      },
+      "home": "Fluminense",
+      "away": "Independiente Rivadavia",
       "locked": true,
       "finished": false,
       "score": null,
@@ -9187,6 +10965,371 @@
           },
           "fhFor": 0.5,
           "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 38,
+        "odds": 2.7,
+        "edge": 1,
+        "hasEdge": true,
+        "line": null,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.35
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.7
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 2.5
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 38,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.3
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.75
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
           "ovLine": null
         },
         "h2h": []
@@ -10615,6 +12758,371 @@
           },
           "fhFor": 0.5,
           "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 50,
+        "odds": 1.83,
+        "edge": -4.6,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.76
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.83
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.83
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS No",
+      "matchResult": {
+        "home": {
+          "prob": 38,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.3
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.75
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
           "ovLine": null
         },
         "h2h": []
@@ -12276,6 +14784,371 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 2.5 goals",
+        "probability": 51,
+        "odds": 1.68,
+        "edge": -8.5,
+        "hasEdge": false,
+        "line": 2.5,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.67
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.68
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.67
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.65
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.64
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 goals",
+      "matchResult": {
+        "home": {
+          "prob": 38,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.3
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.75
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
       "fixtureApid": 19806630,
       "slug": "29514868-fa-cup-dearne-&-district-runcorn-town",
       "timestamp": "2026-08-11T19:00:00.000Z",
@@ -13612,6 +16485,371 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "under",
+        "label": "Away under 2.5 goals",
+        "probability": 86,
+        "odds": 1.11,
+        "edge": -4.1,
+        "hasEdge": false,
+        "line": 2.5,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.11
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.08
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 scored",
+      "matchResult": {
+        "home": {
+          "prob": 38,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.3
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.75
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/team-goals",
+      "rowId": "",
       "fixtureApid": 19667231,
       "slug": "27257095-serie-b-avai-crb",
       "timestamp": "2026-08-11T22:30:00.000Z",
@@ -13678,7 +16916,7 @@
       "matchResult": {
         "home": {
           "prob": 36,
-          "odds": 2.75
+          "odds": 2.7
         },
         "draw": {
           "prob": 30,
@@ -13686,7 +16924,7 @@
         },
         "away": {
           "prob": 34,
-          "odds": 2.63
+          "odds": 2.7
         }
       },
       "form": {
@@ -13970,32 +17208,6 @@
         },
         "h2h": []
       }
-    },
-    {
-      "sourcePath": "/predictions/team-goals",
-      "rowId": "",
-      "fixtureApid": 19766318,
-      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
-      "timestamp": "2026-08-11T10:30:00.000Z",
-      "league": {
-        "id": 8026,
-        "name": "AFC Champions League Elite",
-        "country": "Asia"
-      },
-      "home": "Gangwon",
-      "away": "Gamba Osaka",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions/team-goals",
@@ -15257,6 +18469,371 @@
           },
           "fhFor": 0.5,
           "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 74,
+        "odds": 1.35,
+        "edge": -0.1,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.29
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.27
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.33
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.35
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.35
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 38,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.3
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.75
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
           "ovLine": null
         },
         "h2h": []
@@ -16685,6 +20262,371 @@
           },
           "fhFor": 0.5,
           "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19766318,
+      "slug": "27285988-afc-champions-league-elite-gangwon-gamba-osaka",
+      "timestamp": "2026-08-11T10:30:00.000Z",
+      "league": {
+        "id": 8026,
+        "name": "AFC Champions League Elite",
+        "country": "Asia"
+      },
+      "home": "Gangwon",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 40,
+        "odds": 2.15,
+        "edge": -6.5,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.1
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.15
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "X",
+      "matchResult": {
+        "home": {
+          "prob": 38,
+          "odds": 2.7
+        },
+        "draw": {
+          "prob": 26,
+          "odds": 3.3
+        },
+        "away": {
+          "prob": 35,
+          "odds": 2.75
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "1 Aug",
+            "opponent": "Bucheon 1995",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "18 Jul",
+            "opponent": "Gimcheon Sangmu",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Ulsan HD",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "12 May",
+            "opponent": "Daejeon Citizen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "5 May",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Seoul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Jeonbuk Motors",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Gwangju",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Jeju United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Anyang",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1034.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "2 Oct",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 0.9,
+          "cs": 40,
+          "fts": 10,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.7,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
           "ovLine": null
         },
         "h2h": []
