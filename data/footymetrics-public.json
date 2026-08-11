@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-11T13:50:45.333Z",
+  "generatedAt": "2026-08-11T14:50:10.542Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-11T13:50:42.987Z",
+      "fetchedAt": "2026-08-11T14:50:08.394Z",
       "bytes": 430458,
       "rowCount": 31,
       "serverTotal": 50
@@ -13,7 +13,7 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-11T13:50:43.240Z",
+      "fetchedAt": "2026-08-11T14:50:08.686Z",
       "bytes": 272579,
       "rowCount": 9,
       "serverTotal": 39
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-11T13:50:43.493Z",
+      "fetchedAt": "2026-08-11T14:50:08.926Z",
       "bytes": 276109,
       "rowCount": 9,
       "serverTotal": 39
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-11T13:50:43.814Z",
+      "fetchedAt": "2026-08-11T14:50:09.157Z",
       "bytes": 273921,
       "rowCount": 9,
       "serverTotal": 39
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-11T13:50:44.095Z",
+      "fetchedAt": "2026-08-11T14:50:09.416Z",
       "bytes": 273697,
       "rowCount": 8,
       "serverTotal": 8
@@ -45,7 +45,7 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-11T13:50:44.354Z",
+      "fetchedAt": "2026-08-11T14:50:09.654Z",
       "bytes": 272275,
       "rowCount": 9,
       "serverTotal": 39
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-11T13:50:44.604Z",
+      "fetchedAt": "2026-08-11T14:50:09.884Z",
       "bytes": 273735,
       "rowCount": 9,
       "serverTotal": 39
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-11T13:50:44.797Z",
-      "bytes": 250572,
+      "fetchedAt": "2026-08-11T14:50:10.052Z",
+      "bytes": 250586,
       "rowCount": 5,
       "serverTotal": 52
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-11T13:50:45.019Z",
+      "fetchedAt": "2026-08-11T14:50:10.246Z",
       "bytes": 1005825,
       "rowCount": 113,
       "serverTotal": 113
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-11T13:50:45.333Z",
+      "fetchedAt": "2026-08-11T14:50:10.541Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -20997,12 +20997,12 @@
         "selection": "under",
         "label": "Home under 2.5 goals",
         "probability": 89,
-        "odds": 1.13,
-        "edge": 0.5,
-        "hasEdge": true,
+        "odds": 1.12,
+        "edge": -0.3,
+        "hasEdge": false,
         "line": 2.5,
         "marketLabel": "Home goals",
-        "bookmaker": "Kambi",
+        "bookmaker": "Ladbrokes",
         "prices": [
           {
             "id": 1,
@@ -21016,7 +21016,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.13
+            "odds": 1.12
           },
           {
             "id": 3,
@@ -21046,7 +21046,7 @@
       "matchResult": {
         "home": {
           "prob": 34,
-          "odds": 1.91
+          "odds": 1.95
         },
         "draw": {
           "prob": 29,
