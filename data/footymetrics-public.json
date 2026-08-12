@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-12T14:13:34.282Z",
+  "generatedAt": "2026-08-12T15:27:11.819Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-12T14:13:30.105Z",
-      "bytes": 394631,
+      "fetchedAt": "2026-08-12T15:27:09.826Z",
+      "bytes": 394594,
       "rowCount": 26,
-      "serverTotal": 52
+      "serverTotal": 56
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-12T14:13:30.634Z",
+      "fetchedAt": "2026-08-12T15:27:10.047Z",
       "bytes": 267332,
       "rowCount": 8,
       "serverTotal": 17
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-12T14:13:31.535Z",
+      "fetchedAt": "2026-08-12T15:27:10.264Z",
       "bytes": 266499,
       "rowCount": 8,
       "serverTotal": 17
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-12T14:13:32.045Z",
+      "fetchedAt": "2026-08-12T15:27:10.475Z",
       "bytes": 268655,
       "rowCount": 8,
       "serverTotal": 17
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-12T14:13:32.568Z",
+      "fetchedAt": "2026-08-12T15:27:10.689Z",
       "bytes": 265943,
       "rowCount": 7,
       "serverTotal": 7
@@ -45,7 +45,7 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-12T14:13:32.896Z",
+      "fetchedAt": "2026-08-12T15:27:10.898Z",
       "bytes": 267025,
       "rowCount": 8,
       "serverTotal": 17
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-12T14:13:33.227Z",
+      "fetchedAt": "2026-08-12T15:27:11.105Z",
       "bytes": 266239,
       "rowCount": 8,
       "serverTotal": 17
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-12T14:13:33.484Z",
+      "fetchedAt": "2026-08-12T15:27:11.255Z",
       "bytes": 250713,
       "rowCount": 5,
       "serverTotal": 48
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-12T14:13:33.743Z",
+      "fetchedAt": "2026-08-12T15:27:11.432Z",
       "bytes": 491947,
       "rowCount": 38,
       "serverTotal": 38
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-12T14:13:34.282Z",
+      "fetchedAt": "2026-08-12T15:27:11.819Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -7608,11 +7608,11 @@
       "matchResult": {
         "home": {
           "prob": 34,
-          "odds": 2
+          "odds": 2.1
         },
         "draw": {
           "prob": 29,
-          "odds": 3.1
+          "odds": 3
         },
         "away": {
           "prob": 37,
@@ -7933,17 +7933,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19712161-home_goals-over-0.5",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
+      "rowId": "19734427-total_goals-under-4.5",
+      "fixtureApid": 19734427,
+      "slug": "27315724-afc-champions-league-two-arkadag-goa",
+      "timestamp": "2026-08-12T15:00:00.000Z",
       "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
+        "id": 77,
+        "name": "AFC Champions League Two",
+        "country": "Asia"
       },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
+      "home": "Arkadag",
+      "away": "Goa",
       "locked": true,
       "finished": false,
       "score": null,
@@ -7959,17 +7959,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19712019-total_corners-over-6.5",
-      "fixtureApid": 19712019,
-      "slug": "28106877-copa-sudamericana-bragantino-atletico-mineiro",
+      "rowId": "19712161-home_goals-over-0.5",
+      "fixtureApid": 19712161,
+      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
       "timestamp": "2026-08-12T22:00:00.000Z",
       "league": {
-        "id": 8107,
-        "name": "Copa Sudamericana",
+        "id": 8108,
+        "name": "Copa Libertadores",
         "country": "South America"
       },
-      "home": "Bragantino",
-      "away": "Atlético Mineiro",
+      "home": "Palmeiras",
+      "away": "Cerro Porteño",
       "locked": true,
       "finished": false,
       "score": null,
@@ -13782,11 +13782,11 @@
       "matchResult": {
         "home": {
           "prob": 34,
-          "odds": 2
+          "odds": 2.1
         },
         "draw": {
           "prob": 29,
-          "odds": 3.1
+          "odds": 3
         },
         "away": {
           "prob": 37,
