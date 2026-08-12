@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-12T09:36:54.241Z",
+  "generatedAt": "2026-08-12T10:51:33.932Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-12T09:36:52.458Z",
-      "bytes": 394483,
+      "fetchedAt": "2026-08-12T10:51:31.468Z",
+      "bytes": 394605,
       "rowCount": 26,
-      "serverTotal": 48
+      "serverTotal": 52
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-12T09:36:52.666Z",
+      "fetchedAt": "2026-08-12T10:51:31.763Z",
       "bytes": 267325,
       "rowCount": 8,
       "serverTotal": 17
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-12T09:36:52.872Z",
+      "fetchedAt": "2026-08-12T10:51:32.040Z",
       "bytes": 266499,
       "rowCount": 8,
       "serverTotal": 17
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-12T09:36:53.078Z",
+      "fetchedAt": "2026-08-12T10:51:32.317Z",
       "bytes": 268655,
       "rowCount": 8,
       "serverTotal": 17
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-12T09:36:53.282Z",
-      "bytes": 265944,
+      "fetchedAt": "2026-08-12T10:51:32.606Z",
+      "bytes": 265946,
       "rowCount": 7,
       "serverTotal": 7
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-12T09:36:53.488Z",
+      "fetchedAt": "2026-08-12T10:51:32.887Z",
       "bytes": 267018,
       "rowCount": 8,
       "serverTotal": 17
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-12T09:36:53.689Z",
+      "fetchedAt": "2026-08-12T10:51:33.161Z",
       "bytes": 266239,
       "rowCount": 8,
       "serverTotal": 17
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-12T09:36:53.825Z",
+      "fetchedAt": "2026-08-12T10:51:33.371Z",
       "bytes": 250741,
       "rowCount": 5,
       "serverTotal": 43
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-12T09:36:53.978Z",
+      "fetchedAt": "2026-08-12T10:51:33.597Z",
       "bytes": 589992,
       "rowCount": 52,
       "serverTotal": 52
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-12T09:36:54.241Z",
+      "fetchedAt": "2026-08-12T10:51:33.931Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -7592,7 +7592,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
+            "odds": 1.1
           },
           {
             "id": 5,
@@ -7608,7 +7608,7 @@
       "matchResult": {
         "home": {
           "prob": 34,
-          "odds": 1.93
+          "odds": 1.95
         },
         "draw": {
           "prob": 29,
@@ -7616,7 +7616,7 @@
         },
         "away": {
           "prob": 37,
-          "odds": 5
+          "odds": 4.75
         }
       },
       "form": {
@@ -7907,6 +7907,32 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19734428-double_chance-1X-x",
+      "fixtureApid": 19734428,
+      "slug": "27315723-afc-champions-league-two-east-bengal-al-arabi-sc",
+      "timestamp": "2026-08-12T13:30:00.000Z",
+      "league": {
+        "id": 77,
+        "name": "AFC Champions League Two",
+        "country": "Asia"
+      },
+      "home": "East Bengal",
+      "away": "Al Arabi SC",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19712161-home_goals-over-0.5",
       "fixtureApid": 19712161,
       "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
@@ -7944,32 +7970,6 @@
       },
       "home": "Bragantino",
       "away": "Atlético Mineiro",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19712161-total_corners-over-6.5",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
       "locked": true,
       "finished": false,
       "score": null,
@@ -13766,7 +13766,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
+            "odds": 1.1
           },
           {
             "id": 5,
@@ -13782,7 +13782,7 @@
       "matchResult": {
         "home": {
           "prob": 34,
-          "odds": 1.93
+          "odds": 1.95
         },
         "draw": {
           "prob": 29,
@@ -13790,7 +13790,7 @@
         },
         "away": {
           "prob": 37,
-          "odds": 5
+          "odds": 4.75
         }
       },
       "form": {
