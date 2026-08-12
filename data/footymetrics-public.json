@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-12T15:27:11.819Z",
+  "generatedAt": "2026-08-12T16:24:47.462Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-12T15:27:09.826Z",
+      "fetchedAt": "2026-08-12T16:24:45.075Z",
       "bytes": 394594,
       "rowCount": 26,
       "serverTotal": 56
@@ -13,7 +13,7 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-12T15:27:10.047Z",
+      "fetchedAt": "2026-08-12T16:24:45.315Z",
       "bytes": 267332,
       "rowCount": 8,
       "serverTotal": 17
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-12T15:27:10.264Z",
+      "fetchedAt": "2026-08-12T16:24:45.555Z",
       "bytes": 266499,
       "rowCount": 8,
       "serverTotal": 17
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-12T15:27:10.475Z",
+      "fetchedAt": "2026-08-12T16:24:45.821Z",
       "bytes": 268655,
       "rowCount": 8,
       "serverTotal": 17
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-12T15:27:10.689Z",
-      "bytes": 265943,
+      "fetchedAt": "2026-08-12T16:24:46.062Z",
+      "bytes": 265944,
       "rowCount": 7,
       "serverTotal": 7
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-12T15:27:10.898Z",
+      "fetchedAt": "2026-08-12T16:24:46.305Z",
       "bytes": 267025,
       "rowCount": 8,
       "serverTotal": 17
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-12T15:27:11.105Z",
+      "fetchedAt": "2026-08-12T16:24:46.671Z",
       "bytes": 266239,
       "rowCount": 8,
       "serverTotal": 17
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-12T15:27:11.255Z",
+      "fetchedAt": "2026-08-12T16:24:46.837Z",
       "bytes": 250713,
       "rowCount": 5,
       "serverTotal": 48
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-12T15:27:11.432Z",
+      "fetchedAt": "2026-08-12T16:24:47.171Z",
       "bytes": 491947,
       "rowCount": 38,
       "serverTotal": 38
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-12T15:27:11.819Z",
+      "fetchedAt": "2026-08-12T16:24:47.462Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -13782,7 +13782,7 @@
       "matchResult": {
         "home": {
           "prob": 34,
-          "odds": 2.1
+          "odds": 2.15
         },
         "draw": {
           "prob": 29,
@@ -17220,8 +17220,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 95,
-        "odds": 1.11,
-        "edge": 4.9,
+        "odds": 1.12,
+        "edge": 5.7,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
@@ -17253,7 +17253,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
+            "odds": 1.12
           },
           {
             "id": 5,
@@ -17273,7 +17273,7 @@
         },
         "draw": {
           "prob": 18,
-          "odds": 3.4
+          "odds": 3.5
         },
         "away": {
           "prob": 13,
