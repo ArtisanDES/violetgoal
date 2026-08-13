@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-13T10:53:13.795Z",
+  "generatedAt": "2026-08-13T11:39:10.031Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-13T10:53:11.441Z",
+      "fetchedAt": "2026-08-13T11:39:07.436Z",
       "bytes": 289771,
       "rowCount": 11,
       "serverTotal": 44
@@ -13,7 +13,7 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-13T10:53:11.740Z",
+      "fetchedAt": "2026-08-13T11:39:07.843Z",
       "bytes": 254911,
       "rowCount": 6,
       "serverTotal": 7
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-13T10:53:12.013Z",
+      "fetchedAt": "2026-08-13T11:39:08.259Z",
       "bytes": 254382,
       "rowCount": 6,
       "serverTotal": 7
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-13T10:53:12.278Z",
+      "fetchedAt": "2026-08-13T11:39:08.563Z",
       "bytes": 256470,
       "rowCount": 6,
       "serverTotal": 7
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-13T10:53:12.544Z",
+      "fetchedAt": "2026-08-13T11:39:08.868Z",
       "bytes": 253055,
       "rowCount": 6,
       "serverTotal": 6
@@ -45,7 +45,7 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-13T10:53:12.805Z",
+      "fetchedAt": "2026-08-13T11:39:09.073Z",
       "bytes": 254557,
       "rowCount": 6,
       "serverTotal": 7
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-13T10:53:13.066Z",
+      "fetchedAt": "2026-08-13T11:39:09.381Z",
       "bytes": 254277,
       "rowCount": 6,
       "serverTotal": 7
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-13T10:53:13.266Z",
+      "fetchedAt": "2026-08-13T11:39:09.517Z",
       "bytes": 254593,
       "rowCount": 5,
-      "serverTotal": 341
+      "serverTotal": 342
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-13T10:53:13.476Z",
+      "fetchedAt": "2026-08-13T11:39:09.666Z",
       "bytes": 624140,
       "rowCount": 57,
       "serverTotal": 57
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-13T10:53:13.795Z",
+      "fetchedAt": "2026-08-13T11:39:10.030Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -18525,6 +18525,2490 @@
     },
     {
       "sourcePath": "/predictions/yesterday",
+      "rowId": "19712161-1x2-1-x",
+      "fixtureApid": 19712161,
+      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
+      "timestamp": "2026-08-12T22:00:00.000Z",
+      "league": {
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
+      },
+      "home": "Palmeiras",
+      "away": "Cerro Porteño",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 59,
+        "odds": 1.3,
+        "edge": -17.9,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.25
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.29
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.22
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.25
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.3
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "X",
+      "matchResult": {
+        "home": {
+          "prob": 59,
+          "odds": 1.3
+        },
+        "draw": {
+          "prob": 23,
+          "odds": 5.5
+        },
+        "away": {
+          "prob": 18,
+          "odds": 12
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Aug",
+            "opponent": "Internacional",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Fortaleza",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Atlético Mineiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Chapecoense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "28 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Cerro Porteño",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Cruzeiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Santos",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "23 Apr",
+            "opponent": "Jacuipense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "9 Apr",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Aug",
+            "opponent": "Estudiantes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "29 May",
+            "opponent": "Club Bolívar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 May",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Mar",
+            "opponent": "Melgar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-4",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Monagas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 0.6,
+          "cs": 50,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 6,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 0.8,
+          "cs": 60,
+          "fts": 40,
+          "ov25": 30,
+          "btts": 10,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19712161-double_chance-12-x",
+      "fixtureApid": 19712161,
+      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
+      "timestamp": "2026-08-12T22:00:00.000Z",
+      "league": {
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
+      },
+      "home": "Palmeiras",
+      "away": "Cerro Porteño",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 77,
+        "odds": 1.16,
+        "edge": -9.2,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.16
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.15
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.15
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": null,
+      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Aug",
+            "opponent": "Internacional",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Fortaleza",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Atlético Mineiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Chapecoense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "28 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Cerro Porteño",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Cruzeiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Santos",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "23 Apr",
+            "opponent": "Jacuipense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "9 Apr",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Aug",
+            "opponent": "Estudiantes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "29 May",
+            "opponent": "Club Bolívar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 May",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Mar",
+            "opponent": "Melgar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-4",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Monagas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 0.6,
+          "cs": 50,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 6,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 0.8,
+          "cs": 60,
+          "fts": 40,
+          "ov25": 30,
+          "btts": 10,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19712161-1x2_fh-X-x",
+      "fixtureApid": 19712161,
+      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
+      "timestamp": "2026-08-12T22:00:00.000Z",
+      "league": {
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
+      },
+      "home": "Palmeiras",
+      "away": "Cerro Porteño",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 42,
+        "odds": 2.4,
+        "edge": 0.3,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Paddy Power",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.4
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.3
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.4
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "X",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Aug",
+            "opponent": "Internacional",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Fortaleza",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Atlético Mineiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Chapecoense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "28 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Cerro Porteño",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Cruzeiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Santos",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "23 Apr",
+            "opponent": "Jacuipense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "9 Apr",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Aug",
+            "opponent": "Estudiantes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "29 May",
+            "opponent": "Club Bolívar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 May",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Mar",
+            "opponent": "Melgar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-4",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Monagas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 0.6,
+          "cs": 50,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 6,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 0.8,
+          "cs": 60,
+          "fts": 40,
+          "ov25": 30,
+          "btts": 10,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19712161-btts-no-x",
+      "fixtureApid": 19712161,
+      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
+      "timestamp": "2026-08-12T22:00:00.000Z",
+      "league": {
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
+      },
+      "home": "Palmeiras",
+      "away": "Cerro Porteño",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "no",
+        "label": "BTTS: No",
+        "probability": 55,
+        "odds": 1.45,
+        "edge": -14,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "BTTS",
+        "bookmaker": "Paddy Power",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.33
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.42
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.45
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.36
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.33
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS Yes",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Aug",
+            "opponent": "Internacional",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Fortaleza",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Atlético Mineiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Chapecoense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "28 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Cerro Porteño",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Cruzeiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Santos",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "23 Apr",
+            "opponent": "Jacuipense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "9 Apr",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Aug",
+            "opponent": "Estudiantes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "29 May",
+            "opponent": "Club Bolívar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 May",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Mar",
+            "opponent": "Melgar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-4",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Monagas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 0.6,
+          "cs": 50,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 6,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 0.8,
+          "cs": 60,
+          "fts": 40,
+          "ov25": 30,
+          "btts": 10,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19712161-total_goals-under-3.5",
+      "fixtureApid": 19712161,
+      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
+      "timestamp": "2026-08-12T22:00:00.000Z",
+      "league": {
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
+      },
+      "home": "Palmeiras",
+      "away": "Cerro Porteño",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 3.5 goals",
+        "probability": 75,
+        "odds": 1.27,
+        "edge": -3.7,
+        "hasEdge": false,
+        "line": 3.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.25
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.27
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.25
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.25
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "2 goals",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Aug",
+            "opponent": "Internacional",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Fortaleza",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Atlético Mineiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Chapecoense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "28 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Cerro Porteño",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Cruzeiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Santos",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "23 Apr",
+            "opponent": "Jacuipense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "9 Apr",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Aug",
+            "opponent": "Estudiantes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "29 May",
+            "opponent": "Club Bolívar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 May",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Mar",
+            "opponent": "Melgar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-4",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Monagas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 0.6,
+          "cs": 50,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 6,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 0.8,
+          "cs": 60,
+          "fts": 40,
+          "ov25": 30,
+          "btts": 10,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19712161-home_goals-under-2.5",
+      "fixtureApid": 19712161,
+      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
+      "timestamp": "2026-08-12T22:00:00.000Z",
+      "league": {
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
+      },
+      "home": "Palmeiras",
+      "away": "Cerro Porteño",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "home_goals",
+        "selection": "under",
+        "label": "Home under 2.5 goals",
+        "probability": 76,
+        "odds": 1.44,
+        "edge": 6.6,
+        "hasEdge": true,
+        "line": 2.5,
+        "marketLabel": "Home goals",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.42
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.44
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 scored",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Aug",
+            "opponent": "Internacional",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Fortaleza",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Atlético Mineiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Chapecoense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "28 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Cerro Porteño",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "17 May",
+            "opponent": "Cruzeiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Santos",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "23 Apr",
+            "opponent": "Jacuipense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 May",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "9 Apr",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Aug",
+            "opponent": "Estudiantes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "29 May",
+            "opponent": "Club Bolívar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "14 May",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Mar",
+            "opponent": "Melgar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-4",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Monagas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "26 Jul",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 0.6,
+          "cs": 50,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 6,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 0.8,
+          "cs": 60,
+          "fts": 40,
+          "ov25": 30,
+          "btts": 10,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19712161-total_corners-over-6.5",
+      "fixtureApid": 19712161,
+      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
+      "timestamp": "2026-08-12T22:00:00.000Z",
+      "league": {
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
+      },
+      "home": "Palmeiras",
+      "away": "Cerro Porteño",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 80,
+        "odds": 1.1,
+        "edge": -10.9,
+        "hasEdge": false,
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.09
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.1
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "9 corners",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 7,
+            "date": "9 Aug",
+            "opponent": "Internacional",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": 14,
+            "date": "2 Aug",
+            "opponent": "Fortaleza",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": 15,
+            "date": "26 Jul",
+            "opponent": "Atlético Mineiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": 5,
+            "date": "31 May",
+            "opponent": "Chapecoense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": 7,
+            "date": "28 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": 9,
+            "date": "21 May",
+            "opponent": "Cerro Porteño",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 11,
+            "date": "17 May",
+            "opponent": "Cruzeiro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 13,
+            "date": "2 May",
+            "opponent": "Santos",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": 15,
+            "date": "23 Apr",
+            "opponent": "Jacuipense",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": 12,
+            "date": "19 Apr",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 9,
+            "date": "21 May",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 12,
+            "date": "8 May",
+            "opponent": "Junior FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 6,
+            "date": "9 Apr",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 5,
+            "date": "20 Aug",
+            "opponent": "Estudiantes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": 11,
+            "date": "29 May",
+            "opponent": "Club Bolívar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 15,
+            "date": "14 May",
+            "opponent": "Sporting Cristal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 10,
+            "date": "10 Apr",
+            "opponent": "Palmeiras",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 12,
+            "date": "5 Mar",
+            "opponent": "Melgar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-4",
+            "corners": 11,
+            "date": "20 Feb",
+            "opponent": "Monagas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": 9,
+            "date": "26 Jul",
+            "opponent": "Athletico PR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 0.6,
+          "cs": 50,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": 10.8,
+          "cf": 7,
+          "ca": 3.8,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 6,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.3,
+          "ovLine": 90
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 0.8,
+          "cs": 60,
+          "fts": 40,
+          "ov25": 30,
+          "btts": 10,
+          "scored2": 10,
+          "cAvg": 10,
+          "cf": 3.4,
+          "ca": 6.6,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 3,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.4,
+          "ovLine": 80
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
       "rowId": "19712015-1x2-2-x",
       "fixtureApid": 19712015,
       "slug": "27887513-copa-sudamericana-tigre-montevideo-city-torque",
@@ -18959,7 +21443,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
       "form": {
         "home": [
           {
@@ -19312,7 +21796,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
       "form": {
         "home": [
           {
@@ -19665,7 +22149,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
       "form": {
         "home": [
           {
@@ -20018,7 +22502,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
       "form": {
         "home": [
           {
@@ -20371,7 +22855,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
       "form": {
         "home": [
           {
@@ -20724,7 +23208,7 @@
       },
       "settlement": "won",
       "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:29:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
       "form": {
         "home": [
           {
@@ -21421,7 +23905,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
       "form": {
         "home": [
           {
@@ -21752,7 +24236,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
       "form": {
         "home": [
           {
@@ -22083,7 +24567,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
       "form": {
         "home": [
           {
@@ -22414,7 +24898,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
       "form": {
         "home": [
           {
@@ -22745,7 +25229,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
       "form": {
         "home": [
           {
@@ -23076,7 +25560,7 @@
       },
       "settlement": "lost",
       "actual": "17 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:36:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
       "form": {
         "home": [
           {
@@ -23773,7 +26257,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
       "form": {
         "home": [
           {
@@ -24126,7 +26610,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
       "form": {
         "home": [
           {
@@ -24479,7 +26963,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
       "form": {
         "home": [
           {
@@ -24832,7 +27316,7 @@
       },
       "settlement": "lost",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
       "form": {
         "home": [
           {
@@ -25185,7 +27669,7 @@
       },
       "settlement": "lost",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
       "form": {
         "home": [
           {
@@ -25538,7 +28022,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:43:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
       "form": {
         "home": [
           {
@@ -25817,2490 +28301,6 @@
           "fhFor": 0.6,
           "fhAgainst": 0.5,
           "ovLine": 60
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19712161-1x2-1-x",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "1",
-        "label": "Home win",
-        "probability": 59,
-        "odds": 1.3,
-        "edge": -17.9,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.25
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.29
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.22
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.25
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.3
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "X",
-      "matchResult": {
-        "home": {
-          "prob": 59,
-          "odds": 1.3
-        },
-        "draw": {
-          "prob": 23,
-          "odds": 5.5
-        },
-        "away": {
-          "prob": 18,
-          "odds": 12
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Aug",
-            "opponent": "Internacional",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Fortaleza",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlético Mineiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "31 May",
-            "opponent": "Chapecoense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "28 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Cerro Porteño",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Cruzeiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Santos",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Jacuipense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Apr",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Estudiantes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "29 May",
-            "opponent": "Club Bolívar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "5 Mar",
-            "opponent": "Melgar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Monagas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 0.6,
-          "cs": 50,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 40,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 3,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 6,
-            "l": 1
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 0.8,
-          "cs": 60,
-          "fts": 40,
-          "ov25": 30,
-          "btts": 10,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 3,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19712161-double_chance-12-x",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 77,
-        "odds": 1.16,
-        "edge": -9.2,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.16
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.15
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.15
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Aug",
-            "opponent": "Internacional",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Fortaleza",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlético Mineiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "31 May",
-            "opponent": "Chapecoense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "28 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Cerro Porteño",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Cruzeiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Santos",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Jacuipense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Apr",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Estudiantes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "29 May",
-            "opponent": "Club Bolívar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "5 Mar",
-            "opponent": "Melgar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Monagas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 0.6,
-          "cs": 50,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 40,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 3,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 6,
-            "l": 1
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 0.8,
-          "cs": 60,
-          "fts": 40,
-          "ov25": 30,
-          "btts": 10,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 3,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19712161-1x2_fh-X-x",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "X",
-        "label": "Draw HT",
-        "probability": 42,
-        "odds": 2.4,
-        "edge": 0.3,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Paddy Power",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2.4
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.3
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.4
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Aug",
-            "opponent": "Internacional",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Fortaleza",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlético Mineiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "31 May",
-            "opponent": "Chapecoense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "28 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Cerro Porteño",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Cruzeiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Santos",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Jacuipense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Apr",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Estudiantes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "29 May",
-            "opponent": "Club Bolívar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "5 Mar",
-            "opponent": "Melgar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Monagas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 0.6,
-          "cs": 50,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 40,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 3,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 6,
-            "l": 1
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 0.8,
-          "cs": 60,
-          "fts": 40,
-          "ov25": 30,
-          "btts": 10,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 3,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19712161-btts-no-x",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "no",
-        "label": "BTTS: No",
-        "probability": 55,
-        "odds": 1.45,
-        "edge": -14,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Paddy Power",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.33
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.42
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.45
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.36
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.33
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Aug",
-            "opponent": "Internacional",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Fortaleza",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlético Mineiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "31 May",
-            "opponent": "Chapecoense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "28 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Cerro Porteño",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Cruzeiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Santos",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Jacuipense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Apr",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Estudiantes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "29 May",
-            "opponent": "Club Bolívar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "5 Mar",
-            "opponent": "Melgar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Monagas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 0.6,
-          "cs": 50,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 40,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 3,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 6,
-            "l": 1
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 0.8,
-          "cs": 60,
-          "fts": 40,
-          "ov25": 30,
-          "btts": 10,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 3,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19712161-total_goals-under-3.5",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "under",
-        "label": "Under 3.5 goals",
-        "probability": 75,
-        "odds": 1.27,
-        "edge": -3.7,
-        "hasEdge": false,
-        "line": 3.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.25
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.27
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.25
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.25
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Aug",
-            "opponent": "Internacional",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Fortaleza",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlético Mineiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "31 May",
-            "opponent": "Chapecoense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "28 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Cerro Porteño",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Cruzeiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Santos",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Jacuipense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Apr",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Estudiantes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "29 May",
-            "opponent": "Club Bolívar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "5 Mar",
-            "opponent": "Melgar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Monagas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 0.6,
-          "cs": 50,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 40,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 3,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 6,
-            "l": 1
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 0.8,
-          "cs": 60,
-          "fts": 40,
-          "ov25": 30,
-          "btts": 10,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 3,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19712161-home_goals-under-2.5",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "home_goals",
-        "selection": "under",
-        "label": "Home under 2.5 goals",
-        "probability": 76,
-        "odds": 1.44,
-        "edge": 6.6,
-        "hasEdge": true,
-        "line": 2.5,
-        "marketLabel": "Home goals",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.42
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.44
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Aug",
-            "opponent": "Internacional",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Fortaleza",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlético Mineiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "31 May",
-            "opponent": "Chapecoense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "28 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Cerro Porteño",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Cruzeiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Santos",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Jacuipense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "21 May",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Apr",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Estudiantes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "29 May",
-            "opponent": "Club Bolívar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "5 Mar",
-            "opponent": "Melgar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Monagas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 0.6,
-          "cs": 50,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 40,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 3,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 6,
-            "l": 1
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.3,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 0.8,
-          "cs": 60,
-          "fts": 40,
-          "ov25": 30,
-          "btts": 10,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 3,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19712161-total_corners-over-6.5",
-      "fixtureApid": 19712161,
-      "slug": "27315726-copa-libertadores-palmeiras-cerro-porteno",
-      "timestamp": "2026-08-12T22:00:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Palmeiras",
-      "away": "Cerro Porteño",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 6.5 corners",
-        "probability": 80,
-        "odds": 1.1,
-        "edge": -10.9,
-        "hasEdge": false,
-        "line": 6.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.09
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.1
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:50:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 7,
-            "date": "9 Aug",
-            "opponent": "Internacional",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": 14,
-            "date": "2 Aug",
-            "opponent": "Fortaleza",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": 15,
-            "date": "26 Jul",
-            "opponent": "Atlético Mineiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 5,
-            "date": "31 May",
-            "opponent": "Chapecoense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": 7,
-            "date": "28 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": 9,
-            "date": "21 May",
-            "opponent": "Cerro Porteño",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 11,
-            "date": "17 May",
-            "opponent": "Cruzeiro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 13,
-            "date": "2 May",
-            "opponent": "Santos",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": 15,
-            "date": "23 Apr",
-            "opponent": "Jacuipense",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/654.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 12,
-            "date": "19 Apr",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/648.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 9,
-            "date": "21 May",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 12,
-            "date": "8 May",
-            "opponent": "Junior FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 6,
-            "date": "9 Apr",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 5,
-            "date": "20 Aug",
-            "opponent": "Estudiantes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": 11,
-            "date": "29 May",
-            "opponent": "Club Bolívar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 15,
-            "date": "14 May",
-            "opponent": "Sporting Cristal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 10,
-            "date": "10 Apr",
-            "opponent": "Palmeiras",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 12,
-            "date": "5 Mar",
-            "opponent": "Melgar",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": 11,
-            "date": "20 Feb",
-            "opponent": "Monagas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1122.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": 9,
-            "date": "26 Jul",
-            "opponent": "Athletico PR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1116.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 0.6,
-          "cs": 50,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 40,
-          "scored2": 30,
-          "cAvg": 10.8,
-          "cf": 7,
-          "ca": 3.8,
-          "record": {
-            "w": 5,
-            "d": 3,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 6,
-            "l": 1
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.3,
-          "ovLine": 90
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 0.8,
-          "cs": 60,
-          "fts": 40,
-          "ov25": 30,
-          "btts": 10,
-          "scored2": 10,
-          "cAvg": 10,
-          "cf": 3.4,
-          "ca": 6.6,
-          "record": {
-            "w": 5,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 3,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.4,
-          "ovLine": 80
         },
         "h2h": []
       }
