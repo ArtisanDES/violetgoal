@@ -1,27 +1,27 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-13T20:30:53.635Z",
+  "generatedAt": "2026-08-13T21:34:44.810Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-13T20:30:51.701Z",
-      "bytes": 399853,
+      "fetchedAt": "2026-08-13T21:34:42.141Z",
+      "bytes": 399858,
       "rowCount": 29,
       "serverTotal": 45
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-13T20:30:51.911Z",
-      "bytes": 270972,
+      "fetchedAt": "2026-08-13T21:34:42.450Z",
+      "bytes": 270976,
       "rowCount": 7,
       "serverTotal": 7
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-13T20:30:52.150Z",
+      "fetchedAt": "2026-08-13T21:34:42.739Z",
       "bytes": 271627,
       "rowCount": 7,
       "serverTotal": 7
@@ -29,15 +29,15 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-13T20:30:52.379Z",
-      "bytes": 272418,
+      "fetchedAt": "2026-08-13T21:34:43.014Z",
+      "bytes": 272422,
       "rowCount": 7,
       "serverTotal": 7
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-13T20:30:52.605Z",
+      "fetchedAt": "2026-08-13T21:34:43.466Z",
       "bytes": 264018,
       "rowCount": 6,
       "serverTotal": 6
@@ -45,31 +45,31 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-13T20:30:52.851Z",
-      "bytes": 272010,
+      "fetchedAt": "2026-08-13T21:34:43.754Z",
+      "bytes": 272012,
       "rowCount": 7,
       "serverTotal": 7
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-13T20:30:53.058Z",
-      "bytes": 270198,
+      "fetchedAt": "2026-08-13T21:34:44.043Z",
+      "bytes": 270196,
       "rowCount": 7,
       "serverTotal": 7
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-13T20:30:53.216Z",
+      "fetchedAt": "2026-08-13T21:34:44.264Z",
       "bytes": 254593,
       "rowCount": 5,
-      "serverTotal": 345
+      "serverTotal": 344
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-13T20:30:53.381Z",
+      "fetchedAt": "2026-08-13T21:34:44.488Z",
       "bytes": 477605,
       "rowCount": 36,
       "serverTotal": 36
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-13T20:30:53.635Z",
+      "fetchedAt": "2026-08-13T21:34:44.810Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -4350,6 +4350,1104 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19777724-1x2-1-x",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 54,
+        "odds": 4.5,
+        "edge": 31.8,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 4.5
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 54,
+          "odds": 4.5
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 4
+        },
+        "away": {
+          "prob": 22,
+          "odds": 1.62
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19777724-double_chance-1X-x",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "1X",
+        "label": "Home or draw",
+        "probability": 78,
+        "odds": 2.1,
+        "edge": 30.4,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.1
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": null,
+      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19777724-btts-yes-x",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 55,
+        "odds": 1.6,
+        "edge": -7.5,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "BTTS",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS No",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19777724-total_goals-under-3.5",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 3.5 goals",
+        "probability": 66,
+        "odds": 1.52,
+        "edge": 0.2,
+        "hasEdge": true,
+        "line": 3.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.52
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 goals",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19777724-total_corners-under-10.5",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "under",
+        "label": "Under 10.5 corners",
+        "probability": 63,
+        "odds": 1.4,
+        "edge": -8.4,
+        "hasEdge": false,
+        "line": 10.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.4
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "12 corners",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": 9,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 8,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": 11,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 2,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 7,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": 9,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 6,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 8,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": 9,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 4,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": 7.3,
+          "cf": 3.6,
+          "ca": 3.7,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": 10
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19777725-1x2-1-x",
       "fixtureApid": 19777725,
       "slug": "27498648-pro-league-al-shabab-al-qadsiah",
@@ -4784,7 +5882,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:17:matchResult",
       "form": {
         "home": [
           {
@@ -5137,7 +6235,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:17:matchResult",
       "form": {
         "home": [
           {
@@ -5490,7 +6588,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:17:matchResult",
       "form": {
         "home": [
           {
@@ -5843,7 +6941,7 @@
       },
       "settlement": "won",
       "actual": "4 goals",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:17:matchResult",
       "form": {
         "home": [
           {
@@ -6196,7 +7294,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:17:matchResult",
       "form": {
         "home": [
           {
@@ -6549,7 +7647,7 @@
       },
       "settlement": "won",
       "actual": "15 corners",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:12:matchResult",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:17:matchResult",
       "form": {
         "home": [
           {
@@ -6834,1104 +7932,6 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19777724-1x2-1-x",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "1",
-        "label": "Home win",
-        "probability": 54,
-        "odds": 4.5,
-        "edge": 31.8,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 4.5
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 54,
-          "odds": 4.5
-        },
-        "draw": {
-          "prob": 24,
-          "odds": 4
-        },
-        "away": {
-          "prob": 22,
-          "odds": 1.62
-        }
-      },
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19777724-double_chance-1X-x",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "1X",
-        "label": "Home or draw",
-        "probability": 78,
-        "odds": 2.1,
-        "edge": 30.4,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 2.1
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": null,
-      "matchResult": "$1a:props:children:1:props:children:props:rows:19:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19777724-btts-yes-x",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 55,
-        "odds": 1.6,
-        "edge": -7.5,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.6
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS No",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:19:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19777724-total_goals-under-3.5",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "under",
-        "label": "Under 3.5 goals",
-        "probability": 66,
-        "odds": 1.52,
-        "edge": 0.2,
-        "hasEdge": true,
-        "line": 3.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.52
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "1 goals",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:19:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19777724-total_corners-under-10.5",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "under",
-        "label": "Under 10.5 corners",
-        "probability": 63,
-        "odds": 1.4,
-        "edge": -8.4,
-        "hasEdge": false,
-        "line": 10.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.4
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "12 corners",
-      "matchResult": "$1a:props:children:1:props:children:props:rows:19:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": 9,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 8,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": 11,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 2,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 7,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": 9,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 6,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 8,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": 9,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 4,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": 7.3,
-          "cf": 3.6,
-          "ca": 3.7,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": 10
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions",
       "rowId": "19712014-total_goals-under-4.5",
       "fixtureApid": 19712014,
       "slug": "27887512-copa-sudamericana-santos-macara",
@@ -7951,9 +7951,9 @@
         "selection": "under",
         "label": "Under 4.5 goals",
         "probability": 88,
-        "odds": 1.14,
-        "edge": 0.3,
-        "hasEdge": true,
+        "odds": 1.13,
+        "edge": -0.5,
+        "hasEdge": false,
         "line": 4.5,
         "marketLabel": "Total goals",
         "bookmaker": "Kambi",
@@ -7970,7 +7970,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.14
+            "odds": 1.13
           },
           {
             "id": 3,
@@ -8000,11 +8000,11 @@
       "matchResult": {
         "home": {
           "prob": 47,
-          "odds": 1.35
+          "odds": 1.36
         },
         "draw": {
           "prob": 26,
-          "odds": 5
+          "odds": 4.75
         },
         "away": {
           "prob": 26,
@@ -9185,6 +9185,235 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 54,
+        "odds": 4.5,
+        "edge": 31.8,
+        "hasEdge": true,
+        "line": null,
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 4.5
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 54,
+          "odds": 4.5
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 4
+        },
+        "away": {
+          "prob": 22,
+          "odds": 1.62
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
       "fixtureApid": 19777725,
       "slug": "27498648-pro-league-al-shabab-al-qadsiah",
       "timestamp": "2026-08-13T18:00:00.000Z",
@@ -9596,235 +9825,6 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "1",
-        "label": "Home win",
-        "probability": 54,
-        "odds": 4.5,
-        "edge": 31.8,
-        "hasEdge": true,
-        "line": null,
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 4.5
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 54,
-          "odds": 4.5
-        },
-        "draw": {
-          "prob": 24,
-          "odds": 4
-        },
-        "away": {
-          "prob": 22,
-          "odds": 1.62
-        }
-      },
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/1x2",
-      "rowId": "",
       "fixtureApid": 19712014,
       "slug": "27887512-copa-sudamericana-santos-macara",
       "timestamp": "2026-08-13T22:00:00.000Z",
@@ -9843,32 +9843,32 @@
         "selection": "1",
         "label": "Home win",
         "probability": 47,
-        "odds": 1.35,
-        "edge": -27.1,
+        "odds": 1.38,
+        "edge": -25.5,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Kambi",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.33
+            "odds": 1.38
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.35
+            "odds": 1.36
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.3
+            "odds": 1.33
           },
           {
             "id": 4,
@@ -9882,7 +9882,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.32
+            "odds": 1.35
           }
         ]
       },
@@ -9891,15 +9891,15 @@
       "matchResult": {
         "home": {
           "prob": 47,
-          "odds": 1.35
+          "odds": 1.38
         },
         "draw": {
           "prob": 26,
-          "odds": 4.8
+          "odds": 4.7
         },
         "away": {
           "prob": 26,
-          "odds": 9.5
+          "odds": 8.5
         }
       },
       "form": {
@@ -11024,6 +11024,235 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 55,
+        "odds": 1.6,
+        "edge": -7.5,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS No",
+      "matchResult": {
+        "home": {
+          "prob": 54,
+          "odds": 4.5
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 4
+        },
+        "away": {
+          "prob": 22,
+          "odds": 1.62
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
       "fixtureApid": 19777725,
       "slug": "27498648-pro-league-al-shabab-al-qadsiah",
       "timestamp": "2026-08-13T18:00:00.000Z",
@@ -11435,235 +11664,6 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 55,
-        "odds": 1.6,
-        "edge": -7.5,
-        "hasEdge": false,
-        "line": null,
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.6
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS No",
-      "matchResult": {
-        "home": {
-          "prob": 54,
-          "odds": 4.5
-        },
-        "draw": {
-          "prob": 24,
-          "odds": 4
-        },
-        "away": {
-          "prob": 22,
-          "odds": 1.62
-        }
-      },
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/btts",
-      "rowId": "",
       "fixtureApid": 19712017,
       "slug": "28106875-copa-sudamericana-vasco-da-gama-olimpia",
       "timestamp": "2026-08-13T22:00:00.000Z",
@@ -11707,7 +11707,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.2
+            "odds": 2.1
           },
           {
             "id": 4,
@@ -11730,11 +11730,11 @@
       "matchResult": {
         "home": {
           "prob": 43,
-          "odds": 1.77
+          "odds": 1.78
         },
         "draw": {
           "prob": 25,
-          "odds": 3.4
+          "odds": 3.5
         },
         "away": {
           "prob": 32,
@@ -12937,6 +12937,235 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 2.5 goals",
+        "probability": 56,
+        "odds": 1.54,
+        "edge": -8.9,
+        "hasEdge": false,
+        "line": 2.5,
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.54
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1 goals",
+      "matchResult": {
+        "home": {
+          "prob": 54,
+          "odds": 4.5
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 4
+        },
+        "away": {
+          "prob": 22,
+          "odds": 1.62
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
       "fixtureApid": 19777725,
       "slug": "27498648-pro-league-al-shabab-al-qadsiah",
       "timestamp": "2026-08-13T18:00:00.000Z",
@@ -13348,235 +13577,6 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "over",
-        "label": "Over 2.5 goals",
-        "probability": 56,
-        "odds": 1.54,
-        "edge": -8.9,
-        "hasEdge": false,
-        "line": 2.5,
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.54
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "1 goals",
-      "matchResult": {
-        "home": {
-          "prob": 54,
-          "odds": 4.5
-        },
-        "draw": {
-          "prob": 24,
-          "odds": 4
-        },
-        "away": {
-          "prob": 22,
-          "odds": 1.62
-        }
-      },
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/goals-over-under",
-      "rowId": "",
       "fixtureApid": 19712014,
       "slug": "27887512-copa-sudamericana-santos-macara",
       "timestamp": "2026-08-13T22:00:00.000Z",
@@ -13595,8 +13595,8 @@
         "selection": "under",
         "label": "Under 2.5 goals",
         "probability": 57,
-        "odds": 2.1,
-        "edge": 9.4,
+        "odds": 2.02,
+        "edge": 7.5,
         "hasEdge": true,
         "line": 2.5,
         "bookmaker": "Kambi",
@@ -13606,21 +13606,21 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.95
+            "odds": 1.93
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.1
+            "odds": 2.02
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.95
+            "odds": 1.85
           },
           {
             "id": 4,
@@ -13643,15 +13643,15 @@
       "matchResult": {
         "home": {
           "prob": 47,
-          "odds": 1.35
+          "odds": 1.38
         },
         "draw": {
           "prob": 26,
-          "odds": 4.8
+          "odds": 4.7
         },
         "away": {
           "prob": 26,
-          "odds": 9.5
+          "odds": 8.5
         }
       },
       "form": {
@@ -15049,8 +15049,8 @@
         "selection": "under",
         "label": "Home under 2.5 goals",
         "probability": 83,
-        "odds": 1.49,
-        "edge": 15.9,
+        "odds": 1.46,
+        "edge": 14.5,
         "hasEdge": true,
         "line": 2.5,
         "bookmaker": "Kambi",
@@ -15067,7 +15067,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.49
+            "odds": 1.46
           },
           {
             "id": 3,
@@ -15097,15 +15097,15 @@
       "matchResult": {
         "home": {
           "prob": 47,
-          "odds": 1.35
+          "odds": 1.38
         },
         "draw": {
           "prob": 26,
-          "odds": 4.8
+          "odds": 4.7
         },
         "away": {
           "prob": 26,
-          "odds": 9.5
+          "odds": 8.5
         }
       },
       "form": {
@@ -16230,6 +16230,235 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "1X",
+        "label": "Home or draw",
+        "probability": 78,
+        "odds": 2.1,
+        "edge": 30.4,
+        "hasEdge": true,
+        "line": null,
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.1
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 54,
+          "odds": 4.5
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 4
+        },
+        "away": {
+          "prob": 22,
+          "odds": 1.62
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
       "fixtureApid": 19777725,
       "slug": "27498648-pro-league-al-shabab-al-qadsiah",
       "timestamp": "2026-08-13T18:00:00.000Z",
@@ -16641,235 +16870,6 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "1X",
-        "label": "Home or draw",
-        "probability": 78,
-        "odds": 2.1,
-        "edge": 30.4,
-        "hasEdge": true,
-        "line": null,
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 2.1
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": null,
-      "matchResult": {
-        "home": {
-          "prob": 54,
-          "odds": 4.5
-        },
-        "draw": {
-          "prob": 24,
-          "odds": 4
-        },
-        "away": {
-          "prob": 22,
-          "odds": 1.62
-        }
-      },
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/double-chance",
-      "rowId": "",
       "fixtureApid": 19712017,
       "slug": "28106875-copa-sudamericana-vasco-da-gama-olimpia",
       "timestamp": "2026-08-13T22:00:00.000Z",
@@ -16913,7 +16913,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.29
+            "odds": 1.25
           },
           {
             "id": 4,
@@ -16936,11 +16936,11 @@
       "matchResult": {
         "home": {
           "prob": 43,
-          "odds": 1.77
+          "odds": 1.78
         },
         "draw": {
           "prob": 25,
-          "odds": 3.4
+          "odds": 3.5
         },
         "away": {
           "prob": 32,
@@ -18143,6 +18143,235 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
+      "fixtureApid": 19777724,
+      "slug": "27498647-pro-league-al-draih-al-ahli",
+      "timestamp": "2026-08-13T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Draih",
+      "away": "Al Ahli",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 43,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 54,
+          "odds": 4.5
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 4
+        },
+        "away": {
+          "prob": 22,
+          "odds": 1.62
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "20 May",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "29 Apr",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "20 Apr",
+            "opponent": "Vissel Kobe",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "26 Feb",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-5",
+            "corners": null,
+            "date": "13 Feb",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "9 Feb",
+            "opponent": "Al Wahda",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 2,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 6,
+            "d": 3,
+            "l": 1
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
       "fixtureApid": 19777725,
       "slug": "27498648-pro-league-al-shabab-al-qadsiah",
       "timestamp": "2026-08-13T18:00:00.000Z",
@@ -18554,235 +18783,6 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
-      "fixtureApid": 19777724,
-      "slug": "27498647-pro-league-al-draih-al-ahli",
-      "timestamp": "2026-08-13T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Draih",
-      "away": "Al Ahli",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "X",
-        "label": "Draw HT",
-        "probability": 43,
-        "odds": null,
-        "edge": null,
-        "hasEdge": false,
-        "line": null,
-        "bookmaker": "",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 54,
-          "odds": 4.5
-        },
-        "draw": {
-          "prob": 24,
-          "odds": 4
-        },
-        "away": {
-          "prob": 22,
-          "odds": 1.62
-        }
-      },
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "20 May",
-            "opponent": "Al Khaleej",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 May",
-            "opponent": "Al Taawoun",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "29 Apr",
-            "opponent": "Al Nassr",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Apr",
-            "opponent": "Vissel Kobe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Apr",
-            "opponent": "Al-Fayha",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Al-Qadsiah",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Feb",
-            "opponent": "Al Riyadh",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Damac FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-5",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "Al Shabab",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Al Wahda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 1.1,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 2,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 6,
-            "d": 3,
-            "l": 1
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/1x2-ht",
-      "rowId": "",
       "fixtureApid": 19712014,
       "slug": "27887512-copa-sudamericana-santos-macara",
       "timestamp": "2026-08-13T22:00:00.000Z",
@@ -18801,8 +18801,8 @@
         "selection": "X",
         "label": "Draw HT",
         "probability": 47,
-        "odds": 2.45,
-        "edge": 6.2,
+        "odds": 2.4,
+        "edge": 5.3,
         "hasEdge": true,
         "line": null,
         "bookmaker": "Kambi",
@@ -18819,14 +18819,14 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.45
+            "odds": 2.4
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.4
+            "odds": 2.38
           },
           {
             "id": 4,
@@ -18849,15 +18849,15 @@
       "matchResult": {
         "home": {
           "prob": 47,
-          "odds": 1.35
+          "odds": 1.38
         },
         "draw": {
           "prob": 26,
-          "odds": 4.8
+          "odds": 4.7
         },
         "away": {
           "prob": 26,
-          "odds": 9.5
+          "odds": 8.5
         }
       },
       "form": {
