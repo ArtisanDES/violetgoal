@@ -1,27 +1,27 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-13T09:37:46.049Z",
+  "generatedAt": "2026-08-13T10:53:13.795Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-13T09:37:43.617Z",
-      "bytes": 289773,
+      "fetchedAt": "2026-08-13T10:53:11.441Z",
+      "bytes": 289771,
       "rowCount": 11,
       "serverTotal": 44
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-13T09:37:43.872Z",
-      "bytes": 254912,
+      "fetchedAt": "2026-08-13T10:53:11.740Z",
+      "bytes": 254911,
       "rowCount": 6,
       "serverTotal": 7
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-13T09:37:44.126Z",
+      "fetchedAt": "2026-08-13T10:53:12.013Z",
       "bytes": 254382,
       "rowCount": 6,
       "serverTotal": 7
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-13T09:37:44.405Z",
+      "fetchedAt": "2026-08-13T10:53:12.278Z",
       "bytes": 256470,
       "rowCount": 6,
       "serverTotal": 7
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-13T09:37:44.662Z",
-      "bytes": 253057,
+      "fetchedAt": "2026-08-13T10:53:12.544Z",
+      "bytes": 253055,
       "rowCount": 6,
       "serverTotal": 6
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-13T09:37:44.926Z",
+      "fetchedAt": "2026-08-13T10:53:12.805Z",
       "bytes": 254557,
       "rowCount": 6,
       "serverTotal": 7
@@ -53,23 +53,23 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-13T09:37:45.176Z",
-      "bytes": 254279,
+      "fetchedAt": "2026-08-13T10:53:13.066Z",
+      "bytes": 254277,
       "rowCount": 6,
       "serverTotal": 7
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-13T09:37:45.366Z",
-      "bytes": 254400,
+      "fetchedAt": "2026-08-13T10:53:13.266Z",
+      "bytes": 254593,
       "rowCount": 5,
-      "serverTotal": 336
+      "serverTotal": 341
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-13T09:37:45.579Z",
+      "fetchedAt": "2026-08-13T10:53:13.476Z",
       "bytes": 624140,
       "rowCount": 57,
       "serverTotal": 57
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-13T09:37:46.049Z",
+      "fetchedAt": "2026-08-13T10:53:13.795Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -2238,8 +2238,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 95,
-        "odds": 1.11,
-        "edge": 4.9,
+        "odds": 1.1,
+        "edge": 4.1,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
@@ -2271,7 +2271,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
+            "odds": 1.1
           },
           {
             "id": 5,
@@ -2295,7 +2295,7 @@
         },
         "away": {
           "prob": 13,
-          "odds": 2.7
+          "odds": 2.8
         }
       },
       "form": {
@@ -3154,7 +3154,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2.5
+            "odds": 2.45
           },
           {
             "id": 2,
@@ -3168,21 +3168,21 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.5
+            "odds": 2.4
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 2.62
+            "odds": 2.6
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 2.57
+            "odds": 2.4
           }
         ]
       },
@@ -3199,7 +3199,7 @@
         },
         "away": {
           "prob": 13,
-          "odds": 2.7
+          "odds": 2.8
         }
       },
       "form": {
@@ -5911,8 +5911,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 95,
-        "odds": 1.11,
-        "edge": 4.9,
+        "odds": 1.1,
+        "edge": 4.1,
         "hasEdge": true,
         "line": 2.5,
         "bookmaker": "Ladbrokes",
@@ -5943,7 +5943,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
+            "odds": 1.1
           },
           {
             "id": 5,
@@ -5967,7 +5967,7 @@
         },
         "away": {
           "prob": 13,
-          "odds": 2.7
+          "odds": 2.8
         }
       },
       "form": {
@@ -6840,21 +6840,21 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.44
+            "odds": 1.4
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.5
+            "odds": 1.48
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.45
+            "odds": 1.43
           }
         ]
       },
@@ -6871,7 +6871,7 @@
         },
         "away": {
           "prob": 13,
-          "odds": 2.7
+          "odds": 2.8
         }
       },
       "form": {
@@ -7781,7 +7781,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 3.2
+            "odds": 3
           },
           {
             "id": 4,
@@ -7812,7 +7812,7 @@
         },
         "away": {
           "prob": 13,
-          "odds": 2.7
+          "odds": 2.8
         }
       },
       "form": {
@@ -8655,17 +8655,17 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19728365-total_goals-under-4.5",
-      "fixtureApid": 19728365,
-      "slug": "29351175-coppa-italia-parma-catania",
-      "timestamp": "2026-08-14T16:00:00.000Z",
+      "rowId": "19784912-total_goals-under-3.5",
+      "fixtureApid": 19784912,
+      "slug": "28260274-persian-gulf-pro-league-esteghlal-khuzestan-aluminium-arak",
+      "timestamp": "2026-08-14T17:00:00.000Z",
       "league": {
-        "id": 37,
-        "name": "Coppa Italia",
-        "country": "Italy"
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
       },
-      "home": "Parma",
-      "away": "Catania",
+      "home": "Esteghlal Khuzestan",
+      "away": "Aluminium Arak",
       "locked": true,
       "finished": false,
       "score": null,
@@ -8681,17 +8681,17 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19735490-away_goals-under-2.5",
-      "fixtureApid": 19735490,
-      "slug": "27435623-2.-bundesliga-holstein-kiel-st.-pauli",
-      "timestamp": "2026-08-14T16:30:00.000Z",
+      "rowId": "19728365-total_goals-under-4.5",
+      "fixtureApid": 19728365,
+      "slug": "29351175-coppa-italia-parma-catania",
+      "timestamp": "2026-08-14T16:00:00.000Z",
       "league": {
-        "id": 7,
-        "name": "2. Bundesliga",
-        "country": "Germany"
+        "id": 37,
+        "name": "Coppa Italia",
+        "country": "Italy"
       },
-      "home": "Holstein Kiel",
-      "away": "St. Pauli",
+      "home": "Parma",
+      "away": "Catania",
       "locked": true,
       "finished": false,
       "score": null,
