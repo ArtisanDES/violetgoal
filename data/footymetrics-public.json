@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-14T18:12:39.227Z",
+  "generatedAt": "2026-08-14T19:25:23.102Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-14T18:12:36.524Z",
-      "bytes": 596683,
+      "fetchedAt": "2026-08-14T19:25:20.265Z",
+      "bytes": 596690,
       "rowCount": 54,
-      "serverTotal": 351
+      "serverTotal": 358
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-14T18:12:36.834Z",
+      "fetchedAt": "2026-08-14T19:25:20.986Z",
       "bytes": 327326,
       "rowCount": 15,
       "serverTotal": 63
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-14T18:12:37.149Z",
+      "fetchedAt": "2026-08-14T19:25:21.273Z",
       "bytes": 326416,
       "rowCount": 15,
       "serverTotal": 63
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-14T18:12:37.474Z",
+      "fetchedAt": "2026-08-14T19:25:21.523Z",
       "bytes": 328635,
       "rowCount": 15,
       "serverTotal": 63
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-14T18:12:37.811Z",
-      "bytes": 299004,
+      "fetchedAt": "2026-08-14T19:25:21.760Z",
+      "bytes": 298994,
       "rowCount": 12,
       "serverTotal": 54
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-14T18:12:38.122Z",
+      "fetchedAt": "2026-08-14T19:25:22.248Z",
       "bytes": 327175,
       "rowCount": 15,
       "serverTotal": 63
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-14T18:12:38.420Z",
+      "fetchedAt": "2026-08-14T19:25:22.484Z",
       "bytes": 326740,
       "rowCount": 15,
       "serverTotal": 63
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-14T18:12:38.647Z",
-      "bytes": 255382,
+      "fetchedAt": "2026-08-14T19:25:22.638Z",
+      "bytes": 255429,
       "rowCount": 5,
-      "serverTotal": 909
+      "serverTotal": 917
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-14T18:12:38.877Z",
+      "fetchedAt": "2026-08-14T19:25:22.795Z",
       "bytes": 489051,
       "rowCount": 39,
       "serverTotal": 39
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-14T18:12:39.227Z",
+      "fetchedAt": "2026-08-14T19:25:23.101Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -17442,8 +17442,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 91,
-        "odds": 1.15,
-        "edge": 4,
+        "odds": 1.14,
+        "edge": 3.3,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
@@ -17461,7 +17461,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.15
+            "odds": 1.14
           },
           {
             "id": 3,
@@ -17491,7 +17491,7 @@
       "matchResult": {
         "home": {
           "prob": 43,
-          "odds": 3.85
+          "odds": 3.7
         },
         "draw": {
           "prob": 28,
@@ -17499,7 +17499,7 @@
         },
         "away": {
           "prob": 29,
-          "odds": 1.93
+          "odds": 1.96
         }
       },
       "form": {
@@ -17812,6 +17812,32 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19736840-double_chance-1X-x",
+      "fixtureApid": 19736840,
+      "slug": "27435655-liga-portugal-sporting-cp-vitoria-guimaraes",
+      "timestamp": "2026-08-14T19:15:00.000Z",
+      "league": {
+        "id": 10,
+        "name": "Liga Portugal",
+        "country": "Portugal"
+      },
+      "home": "Sporting CP",
+      "away": "Vitória Guimarães",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19728365-total_goals-under-4.5",
       "fixtureApid": 19728365,
       "slug": "29351175-coppa-italia-parma-catania",
@@ -17849,32 +17875,6 @@
       },
       "home": "Holstein Kiel",
       "away": "St. Pauli",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19716007-total_goals-over-1.5",
-      "fixtureApid": 19716007,
-      "slug": "27435637-eerste-divisie-almere-city-jong-psv",
-      "timestamp": "2026-08-14T18:00:00.000Z",
-      "league": {
-        "id": 19,
-        "name": "Eerste Divisie",
-        "country": "Netherlands"
-      },
-      "home": "Almere City",
-      "away": "Jong PSV",
       "locked": true,
       "finished": false,
       "score": null,
@@ -34055,8 +34055,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 91,
-        "odds": 1.15,
-        "edge": 4,
+        "odds": 1.14,
+        "edge": 3.3,
         "hasEdge": true,
         "line": 2.5,
         "bookmaker": "Kambi",
@@ -34073,7 +34073,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.15
+            "odds": 1.14
           },
           {
             "id": 3,
@@ -34103,7 +34103,7 @@
       "matchResult": {
         "home": {
           "prob": 43,
-          "odds": 3.85
+          "odds": 3.7
         },
         "draw": {
           "prob": 28,
@@ -34111,7 +34111,7 @@
         },
         "away": {
           "prob": 29,
-          "odds": 2
+          "odds": 1.96
         }
       },
       "form": {
@@ -34477,16 +34477,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19667226,
-      "slug": "27534988-serie-b-sao-bernardo-botafogo-sp",
-      "timestamp": "2026-08-14T22:30:00.000Z",
+      "fixtureApid": 19717642,
+      "slug": "27435646-ligue-2-nancy-montpellier",
+      "timestamp": "2026-08-14T18:45:00.000Z",
       "league": {
-        "id": 53,
-        "name": "Serie B",
-        "country": "Brazil"
+        "id": 31,
+        "name": "Ligue 2",
+        "country": "France"
       },
-      "home": "São Bernardo",
-      "away": "Botafogo SP",
+      "home": "Nancy",
+      "away": "Montpellier",
       "locked": true,
       "finished": false,
       "score": null,
@@ -43929,6 +43929,32 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
+      "rowId": "19748324-away_goals-under-2.5",
+      "fixtureApid": 19748324,
+      "slug": "27498795-enterprise-national-league-kidderminster-harriers-eastleigh",
+      "timestamp": "2026-08-15T14:00:00.000Z",
+      "league": {
+        "id": 8053,
+        "name": "Enterprise National League",
+        "country": "England"
+      },
+      "home": "Kidderminster Harriers",
+      "away": "Eastleigh",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
       "rowId": "19727779-home_goals-under-2.5",
       "fixtureApid": 19727779,
       "slug": "27498768-league-two-crawley-town-crewe-alexandra",
@@ -43966,32 +43992,6 @@
       },
       "home": "Konyaspor",
       "away": "Rizespor",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
-      "rowId": "19719029-home_goals-under-2.5",
-      "fixtureApid": 19719029,
-      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
-      "timestamp": "2026-08-15T09:00:00.000Z",
-      "league": {
-        "id": 69,
-        "name": "J1 League",
-        "country": "Japan"
-      },
-      "home": "Mito Hollyhock",
-      "away": "Gamba Osaka",
       "locked": true,
       "finished": false,
       "score": null,
