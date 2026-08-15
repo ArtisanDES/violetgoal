@@ -1,89 +1,89 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-15T10:44:50.019Z",
+  "generatedAt": "2026-08-15T11:10:29.594Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-15T10:44:47.194Z",
-      "bytes": 398671,
-      "rowCount": 26,
+      "fetchedAt": "2026-08-15T11:10:26.399Z",
+      "bytes": 425660,
+      "rowCount": 32,
       "serverTotal": 941
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-15T10:44:47.482Z",
-      "bytes": 274868,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-15T11:10:26.778Z",
+      "bytes": 279555,
+      "rowCount": 9,
       "serverTotal": 153
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-15T10:44:47.784Z",
-      "bytes": 274234,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-15T11:10:27.281Z",
+      "bytes": 278869,
+      "rowCount": 9,
       "serverTotal": 153
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-15T10:44:48.078Z",
-      "bytes": 276810,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-15T11:10:27.609Z",
+      "bytes": 281463,
+      "rowCount": 9,
       "serverTotal": 153
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-15T10:44:48.371Z",
-      "bytes": 271702,
-      "rowCount": 8,
-      "serverTotal": 145
+      "fetchedAt": "2026-08-15T11:10:27.935Z",
+      "bytes": 276185,
+      "rowCount": 9,
+      "serverTotal": 143
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-15T10:44:48.665Z",
-      "bytes": 274548,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-15T11:10:28.241Z",
+      "bytes": 279265,
+      "rowCount": 9,
       "serverTotal": 153
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-15T10:44:48.982Z",
-      "bytes": 274742,
-      "rowCount": 8,
+      "fetchedAt": "2026-08-15T11:10:28.540Z",
+      "bytes": 279425,
+      "rowCount": 9,
       "serverTotal": 153
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-15T10:44:49.189Z",
+      "fetchedAt": "2026-08-15T11:10:28.764Z",
       "bytes": 255034,
       "rowCount": 5,
-      "serverTotal": 682
+      "serverTotal": 683
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-15T10:44:49.646Z",
-      "bytes": 2722168,
+      "fetchedAt": "2026-08-15T11:10:29.241Z",
+      "bytes": 2723008,
       "rowCount": 360,
       "serverTotal": 360
     },
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-15T10:44:50.018Z",
+      "fetchedAt": "2026-08-15T11:10:29.594Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 439,
+  "count": 451,
   "errors": [],
   "rows": [
     {
@@ -7540,6 +7540,1321 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19719029-1x2-2-x",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "2",
+        "label": "Away win",
+        "probability": 52,
+        "odds": 2.88,
+        "edge": 17.3,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.88
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.55
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.7
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 2.62
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "X",
+      "matchResult": {
+        "home": {
+          "prob": 24,
+          "odds": 2.65
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 3.15
+        },
+        "away": {
+          "prob": 52,
+          "odds": 2.88
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19719029-double_chance-X2-x",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "X2",
+        "label": "Draw or away",
+        "probability": 76,
+        "odds": 1.48,
+        "edge": 8.4,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.44
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.41
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.44
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.48
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.44
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19719029-1x2_fh-2-x",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "2",
+        "label": "Away HT",
+        "probability": 38,
+        "odds": 3.5,
+        "edge": 9.4,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 3.5
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 3.15
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 3.4
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19719029-total_goals-over-1.5",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 1.5 goals",
+        "probability": 75,
+        "odds": 1.4,
+        "edge": 3.6,
+        "hasEdge": true,
+        "line": 1.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.4
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.33
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.3
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.4
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "2 goals",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19719029-away_goals-over-0.5",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "over",
+        "label": "Away to score",
+        "probability": 80,
+        "odds": 1.36,
+        "edge": 6.5,
+        "hasEdge": true,
+        "line": 0.5,
+        "marketLabel": "Away goals",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.3
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.36
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 scored",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
+      "rowId": "19719029-total_corners-over-6.5",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 85,
+        "odds": 1.18,
+        "edge": 0.3,
+        "hasEdge": true,
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.18
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "18 corners",
+      "matchResult": "$1a:props:children:1:props:children:props:rows:21:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 7,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 12,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": 6,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 23,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 7,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 8,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": 9,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 7,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": 12,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 2,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": 9.3,
+          "cf": 4.5,
+          "ca": 4.8,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": 80
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19728328-away_goals-under-2.5",
       "fixtureApid": 19728328,
       "slug": "27498775-league-one-leyton-orient-sheffield-wednesday",
@@ -7616,7 +8931,7 @@
         },
         "away": {
           "prob": 20,
-          "odds": 2.6
+          "odds": 2.55
         }
       },
       "form": {
@@ -9245,6 +10560,235 @@
             "date": "19 Mar 2022"
           }
         ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "2",
+        "label": "Away win",
+        "probability": 52,
+        "odds": 2.88,
+        "edge": 17.3,
+        "hasEdge": true,
+        "line": null,
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.88
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.55
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.7
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 2.62
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.6
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "X",
+      "matchResult": {
+        "home": {
+          "prob": 24,
+          "odds": 2.65
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 3.15
+        },
+        "away": {
+          "prob": 52,
+          "odds": 2.88
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
       }
     },
     {
@@ -10972,6 +12516,235 @@
             "date": "19 Mar 2022"
           }
         ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 51,
+        "odds": 1.95,
+        "edge": -0.3,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.95
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.77
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.8
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.91
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.83
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "BTTS Yes",
+      "matchResult": {
+        "home": {
+          "prob": 24,
+          "odds": 2.65
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 3.15
+        },
+        "away": {
+          "prob": 52,
+          "odds": 2.88
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
       }
     },
     {
@@ -12722,6 +14495,235 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 2.5 goals",
+        "probability": 52,
+        "odds": 2.3,
+        "edge": 8.5,
+        "hasEdge": true,
+        "line": 2.5,
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.3
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.02
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.1
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 2.25
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.08
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2 goals",
+      "matchResult": {
+        "home": {
+          "prob": 24,
+          "odds": 2.65
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 3.15
+        },
+        "away": {
+          "prob": 52,
+          "odds": 2.88
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
       "fixtureApid": 19784908,
       "slug": "28260425-persian-gulf-pro-league-zob-ahan-foolad",
       "timestamp": "2026-08-15T16:00:00.000Z",
@@ -14356,6 +16358,235 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "over",
+        "label": "Away to score",
+        "probability": 80,
+        "odds": 1.36,
+        "edge": 6.5,
+        "hasEdge": true,
+        "line": 0.5,
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.3
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.36
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 scored",
+      "matchResult": {
+        "home": {
+          "prob": 24,
+          "odds": 2.65
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 3.15
+        },
+        "away": {
+          "prob": 52,
+          "odds": 2.88
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/team-goals",
+      "rowId": "",
       "fixtureApid": 19728328,
       "slug": "27498775-league-one-leyton-orient-sheffield-wednesday",
       "timestamp": "2026-08-15T14:00:00.000Z",
@@ -14430,7 +16661,7 @@
         },
         "away": {
           "prob": 20,
-          "odds": 2.6
+          "odds": 2.55
         }
       },
       "form": {
@@ -16059,6 +18290,235 @@
             "date": "19 Mar 2022"
           }
         ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "X2",
+        "label": "Draw or away",
+        "probability": 76,
+        "odds": 1.48,
+        "edge": 8.4,
+        "hasEdge": true,
+        "line": null,
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.44
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.41
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.44
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.48
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.44
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 24,
+          "odds": 2.65
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 3.15
+        },
+        "away": {
+          "prob": 52,
+          "odds": 2.88
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
       }
     },
     {
@@ -17786,6 +20246,235 @@
             "date": "19 Mar 2022"
           }
         ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19719029,
+      "slug": "27498727-j1-league-mito-hollyhock-gamba-osaka",
+      "timestamp": "2026-08-15T09:00:00.000Z",
+      "league": {
+        "id": 69,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": "Mito Hollyhock",
+      "away": "Gamba Osaka",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 43,
+        "odds": 2.08,
+        "edge": -5.1,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.08
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1",
+      "matchResult": {
+        "home": {
+          "prob": 24,
+          "odds": 2.65
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 3.15
+        },
+        "away": {
+          "prob": 52,
+          "odds": 2.88
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Aug",
+            "opponent": "Gangwon",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1085.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "Al Nassr",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "15 Apr",
+            "opponent": "True Bangkok United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "11 Mar",
+            "opponent": "Ratchaburi Mitrphol FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "12 Feb",
+            "opponent": "Pohang Steelers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Nov",
+            "opponent": "Avispa Fukuoka",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "27 Nov",
+            "opponent": "Eastern",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "5 Nov",
+            "opponent": "Thép Xanh Nam Định",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "25 Oct",
+            "opponent": "Nagoya Grampus",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "5 Oct",
+            "opponent": "Kashima Antlers",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/968.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.6,
+          "ga": 0.3,
+          "cs": 70,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 7,
+            "d": 2,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0.8,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "h2h": []
       }
     },
     {
@@ -112029,7 +114718,7 @@
             "corners": null,
             "date": "26 May",
             "opponent": "Paris",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112040,7 +114729,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112051,7 +114740,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112062,7 +114751,7 @@
             "corners": null,
             "date": "8 Apr",
             "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112073,7 +114762,7 @@
             "corners": null,
             "date": "18 Mar",
             "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112084,7 +114773,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112095,7 +114784,7 @@
             "corners": null,
             "date": "18 Feb",
             "opponent": "Metz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112106,7 +114795,7 @@
             "corners": null,
             "date": "3 Feb",
             "opponent": "Niort",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112117,7 +114806,7 @@
             "corners": null,
             "date": "28 Jan",
             "opponent": "Bordeaux",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112128,7 +114817,7 @@
             "corners": null,
             "date": "13 Jan",
             "opponent": "Valenciennes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -112141,7 +114830,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Reims",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112152,7 +114841,7 @@
             "corners": null,
             "date": "24 Apr",
             "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112163,7 +114852,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112174,7 +114863,7 @@
             "corners": null,
             "date": "6 Apr",
             "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112185,7 +114874,7 @@
             "corners": null,
             "date": "13 Mar",
             "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112196,7 +114885,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112207,7 +114896,7 @@
             "corners": null,
             "date": "6 Feb",
             "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112218,7 +114907,7 @@
             "corners": null,
             "date": "30 Jan",
             "opponent": "Laval",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112229,7 +114918,7 @@
             "corners": null,
             "date": "16 Jan",
             "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112240,7 +114929,7 @@
             "corners": null,
             "date": "6 Dec",
             "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -112382,7 +115071,7 @@
             "corners": null,
             "date": "26 May",
             "opponent": "Paris",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112393,7 +115082,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112404,7 +115093,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112415,7 +115104,7 @@
             "corners": null,
             "date": "8 Apr",
             "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112426,7 +115115,7 @@
             "corners": null,
             "date": "18 Mar",
             "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112437,7 +115126,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112448,7 +115137,7 @@
             "corners": null,
             "date": "18 Feb",
             "opponent": "Metz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112459,7 +115148,7 @@
             "corners": null,
             "date": "3 Feb",
             "opponent": "Niort",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112470,7 +115159,7 @@
             "corners": null,
             "date": "28 Jan",
             "opponent": "Bordeaux",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112481,7 +115170,7 @@
             "corners": null,
             "date": "13 Jan",
             "opponent": "Valenciennes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -112494,7 +115183,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Reims",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112505,7 +115194,7 @@
             "corners": null,
             "date": "24 Apr",
             "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112516,7 +115205,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112527,7 +115216,7 @@
             "corners": null,
             "date": "6 Apr",
             "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112538,7 +115227,7 @@
             "corners": null,
             "date": "13 Mar",
             "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112549,7 +115238,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112560,7 +115249,7 @@
             "corners": null,
             "date": "6 Feb",
             "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112571,7 +115260,7 @@
             "corners": null,
             "date": "30 Jan",
             "opponent": "Laval",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112582,7 +115271,7 @@
             "corners": null,
             "date": "16 Jan",
             "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112593,7 +115282,7 @@
             "corners": null,
             "date": "6 Dec",
             "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -112735,7 +115424,7 @@
             "corners": null,
             "date": "26 May",
             "opponent": "Paris",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112746,7 +115435,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112757,7 +115446,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112768,7 +115457,7 @@
             "corners": null,
             "date": "8 Apr",
             "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112779,7 +115468,7 @@
             "corners": null,
             "date": "18 Mar",
             "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112790,7 +115479,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112801,7 +115490,7 @@
             "corners": null,
             "date": "18 Feb",
             "opponent": "Metz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112812,7 +115501,7 @@
             "corners": null,
             "date": "3 Feb",
             "opponent": "Niort",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112823,7 +115512,7 @@
             "corners": null,
             "date": "28 Jan",
             "opponent": "Bordeaux",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112834,7 +115523,7 @@
             "corners": null,
             "date": "13 Jan",
             "opponent": "Valenciennes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -112847,7 +115536,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Reims",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112858,7 +115547,7 @@
             "corners": null,
             "date": "24 Apr",
             "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112869,7 +115558,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112880,7 +115569,7 @@
             "corners": null,
             "date": "6 Apr",
             "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112891,7 +115580,7 @@
             "corners": null,
             "date": "13 Mar",
             "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112902,7 +115591,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112913,7 +115602,7 @@
             "corners": null,
             "date": "6 Feb",
             "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112924,7 +115613,7 @@
             "corners": null,
             "date": "30 Jan",
             "opponent": "Laval",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112935,7 +115624,7 @@
             "corners": null,
             "date": "16 Jan",
             "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -112946,7 +115635,7 @@
             "corners": null,
             "date": "6 Dec",
             "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -113088,7 +115777,7 @@
             "corners": null,
             "date": "26 May",
             "opponent": "Paris",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113099,7 +115788,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113110,7 +115799,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113121,7 +115810,7 @@
             "corners": null,
             "date": "8 Apr",
             "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113132,7 +115821,7 @@
             "corners": null,
             "date": "18 Mar",
             "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113143,7 +115832,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113154,7 +115843,7 @@
             "corners": null,
             "date": "18 Feb",
             "opponent": "Metz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113165,7 +115854,7 @@
             "corners": null,
             "date": "3 Feb",
             "opponent": "Niort",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113176,7 +115865,7 @@
             "corners": null,
             "date": "28 Jan",
             "opponent": "Bordeaux",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113187,7 +115876,7 @@
             "corners": null,
             "date": "13 Jan",
             "opponent": "Valenciennes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -113200,7 +115889,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Reims",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113211,7 +115900,7 @@
             "corners": null,
             "date": "24 Apr",
             "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113222,7 +115911,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113233,7 +115922,7 @@
             "corners": null,
             "date": "6 Apr",
             "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113244,7 +115933,7 @@
             "corners": null,
             "date": "13 Mar",
             "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113255,7 +115944,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113266,7 +115955,7 @@
             "corners": null,
             "date": "6 Feb",
             "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113277,7 +115966,7 @@
             "corners": null,
             "date": "30 Jan",
             "opponent": "Laval",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113288,7 +115977,7 @@
             "corners": null,
             "date": "16 Jan",
             "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113299,7 +115988,7 @@
             "corners": null,
             "date": "6 Dec",
             "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -113441,7 +116130,7 @@
             "corners": null,
             "date": "26 May",
             "opponent": "Paris",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113452,7 +116141,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113463,7 +116152,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113474,7 +116163,7 @@
             "corners": null,
             "date": "8 Apr",
             "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113485,7 +116174,7 @@
             "corners": null,
             "date": "18 Mar",
             "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113496,7 +116185,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113507,7 +116196,7 @@
             "corners": null,
             "date": "18 Feb",
             "opponent": "Metz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113518,7 +116207,7 @@
             "corners": null,
             "date": "3 Feb",
             "opponent": "Niort",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113529,7 +116218,7 @@
             "corners": null,
             "date": "28 Jan",
             "opponent": "Bordeaux",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113540,7 +116229,7 @@
             "corners": null,
             "date": "13 Jan",
             "opponent": "Valenciennes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -113553,7 +116242,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Reims",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113564,7 +116253,7 @@
             "corners": null,
             "date": "24 Apr",
             "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113575,7 +116264,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113586,7 +116275,7 @@
             "corners": null,
             "date": "6 Apr",
             "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113597,7 +116286,7 @@
             "corners": null,
             "date": "13 Mar",
             "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113608,7 +116297,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113619,7 +116308,7 @@
             "corners": null,
             "date": "6 Feb",
             "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113630,7 +116319,7 @@
             "corners": null,
             "date": "30 Jan",
             "opponent": "Laval",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113641,7 +116330,7 @@
             "corners": null,
             "date": "16 Jan",
             "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113652,7 +116341,7 @@
             "corners": null,
             "date": "6 Dec",
             "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -113794,7 +116483,7 @@
             "corners": null,
             "date": "26 May",
             "opponent": "Paris",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113805,7 +116494,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113816,7 +116505,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113827,7 +116516,7 @@
             "corners": null,
             "date": "8 Apr",
             "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113838,7 +116527,7 @@
             "corners": null,
             "date": "18 Mar",
             "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113849,7 +116538,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113860,7 +116549,7 @@
             "corners": null,
             "date": "18 Feb",
             "opponent": "Metz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113871,7 +116560,7 @@
             "corners": null,
             "date": "3 Feb",
             "opponent": "Niort",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113882,7 +116571,7 @@
             "corners": null,
             "date": "28 Jan",
             "opponent": "Bordeaux",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113893,7 +116582,7 @@
             "corners": null,
             "date": "13 Jan",
             "opponent": "Valenciennes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -113906,7 +116595,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Reims",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113917,7 +116606,7 @@
             "corners": null,
             "date": "24 Apr",
             "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113928,7 +116617,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113939,7 +116628,7 @@
             "corners": null,
             "date": "6 Apr",
             "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113950,7 +116639,7 @@
             "corners": null,
             "date": "13 Mar",
             "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113961,7 +116650,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113972,7 +116661,7 @@
             "corners": null,
             "date": "6 Feb",
             "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113983,7 +116672,7 @@
             "corners": null,
             "date": "30 Jan",
             "opponent": "Laval",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -113994,7 +116683,7 @@
             "corners": null,
             "date": "16 Jan",
             "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114005,7 +116694,7 @@
             "corners": null,
             "date": "6 Dec",
             "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -114147,7 +116836,7 @@
             "corners": 11,
             "date": "26 May",
             "opponent": "Paris",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114158,7 +116847,7 @@
             "corners": 6,
             "date": "13 May",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114169,7 +116858,7 @@
             "corners": 11,
             "date": "22 Apr",
             "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114180,7 +116869,7 @@
             "corners": 10,
             "date": "8 Apr",
             "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114191,7 +116880,7 @@
             "corners": 17,
             "date": "18 Mar",
             "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114202,7 +116891,7 @@
             "corners": 12,
             "date": "4 Mar",
             "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114213,7 +116902,7 @@
             "corners": 8,
             "date": "18 Feb",
             "opponent": "Metz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114224,7 +116913,7 @@
             "corners": 7,
             "date": "3 Feb",
             "opponent": "Niort",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114235,7 +116924,7 @@
             "corners": 3,
             "date": "28 Jan",
             "opponent": "Bordeaux",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114246,7 +116935,7 @@
             "corners": 10,
             "date": "13 Jan",
             "opponent": "Valenciennes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -114259,7 +116948,7 @@
             "corners": 7,
             "date": "9 May",
             "opponent": "Reims",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114270,7 +116959,7 @@
             "corners": 4,
             "date": "24 Apr",
             "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114281,7 +116970,7 @@
             "corners": 11,
             "date": "10 Apr",
             "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114292,7 +116981,7 @@
             "corners": 9,
             "date": "6 Apr",
             "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114303,7 +116992,7 @@
             "corners": 5,
             "date": "13 Mar",
             "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114314,7 +117003,7 @@
             "corners": 7,
             "date": "21 Feb",
             "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114325,7 +117014,7 @@
             "corners": 9,
             "date": "6 Feb",
             "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114336,7 +117025,7 @@
             "corners": 10,
             "date": "30 Jan",
             "opponent": "Laval",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114347,7 +117036,7 @@
             "corners": 8,
             "date": "16 Jan",
             "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -114358,7 +117047,7 @@
             "corners": 17,
             "date": "6 Dec",
             "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
