@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-15T08:15:54.418Z",
+  "generatedAt": "2026-08-15T08:52:07.361Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-15T08:15:51.796Z",
+      "fetchedAt": "2026-08-15T08:52:04.110Z",
       "bytes": 398644,
       "rowCount": 26,
-      "serverTotal": 939
+      "serverTotal": 941
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-15T08:15:52.082Z",
+      "fetchedAt": "2026-08-15T08:52:04.840Z",
       "bytes": 274868,
       "rowCount": 8,
       "serverTotal": 153
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-15T08:15:52.373Z",
+      "fetchedAt": "2026-08-15T08:52:05.134Z",
       "bytes": 274234,
       "rowCount": 8,
       "serverTotal": 153
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-15T08:15:52.642Z",
+      "fetchedAt": "2026-08-15T08:52:05.442Z",
       "bytes": 276810,
       "rowCount": 8,
       "serverTotal": 153
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-15T08:15:52.929Z",
+      "fetchedAt": "2026-08-15T08:52:05.759Z",
       "bytes": 271502,
       "rowCount": 8,
       "serverTotal": 140
@@ -45,7 +45,7 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-15T08:15:53.200Z",
+      "fetchedAt": "2026-08-15T08:52:06.049Z",
       "bytes": 274548,
       "rowCount": 8,
       "serverTotal": 153
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-15T08:15:53.470Z",
+      "fetchedAt": "2026-08-15T08:52:06.348Z",
       "bytes": 274728,
       "rowCount": 8,
       "serverTotal": 153
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-15T08:15:53.665Z",
-      "bytes": 254829,
+      "fetchedAt": "2026-08-15T08:52:06.555Z",
+      "bytes": 254865,
       "rowCount": 5,
       "serverTotal": 673
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-15T08:15:54.083Z",
+      "fetchedAt": "2026-08-15T08:52:07.010Z",
       "bytes": 2714878,
       "rowCount": 360,
       "serverTotal": 360
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-15T08:15:54.417Z",
+      "fetchedAt": "2026-08-15T08:52:07.361Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -18329,17 +18329,17 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19609708-away_goals-under-2.5",
-      "fixtureApid": 19609708,
-      "slug": "27571171-major-league-soccer-chicago-fire-portland-timbers",
-      "timestamp": "2026-08-16T22:00:00.000Z",
+      "rowId": "19609702-away_goals-under-2.5",
+      "fixtureApid": 19609702,
+      "slug": "27571097-major-league-soccer-los-angeles-fc-san-diego",
+      "timestamp": "2026-08-16T02:30:00.000Z",
       "league": {
         "id": 58,
         "name": "Major League Soccer",
         "country": "United States"
       },
-      "home": "Chicago",
-      "away": "Portland",
+      "home": "Los Angeles FC",
+      "away": "San Diego",
       "locked": false,
       "finished": false,
       "score": null,
@@ -18347,9 +18347,9 @@
         "market": "away_goals",
         "selection": "under",
         "label": "Away under 2.5 goals",
-        "probability": 92,
-        "odds": 1.12,
-        "edge": 2.7,
+        "probability": 93,
+        "odds": 1.1,
+        "edge": 2.1,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
@@ -18367,7 +18367,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.09
+            "odds": 1.07
           },
           {
             "id": 3,
@@ -18381,7 +18381,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.12
+            "odds": 1.1
           },
           {
             "id": 5,
@@ -18396,16 +18396,16 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 62,
-          "odds": 1.52
+          "prob": 61,
+          "odds": 1.62
         },
         "draw": {
           "prob": 21,
-          "odds": 4.75
+          "odds": 4.35
         },
         "away": {
           "prob": 18,
-          "odds": 5.75
+          "odds": 5.1
         }
       },
       "form": {
@@ -18414,53 +18414,9 @@
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "2-1",
+            "score": "4-0",
             "corners": null,
-            "date": "2 Aug",
-            "opponent": "Charlotte",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Toronto",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-3",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Cincinnati",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "5-0",
-            "corners": null,
-            "date": "26 Apr",
+            "date": "26 Jul",
             "opponent": "Sporting KC",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
@@ -18469,10 +18425,10 @@
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "1-0",
+            "score": "3-1",
             "corners": null,
-            "date": "12 Apr",
-            "opponent": "Atlanta United",
+            "date": "23 Jul",
+            "opponent": "Salt Lake",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
           },
@@ -18482,19 +18438,74 @@
             "res": "W",
             "score": "1-0",
             "corners": null,
-            "date": "5 Apr",
-            "opponent": "Nashville SC",
+            "date": "25 May",
+            "opponent": "Seattle Sounders",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-4",
+            "corners": null,
+            "date": "11 May",
+            "opponent": "Houston Dynamo",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "23 Apr",
+            "opponent": "Colorado",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
             "res": "L",
-            "score": "1-2",
+            "score": "1-4",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "San Jose",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-0",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "Orlando",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
             "corners": null,
             "date": "15 Mar",
-            "opponent": "DC United",
+            "opponent": "St. Louis City",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Dallas",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
           },
@@ -18504,31 +18515,42 @@
             "res": "W",
             "score": "3-0",
             "corners": null,
-            "date": "28 Feb",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "1 Nov",
-            "opponent": "Philadelphia",
+            "date": "22 Feb",
+            "opponent": "Inter Miami",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
           }
         ],
         "away": [
           {
-            "hit": false,
+            "hit": true,
             "pending": false,
-            "res": "W",
-            "score": "1-5",
+            "res": "D",
+            "score": "1-1",
             "corners": null,
-            "date": "17 Jul",
+            "date": "2 Aug",
+            "opponent": "Minnesota",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "23 Jul",
+            "opponent": "Colorado",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "10 May",
             "opponent": "Seattle Sounders",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
@@ -18537,10 +18559,54 @@
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "2-0",
+            "score": "1-0",
             "corners": null,
-            "date": "17 May",
-            "opponent": "Inter Miami",
+            "date": "23 Apr",
+            "opponent": "Houston Dynamo",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-2",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Salt Lake",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "San Jose",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "15 Mar",
+            "opponent": "Dallas",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Sporting KC",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
           },
@@ -18550,85 +18616,19 @@
             "res": "D",
             "score": "2-2",
             "corners": null,
-            "date": "13 May",
-            "opponent": "Montréal",
+            "date": "2 Nov",
+            "opponent": "Portland",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Salt Lake",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "W",
-            "score": "1-2",
+            "score": "0-4",
             "corners": null,
-            "date": "26 Apr",
-            "opponent": "San Diego",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Minnesota",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "15 Mar",
-            "opponent": "Houston Dynamo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Colorado",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "10 Nov",
-            "opponent": "San Diego",
+            "date": "19 Oct",
+            "opponent": "Portland",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
             "leagueLogoDark": null
           }
@@ -18637,58 +18637,84 @@
       "modelStats": {
         "home": {
           "n": 10,
-          "gf": 1.8,
-          "ga": 1.3,
-          "cs": 40,
+          "gf": 2.2,
+          "ga": 0.9,
+          "cs": 70,
           "fts": 10,
-          "ov25": 80,
-          "btts": 50,
+          "ov25": 60,
+          "btts": 30,
           "scored2": 50,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 6,
-            "d": 0,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
+            "w": 7,
+            "d": 1,
             "l": 2
           },
-          "fhFor": 0.7,
-          "fhAgainst": 0.8,
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 1.2,
+          "fhAgainst": 0.2,
           "ovLine": null
         },
         "away": {
           "n": 10,
-          "gf": 1.3,
-          "ga": 2.2,
-          "cs": 0,
-          "fts": 50,
-          "ov25": 60,
+          "gf": 1.4,
+          "ga": 1.6,
+          "cs": 20,
+          "fts": 30,
+          "ov25": 50,
           "btts": 50,
-          "scored2": 50,
+          "scored2": 40,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
             "w": 2,
-            "d": 1,
-            "l": 7
+            "d": 4,
+            "l": 4
           },
           "htRecord": {
-            "w": 3,
-            "d": 1,
-            "l": 6
+            "w": 4,
+            "d": 2,
+            "l": 4
           },
-          "fhFor": 0.6,
-          "fhAgainst": 1.2,
+          "fhFor": 0.7,
+          "fhAgainst": 1.1,
           "ovLine": null
         },
         "h2h": []
       }
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
+      "rowId": "19609708-away_goals-under-2.5",
+      "fixtureApid": 19609708,
+      "slug": "27571171-major-league-soccer-chicago-fire-portland-timbers",
+      "timestamp": "2026-08-16T22:00:00.000Z",
+      "league": {
+        "id": 58,
+        "name": "Major League Soccer",
+        "country": "United States"
+      },
+      "home": "Chicago",
+      "away": "Portland",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
     },
     {
       "sourcePath": "/predictions/tomorrow",
@@ -18755,32 +18781,6 @@
       },
       "home": "Keçiörengücü",
       "away": "Pendikspor",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
-      "rowId": "19746651-away_goals-under-2.5",
-      "fixtureApid": 19746651,
-      "slug": "27571160-super-lig-amed-sk-erzurumspor-fk",
-      "timestamp": "2026-08-16T18:30:00.000Z",
-      "league": {
-        "id": 48,
-        "name": "Super Lig",
-        "country": "Turkey"
-      },
-      "home": "Amed SK",
-      "away": "Erzurumspor FK",
       "locked": true,
       "finished": false,
       "score": null,
@@ -116905,1784 +116905,6 @@
     },
     {
       "sourcePath": "/predictions/yesterday",
-      "rowId": "19717642-1x2-2-x",
-      "fixtureApid": 19717642,
-      "slug": "27435646-ligue-2-nancy-montpellier",
-      "timestamp": "2026-08-14T18:45:00.000Z",
-      "league": {
-        "id": 31,
-        "name": "Ligue 2",
-        "country": "France"
-      },
-      "home": "Nancy",
-      "away": "Montpellier",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 39,
-        "odds": 2.63,
-        "edge": 1,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Paddy Power",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2.63
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.55
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.63
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 2.45
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 2.45
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 34,
-          "odds": 2.71
-        },
-        "draw": {
-          "prob": 27,
-          "odds": 3.3
-        },
-        "away": {
-          "prob": 39,
-          "odds": 2.63
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-2",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-5",
-            "corners": null,
-            "date": "17 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-4",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "6 Mar",
-            "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "19 Jan",
-            "opponent": "Guingamp",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Dec",
-            "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "24 Apr",
-            "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Mar",
-            "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-3",
-            "corners": null,
-            "date": "6 Mar",
-            "opponent": "Nancy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "4 Feb",
-            "opponent": "Nice",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "16 Jan",
-            "opponent": "Boulogne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.1,
-          "ga": 2.2,
-          "cs": 20,
-          "fts": 30,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 0.7,
-          "cs": 50,
-          "fts": 50,
-          "ov25": 20,
-          "btts": 20,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19717642-double_chance-12-x",
-      "fixtureApid": 19717642,
-      "slug": "27435646-ligue-2-nancy-montpellier",
-      "timestamp": "2026-08-14T18:45:00.000Z",
-      "league": {
-        "id": 31,
-        "name": "Ligue 2",
-        "country": "France"
-      },
-      "home": "Nancy",
-      "away": "Montpellier",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 73,
-        "odds": 1.33,
-        "edge": -2.2,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.33
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.27
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.3
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.33
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.33
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-2",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-5",
-            "corners": null,
-            "date": "17 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-4",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "6 Mar",
-            "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "19 Jan",
-            "opponent": "Guingamp",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Dec",
-            "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "24 Apr",
-            "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Mar",
-            "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-3",
-            "corners": null,
-            "date": "6 Mar",
-            "opponent": "Nancy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "4 Feb",
-            "opponent": "Nice",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "16 Jan",
-            "opponent": "Boulogne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.1,
-          "ga": 2.2,
-          "cs": 20,
-          "fts": 30,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 0.7,
-          "cs": 50,
-          "fts": 50,
-          "ov25": 20,
-          "btts": 20,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19717642-total_goals-under-4.5",
-      "fixtureApid": 19717642,
-      "slug": "27435646-ligue-2-nancy-montpellier",
-      "timestamp": "2026-08-14T18:45:00.000Z",
-      "league": {
-        "id": 31,
-        "name": "Ligue 2",
-        "country": "France"
-      },
-      "home": "Nancy",
-      "away": "Montpellier",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "under",
-        "label": "Under 4.5 goals",
-        "probability": 84,
-        "odds": 1.1,
-        "edge": -6.9,
-        "hasEdge": false,
-        "line": 4.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.08
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.07
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.08
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-2",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-5",
-            "corners": null,
-            "date": "17 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-4",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "6 Mar",
-            "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "19 Jan",
-            "opponent": "Guingamp",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Dec",
-            "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "24 Apr",
-            "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Mar",
-            "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-3",
-            "corners": null,
-            "date": "6 Mar",
-            "opponent": "Nancy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "4 Feb",
-            "opponent": "Nice",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "16 Jan",
-            "opponent": "Boulogne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.1,
-          "ga": 2.2,
-          "cs": 20,
-          "fts": 30,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 0.7,
-          "cs": 50,
-          "fts": 50,
-          "ov25": 20,
-          "btts": 20,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19717642-home_goals-under-2.5",
-      "fixtureApid": 19717642,
-      "slug": "27435646-ligue-2-nancy-montpellier",
-      "timestamp": "2026-08-14T18:45:00.000Z",
-      "league": {
-        "id": 31,
-        "name": "Ligue 2",
-        "country": "France"
-      },
-      "home": "Nancy",
-      "away": "Montpellier",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "home_goals",
-        "selection": "under",
-        "label": "Home under 2.5 goals",
-        "probability": 87,
-        "odds": 1.1,
-        "edge": -3.9,
-        "hasEdge": false,
-        "line": 2.5,
-        "marketLabel": "Home goals",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-2",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-5",
-            "corners": null,
-            "date": "17 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-4",
-            "corners": null,
-            "date": "13 Mar",
-            "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "6 Mar",
-            "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": null,
-            "date": "19 Jan",
-            "opponent": "Guingamp",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Dec",
-            "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "24 Apr",
-            "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "20 Mar",
-            "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-3",
-            "corners": null,
-            "date": "6 Mar",
-            "opponent": "Nancy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "20 Feb",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "4 Feb",
-            "opponent": "Nice",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "16 Jan",
-            "opponent": "Boulogne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.1,
-          "ga": 2.2,
-          "cs": 20,
-          "fts": 30,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 0.7,
-          "cs": 50,
-          "fts": 50,
-          "ov25": 20,
-          "btts": 20,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19717642-total_corners-over-6.5",
-      "fixtureApid": 19717642,
-      "slug": "27435646-ligue-2-nancy-montpellier",
-      "timestamp": "2026-08-14T18:45:00.000Z",
-      "league": {
-        "id": 31,
-        "name": "Ligue 2",
-        "country": "France"
-      },
-      "home": "Nancy",
-      "away": "Montpellier",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 6.5 corners",
-        "probability": 77,
-        "odds": 1.18,
-        "edge": -7.7,
-        "hasEdge": false,
-        "line": 6.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.18
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-2",
-            "corners": 8,
-            "date": "9 May",
-            "opponent": "Dunkerque",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-5",
-            "corners": 4,
-            "date": "17 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 6,
-            "date": "4 Apr",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-4",
-            "corners": 11,
-            "date": "13 Mar",
-            "opponent": "Le Mans",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": 10,
-            "date": "6 Mar",
-            "opponent": "Montpellier",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 15,
-            "date": "20 Feb",
-            "opponent": "Grenoble",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": 11,
-            "date": "7 Feb",
-            "opponent": "Troyes",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": 9,
-            "date": "23 Jan",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-3",
-            "corners": 2,
-            "date": "19 Jan",
-            "opponent": "Guingamp",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 11,
-            "date": "12 Dec",
-            "opponent": "Clermont",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 6,
-            "date": "9 May",
-            "opponent": "Red Star",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": 15,
-            "date": "24 Apr",
-            "opponent": "Amiens SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 8,
-            "date": "10 Apr",
-            "opponent": "Annecy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 7,
-            "date": "20 Mar",
-            "opponent": "Pau",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-3",
-            "corners": 10,
-            "date": "6 Mar",
-            "opponent": "Nancy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 12,
-            "date": "20 Feb",
-            "opponent": "Rodez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 9,
-            "date": "7 Feb",
-            "opponent": "Saint-Étienne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": 11,
-            "date": "4 Feb",
-            "opponent": "Nice",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": 7,
-            "date": "23 Jan",
-            "opponent": "Bastia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 7,
-            "date": "16 Jan",
-            "opponent": "Boulogne",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.1,
-          "ga": 2.2,
-          "cs": 20,
-          "fts": 30,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": 8.7,
-          "cf": 4.6,
-          "ca": 4.1,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": 70
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 0.7,
-          "cs": 50,
-          "fts": 50,
-          "ov25": 20,
-          "btts": 20,
-          "scored2": 40,
-          "cAvg": 9.2,
-          "cf": 4.3,
-          "ca": 4.9,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 0.1,
-          "ovLine": 90
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
       "rowId": "19717639-1x2-X-x",
       "fixtureApid": 19717639,
       "slug": "27435643-ligue-2-saint-etienne-clermont",
@@ -119117,7 +117339,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:288:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
       "form": {
         "home": [
           {
@@ -119470,7 +117692,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:288:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
       "form": {
         "home": [
           {
@@ -119823,7 +118045,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:288:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
       "form": {
         "home": [
           {
@@ -120176,7 +118398,7 @@
       },
       "settlement": "won",
       "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:288:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
       "form": {
         "home": [
           {
@@ -120529,7 +118751,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:288:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
       "form": {
         "home": [
           {
@@ -120882,7 +119104,7 @@
       },
       "settlement": "won",
       "actual": "13 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:288:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:283:matchResult",
       "form": {
         "home": [
           {
@@ -121601,7 +119823,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:295:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:290:matchResult",
       "form": {
         "home": [
           {
@@ -121954,7 +120176,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:295:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:290:matchResult",
       "form": {
         "home": [
           {
@@ -122307,7 +120529,7 @@
       },
       "settlement": "lost",
       "actual": "6 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:295:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:290:matchResult",
       "form": {
         "home": [
           {
@@ -122660,7 +120882,7 @@
       },
       "settlement": "won",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:295:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:290:matchResult",
       "form": {
         "home": [
           {
@@ -123013,7 +121235,7 @@
       },
       "settlement": "lost",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:295:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:290:matchResult",
       "form": {
         "home": [
           {
@@ -123292,6 +121514,1784 @@
           "fhFor": 0.7,
           "fhAgainst": 0.9,
           "ovLine": 10
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19717642-1x2-2-x",
+      "fixtureApid": 19717642,
+      "slug": "27435646-ligue-2-nancy-montpellier",
+      "timestamp": "2026-08-14T18:45:00.000Z",
+      "league": {
+        "id": 31,
+        "name": "Ligue 2",
+        "country": "France"
+      },
+      "home": "Nancy",
+      "away": "Montpellier",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "2",
+        "label": "Away win",
+        "probability": 39,
+        "odds": 2.63,
+        "edge": 1,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Paddy Power",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.63
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.55
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.63
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 2.45
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 2.45
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 34,
+          "odds": 2.71
+        },
+        "draw": {
+          "prob": 27,
+          "odds": 3.3
+        },
+        "away": {
+          "prob": 39,
+          "odds": 2.63
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-2",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "Dunkerque",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-5",
+            "corners": null,
+            "date": "17 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-4",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Le Mans",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "6 Mar",
+            "opponent": "Montpellier",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Grenoble",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Troyes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "23 Jan",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "19 Jan",
+            "opponent": "Guingamp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "12 Dec",
+            "opponent": "Clermont",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "Red Star",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "24 Apr",
+            "opponent": "Amiens SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Mar",
+            "opponent": "Pau",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "6 Mar",
+            "opponent": "Nancy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "4 Feb",
+            "opponent": "Nice",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "23 Jan",
+            "opponent": "Bastia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Boulogne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.1,
+          "ga": 2.2,
+          "cs": 20,
+          "fts": 30,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 2,
+            "l": 5
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 50,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19717642-double_chance-12-x",
+      "fixtureApid": 19717642,
+      "slug": "27435646-ligue-2-nancy-montpellier",
+      "timestamp": "2026-08-14T18:45:00.000Z",
+      "league": {
+        "id": 31,
+        "name": "Ligue 2",
+        "country": "France"
+      },
+      "home": "Nancy",
+      "away": "Montpellier",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 73,
+        "odds": 1.33,
+        "edge": -2.2,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.33
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.27
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.3
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.33
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.33
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1b:props:children:1:props:children:props:rows:296:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-2",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "Dunkerque",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-5",
+            "corners": null,
+            "date": "17 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-4",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Le Mans",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "6 Mar",
+            "opponent": "Montpellier",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Grenoble",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Troyes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "23 Jan",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "19 Jan",
+            "opponent": "Guingamp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "12 Dec",
+            "opponent": "Clermont",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "Red Star",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "24 Apr",
+            "opponent": "Amiens SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Mar",
+            "opponent": "Pau",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "6 Mar",
+            "opponent": "Nancy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "4 Feb",
+            "opponent": "Nice",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "23 Jan",
+            "opponent": "Bastia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Boulogne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.1,
+          "ga": 2.2,
+          "cs": 20,
+          "fts": 30,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 2,
+            "l": 5
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 50,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19717642-total_goals-under-4.5",
+      "fixtureApid": 19717642,
+      "slug": "27435646-ligue-2-nancy-montpellier",
+      "timestamp": "2026-08-14T18:45:00.000Z",
+      "league": {
+        "id": 31,
+        "name": "Ligue 2",
+        "country": "France"
+      },
+      "home": "Nancy",
+      "away": "Montpellier",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 4.5 goals",
+        "probability": 84,
+        "odds": 1.1,
+        "edge": -6.9,
+        "hasEdge": false,
+        "line": 4.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.08
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.07
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.08
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 goals",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:296:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-2",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "Dunkerque",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-5",
+            "corners": null,
+            "date": "17 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-4",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Le Mans",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "6 Mar",
+            "opponent": "Montpellier",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Grenoble",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Troyes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "23 Jan",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "19 Jan",
+            "opponent": "Guingamp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "12 Dec",
+            "opponent": "Clermont",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "Red Star",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "24 Apr",
+            "opponent": "Amiens SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Mar",
+            "opponent": "Pau",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "6 Mar",
+            "opponent": "Nancy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "4 Feb",
+            "opponent": "Nice",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "23 Jan",
+            "opponent": "Bastia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Boulogne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.1,
+          "ga": 2.2,
+          "cs": 20,
+          "fts": 30,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 2,
+            "l": 5
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 50,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19717642-home_goals-under-2.5",
+      "fixtureApid": 19717642,
+      "slug": "27435646-ligue-2-nancy-montpellier",
+      "timestamp": "2026-08-14T18:45:00.000Z",
+      "league": {
+        "id": 31,
+        "name": "Ligue 2",
+        "country": "France"
+      },
+      "home": "Nancy",
+      "away": "Montpellier",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "home_goals",
+        "selection": "under",
+        "label": "Home under 2.5 goals",
+        "probability": 87,
+        "odds": 1.1,
+        "edge": -3.9,
+        "hasEdge": false,
+        "line": 2.5,
+        "marketLabel": "Home goals",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "0 scored",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:296:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-2",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "Dunkerque",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-5",
+            "corners": null,
+            "date": "17 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-4",
+            "corners": null,
+            "date": "13 Mar",
+            "opponent": "Le Mans",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "6 Mar",
+            "opponent": "Montpellier",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Grenoble",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Troyes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": null,
+            "date": "23 Jan",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "19 Jan",
+            "opponent": "Guingamp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "12 Dec",
+            "opponent": "Clermont",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 May",
+            "opponent": "Red Star",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "24 Apr",
+            "opponent": "Amiens SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "10 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "20 Mar",
+            "opponent": "Pau",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "6 Mar",
+            "opponent": "Nancy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "20 Feb",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": null,
+            "date": "4 Feb",
+            "opponent": "Nice",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "23 Jan",
+            "opponent": "Bastia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Boulogne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.1,
+          "ga": 2.2,
+          "cs": 20,
+          "fts": 30,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 2,
+            "l": 5
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 50,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.1,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19717642-total_corners-over-6.5",
+      "fixtureApid": 19717642,
+      "slug": "27435646-ligue-2-nancy-montpellier",
+      "timestamp": "2026-08-14T18:45:00.000Z",
+      "league": {
+        "id": 31,
+        "name": "Ligue 2",
+        "country": "France"
+      },
+      "home": "Nancy",
+      "away": "Montpellier",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 77,
+        "odds": 1.18,
+        "edge": -7.7,
+        "hasEdge": false,
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.18
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "12 corners",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:296:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-2",
+            "corners": 8,
+            "date": "9 May",
+            "opponent": "Dunkerque",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-5",
+            "corners": 4,
+            "date": "17 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 6,
+            "date": "4 Apr",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-4",
+            "corners": 11,
+            "date": "13 Mar",
+            "opponent": "Le Mans",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": 10,
+            "date": "6 Mar",
+            "opponent": "Montpellier",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 15,
+            "date": "20 Feb",
+            "opponent": "Grenoble",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": 11,
+            "date": "7 Feb",
+            "opponent": "Troyes",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-3",
+            "corners": 9,
+            "date": "23 Jan",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": 2,
+            "date": "19 Jan",
+            "opponent": "Guingamp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": 11,
+            "date": "12 Dec",
+            "opponent": "Clermont",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 6,
+            "date": "9 May",
+            "opponent": "Red Star",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": 15,
+            "date": "24 Apr",
+            "opponent": "Amiens SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 8,
+            "date": "10 Apr",
+            "opponent": "Annecy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 7,
+            "date": "20 Mar",
+            "opponent": "Pau",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": 10,
+            "date": "6 Mar",
+            "opponent": "Nancy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 12,
+            "date": "20 Feb",
+            "opponent": "Rodez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 9,
+            "date": "7 Feb",
+            "opponent": "Saint-Étienne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-2",
+            "corners": 11,
+            "date": "4 Feb",
+            "opponent": "Nice",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/307.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": 7,
+            "date": "23 Jan",
+            "opponent": "Bastia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 7,
+            "date": "16 Jan",
+            "opponent": "Boulogne",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/304.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.1,
+          "ga": 2.2,
+          "cs": 20,
+          "fts": 30,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 30,
+          "cAvg": 8.7,
+          "cf": 4.6,
+          "ca": 4.1,
+          "record": {
+            "w": 3,
+            "d": 2,
+            "l": 5
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": 70
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 0.7,
+          "cs": 50,
+          "fts": 50,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 40,
+          "cAvg": 9.2,
+          "cf": 4.3,
+          "ca": 4.9,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 5,
+            "l": 1
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.1,
+          "ovLine": 90
         },
         "h2h": []
       }
