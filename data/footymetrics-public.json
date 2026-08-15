@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-15T09:16:43.931Z",
+  "generatedAt": "2026-08-15T09:47:02.661Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-15T09:16:40.906Z",
-      "bytes": 398644,
+      "fetchedAt": "2026-08-15T09:46:59.832Z",
+      "bytes": 398664,
       "rowCount": 26,
-      "serverTotal": 943
+      "serverTotal": 946
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-15T09:16:41.387Z",
+      "fetchedAt": "2026-08-15T09:47:00.118Z",
       "bytes": 274868,
       "rowCount": 8,
       "serverTotal": 153
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-15T09:16:41.841Z",
+      "fetchedAt": "2026-08-15T09:47:00.428Z",
       "bytes": 274234,
       "rowCount": 8,
       "serverTotal": 153
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-15T09:16:42.194Z",
+      "fetchedAt": "2026-08-15T09:47:00.730Z",
       "bytes": 276810,
       "rowCount": 8,
       "serverTotal": 153
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-15T09:16:42.531Z",
-      "bytes": 271502,
+      "fetchedAt": "2026-08-15T09:47:01.034Z",
+      "bytes": 271695,
       "rowCount": 8,
-      "serverTotal": 140
+      "serverTotal": 145
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-15T09:16:42.769Z",
+      "fetchedAt": "2026-08-15T09:47:01.330Z",
       "bytes": 274548,
       "rowCount": 8,
       "serverTotal": 153
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-15T09:16:42.987Z",
+      "fetchedAt": "2026-08-15T09:47:01.628Z",
       "bytes": 274742,
       "rowCount": 8,
       "serverTotal": 153
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-15T09:16:43.269Z",
-      "bytes": 254865,
+      "fetchedAt": "2026-08-15T09:47:01.836Z",
+      "bytes": 255024,
       "rowCount": 5,
-      "serverTotal": 673
+      "serverTotal": 649
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-15T09:16:43.640Z",
+      "fetchedAt": "2026-08-15T09:47:02.279Z",
       "bytes": 2714878,
       "rowCount": 360,
       "serverTotal": 360
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-15T09:16:43.930Z",
+      "fetchedAt": "2026-08-15T09:47:02.660Z",
       "bytes": 392475,
       "rowCount": 0,
       "serverTotal": 0
@@ -7559,19 +7559,19 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 95,
-        "odds": 1.13,
-        "edge": 6.5,
+        "odds": 1.17,
+        "edge": 9.5,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.17
           },
           {
             "id": 2,
@@ -7955,17 +7955,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19727779-home_goals-under-2.5",
-      "fixtureApid": 19727779,
-      "slug": "27498768-league-two-crawley-town-crewe-alexandra",
-      "timestamp": "2026-08-15T14:00:00.000Z",
+      "rowId": "19674634-away_goals-under-2.5",
+      "fixtureApid": 19674634,
+      "slug": "27498753-super-league-shanghai-shenhua-henan-songshan-longmen",
+      "timestamp": "2026-08-15T12:00:00.000Z",
       "league": {
-        "id": 13,
-        "name": "League Two",
-        "country": "England"
+        "id": 71,
+        "name": "Super League",
+        "country": "China"
       },
-      "home": "Crawley Town",
-      "away": "Crewe Alexandra",
+      "home": "Shanghai Shenhua",
+      "away": "Henan",
       "locked": true,
       "finished": false,
       "score": null,
@@ -7981,17 +7981,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19746649-away_goals-under-2.5",
-      "fixtureApid": 19746649,
-      "slug": "27498813-super-lig-konyaspor-rizespor",
-      "timestamp": "2026-08-15T16:00:00.000Z",
+      "rowId": "19727779-home_goals-under-2.5",
+      "fixtureApid": 19727779,
+      "slug": "27498768-league-two-crawley-town-crewe-alexandra",
+      "timestamp": "2026-08-15T14:00:00.000Z",
       "league": {
-        "id": 48,
-        "name": "Super Lig",
-        "country": "Turkey"
+        "id": 13,
+        "name": "League Two",
+        "country": "England"
       },
-      "home": "Konyaspor",
-      "away": "Rizespor",
+      "home": "Crawley Town",
+      "away": "Crewe Alexandra",
       "locked": true,
       "finished": false,
       "score": null,
@@ -14378,14 +14378,14 @@
         "edge": 6.5,
         "hasEdge": true,
         "line": 2.5,
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.13
           },
           {
             "id": 2,
@@ -14770,16 +14770,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19727779,
-      "slug": "27498768-league-two-crawley-town-crewe-alexandra",
-      "timestamp": "2026-08-15T14:00:00.000Z",
+      "fixtureApid": 19674634,
+      "slug": "27498753-super-league-shanghai-shenhua-henan-songshan-longmen",
+      "timestamp": "2026-08-15T12:00:00.000Z",
       "league": {
-        "id": 13,
-        "name": "League Two",
-        "country": "England"
+        "id": 71,
+        "name": "Super League",
+        "country": "China"
       },
-      "home": "Crawley Town",
-      "away": "Crewe Alexandra",
+      "home": "Shanghai Shenhua",
+      "away": "Henan",
       "locked": true,
       "finished": false,
       "score": null,
@@ -14796,16 +14796,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19746649,
-      "slug": "27498813-super-lig-konyaspor-rizespor",
-      "timestamp": "2026-08-15T16:00:00.000Z",
+      "fixtureApid": 19727779,
+      "slug": "27498768-league-two-crawley-town-crewe-alexandra",
+      "timestamp": "2026-08-15T14:00:00.000Z",
       "league": {
-        "id": 48,
-        "name": "Super Lig",
-        "country": "Turkey"
+        "id": 13,
+        "name": "League Two",
+        "country": "England"
       },
-      "home": "Konyaspor",
-      "away": "Rizespor",
+      "home": "Crawley Town",
+      "away": "Crewe Alexandra",
       "locked": true,
       "finished": false,
       "score": null,
@@ -18353,14 +18353,14 @@
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.1
           },
           {
             "id": 2,
@@ -18692,6 +18692,32 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
+      "rowId": "19729728-away_goals-under-2.5",
+      "fixtureApid": 19729728,
+      "slug": "27498717-superliga-corvinul-hunedoara-cfr-cluj",
+      "timestamp": "2026-08-16T18:30:00.000Z",
+      "league": {
+        "id": 41,
+        "name": "Superliga",
+        "country": "Romania"
+      },
+      "home": "Corvinul Hunedoara",
+      "away": "CFR Cluj",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
       "rowId": "19609708-away_goals-under-2.5",
       "fixtureApid": 19609708,
       "slug": "27571171-major-league-soccer-chicago-fire-portland-timbers",
@@ -18755,32 +18781,6 @@
       },
       "home": "GAIS",
       "away": "Malmö FF",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
-      "rowId": "19748723-away_goals-under-2.5",
-      "fixtureApid": 19748723,
-      "slug": "27571091-1.-lig-keciorengucu-pendikspor",
-      "timestamp": "2026-08-16T16:00:00.000Z",
-      "league": {
-        "id": 49,
-        "name": "1. Lig",
-        "country": "Turkey"
-      },
-      "home": "Keçiörengücü",
-      "away": "Pendikspor",
       "locked": true,
       "finished": false,
       "score": null,
