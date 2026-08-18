@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-18T07:12:53.555Z",
+  "generatedAt": "2026-08-18T08:00:06.225Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-18T07:12:51.289Z",
+      "fetchedAt": "2026-08-18T08:00:03.084Z",
       "bytes": 427614,
       "rowCount": 31,
       "serverTotal": 79
@@ -13,7 +13,7 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-18T07:12:51.553Z",
+      "fetchedAt": "2026-08-18T08:00:03.371Z",
       "bytes": 283798,
       "rowCount": 10,
       "serverTotal": 18
@@ -21,15 +21,15 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-18T07:12:51.825Z",
-      "bytes": 282662,
+      "fetchedAt": "2026-08-18T08:00:04.063Z",
+      "bytes": 282696,
       "rowCount": 10,
       "serverTotal": 18
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-18T07:12:52.076Z",
+      "fetchedAt": "2026-08-18T08:00:04.410Z",
       "bytes": 284812,
       "rowCount": 10,
       "serverTotal": 18
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-18T07:12:52.335Z",
+      "fetchedAt": "2026-08-18T08:00:04.699Z",
       "bytes": 274421,
       "rowCount": 9,
       "serverTotal": 12
@@ -45,7 +45,7 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-18T07:12:52.589Z",
+      "fetchedAt": "2026-08-18T08:00:04.978Z",
       "bytes": 283549,
       "rowCount": 10,
       "serverTotal": 18
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-18T07:12:52.835Z",
+      "fetchedAt": "2026-08-18T08:00:05.257Z",
       "bytes": 282867,
       "rowCount": 10,
       "serverTotal": 18
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-18T07:12:53.013Z",
-      "bytes": 251082,
+      "fetchedAt": "2026-08-18T08:00:05.465Z",
+      "bytes": 250993,
       "rowCount": 5,
       "serverTotal": 76
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-18T07:12:53.251Z",
+      "fetchedAt": "2026-08-18T08:00:05.881Z",
       "bytes": 1915912,
       "rowCount": 248,
       "serverTotal": 248
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-18T07:12:53.554Z",
+      "fetchedAt": "2026-08-18T08:00:06.225Z",
       "bytes": 392501,
       "rowCount": 0,
       "serverTotal": 0
@@ -9342,14 +9342,14 @@
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
-        "bookmaker": "Bet365",
+        "bookmaker": "Kambi",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.1
+            "odds": null
           },
           {
             "id": 2,
@@ -9386,7 +9386,7 @@
       "matchResult": {
         "home": {
           "prob": 37,
-          "odds": 3
+          "odds": 2.9
         },
         "draw": {
           "prob": 31,
@@ -9681,6 +9681,32 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19784905-away_goals-under-2.5",
+      "fixtureApid": 19784905,
+      "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
+      "timestamp": "2026-08-18T15:45:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Nassaji Mazandaran",
+      "away": "Esteghlal",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19712054-away_goals-under-2.5",
       "fixtureApid": 19712054,
       "slug": "27571074-kings-cup-al-jabalain-al-ettifaq",
@@ -9707,36 +9733,10 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19784905-away_goals-under-2.5",
-      "fixtureApid": 19784905,
-      "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
-      "timestamp": "2026-08-18T16:15:00.000Z",
-      "league": {
-        "id": 513,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran"
-      },
-      "home": "Nassaji Mazandaran",
-      "away": "Esteghlal",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions",
       "rowId": "19712050-double_chance-X2-x",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
-      "timestamp": "2026-08-18T16:05:00.000Z",
+      "timestamp": "2026-08-18T16:15:00.000Z",
       "league": {
         "id": 67,
         "name": "Kings Cup",
@@ -9762,7 +9762,7 @@
       "rowId": "19712050-away_goals-over-0.5",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
-      "timestamp": "2026-08-18T16:05:00.000Z",
+      "timestamp": "2026-08-18T16:15:00.000Z",
       "league": {
         "id": 67,
         "name": "Kings Cup",
@@ -11712,7 +11712,7 @@
       "rowId": "",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
-      "timestamp": "2026-08-18T16:05:00.000Z",
+      "timestamp": "2026-08-18T16:15:00.000Z",
       "league": {
         "id": 67,
         "name": "Kings Cup",
@@ -14157,7 +14157,7 @@
       "rowId": "",
       "fixtureApid": 19784904,
       "slug": "28260625-persian-gulf-pro-league-aluminium-arak-chadormalu-sc",
-      "timestamp": "2026-08-18T16:30:00.000Z",
+      "timestamp": "2026-08-18T16:00:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -14547,7 +14547,7 @@
       "rowId": "",
       "fixtureApid": 19784906,
       "slug": "28260624-persian-gulf-pro-league-paykan-gol-gohar",
-      "timestamp": "2026-08-18T16:15:00.000Z",
+      "timestamp": "2026-08-18T15:45:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -14623,16 +14623,16 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19712058,
-      "slug": "27571078-kings-cup-al-najma-al-ittihad",
-      "timestamp": "2026-08-18T16:15:00.000Z",
+      "fixtureApid": 19784905,
+      "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
+      "timestamp": "2026-08-18T15:45:00.000Z",
       "league": {
-        "id": 67,
-        "name": "Kings Cup",
-        "country": "Saudi Arabia"
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
       },
-      "home": "Al Najma",
-      "away": "Al Ittihad",
+      "home": "Nassaji Mazandaran",
+      "away": "Esteghlal",
       "locked": true,
       "finished": false,
       "score": null,
@@ -16575,7 +16575,7 @@
       "rowId": "",
       "fixtureApid": 19784904,
       "slug": "28260625-persian-gulf-pro-league-aluminium-arak-chadormalu-sc",
-      "timestamp": "2026-08-18T16:30:00.000Z",
+      "timestamp": "2026-08-18T16:00:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -16965,7 +16965,7 @@
       "rowId": "",
       "fixtureApid": 19784906,
       "slug": "28260624-persian-gulf-pro-league-paykan-gol-gohar",
-      "timestamp": "2026-08-18T16:15:00.000Z",
+      "timestamp": "2026-08-18T15:45:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -16991,7 +16991,7 @@
       "rowId": "",
       "fixtureApid": 19784905,
       "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
-      "timestamp": "2026-08-18T16:15:00.000Z",
+      "timestamp": "2026-08-18T15:45:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -17017,7 +17017,7 @@
       "rowId": "",
       "fixtureApid": 19784903,
       "slug": "28260626-persian-gulf-pro-league-sepahan-tractor-sazi",
-      "timestamp": "2026-08-18T17:00:00.000Z",
+      "timestamp": "2026-08-18T16:30:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -18549,14 +18549,14 @@
         "edge": 0.1,
         "hasEdge": true,
         "line": 2.5,
-        "bookmaker": "Bet365",
+        "bookmaker": "Kambi",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.1
+            "odds": null
           },
           {
             "id": 2,
@@ -18593,7 +18593,7 @@
       "matchResult": {
         "home": {
           "prob": 37,
-          "odds": 3
+          "odds": 2.9
         },
         "draw": {
           "prob": 31,
@@ -18889,6 +18889,32 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
+      "fixtureApid": 19784905,
+      "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
+      "timestamp": "2026-08-18T15:45:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Nassaji Mazandaran",
+      "away": "Esteghlal",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/team-goals",
+      "rowId": "",
       "fixtureApid": 19712054,
       "slug": "27571074-kings-cup-al-jabalain-al-ettifaq",
       "timestamp": "2026-08-18T16:15:00.000Z",
@@ -18915,35 +18941,9 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19784905,
-      "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
-      "timestamp": "2026-08-18T16:15:00.000Z",
-      "league": {
-        "id": 513,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran"
-      },
-      "home": "Nassaji Mazandaran",
-      "away": "Esteghlal",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/team-goals",
-      "rowId": "",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
-      "timestamp": "2026-08-18T16:05:00.000Z",
+      "timestamp": "2026-08-18T16:15:00.000Z",
       "league": {
         "id": 67,
         "name": "Kings Cup",
@@ -20919,7 +20919,7 @@
       "rowId": "",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
-      "timestamp": "2026-08-18T16:05:00.000Z",
+      "timestamp": "2026-08-18T16:15:00.000Z",
       "league": {
         "id": 67,
         "name": "Kings Cup",
@@ -21414,7 +21414,7 @@
       "rowId": "",
       "fixtureApid": 19784904,
       "slug": "28260625-persian-gulf-pro-league-aluminium-arak-chadormalu-sc",
-      "timestamp": "2026-08-18T16:30:00.000Z",
+      "timestamp": "2026-08-18T16:00:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -23364,7 +23364,7 @@
       "rowId": "",
       "fixtureApid": 19784904,
       "slug": "28260625-persian-gulf-pro-league-aluminium-arak-chadormalu-sc",
-      "timestamp": "2026-08-18T16:30:00.000Z",
+      "timestamp": "2026-08-18T16:00:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -23752,35 +23752,9 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
-      "fixtureApid": 19784906,
-      "slug": "28260624-persian-gulf-pro-league-paykan-gol-gohar",
-      "timestamp": "2026-08-18T16:15:00.000Z",
-      "league": {
-        "id": 513,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran"
-      },
-      "home": "Paykan",
-      "away": "Gol Gohar",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/1x2-ht",
-      "rowId": "",
       "fixtureApid": 19784905,
       "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
-      "timestamp": "2026-08-18T16:15:00.000Z",
+      "timestamp": "2026-08-18T15:45:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -23804,9 +23778,35 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
+      "fixtureApid": 19784906,
+      "slug": "28260624-persian-gulf-pro-league-paykan-gol-gohar",
+      "timestamp": "2026-08-18T15:45:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Paykan",
+      "away": "Gol Gohar",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
       "fixtureApid": 19784903,
       "slug": "28260626-persian-gulf-pro-league-sepahan-tractor-sazi",
-      "timestamp": "2026-08-18T17:00:00.000Z",
+      "timestamp": "2026-08-18T16:30:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
@@ -24244,32 +24244,6 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19712156-away_goals-under-2.5",
-      "fixtureApid": 19712156,
-      "slug": "27315721-copa-libertadores-deportes-tolima-independiente-del-valle",
-      "timestamp": "2026-08-19T00:30:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Deportes Tolima",
-      "away": "Independiente del Valle",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
       "rowId": "19712150-home_goals-under-2.5",
       "fixtureApid": 19712150,
       "slug": "27834045-copa-libertadores-coquimbo-unido-platense",
@@ -24307,6 +24281,32 @@
       },
       "home": "Náutico",
       "away": "Ceará",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
+      "rowId": "19667212-total_corners-over-6.5",
+      "fixtureApid": 19667212,
+      "slug": "27834039-serie-b-goias-juventude",
+      "timestamp": "2026-08-19T00:35:00.000Z",
+      "league": {
+        "id": 53,
+        "name": "Serie B",
+        "country": "Brazil"
+      },
+      "home": "Goiás",
+      "away": "Juventude",
       "locked": true,
       "finished": false,
       "score": null,
