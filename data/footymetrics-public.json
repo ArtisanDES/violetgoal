@@ -1,27 +1,27 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-18T04:04:04.836Z",
+  "generatedAt": "2026-08-18T04:59:45.685Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-18T04:04:01.888Z",
-      "bytes": 386629,
+      "fetchedAt": "2026-08-18T04:59:42.815Z",
+      "bytes": 386650,
       "rowCount": 25,
-      "serverTotal": 73
+      "serverTotal": 78
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-18T04:04:02.232Z",
-      "bytes": 275963,
+      "fetchedAt": "2026-08-18T04:59:43.129Z",
+      "bytes": 275965,
       "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-18T04:04:02.679Z",
+      "fetchedAt": "2026-08-18T04:59:43.482Z",
       "bytes": 274904,
       "rowCount": 9,
       "serverTotal": 18
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-18T04:04:02.966Z",
+      "fetchedAt": "2026-08-18T04:59:43.773Z",
       "bytes": 277027,
       "rowCount": 9,
       "serverTotal": 18
@@ -37,23 +37,23 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-18T04:04:03.261Z",
-      "bytes": 267437,
+      "fetchedAt": "2026-08-18T04:59:44.061Z",
+      "bytes": 267621,
       "rowCount": 8,
-      "serverTotal": 11
+      "serverTotal": 12
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-18T04:04:03.557Z",
-      "bytes": 275655,
+      "fetchedAt": "2026-08-18T04:59:44.362Z",
+      "bytes": 275654,
       "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-18T04:04:03.842Z",
+      "fetchedAt": "2026-08-18T04:59:44.663Z",
       "bytes": 275044,
       "rowCount": 9,
       "serverTotal": 18
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-18T04:04:04.059Z",
+      "fetchedAt": "2026-08-18T04:59:44.887Z",
       "bytes": 251082,
       "rowCount": 5,
       "serverTotal": 78
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-18T04:04:04.490Z",
+      "fetchedAt": "2026-08-18T04:59:45.336Z",
       "bytes": 1915912,
       "rowCount": 248,
       "serverTotal": 248
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-18T04:04:04.836Z",
+      "fetchedAt": "2026-08-18T04:59:45.684Z",
       "bytes": 392501,
       "rowCount": 0,
       "serverTotal": 0
@@ -7239,7 +7239,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.1
+            "odds": 1.09
           },
           {
             "id": 5,
@@ -7576,6 +7576,32 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19784905-away_goals-under-2.5",
+      "fixtureApid": 19784905,
+      "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
+      "timestamp": "2026-08-18T16:15:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Nassaji Mazandaran",
+      "away": "Esteghlal",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19712050-double_chance-X2-x",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
@@ -7613,32 +7639,6 @@
       },
       "home": "Al Okhdoud",
       "away": "Al Khaleej",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19674678-away_goals-under-2.5",
-      "fixtureApid": 19674678,
-      "slug": "26410376-super-league-shanghai-shenhua-beijing-guoan",
-      "timestamp": "2026-08-18T11:35:00.000Z",
-      "league": {
-        "id": 71,
-        "name": "Super League",
-        "country": "China"
-      },
-      "home": "Shanghai Shenhua",
-      "away": "Beijing Guoan",
       "locked": true,
       "finished": false,
       "score": null,
@@ -9198,7 +9198,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.54
+            "odds": 1.56
           }
         ]
       },
@@ -9211,7 +9211,7 @@
         },
         "draw": {
           "prob": 18,
-          "odds": 4.2
+          "odds": 4.25
         },
         "away": {
           "prob": 69,
@@ -14767,7 +14767,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.1
+            "odds": 1.09
           },
           {
             "id": 5,
@@ -15105,6 +15105,32 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
+      "fixtureApid": 19784905,
+      "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
+      "timestamp": "2026-08-18T16:15:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Nassaji Mazandaran",
+      "away": "Esteghlal",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/team-goals",
+      "rowId": "",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
       "timestamp": "2026-08-18T16:05:00.000Z",
@@ -15141,32 +15167,6 @@
       },
       "home": "Shanghai Shenhua",
       "away": "Beijing Guoan",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/team-goals",
-      "rowId": "",
-      "fixtureApid": 19712012,
-      "slug": "28226456-copa-sudamericana-deportivo-recoleta-boca-juniors",
-      "timestamp": "2026-08-18T22:00:00.000Z",
-      "league": {
-        "id": 8107,
-        "name": "Copa Sudamericana",
-        "country": "South America"
-      },
-      "home": "Deportivo Recoleta",
-      "away": "Boca Juniors",
       "locked": true,
       "finished": false,
       "score": null,
@@ -16687,8 +16687,8 @@
         "selection": "X2",
         "label": "Draw or away",
         "probability": 87,
-        "odds": 1.17,
-        "edge": 1.5,
+        "odds": 1.2,
+        "edge": 3.7,
         "hasEdge": true,
         "line": null,
         "bookmaker": "Altenar",
@@ -16726,7 +16726,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.17
+            "odds": 1.2
           }
         ]
       },
@@ -16739,7 +16739,7 @@
         },
         "draw": {
           "prob": 18,
-          "odds": 4.2
+          "odds": 4.25
         },
         "away": {
           "prob": 69,
