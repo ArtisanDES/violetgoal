@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-18T10:17:47.359Z",
+  "generatedAt": "2026-08-18T10:53:16.317Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-18T10:17:44.737Z",
-      "bytes": 427611,
+      "fetchedAt": "2026-08-18T10:53:13.229Z",
+      "bytes": 427616,
       "rowCount": 31,
-      "serverTotal": 79
+      "serverTotal": 78
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-18T10:17:45.006Z",
+      "fetchedAt": "2026-08-18T10:53:13.541Z",
       "bytes": 278238,
       "rowCount": 9,
       "serverTotal": 18
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-18T10:17:45.277Z",
+      "fetchedAt": "2026-08-18T10:53:13.831Z",
       "bytes": 277170,
       "rowCount": 9,
       "serverTotal": 18
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-18T10:17:45.628Z",
+      "fetchedAt": "2026-08-18T10:53:14.270Z",
       "bytes": 279292,
       "rowCount": 9,
       "serverTotal": 18
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-18T10:17:45.896Z",
+      "fetchedAt": "2026-08-18T10:53:14.819Z",
       "bytes": 274423,
       "rowCount": 9,
       "serverTotal": 12
@@ -45,15 +45,15 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-18T10:17:46.162Z",
-      "bytes": 277943,
+      "fetchedAt": "2026-08-18T10:53:15.124Z",
+      "bytes": 277944,
       "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-18T10:17:46.423Z",
+      "fetchedAt": "2026-08-18T10:53:15.420Z",
       "bytes": 277310,
       "rowCount": 9,
       "serverTotal": 18
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-18T10:17:46.618Z",
+      "fetchedAt": "2026-08-18T10:53:15.647Z",
       "bytes": 251287,
       "rowCount": 5,
-      "serverTotal": 94
+      "serverTotal": 93
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-18T10:17:47.027Z",
+      "fetchedAt": "2026-08-18T10:53:15.933Z",
       "bytes": 1915912,
       "rowCount": 248,
       "serverTotal": 248
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-18T10:17:47.359Z",
+      "fetchedAt": "2026-08-18T10:53:16.317Z",
       "bytes": 392501,
       "rowCount": 0,
       "serverTotal": 0
@@ -9342,14 +9342,14 @@
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
-        "bookmaker": "Kambi",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.1
           },
           {
             "id": 2,
@@ -9733,17 +9733,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19712012-total_goals-under-4.5",
-      "fixtureApid": 19712012,
-      "slug": "28226456-copa-sudamericana-deportivo-recoleta-boca-juniors",
-      "timestamp": "2026-08-18T22:00:00.000Z",
+      "rowId": "19712050-double_chance-X2-x",
+      "fixtureApid": 19712050,
+      "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
+      "timestamp": "2026-08-18T16:15:00.000Z",
       "league": {
-        "id": 8107,
-        "name": "Copa Sudamericana",
-        "country": "South America"
+        "id": 67,
+        "name": "Kings Cup",
+        "country": "Saudi Arabia"
       },
-      "home": "Deportivo Recoleta",
-      "away": "Boca Juniors",
+      "home": "Al Okhdoud",
+      "away": "Al Khaleej",
       "locked": true,
       "finished": false,
       "score": null,
@@ -9759,7 +9759,7 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19712050-double_chance-X2-x",
+      "rowId": "19712050-away_goals-over-0.5",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
       "timestamp": "2026-08-18T16:15:00.000Z",
@@ -19768,7 +19768,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.11
+            "odds": 1.13
           },
           {
             "id": 4,
