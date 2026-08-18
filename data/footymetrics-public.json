@@ -1,27 +1,27 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-18T09:21:58.280Z",
+  "generatedAt": "2026-08-18T09:55:21.577Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-18T09:21:52.710Z",
-      "bytes": 427614,
+      "fetchedAt": "2026-08-18T09:55:18.577Z",
+      "bytes": 427611,
       "rowCount": 31,
-      "serverTotal": 80
+      "serverTotal": 79
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-18T09:21:53.229Z",
-      "bytes": 283798,
+      "fetchedAt": "2026-08-18T09:55:19.146Z",
+      "bytes": 283797,
       "rowCount": 10,
       "serverTotal": 18
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-18T09:21:54.129Z",
+      "fetchedAt": "2026-08-18T09:55:19.411Z",
       "bytes": 282696,
       "rowCount": 10,
       "serverTotal": 18
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-18T09:21:54.815Z",
+      "fetchedAt": "2026-08-18T09:55:19.670Z",
       "bytes": 284812,
       "rowCount": 10,
       "serverTotal": 18
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-18T09:21:55.315Z",
+      "fetchedAt": "2026-08-18T09:55:20.336Z",
       "bytes": 274421,
       "rowCount": 9,
       "serverTotal": 12
@@ -45,7 +45,7 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-18T09:21:55.958Z",
+      "fetchedAt": "2026-08-18T09:55:20.592Z",
       "bytes": 283549,
       "rowCount": 10,
       "serverTotal": 18
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-18T09:21:56.771Z",
+      "fetchedAt": "2026-08-18T09:55:20.841Z",
       "bytes": 282867,
       "rowCount": 10,
       "serverTotal": 18
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-18T09:21:56.938Z",
-      "bytes": 251286,
+      "fetchedAt": "2026-08-18T09:55:21.020Z",
+      "bytes": 251287,
       "rowCount": 5,
-      "serverTotal": 90
+      "serverTotal": 94
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-18T09:21:57.252Z",
+      "fetchedAt": "2026-08-18T09:55:21.266Z",
       "bytes": 1915912,
       "rowCount": 248,
       "serverTotal": 248
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-18T09:21:58.280Z",
+      "fetchedAt": "2026-08-18T09:55:21.577Z",
       "bytes": 392501,
       "rowCount": 0,
       "serverTotal": 0
@@ -9733,17 +9733,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19712050-double_chance-X2-x",
-      "fixtureApid": 19712050,
-      "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
-      "timestamp": "2026-08-18T16:15:00.000Z",
+      "rowId": "19712012-total_goals-under-4.5",
+      "fixtureApid": 19712012,
+      "slug": "28226456-copa-sudamericana-deportivo-recoleta-boca-juniors",
+      "timestamp": "2026-08-18T22:00:00.000Z",
       "league": {
-        "id": 67,
-        "name": "Kings Cup",
-        "country": "Saudi Arabia"
+        "id": 8107,
+        "name": "Copa Sudamericana",
+        "country": "South America"
       },
-      "home": "Al Okhdoud",
-      "away": "Al Khaleej",
+      "home": "Deportivo Recoleta",
+      "away": "Boca Juniors",
       "locked": true,
       "finished": false,
       "score": null,
@@ -9759,7 +9759,7 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19712050-away_goals-over-0.5",
+      "rowId": "19712050-double_chance-X2-x",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
       "timestamp": "2026-08-18T16:15:00.000Z",
@@ -11739,7 +11739,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.53
+            "odds": 1.5
           },
           {
             "id": 2,
