@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-18T09:55:21.577Z",
+  "generatedAt": "2026-08-18T10:17:47.359Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-18T09:55:18.577Z",
+      "fetchedAt": "2026-08-18T10:17:44.737Z",
       "bytes": 427611,
       "rowCount": 31,
       "serverTotal": 79
@@ -13,55 +13,55 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-18T09:55:19.146Z",
-      "bytes": 283797,
-      "rowCount": 10,
+      "fetchedAt": "2026-08-18T10:17:45.006Z",
+      "bytes": 278238,
+      "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-18T09:55:19.411Z",
-      "bytes": 282696,
-      "rowCount": 10,
+      "fetchedAt": "2026-08-18T10:17:45.277Z",
+      "bytes": 277170,
+      "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-18T09:55:19.670Z",
-      "bytes": 284812,
-      "rowCount": 10,
+      "fetchedAt": "2026-08-18T10:17:45.628Z",
+      "bytes": 279292,
+      "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-18T09:55:20.336Z",
-      "bytes": 274421,
+      "fetchedAt": "2026-08-18T10:17:45.896Z",
+      "bytes": 274423,
       "rowCount": 9,
       "serverTotal": 12
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-18T09:55:20.592Z",
-      "bytes": 283549,
-      "rowCount": 10,
+      "fetchedAt": "2026-08-18T10:17:46.162Z",
+      "bytes": 277943,
+      "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-18T09:55:20.841Z",
-      "bytes": 282867,
-      "rowCount": 10,
+      "fetchedAt": "2026-08-18T10:17:46.423Z",
+      "bytes": 277310,
+      "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-18T09:55:21.020Z",
+      "fetchedAt": "2026-08-18T10:17:46.618Z",
       "bytes": 251287,
       "rowCount": 5,
       "serverTotal": 94
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-18T09:55:21.266Z",
+      "fetchedAt": "2026-08-18T10:17:47.027Z",
       "bytes": 1915912,
       "rowCount": 248,
       "serverTotal": 248
@@ -77,13 +77,13 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-18T09:55:21.577Z",
+      "fetchedAt": "2026-08-18T10:17:47.359Z",
       "bytes": 392501,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 343,
+  "count": 338,
   "errors": [],
   "rows": [
     {
@@ -11412,304 +11412,6 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19806621,
-      "slug": "29514858-fa-cup-broadfields-united-herne-bay",
-      "timestamp": "2026-08-18T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Broadfields United",
-      "away": "Herne Bay",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 6
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 46,
-        "odds": null,
-        "edge": null,
-        "hasEdge": false,
-        "line": null,
-        "bookmaker": "",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 34,
-          "odds": null
-        },
-        "draw": {
-          "prob": 21,
-          "odds": null
-        },
-        "away": {
-          "prob": 46,
-          "odds": null
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "5 Aug",
-            "opponent": "Snodland Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "6 Aug",
-            "opponent": "Guildford City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Sept",
-            "opponent": "Hastings United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "South Park",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Reading City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "7 Aug",
-            "opponent": "Cribbs",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Hollands & Blair",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Aug",
-            "opponent": "Ashford Town (Middlesex)",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Rayners Lane",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Sept",
-            "opponent": "Redhill",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "19 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "1 Oct",
-            "opponent": "Hendon",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 6,
-          "gf": 1.5,
-          "ga": 2,
-          "cs": 17,
-          "fts": 33,
-          "ov25": 83,
-          "btts": 67,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.17,
-          "fhAgainst": 0,
-          "ovLine": null
-        },
-        "away": {
-          "n": 7,
-          "gf": 1.14,
-          "ga": 1.43,
-          "cs": 14,
-          "fts": 29,
-          "ov25": 43,
-          "btts": 57,
-          "scored2": 43,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 0.57,
-          "fhAgainst": 0.29,
-          "ovLine": null
-        },
-        "h2h": [
-          {
-            "hit": false,
-            "pending": false,
-            "hg": 2,
-            "ag": 2,
-            "hc": null,
-            "ac": null,
-            "date": "8 Aug 2026"
-          }
-        ]
-      }
-    },
-    {
-      "sourcePath": "/predictions/1x2",
-      "rowId": "",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
       "timestamp": "2026-08-18T16:15:00.000Z",
@@ -13857,304 +13559,6 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19806621,
-      "slug": "29514858-fa-cup-broadfields-united-herne-bay",
-      "timestamp": "2026-08-18T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Broadfields United",
-      "away": "Herne Bay",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 6
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 61,
-        "odds": null,
-        "edge": null,
-        "hasEdge": false,
-        "line": null,
-        "bookmaker": "",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "BTTS Yes",
-      "matchResult": {
-        "home": {
-          "prob": 34,
-          "odds": null
-        },
-        "draw": {
-          "prob": 21,
-          "odds": null
-        },
-        "away": {
-          "prob": 46,
-          "odds": null
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "5 Aug",
-            "opponent": "Snodland Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "6 Aug",
-            "opponent": "Guildford City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Sept",
-            "opponent": "Hastings United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "South Park",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Reading City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "7 Aug",
-            "opponent": "Cribbs",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Hollands & Blair",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Aug",
-            "opponent": "Ashford Town (Middlesex)",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Rayners Lane",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Sept",
-            "opponent": "Redhill",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "19 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "1 Oct",
-            "opponent": "Hendon",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 6,
-          "gf": 1.5,
-          "ga": 2,
-          "cs": 17,
-          "fts": 33,
-          "ov25": 83,
-          "btts": 67,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.17,
-          "fhAgainst": 0,
-          "ovLine": null
-        },
-        "away": {
-          "n": 7,
-          "gf": 1.14,
-          "ga": 1.43,
-          "cs": 14,
-          "fts": 29,
-          "ov25": 43,
-          "btts": 57,
-          "scored2": 43,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 0.57,
-          "fhAgainst": 0.29,
-          "ovLine": null
-        },
-        "h2h": [
-          {
-            "hit": true,
-            "pending": false,
-            "hg": 2,
-            "ag": 2,
-            "hc": null,
-            "ac": null,
-            "date": "8 Aug 2026"
-          }
-        ]
-      }
-    },
-    {
-      "sourcePath": "/predictions/btts",
-      "rowId": "",
       "fixtureApid": 19784904,
       "slug": "28260625-persian-gulf-pro-league-aluminium-arak-chadormalu-sc",
       "timestamp": "2026-08-18T16:00:00.000Z",
@@ -14597,16 +14001,16 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19674678,
-      "slug": "26410376-super-league-shanghai-shenhua-beijing-guoan",
-      "timestamp": "2026-08-18T11:35:00.000Z",
+      "fixtureApid": 19806621,
+      "slug": "29514858-fa-cup-broadfields-united-herne-bay",
+      "timestamp": "2026-08-18T18:45:00.000Z",
       "league": {
-        "id": 71,
-        "name": "Super League",
-        "country": "China"
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
       },
-      "home": "Shanghai Shenhua",
-      "away": "Beijing Guoan",
+      "home": "Broadfields United",
+      "away": "Herne Bay",
       "locked": true,
       "finished": false,
       "score": null,
@@ -14623,16 +14027,16 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19784905,
-      "slug": "28260623-persian-gulf-pro-league-nassaji-mazandaran-esteghlal",
-      "timestamp": "2026-08-18T15:45:00.000Z",
+      "fixtureApid": 19674678,
+      "slug": "26410376-super-league-shanghai-shenhua-beijing-guoan",
+      "timestamp": "2026-08-18T11:35:00.000Z",
       "league": {
-        "id": 513,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran"
+        "id": 71,
+        "name": "Super League",
+        "country": "China"
       },
-      "home": "Nassaji Mazandaran",
-      "away": "Esteghlal",
+      "home": "Shanghai Shenhua",
+      "away": "Beijing Guoan",
       "locked": true,
       "finished": false,
       "score": null,
@@ -16268,304 +15672,6 @@
             "hc": null,
             "ac": null,
             "date": "8 Sept 2022"
-          }
-        ]
-      }
-    },
-    {
-      "sourcePath": "/predictions/goals-over-under",
-      "rowId": "",
-      "fixtureApid": 19806621,
-      "slug": "29514858-fa-cup-broadfields-united-herne-bay",
-      "timestamp": "2026-08-18T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Broadfields United",
-      "away": "Herne Bay",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 6
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "over",
-        "label": "Over 2.5 goals",
-        "probability": 67,
-        "odds": null,
-        "edge": null,
-        "hasEdge": false,
-        "line": 2.5,
-        "bookmaker": "",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "7 goals",
-      "matchResult": {
-        "home": {
-          "prob": 34,
-          "odds": null
-        },
-        "draw": {
-          "prob": 21,
-          "odds": null
-        },
-        "away": {
-          "prob": 46,
-          "odds": null
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "5 Aug",
-            "opponent": "Snodland Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "6 Aug",
-            "opponent": "Guildford City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Sept",
-            "opponent": "Hastings United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "South Park",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Reading City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "7 Aug",
-            "opponent": "Cribbs",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Hollands & Blair",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Aug",
-            "opponent": "Ashford Town (Middlesex)",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Rayners Lane",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Sept",
-            "opponent": "Redhill",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "19 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "1 Oct",
-            "opponent": "Hendon",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 6,
-          "gf": 1.5,
-          "ga": 2,
-          "cs": 17,
-          "fts": 33,
-          "ov25": 83,
-          "btts": 67,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.17,
-          "fhAgainst": 0,
-          "ovLine": null
-        },
-        "away": {
-          "n": 7,
-          "gf": 1.14,
-          "ga": 1.43,
-          "cs": 14,
-          "fts": 29,
-          "ov25": 43,
-          "btts": 57,
-          "scored2": 43,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 0.57,
-          "fhAgainst": 0.29,
-          "ovLine": null
-        },
-        "h2h": [
-          {
-            "hit": true,
-            "pending": false,
-            "hg": 2,
-            "ag": 2,
-            "hc": null,
-            "ac": null,
-            "date": "8 Aug 2026"
           }
         ]
       }
@@ -18549,14 +17655,14 @@
         "edge": 0.1,
         "hasEdge": true,
         "line": 2.5,
-        "bookmaker": "Kambi",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.1
           },
           {
             "id": 2,
@@ -20619,304 +19725,6 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19806621,
-      "slug": "29514858-fa-cup-broadfields-united-herne-bay",
-      "timestamp": "2026-08-18T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Broadfields United",
-      "away": "Herne Bay",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 6
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 79,
-        "odds": null,
-        "edge": null,
-        "hasEdge": false,
-        "line": null,
-        "bookmaker": "",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": {
-        "home": {
-          "prob": 34,
-          "odds": null
-        },
-        "draw": {
-          "prob": 21,
-          "odds": null
-        },
-        "away": {
-          "prob": 46,
-          "odds": null
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "5 Aug",
-            "opponent": "Snodland Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "6 Aug",
-            "opponent": "Guildford City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Sept",
-            "opponent": "Hastings United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "South Park",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Reading City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "7 Aug",
-            "opponent": "Cribbs",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Hollands & Blair",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Aug",
-            "opponent": "Ashford Town (Middlesex)",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Rayners Lane",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Sept",
-            "opponent": "Redhill",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "19 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "1 Oct",
-            "opponent": "Hendon",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 6,
-          "gf": 1.5,
-          "ga": 2,
-          "cs": 17,
-          "fts": 33,
-          "ov25": 83,
-          "btts": 67,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.17,
-          "fhAgainst": 0,
-          "ovLine": null
-        },
-        "away": {
-          "n": 7,
-          "gf": 1.14,
-          "ga": 1.43,
-          "cs": 14,
-          "fts": 29,
-          "ov25": 43,
-          "btts": 57,
-          "scored2": 43,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 0.57,
-          "fhAgainst": 0.29,
-          "ovLine": null
-        },
-        "h2h": [
-          {
-            "hit": false,
-            "pending": false,
-            "hg": 2,
-            "ag": 2,
-            "hc": null,
-            "ac": null,
-            "date": "8 Aug 2026"
-          }
-        ]
-      }
-    },
-    {
-      "sourcePath": "/predictions/double-chance",
-      "rowId": "",
       "fixtureApid": 19712050,
       "slug": "27571070-kings-cup-al-okhdoud-al-khaleej",
       "timestamp": "2026-08-18T16:15:00.000Z",
@@ -21412,16 +20220,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19784904,
-      "slug": "28260625-persian-gulf-pro-league-aluminium-arak-chadormalu-sc",
-      "timestamp": "2026-08-18T16:00:00.000Z",
+      "fixtureApid": 19806621,
+      "slug": "29514858-fa-cup-broadfields-united-herne-bay",
+      "timestamp": "2026-08-18T18:45:00.000Z",
       "league": {
-        "id": 513,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran"
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
       },
-      "home": "Aluminium Arak",
-      "away": "Chadormalu SC",
+      "home": "Broadfields United",
+      "away": "Herne Bay",
       "locked": true,
       "finished": false,
       "score": null,
@@ -23057,304 +21865,6 @@
             "hc": null,
             "ac": null,
             "date": "8 Sept 2022"
-          }
-        ]
-      }
-    },
-    {
-      "sourcePath": "/predictions/1x2-ht",
-      "rowId": "",
-      "fixtureApid": 19806621,
-      "slug": "29514858-fa-cup-broadfields-united-herne-bay",
-      "timestamp": "2026-08-18T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Broadfields United",
-      "away": "Herne Bay",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 6
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "X",
-        "label": "Draw HT",
-        "probability": 45,
-        "odds": null,
-        "edge": null,
-        "hasEdge": false,
-        "line": null,
-        "bookmaker": "",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 34,
-          "odds": null
-        },
-        "draw": {
-          "prob": 21,
-          "odds": null
-        },
-        "away": {
-          "prob": 46,
-          "odds": null
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "5 Aug",
-            "opponent": "Snodland Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "6 Aug",
-            "opponent": "Guildford City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Sept",
-            "opponent": "Hastings United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "4 Sept",
-            "opponent": "South Park",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Reading City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "7 Aug",
-            "opponent": "Cribbs",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "Hollands & Blair",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Aug",
-            "opponent": "Ashford Town (Middlesex)",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Rayners Lane",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "2 Sept",
-            "opponent": "Redhill",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "19 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "1 Oct",
-            "opponent": "Hendon",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "21 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 6,
-          "gf": 1.5,
-          "ga": 2,
-          "cs": 17,
-          "fts": 33,
-          "ov25": 83,
-          "btts": 67,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.17,
-          "fhAgainst": 0,
-          "ovLine": null
-        },
-        "away": {
-          "n": 7,
-          "gf": 1.14,
-          "ga": 1.43,
-          "cs": 14,
-          "fts": 29,
-          "ov25": 43,
-          "btts": 57,
-          "scored2": 43,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 0.57,
-          "fhAgainst": 0.29,
-          "ovLine": null
-        },
-        "h2h": [
-          {
-            "hit": true,
-            "pending": false,
-            "hg": 2,
-            "ag": 2,
-            "hc": null,
-            "ac": null,
-            "date": "8 Aug 2026"
           }
         ]
       }
@@ -86934,1321 +85444,6 @@
     },
     {
       "sourcePath": "/predictions/yesterday",
-      "rowId": "19748716-1x2-2-x",
-      "fixtureApid": 19748716,
-      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
-      "timestamp": "2026-08-17T18:30:00.000Z",
-      "league": {
-        "id": 49,
-        "name": "1. Lig",
-        "country": "Turkey"
-      },
-      "home": "Batman Petrolspor",
-      "away": "Boluspor",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 26,
-        "odds": 7.5,
-        "edge": 12.7,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Paddy Power",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 6.25
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 5.75
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 7.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 6.5
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "1",
-      "matchResult": {
-        "home": {
-          "prob": 53,
-          "odds": 1.48
-        },
-        "draw": {
-          "prob": 21,
-          "odds": 5
-        },
-        "away": {
-          "prob": 26,
-          "odds": 7.5
-        }
-      },
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Pendikspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "13 Apr",
-            "opponent": "Erzurumspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "6-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "Amed SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "16 Mar",
-            "opponent": "Bodrum FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Feb",
-            "opponent": "Esenler Erokspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-2",
-            "corners": null,
-            "date": "17 Feb",
-            "opponent": "Ümraniyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "8 Feb",
-            "opponent": "Manisa FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Keçiörengücü",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Vanspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "28 Dec",
-            "opponent": "Serik Belediyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 2.8,
-          "cs": 10,
-          "fts": 40,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 0,
-            "l": 8
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 1.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19748716-double_chance-12-x",
-      "fixtureApid": 19748716,
-      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
-      "timestamp": "2026-08-17T18:30:00.000Z",
-      "league": {
-        "id": 49,
-        "name": "1. Lig",
-        "country": "Turkey"
-      },
-      "home": "Batman Petrolspor",
-      "away": "Boluspor",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 79,
-        "odds": 1.2,
-        "edge": -4.3,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.18
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Pendikspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "13 Apr",
-            "opponent": "Erzurumspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "6-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "Amed SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "16 Mar",
-            "opponent": "Bodrum FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Feb",
-            "opponent": "Esenler Erokspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-2",
-            "corners": null,
-            "date": "17 Feb",
-            "opponent": "Ümraniyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "8 Feb",
-            "opponent": "Manisa FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Keçiörengücü",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Vanspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "28 Dec",
-            "opponent": "Serik Belediyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 2.8,
-          "cs": 10,
-          "fts": 40,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 0,
-            "l": 8
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 1.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19748716-1x2_fh-2-x",
-      "fixtureApid": 19748716,
-      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
-      "timestamp": "2026-08-17T18:30:00.000Z",
-      "league": {
-        "id": 49,
-        "name": "1. Lig",
-        "country": "Turkey"
-      },
-      "home": "Batman Petrolspor",
-      "away": "Boluspor",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "2",
-        "label": "Away HT",
-        "probability": 25,
-        "odds": 7,
-        "edge": 10.7,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Paddy Power",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 5.5
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 5.4
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 7
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Pendikspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "13 Apr",
-            "opponent": "Erzurumspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "6-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "Amed SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "16 Mar",
-            "opponent": "Bodrum FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Feb",
-            "opponent": "Esenler Erokspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-2",
-            "corners": null,
-            "date": "17 Feb",
-            "opponent": "Ümraniyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "8 Feb",
-            "opponent": "Manisa FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Keçiörengücü",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Vanspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "28 Dec",
-            "opponent": "Serik Belediyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 2.8,
-          "cs": 10,
-          "fts": 40,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 0,
-            "l": 8
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 1.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19748716-btts-yes-x",
-      "fixtureApid": 19748716,
-      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
-      "timestamp": "2026-08-17T18:30:00.000Z",
-      "league": {
-        "id": 49,
-        "name": "1. Lig",
-        "country": "Turkey"
-      },
-      "home": "Batman Petrolspor",
-      "away": "Boluspor",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 53,
-        "odds": 2,
-        "edge": 3,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.82
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.95
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Pendikspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "13 Apr",
-            "opponent": "Erzurumspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "6-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "Amed SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "16 Mar",
-            "opponent": "Bodrum FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Feb",
-            "opponent": "Esenler Erokspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-2",
-            "corners": null,
-            "date": "17 Feb",
-            "opponent": "Ümraniyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "8 Feb",
-            "opponent": "Manisa FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Keçiörengücü",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Vanspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "28 Dec",
-            "opponent": "Serik Belediyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 2.8,
-          "cs": 10,
-          "fts": 40,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 0,
-            "l": 8
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 1.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19748716-total_goals-over-1.5",
-      "fixtureApid": 19748716,
-      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
-      "timestamp": "2026-08-17T18:30:00.000Z",
-      "league": {
-        "id": 49,
-        "name": "1. Lig",
-        "country": "Turkey"
-      },
-      "home": "Batman Petrolspor",
-      "away": "Boluspor",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "over",
-        "label": "Over 1.5 goals",
-        "probability": 82,
-        "odds": 1.22,
-        "edge": 0,
-        "hasEdge": false,
-        "line": 1.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.22
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.21
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.22
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Pendikspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "13 Apr",
-            "opponent": "Erzurumspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "6-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "Amed SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "16 Mar",
-            "opponent": "Bodrum FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Feb",
-            "opponent": "Esenler Erokspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-2",
-            "corners": null,
-            "date": "17 Feb",
-            "opponent": "Ümraniyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "8 Feb",
-            "opponent": "Manisa FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Keçiörengücü",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Vanspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "28 Dec",
-            "opponent": "Serik Belediyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 2.8,
-          "cs": 10,
-          "fts": 40,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 0,
-            "l": 8
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 1.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19748716-home_goals-over-0.5",
-      "fixtureApid": 19748716,
-      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
-      "timestamp": "2026-08-17T18:30:00.000Z",
-      "league": {
-        "id": 49,
-        "name": "1. Lig",
-        "country": "Turkey"
-      },
-      "home": "Batman Petrolspor",
-      "away": "Boluspor",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "home_goals",
-        "selection": "over",
-        "label": "Home to score",
-        "probability": 81,
-        "odds": 1.14,
-        "edge": -6.7,
-        "hasEdge": false,
-        "line": 0.5,
-        "marketLabel": "Home goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.09
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Pendikspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "13 Apr",
-            "opponent": "Erzurumspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "6-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "Amed SK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "16 Mar",
-            "opponent": "Bodrum FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "27 Feb",
-            "opponent": "Esenler Erokspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-2",
-            "corners": null,
-            "date": "17 Feb",
-            "opponent": "Ümraniyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "8 Feb",
-            "opponent": "Manisa FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Keçiörengücü",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Vanspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-4",
-            "corners": null,
-            "date": "28 Dec",
-            "opponent": "Serik Belediyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 2.8,
-          "cs": 10,
-          "fts": 40,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 0,
-            "l": 8
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.4,
-          "fhAgainst": 1.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
       "rowId": "19746646-1x2-2-x",
       "fixtureApid": 19746646,
       "slug": "27650451-super-lig-samsunspor-goztepe",
@@ -88683,7 +85878,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:187:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
       "form": {
         "home": [
           {
@@ -89036,7 +86231,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:187:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
       "form": {
         "home": [
           {
@@ -89389,7 +86584,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:187:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
       "form": {
         "home": [
           {
@@ -89742,7 +86937,7 @@
       },
       "settlement": "lost",
       "actual": "6 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:187:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
       "form": {
         "home": [
           {
@@ -90095,7 +87290,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:187:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
       "form": {
         "home": [
           {
@@ -90448,7 +87643,7 @@
       },
       "settlement": "won",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:187:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
       "form": {
         "home": [
           {
@@ -90727,6 +87922,1321 @@
           "fhFor": 0.5,
           "fhAgainst": 0.6,
           "ovLine": 80
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19748716-1x2-2-x",
+      "fixtureApid": 19748716,
+      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
+      "timestamp": "2026-08-17T18:30:00.000Z",
+      "league": {
+        "id": 49,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": "Batman Petrolspor",
+      "away": "Boluspor",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "2",
+        "label": "Away win",
+        "probability": 26,
+        "odds": 7.5,
+        "edge": 12.7,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Paddy Power",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 6.25
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 5.75
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 7.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 6.5
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1",
+      "matchResult": {
+        "home": {
+          "prob": 53,
+          "odds": 1.48
+        },
+        "draw": {
+          "prob": 21,
+          "odds": 5
+        },
+        "away": {
+          "prob": 26,
+          "odds": 7.5
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Pendikspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "13 Apr",
+            "opponent": "Erzurumspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "6-1",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "Amed SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Mar",
+            "opponent": "Bodrum FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Feb",
+            "opponent": "Esenler Erokspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-2",
+            "corners": null,
+            "date": "17 Feb",
+            "opponent": "Ümraniyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Manisa FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Keçiörengücü",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Vanspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "28 Dec",
+            "opponent": "Serik Belediyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 2.8,
+          "cs": 10,
+          "fts": 40,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 0,
+            "l": 8
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 3,
+            "l": 5
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 1.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19748716-double_chance-12-x",
+      "fixtureApid": 19748716,
+      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
+      "timestamp": "2026-08-17T18:30:00.000Z",
+      "league": {
+        "id": 49,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": "Batman Petrolspor",
+      "away": "Boluspor",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 79,
+        "odds": 1.2,
+        "edge": -4.3,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.2
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.18
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Pendikspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "13 Apr",
+            "opponent": "Erzurumspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-1",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "Amed SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Mar",
+            "opponent": "Bodrum FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Feb",
+            "opponent": "Esenler Erokspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-2",
+            "corners": null,
+            "date": "17 Feb",
+            "opponent": "Ümraniyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Manisa FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Keçiörengücü",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Vanspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "28 Dec",
+            "opponent": "Serik Belediyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 2.8,
+          "cs": 10,
+          "fts": 40,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 0,
+            "l": 8
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 3,
+            "l": 5
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 1.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19748716-1x2_fh-2-x",
+      "fixtureApid": 19748716,
+      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
+      "timestamp": "2026-08-17T18:30:00.000Z",
+      "league": {
+        "id": 49,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": "Batman Petrolspor",
+      "away": "Boluspor",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "2",
+        "label": "Away HT",
+        "probability": 25,
+        "odds": 7,
+        "edge": 10.7,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Paddy Power",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 5.5
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 5.4
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 7
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Pendikspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "13 Apr",
+            "opponent": "Erzurumspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "6-1",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "Amed SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Mar",
+            "opponent": "Bodrum FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Feb",
+            "opponent": "Esenler Erokspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-2",
+            "corners": null,
+            "date": "17 Feb",
+            "opponent": "Ümraniyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Manisa FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Keçiörengücü",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Vanspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "28 Dec",
+            "opponent": "Serik Belediyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 2.8,
+          "cs": 10,
+          "fts": 40,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 0,
+            "l": 8
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 3,
+            "l": 5
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 1.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19748716-btts-yes-x",
+      "fixtureApid": 19748716,
+      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
+      "timestamp": "2026-08-17T18:30:00.000Z",
+      "league": {
+        "id": 49,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": "Batman Petrolspor",
+      "away": "Boluspor",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 53,
+        "odds": 2,
+        "edge": 3,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "BTTS",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.82
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.95
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS No",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Pendikspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "13 Apr",
+            "opponent": "Erzurumspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-1",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "Amed SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Mar",
+            "opponent": "Bodrum FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Feb",
+            "opponent": "Esenler Erokspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-2",
+            "corners": null,
+            "date": "17 Feb",
+            "opponent": "Ümraniyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Manisa FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Keçiörengücü",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Vanspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "28 Dec",
+            "opponent": "Serik Belediyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 2.8,
+          "cs": 10,
+          "fts": 40,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 0,
+            "l": 8
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 3,
+            "l": 5
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 1.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19748716-total_goals-over-1.5",
+      "fixtureApid": 19748716,
+      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
+      "timestamp": "2026-08-17T18:30:00.000Z",
+      "league": {
+        "id": 49,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": "Batman Petrolspor",
+      "away": "Boluspor",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 1.5 goals",
+        "probability": 82,
+        "odds": 1.22,
+        "edge": 0,
+        "hasEdge": false,
+        "line": 1.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.22
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.21
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.2
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.22
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "2 goals",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Pendikspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "13 Apr",
+            "opponent": "Erzurumspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-1",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "Amed SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Mar",
+            "opponent": "Bodrum FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Feb",
+            "opponent": "Esenler Erokspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-2",
+            "corners": null,
+            "date": "17 Feb",
+            "opponent": "Ümraniyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Manisa FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Keçiörengücü",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Vanspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "28 Dec",
+            "opponent": "Serik Belediyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 2.8,
+          "cs": 10,
+          "fts": 40,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 0,
+            "l": 8
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 3,
+            "l": 5
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 1.4,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19748716-home_goals-over-0.5",
+      "fixtureApid": 19748716,
+      "slug": "27571084-1.-lig-batman-petrolspor-boluspor",
+      "timestamp": "2026-08-17T18:30:00.000Z",
+      "league": {
+        "id": 49,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": "Batman Petrolspor",
+      "away": "Boluspor",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "home_goals",
+        "selection": "over",
+        "label": "Home to score",
+        "probability": 81,
+        "odds": 1.14,
+        "edge": -6.7,
+        "hasEdge": false,
+        "line": 0.5,
+        "marketLabel": "Home goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.09
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "2 scored",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "26 Apr",
+            "opponent": "Pendikspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "13 Apr",
+            "opponent": "Erzurumspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-1",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "Amed SK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Mar",
+            "opponent": "Bodrum FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "27 Feb",
+            "opponent": "Esenler Erokspor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-2",
+            "corners": null,
+            "date": "17 Feb",
+            "opponent": "Ümraniyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-1",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Manisa FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Keçiörengücü",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Vanspor FK",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-4",
+            "corners": null,
+            "date": "28 Dec",
+            "opponent": "Serik Belediyespor",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 2.8,
+          "cs": 10,
+          "fts": 40,
+          "ov25": 50,
+          "btts": 50,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 0,
+            "l": 8
+          },
+          "htRecord": {
+            "w": 2,
+            "d": 3,
+            "l": 5
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 1.4,
+          "ovLine": null
         },
         "h2h": []
       }
