@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-18T14:59:30.760Z",
+  "generatedAt": "2026-08-18T15:32:57.016Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-18T14:59:28.675Z",
+      "fetchedAt": "2026-08-18T15:32:54.620Z",
       "bytes": 554162,
       "rowCount": 37,
       "serverTotal": 75
@@ -13,15 +13,15 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-18T14:59:28.885Z",
-      "bytes": 370685,
+      "fetchedAt": "2026-08-18T15:32:54.901Z",
+      "bytes": 370678,
       "rowCount": 10,
       "serverTotal": 18
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-18T14:59:29.098Z",
+      "fetchedAt": "2026-08-18T15:32:55.186Z",
       "bytes": 369463,
       "rowCount": 10,
       "serverTotal": 18
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-18T14:59:29.427Z",
+      "fetchedAt": "2026-08-18T15:32:55.475Z",
       "bytes": 371697,
       "rowCount": 10,
       "serverTotal": 18
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-18T14:59:29.641Z",
+      "fetchedAt": "2026-08-18T15:32:55.743Z",
       "bytes": 365831,
       "rowCount": 10,
       "serverTotal": 12
@@ -45,15 +45,15 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-18T14:59:29.850Z",
-      "bytes": 370403,
+      "fetchedAt": "2026-08-18T15:32:55.998Z",
+      "bytes": 370401,
       "rowCount": 10,
       "serverTotal": 18
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-18T14:59:30.121Z",
+      "fetchedAt": "2026-08-18T15:32:56.260Z",
       "bytes": 369744,
       "rowCount": 10,
       "serverTotal": 18
@@ -61,29 +61,29 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-18T14:59:30.283Z",
-      "bytes": 335838,
+      "fetchedAt": "2026-08-18T15:32:56.442Z",
+      "bytes": 335747,
       "rowCount": 5,
-      "serverTotal": 100
+      "serverTotal": 101
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-18T14:59:30.490Z",
-      "bytes": 1723676,
-      "rowCount": 208,
-      "serverTotal": 208
+      "fetchedAt": "2026-08-18T15:32:56.687Z",
+      "bytes": 1675524,
+      "rowCount": 201,
+      "serverTotal": 201
     },
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-18T14:59:30.759Z",
+      "fetchedAt": "2026-08-18T15:32:57.015Z",
       "bytes": 485630,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 310,
+  "count": 303,
   "errors": [],
   "rows": [
     {
@@ -13999,32 +13999,32 @@
         "selection": "2",
         "label": "Away win",
         "probability": 69,
-        "odds": 1.76,
-        "edge": 12.2,
+        "odds": 1.9,
+        "edge": 16.4,
         "hasEdge": true,
         "line": null,
-        "bookmaker": "Altenar",
+        "bookmaker": "Paddy Power",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.73
+            "odds": 1.8
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.73
+            "odds": 1.82
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.73
+            "odds": 1.9
           },
           {
             "id": 4,
@@ -14047,7 +14047,7 @@
       "matchResult": {
         "home": {
           "prob": 13,
-          "odds": 4.25
+          "odds": 3.8
         },
         "draw": {
           "prob": 18,
@@ -14055,7 +14055,7 @@
         },
         "away": {
           "prob": 69,
-          "odds": 1.76
+          "odds": 1.9
         }
       },
       "form": {
@@ -23991,11 +23991,11 @@
         "selection": "X2",
         "label": "Draw or away",
         "probability": 87,
-        "odds": 1.27,
-        "edge": 8.3,
+        "odds": 1.29,
+        "edge": 9.5,
         "hasEdge": true,
         "line": null,
-        "bookmaker": "Altenar",
+        "bookmaker": "Paddy Power",
         "prices": [
           {
             "id": 1,
@@ -24009,14 +24009,14 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.18
+            "odds": 1.22
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.17
+            "odds": 1.29
           },
           {
             "id": 4,
@@ -24039,7 +24039,7 @@
       "matchResult": {
         "home": {
           "prob": 13,
-          "odds": 4.25
+          "odds": 3.8
         },
         "draw": {
           "prob": 18,
@@ -24047,7 +24047,7 @@
         },
         "away": {
           "prob": 69,
-          "odds": 1.76
+          "odds": 1.9
         }
       },
       "form": {
@@ -27440,32 +27440,6 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19712156-away_goals-under-2.5",
-      "fixtureApid": 19712156,
-      "slug": "27315721-copa-libertadores-deportes-tolima-independiente-del-valle",
-      "timestamp": "2026-08-19T00:30:00.000Z",
-      "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
-      },
-      "home": "Deportes Tolima",
-      "away": "Independiente del Valle",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
       "rowId": "19784901-home_goals-under-1.5",
       "fixtureApid": 19784901,
       "slug": "28260641-persian-gulf-pro-league-fajr-sepasi-sanat-naft",
@@ -27517,2488 +27491,30 @@
       "modelStats": null
     },
     {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715282-1x2-2-x",
-      "fixtureApid": 19715282,
-      "slug": "27650439-liga-mx-tijuana-cruz-azul",
-      "timestamp": "2026-08-17T03:00:00.000Z",
+      "sourcePath": "/predictions/tomorrow",
+      "rowId": "19667210-home_goals-under-2.5",
+      "fixtureApid": 19667210,
+      "slug": "27834036-serie-b-nautico-ceara",
+      "timestamp": "2026-08-19T00:30:00.000Z",
       "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
+        "id": 53,
+        "name": "Serie B",
+        "country": "Brazil"
       },
-      "home": "Tijuana",
-      "away": "Cruz Azul",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 48,
-        "odds": 2.55,
-        "edge": 8.8,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2.55
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.28
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.3
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 2.37
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "1",
-      "matchResult": {
-        "home": {
-          "prob": 25,
-          "odds": 2.8
-        },
-        "draw": {
-          "prob": 27,
-          "odds": 3.3
-        },
-        "away": {
-          "prob": 48,
-          "odds": 2.55
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Jul",
-            "opponent": "León",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "17 Jul",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "9 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Jul",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "25 May",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Guadalajara",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Querétaro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "12 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Mar",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.9,
-          "ga": 1.2,
-          "cs": 10,
-          "fts": 0,
-          "ov25": 60,
-          "btts": 90,
-          "scored2": 70,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.8,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715282-double_chance-X2-x",
-      "fixtureApid": 19715282,
-      "slug": "27650439-liga-mx-tijuana-cruz-azul",
-      "timestamp": "2026-08-17T03:00:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Tijuana",
-      "away": "Cruz Azul",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "X2",
-        "label": "Draw or away",
-        "probability": 75,
-        "odds": 1.44,
-        "edge": 5.6,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.36
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.4
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.36
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.44
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
+      "home": "Náutico",
+      "away": "Ceará",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
+      "matchResult": null,
       "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Jul",
-            "opponent": "León",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "17 Jul",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "9 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Jul",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "25 May",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Guadalajara",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Querétaro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "12 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Mar",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
+        "home": [],
+        "away": []
       },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.9,
-          "ga": 1.2,
-          "cs": 10,
-          "fts": 0,
-          "ov25": 60,
-          "btts": 90,
-          "scored2": 70,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.8,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715282-1x2_fh-2-x",
-      "fixtureApid": 19715282,
-      "slug": "27650439-liga-mx-tijuana-cruz-azul",
-      "timestamp": "2026-08-17T03:00:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Tijuana",
-      "away": "Cruz Azul",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "2",
-        "label": "Away HT",
-        "probability": 34,
-        "odds": 3.2,
-        "edge": 2.8,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 3.2
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.8
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.88
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Jul",
-            "opponent": "León",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "17 Jul",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "9 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Jul",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "25 May",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Guadalajara",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Querétaro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "12 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Mar",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.9,
-          "ga": 1.2,
-          "cs": 10,
-          "fts": 0,
-          "ov25": 60,
-          "btts": 90,
-          "scored2": 70,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.8,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715282-btts-no-x",
-      "fixtureApid": 19715282,
-      "slug": "27650439-liga-mx-tijuana-cruz-azul",
-      "timestamp": "2026-08-17T03:00:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Tijuana",
-      "away": "Cruz Azul",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "no",
-        "label": "BTTS: No",
-        "probability": 51,
-        "odds": 2.2,
-        "edge": 5.5,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Paddy Power",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2.1
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.08
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.2
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 2.1
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Jul",
-            "opponent": "León",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "17 Jul",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "9 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Jul",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "25 May",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Guadalajara",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Querétaro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "12 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Mar",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.9,
-          "ga": 1.2,
-          "cs": 10,
-          "fts": 0,
-          "ov25": 60,
-          "btts": 90,
-          "scored2": 70,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.8,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715282-total_goals-under-4.5",
-      "fixtureApid": 19715282,
-      "slug": "27650439-liga-mx-tijuana-cruz-azul",
-      "timestamp": "2026-08-17T03:00:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Tijuana",
-      "away": "Cruz Azul",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "under",
-        "label": "Under 4.5 goals",
-        "probability": 86,
-        "odds": 1.13,
-        "edge": -2.5,
-        "hasEdge": false,
-        "line": 4.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.08
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Jul",
-            "opponent": "León",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "17 Jul",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "9 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Jul",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "25 May",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Guadalajara",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Querétaro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "12 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Mar",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.9,
-          "ga": 1.2,
-          "cs": 10,
-          "fts": 0,
-          "ov25": 60,
-          "btts": 90,
-          "scored2": 70,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.8,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715282-home_goals-under-2.5",
-      "fixtureApid": 19715282,
-      "slug": "27650439-liga-mx-tijuana-cruz-azul",
-      "timestamp": "2026-08-17T03:00:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Tijuana",
-      "away": "Cruz Azul",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "home_goals",
-        "selection": "under",
-        "label": "Home under 2.5 goals",
-        "probability": 93,
-        "odds": 1.13,
-        "edge": 4.5,
-        "hasEdge": true,
-        "line": 2.5,
-        "marketLabel": "Home goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.09
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Jul",
-            "opponent": "León",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "17 Jul",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "9 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "18 Jul",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "25 May",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Guadalajara",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "22 Apr",
-            "opponent": "Querétaro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "12 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Mar",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.9,
-          "ga": 1.2,
-          "cs": 10,
-          "fts": 0,
-          "ov25": 60,
-          "btts": 90,
-          "scored2": 70,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.8,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715282-total_corners-over-6.5",
-      "fixtureApid": 19715282,
-      "slug": "27650439-liga-mx-tijuana-cruz-azul",
-      "timestamp": "2026-08-17T03:00:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Tijuana",
-      "away": "Cruz Azul",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 6.5 corners",
-        "probability": 72,
-        "odds": 1.2,
-        "edge": -11.3,
-        "hasEdge": false,
-        "line": 6.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 13,
-            "date": "25 Jul",
-            "opponent": "León",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": 5,
-            "date": "17 Jul",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": 9,
-            "date": "23 Apr",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 8,
-            "date": "4 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": 11,
-            "date": "9 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 7,
-            "date": "28 Feb",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 11,
-            "date": "22 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 11,
-            "date": "7 Feb",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 3,
-            "date": "18 Jan",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 4,
-            "date": "10 Jan",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": 8,
-            "date": "18 Jul",
-            "opponent": "Atlético San Luis",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 14,
-            "date": "25 May",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 15,
-            "date": "17 May",
-            "opponent": "Guadalajara",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": 7,
-            "date": "3 May",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 9,
-            "date": "22 Apr",
-            "opponent": "Querétaro",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 12,
-            "date": "12 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 12,
-            "date": "21 Mar",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 10,
-            "date": "15 Mar",
-            "opponent": "Pumas UNAM",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 6,
-            "date": "4 Mar",
-            "opponent": "Santos Laguna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": 10,
-            "date": "1 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": 8.2,
-          "cf": 3.2,
-          "ca": 5,
-          "record": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 5,
-            "l": 0
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.1,
-          "ovLine": 70
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.9,
-          "ga": 1.2,
-          "cs": 10,
-          "fts": 0,
-          "ov25": 60,
-          "btts": 90,
-          "scored2": 70,
-          "cAvg": 10.3,
-          "cf": 5.3,
-          "ca": 5,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 5,
-            "l": 1
-          },
-          "fhFor": 0.8,
-          "fhAgainst": 0.4,
-          "ovLine": 90
-        },
-        "h2h": []
-      }
+      "modelStats": null
     },
     {
       "sourcePath": "/predictions/yesterday",
@@ -30436,7 +27952,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -30789,7 +28305,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -31142,7 +28658,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -31495,7 +29011,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -31848,7 +29364,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -32201,7 +29717,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -32920,7 +30436,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -33273,7 +30789,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -33626,7 +31142,7 @@
       },
       "settlement": "won",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -33979,7 +31495,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -34332,7 +31848,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -35051,7 +32567,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
       "form": {
         "home": [
           {
@@ -35404,7 +32920,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
       "form": {
         "home": [
           {
@@ -35757,7 +33273,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
       "form": {
         "home": [
           {
@@ -36110,7 +33626,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
       "form": {
         "home": [
           {
@@ -36463,7 +33979,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
       "form": {
         "home": [
           {
@@ -37182,7 +34698,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:26:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:19:matchResult",
       "form": {
         "home": [
           {
@@ -37535,7 +35051,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:26:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:19:matchResult",
       "form": {
         "home": [
           {
@@ -37888,7 +35404,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:26:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:19:matchResult",
       "form": {
         "home": [
           {
@@ -38241,7 +35757,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:26:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:19:matchResult",
       "form": {
         "home": [
           {
@@ -38594,7 +36110,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:26:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:19:matchResult",
       "form": {
         "home": [
           {
@@ -39313,7 +36829,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:25:matchResult",
       "form": {
         "home": [
           {
@@ -39666,7 +37182,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:25:matchResult",
       "form": {
         "home": [
           {
@@ -40019,7 +37535,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:25:matchResult",
       "form": {
         "home": [
           {
@@ -40372,7 +37888,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:25:matchResult",
       "form": {
         "home": [
           {
@@ -40725,7 +38241,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:25:matchResult",
       "form": {
         "home": [
           {
@@ -41078,7 +38594,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:25:matchResult",
       "form": {
         "home": [
           {
@@ -41661,7 +39177,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -41878,7 +39394,7 @@
       },
       "settlement": "won",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -42095,7 +39611,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -42312,7 +39828,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -42529,7 +40045,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -42746,7 +40262,7 @@
       },
       "settlement": "lost",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -43230,7 +40746,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [
           {
@@ -43484,7 +41000,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [
           {
@@ -43738,7 +41254,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [
           {
@@ -43992,7 +41508,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [
           {
@@ -44246,7 +41762,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [
           {
@@ -44500,7 +42016,7 @@
       },
       "settlement": "lost",
       "actual": "1 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [
           {
@@ -45120,7 +42636,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -45473,7 +42989,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -45826,7 +43342,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -46179,7 +43695,7 @@
       },
       "settlement": "lost",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -46532,7 +44048,7 @@
       },
       "settlement": "lost",
       "actual": "5 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -47251,7 +44767,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
       "form": {
         "home": [
           {
@@ -47604,7 +45120,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
       "form": {
         "home": [
           {
@@ -47957,7 +45473,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
       "form": {
         "home": [
           {
@@ -48310,7 +45826,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
       "form": {
         "home": [
           {
@@ -48663,7 +46179,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
       "form": {
         "home": [
           {
@@ -49016,7 +46532,7 @@
       },
       "settlement": "won",
       "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
       "form": {
         "home": [
           {
@@ -49735,7 +47251,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
       "form": {
         "home": [
           {
@@ -50088,7 +47604,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
       "form": {
         "home": [
           {
@@ -50441,7 +47957,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
       "form": {
         "home": [
           {
@@ -50794,7 +48310,7 @@
       },
       "settlement": "lost",
       "actual": "0 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
       "form": {
         "home": [
           {
@@ -51147,7 +48663,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
       "form": {
         "home": [
           {
@@ -51500,7 +49016,7 @@
       },
       "settlement": "won",
       "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
       "form": {
         "home": [
           {
@@ -52219,7 +49735,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -52572,7 +50088,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -52925,7 +50441,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -53278,7 +50794,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -53631,7 +51147,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -53984,7 +51500,7 @@
       },
       "settlement": "won",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -54703,7 +52219,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -55056,7 +52572,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -55409,7 +52925,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -55762,7 +53278,7 @@
       },
       "settlement": "won",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -56115,7 +53631,7 @@
       },
       "settlement": "lost",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -56468,7 +53984,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -57187,7 +54703,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -57540,7 +55056,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -57893,7 +55409,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -58246,7 +55762,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -58599,7 +56115,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -59318,7 +56834,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -59671,7 +57187,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -60024,7 +57540,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -60377,7 +57893,7 @@
       },
       "settlement": "won",
       "actual": "7 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -60730,7 +58246,7 @@
       },
       "settlement": "won",
       "actual": "5 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -61083,7 +58599,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -61802,7 +59318,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
       "form": {
         "home": [
           {
@@ -62155,7 +59671,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
       "form": {
         "home": [
           {
@@ -62874,7 +60390,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:103:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:96:matchResult",
       "form": {
         "home": [
           {
@@ -63227,7 +60743,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:103:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:96:matchResult",
       "form": {
         "home": [
           {
@@ -63580,7 +61096,7 @@
       },
       "settlement": "won",
       "actual": "10 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:103:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:96:matchResult",
       "form": {
         "home": [
           {
@@ -63933,7 +61449,7 @@
       },
       "settlement": "lost",
       "actual": "4 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:103:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:96:matchResult",
       "form": {
         "home": [
           {
@@ -64286,7 +61802,7 @@
       },
       "settlement": "won",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:103:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:96:matchResult",
       "form": {
         "home": [
           {
@@ -65005,7 +62521,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:102:matchResult",
       "form": {
         "home": [
           {
@@ -65358,7 +62874,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:102:matchResult",
       "form": {
         "home": [
           {
@@ -65711,7 +63227,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:102:matchResult",
       "form": {
         "home": [
           {
@@ -66064,7 +63580,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:102:matchResult",
       "form": {
         "home": [
           {
@@ -66417,7 +63933,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:102:matchResult",
       "form": {
         "home": [
           {
@@ -66770,7 +64286,7 @@
       },
       "settlement": "lost",
       "actual": "5 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:102:matchResult",
       "form": {
         "home": [
           {
@@ -67489,7 +65005,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
       "form": {
         "home": [
           {
@@ -67842,7 +65358,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
       "form": {
         "home": [
           {
@@ -68195,7 +65711,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
       "form": {
         "home": [
           {
@@ -68548,7 +66064,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
       "form": {
         "home": [
           {
@@ -68901,7 +66417,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
       "form": {
         "home": [
           {
@@ -69254,7 +66770,7 @@
       },
       "settlement": "won",
       "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:109:matchResult",
       "form": {
         "home": [
           {
@@ -69973,7 +67489,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -70326,7 +67842,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -70679,7 +68195,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -71032,7 +68548,7 @@
       },
       "settlement": "won",
       "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -71385,7 +68901,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -71738,7 +69254,7 @@
       },
       "settlement": "lost",
       "actual": "6 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -72457,7 +69973,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -72810,7 +70326,7 @@
       },
       "settlement": "won",
       "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -73163,7 +70679,7 @@
       },
       "settlement": "won",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -73516,7 +71032,7 @@
       },
       "settlement": "lost",
       "actual": "5 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -74235,7 +71751,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
       "form": {
         "home": [
           {
@@ -74588,7 +72104,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
       "form": {
         "home": [
           {
@@ -74941,7 +72457,7 @@
       },
       "settlement": "won",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
       "form": {
         "home": [
           {
@@ -75294,7 +72810,7 @@
       },
       "settlement": "lost",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
       "form": {
         "home": [
           {
@@ -75647,7 +73163,7 @@
       },
       "settlement": "won",
       "actual": "18 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
       "form": {
         "home": [
           {
@@ -76366,7 +73882,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -76719,7 +74235,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -77072,7 +74588,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -77425,7 +74941,7 @@
       },
       "settlement": "lost",
       "actual": "6 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -77778,7 +75294,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -78131,7 +75647,7 @@
       },
       "settlement": "won",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -78714,7 +76230,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -78931,7 +76447,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -79148,7 +76664,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -79365,7 +76881,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -79582,7 +77098,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -80165,7 +77681,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:147:matchResult",
       "form": {
         "home": [
           {
@@ -80518,7 +78034,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:147:matchResult",
       "form": {
         "home": [
           {
@@ -80871,7 +78387,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:147:matchResult",
       "form": {
         "home": [
           {
@@ -81224,7 +78740,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:147:matchResult",
       "form": {
         "home": [
           {
@@ -81577,7 +79093,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:147:matchResult",
       "form": {
         "home": [
           {
@@ -81930,7 +79446,7 @@
       },
       "settlement": "won",
       "actual": "6 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:147:matchResult",
       "form": {
         "home": [
           {
@@ -82649,7 +80165,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
       "form": {
         "home": [
           {
@@ -83002,7 +80518,7 @@
       },
       "settlement": "won",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
       "form": {
         "home": [
           {
@@ -83355,7 +80871,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
       "form": {
         "home": [
           {
@@ -83708,7 +81224,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
       "form": {
         "home": [
           {
@@ -84061,7 +81577,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
       "form": {
         "home": [
           {
@@ -84414,7 +81930,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:154:matchResult",
       "form": {
         "home": [
           {
@@ -85133,7 +82649,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -85486,7 +83002,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -85839,7 +83355,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -86192,7 +83708,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -86545,7 +84061,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -86898,7 +84414,7 @@
       },
       "settlement": "won",
       "actual": "18 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -87617,7 +85133,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -87970,7 +85486,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -88323,7 +85839,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -88676,7 +86192,7 @@
       },
       "settlement": "lost",
       "actual": "7 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -89029,7 +86545,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -89382,7 +86898,7 @@
       },
       "settlement": "lost",
       "actual": "4 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -90101,7 +87617,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -90454,7 +87970,7 @@
       },
       "settlement": "won",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -90807,7 +88323,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -91160,7 +88676,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -91513,7 +89029,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -91866,7 +89382,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -92585,7 +90101,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -92938,7 +90454,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -93291,7 +90807,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -93644,7 +91160,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -93997,7 +91513,7 @@
       },
       "settlement": "won",
       "actual": "15 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -94716,7 +92232,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
       "form": {
         "home": [
           {
@@ -95069,7 +92585,7 @@
       },
       "settlement": "won",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
       "form": {
         "home": [
           {
@@ -95422,7 +92938,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
       "form": {
         "home": [
           {
@@ -95775,7 +93291,7 @@
       },
       "settlement": "lost",
       "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
       "form": {
         "home": [
           {
@@ -96128,7 +93644,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
       "form": {
         "home": [
           {
@@ -96481,7 +93997,7 @@
       },
       "settlement": "lost",
       "actual": "15 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
       "form": {
         "home": [
           {
@@ -97200,7 +94716,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
       "form": {
         "home": [
           {
@@ -97553,7 +95069,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
       "form": {
         "home": [
           {
@@ -97906,7 +95422,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
       "form": {
         "home": [
           {
@@ -98259,7 +95775,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
       "form": {
         "home": [
           {
@@ -98612,7 +96128,7 @@
       },
       "settlement": "lost",
       "actual": "15 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
       "form": {
         "home": [
           {
