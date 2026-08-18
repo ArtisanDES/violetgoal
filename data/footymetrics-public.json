@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-18T12:24:04.241Z",
+  "generatedAt": "2026-08-18T13:16:06.420Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-18T12:24:01.950Z",
+      "fetchedAt": "2026-08-18T13:16:02.507Z",
       "bytes": 427613,
       "rowCount": 31,
-      "serverTotal": 75
+      "serverTotal": 74
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-18T12:24:02.228Z",
+      "fetchedAt": "2026-08-18T13:16:02.833Z",
       "bytes": 278235,
       "rowCount": 9,
       "serverTotal": 18
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-18T12:24:02.482Z",
+      "fetchedAt": "2026-08-18T13:16:03.221Z",
       "bytes": 277073,
       "rowCount": 9,
       "serverTotal": 18
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-18T12:24:02.733Z",
+      "fetchedAt": "2026-08-18T13:16:03.690Z",
       "bytes": 279293,
       "rowCount": 9,
       "serverTotal": 18
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-18T12:24:02.985Z",
+      "fetchedAt": "2026-08-18T13:16:04.185Z",
       "bytes": 274430,
       "rowCount": 9,
       "serverTotal": 12
@@ -45,15 +45,15 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-18T12:24:03.270Z",
-      "bytes": 277946,
+      "fetchedAt": "2026-08-18T13:16:04.746Z",
+      "bytes": 277945,
       "rowCount": 9,
       "serverTotal": 18
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-18T12:24:03.519Z",
+      "fetchedAt": "2026-08-18T13:16:05.171Z",
       "bytes": 277311,
       "rowCount": 9,
       "serverTotal": 18
@@ -61,29 +61,29 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-18T12:24:03.698Z",
-      "bytes": 251423,
+      "fetchedAt": "2026-08-18T13:16:05.419Z",
+      "bytes": 251366,
       "rowCount": 5,
-      "serverTotal": 98
+      "serverTotal": 99
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-18T12:24:03.930Z",
-      "bytes": 1777176,
-      "rowCount": 228,
-      "serverTotal": 228
+      "fetchedAt": "2026-08-18T13:16:05.861Z",
+      "bytes": 1687781,
+      "rowCount": 215,
+      "serverTotal": 215
     },
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-18T12:24:04.241Z",
+      "fetchedAt": "2026-08-18T13:16:06.419Z",
       "bytes": 392501,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 318,
+  "count": 305,
   "errors": [],
   "rows": [
     {
@@ -19768,7 +19768,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.13
+            "odds": 1.11
           },
           {
             "id": 4,
@@ -22806,17 +22806,17 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19712150-home_goals-under-2.5",
-      "fixtureApid": 19712150,
-      "slug": "27834045-copa-libertadores-coquimbo-unido-platense",
-      "timestamp": "2026-08-19T22:00:00.000Z",
+      "rowId": "19667210-home_goals-under-2.5",
+      "fixtureApid": 19667210,
+      "slug": "27834036-serie-b-nautico-ceara",
+      "timestamp": "2026-08-19T00:30:00.000Z",
       "league": {
-        "id": 8108,
-        "name": "Copa Libertadores",
-        "country": "South America"
+        "id": 53,
+        "name": "Serie B",
+        "country": "Brazil"
       },
-      "home": "Coquimbo Unido",
-      "away": "Platense",
+      "home": "Náutico",
+      "away": "Ceará",
       "locked": true,
       "finished": false,
       "score": null,
@@ -22829,4621 +22829,6 @@
         "away": []
       },
       "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609697-1x2-1-x",
-      "fixtureApid": 19609697,
-      "slug": "27650436-major-league-soccer-austin-dallas",
-      "timestamp": "2026-08-17T00:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Austin",
-      "away": "Dallas",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "1",
-        "label": "Home win",
-        "probability": 48,
-        "odds": 2.95,
-        "edge": 14.1,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2.75
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.95
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.8
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 2.62
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 2.8
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 48,
-          "odds": 2.95
-        },
-        "draw": {
-          "prob": 26,
-          "odds": 3.5
-        },
-        "away": {
-          "prob": 26,
-          "odds": 2.5
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Sporting KC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "St. Louis City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Houston Dynamo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Minnesota",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "3 Nov",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Oct",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "San Diego",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Portland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Colorado",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Oct",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.1,
-          "cs": 50,
-          "fts": 10,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 6,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.2,
-          "cs": 30,
-          "fts": 40,
-          "ov25": 60,
-          "btts": 40,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609697-double_chance-12-x",
-      "fixtureApid": 19609697,
-      "slug": "27650436-major-league-soccer-austin-dallas",
-      "timestamp": "2026-08-17T00:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Austin",
-      "away": "Dallas",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 75,
-        "odds": 1.29,
-        "edge": -2.5,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.29
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.28
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.25
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.28
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.29
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Sporting KC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "St. Louis City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Houston Dynamo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Minnesota",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "3 Nov",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Oct",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "San Diego",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Portland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Colorado",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Oct",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.1,
-          "cs": 50,
-          "fts": 10,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 6,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.2,
-          "cs": 30,
-          "fts": 40,
-          "ov25": 60,
-          "btts": 40,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609697-1x2_fh-1-x",
-      "fixtureApid": 19609697,
-      "slug": "27650436-major-league-soccer-austin-dallas",
-      "timestamp": "2026-08-17T00:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Austin",
-      "away": "Dallas",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "1",
-        "label": "Home HT",
-        "probability": 40,
-        "odds": 3.3,
-        "edge": 9.7,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 3.2
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 3.3
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 3.3
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Sporting KC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "St. Louis City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Houston Dynamo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Minnesota",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "3 Nov",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Oct",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "San Diego",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Portland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Colorado",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Oct",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.1,
-          "cs": 50,
-          "fts": 10,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 6,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.2,
-          "cs": 30,
-          "fts": 40,
-          "ov25": 60,
-          "btts": 40,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609697-btts-no-x",
-      "fixtureApid": 19609697,
-      "slug": "27650436-major-league-soccer-austin-dallas",
-      "timestamp": "2026-08-17T00:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Austin",
-      "away": "Dallas",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "no",
-        "label": "BTTS: No",
-        "probability": 46,
-        "odds": 2.45,
-        "edge": 5.2,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2.38
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.45
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.4
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 2.37
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 2.3
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Sporting KC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "St. Louis City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Houston Dynamo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Minnesota",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "3 Nov",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Oct",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "San Diego",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Portland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Colorado",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Oct",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.1,
-          "cs": 50,
-          "fts": 10,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 6,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.2,
-          "cs": 30,
-          "fts": 40,
-          "ov25": 60,
-          "btts": 40,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609697-total_goals-under-4.5",
-      "fixtureApid": 19609697,
-      "slug": "27650436-major-league-soccer-austin-dallas",
-      "timestamp": "2026-08-17T00:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Austin",
-      "away": "Dallas",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "under",
-        "label": "Under 4.5 goals",
-        "probability": 84,
-        "odds": 1.18,
-        "edge": -0.7,
-        "hasEdge": false,
-        "line": 4.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.18
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Sporting KC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "St. Louis City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Houston Dynamo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Minnesota",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "3 Nov",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Oct",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "San Diego",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Portland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Colorado",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Oct",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.1,
-          "cs": 50,
-          "fts": 10,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 6,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.2,
-          "cs": 30,
-          "fts": 40,
-          "ov25": 60,
-          "btts": 40,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609697-away_goals-under-2.5",
-      "fixtureApid": 19609697,
-      "slug": "27650436-major-league-soccer-austin-dallas",
-      "timestamp": "2026-08-17T00:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Austin",
-      "away": "Dallas",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "away_goals",
-        "selection": "under",
-        "label": "Away under 2.5 goals",
-        "probability": 91,
-        "odds": 1.21,
-        "edge": 8.4,
-        "hasEdge": true,
-        "line": 2.5,
-        "marketLabel": "Away goals",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.21
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "Sporting KC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "St. Louis City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Houston Dynamo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Minnesota",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": null,
-            "date": "3 Nov",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "12 Oct",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "San Diego",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "23 Jul",
-            "opponent": "Portland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Colorado",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "17 May",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Oct",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.1,
-          "cs": 50,
-          "fts": 10,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 5,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 6,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.2,
-          "cs": 30,
-          "fts": 40,
-          "ov25": 60,
-          "btts": 40,
-          "scored2": 50,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609697-total_corners-over-6.5",
-      "fixtureApid": 19609697,
-      "slug": "27650436-major-league-soccer-austin-dallas",
-      "timestamp": "2026-08-17T00:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Austin",
-      "away": "Dallas",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 1,
-        "away": 2
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 6.5 corners",
-        "probability": 87,
-        "odds": 1.12,
-        "edge": -2.3,
-        "hasEdge": false,
-        "line": 6.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.11
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.12
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": 8,
-            "date": "23 Jul",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": 10,
-            "date": "17 May",
-            "opponent": "Sporting KC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": 10,
-            "date": "3 May",
-            "opponent": "St. Louis City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": 8,
-            "date": "26 Apr",
-            "opponent": "Houston Dynamo",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": 11,
-            "date": "11 Apr",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 9,
-            "date": "22 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 14,
-            "date": "1 Mar",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 15,
-            "date": "22 Feb",
-            "opponent": "Minnesota",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-4",
-            "corners": 4,
-            "date": "3 Nov",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 4,
-            "date": "12 Oct",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 12,
-            "date": "2 Aug",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 13,
-            "date": "26 Jul",
-            "opponent": "San Diego",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 8,
-            "date": "23 Jul",
-            "opponent": "Portland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 8,
-            "date": "24 May",
-            "opponent": "Colorado",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": 16,
-            "date": "17 May",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": 12,
-            "date": "2 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": 11,
-            "date": "26 Apr",
-            "opponent": "Seattle Sounders",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": 9,
-            "date": "4 Apr",
-            "opponent": "DC United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 11,
-            "date": "8 Mar",
-            "opponent": "Los Angeles FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": 11,
-            "date": "26 Oct",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.1,
-          "cs": 50,
-          "fts": 10,
-          "ov25": 50,
-          "btts": 50,
-          "scored2": 40,
-          "cAvg": 9.3,
-          "cf": 4.7,
-          "ca": 4.6,
-          "record": {
-            "w": 5,
-            "d": 2,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 6,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": 80
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 1.2,
-          "cs": 30,
-          "fts": 40,
-          "ov25": 60,
-          "btts": 40,
-          "scored2": 50,
-          "cAvg": 11.1,
-          "cf": 4.2,
-          "ca": 6.9,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 5,
-            "l": 2
-          },
-          "fhFor": 0.7,
-          "fhAgainst": 0.5,
-          "ovLine": 100
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715283-1x2-2-x",
-      "fixtureApid": 19715283,
-      "slug": "27650437-liga-mx-santos-laguna-guadalajara",
-      "timestamp": "2026-08-17T01:10:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Santos Laguna",
-      "away": "Guadalajara",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 59,
-        "odds": 1.57,
-        "edge": -4.7,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.57
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.5
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.53
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "2",
-      "matchResult": {
-        "home": {
-          "prob": 20,
-          "odds": 5.6
-        },
-        "draw": {
-          "prob": 21,
-          "odds": 4.33
-        },
-        "away": {
-          "prob": 59,
-          "odds": 1.57
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Juárez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "11 Jan",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Nov",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "1 Aug",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Toluca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 1.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.5,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.3,
-          "ga": 1.8,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 80,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715283-double_chance-X2-x",
-      "fixtureApid": 19715283,
-      "slug": "27650437-liga-mx-santos-laguna-guadalajara",
-      "timestamp": "2026-08-17T01:10:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Santos Laguna",
-      "away": "Guadalajara",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "X2",
-        "label": "Draw or away",
-        "probability": 80,
-        "odds": 1.14,
-        "edge": -7.7,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.12
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.14
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Juárez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "11 Jan",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Nov",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "1 Aug",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Toluca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 1.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.5,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.3,
-          "ga": 1.8,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 80,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715283-btts-yes-x",
-      "fixtureApid": 19715283,
-      "slug": "27650437-liga-mx-santos-laguna-guadalajara",
-      "timestamp": "2026-08-17T01:10:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Santos Laguna",
-      "away": "Guadalajara",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 58,
-        "odds": 1.62,
-        "edge": -3.7,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.62
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.6
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.6
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.6
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Juárez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "11 Jan",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Nov",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "1 Aug",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Toluca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 1.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.5,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.3,
-          "ga": 1.8,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 80,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715283-total_goals-over-1.5",
-      "fixtureApid": 19715283,
-      "slug": "27650437-liga-mx-santos-laguna-guadalajara",
-      "timestamp": "2026-08-17T01:10:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Santos Laguna",
-      "away": "Guadalajara",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "over",
-        "label": "Over 1.5 goals",
-        "probability": 81,
-        "odds": 1.17,
-        "edge": -4.5,
-        "hasEdge": false,
-        "line": 1.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.15
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.11
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Juárez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "11 Jan",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Nov",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "1 Aug",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Toluca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 1.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.5,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.3,
-          "ga": 1.8,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 80,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715283-home_goals-under-1.5",
-      "fixtureApid": 19715283,
-      "slug": "27650437-liga-mx-santos-laguna-guadalajara",
-      "timestamp": "2026-08-17T01:10:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Santos Laguna",
-      "away": "Guadalajara",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "home_goals",
-        "selection": "under",
-        "label": "Home under 1.5 goals",
-        "probability": 74,
-        "odds": 1.33,
-        "edge": -1.2,
-        "hasEdge": false,
-        "line": 1.5,
-        "marketLabel": "Home goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.33
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.27
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "26 Jul",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "26 Apr",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "5 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "4 Mar",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "18 Jan",
-            "opponent": "Juárez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": null,
-            "date": "11 Jan",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "9 Nov",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "1 Aug",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "14 May",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "23 Apr",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Toluca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Feb",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 1.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.5,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.3,
-          "ga": 1.8,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 80,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19715283-total_corners-under-10.5",
-      "fixtureApid": 19715283,
-      "slug": "27650437-liga-mx-santos-laguna-guadalajara",
-      "timestamp": "2026-08-17T01:10:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Santos Laguna",
-      "away": "Guadalajara",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "under",
-        "label": "Under 10.5 corners",
-        "probability": 77,
-        "odds": 1.58,
-        "edge": 13.7,
-        "hasEdge": true,
-        "line": 10.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.58
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.47
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": 9,
-            "date": "26 Jul",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": 9,
-            "date": "26 Apr",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": 9,
-            "date": "19 Apr",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 7,
-            "date": "5 Apr",
-            "opponent": "América",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": 15,
-            "date": "22 Mar",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": 6,
-            "date": "4 Mar",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-2",
-            "corners": 10,
-            "date": "15 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 9,
-            "date": "18 Jan",
-            "opponent": "Juárez",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-3",
-            "corners": 10,
-            "date": "11 Jan",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 14,
-            "date": "9 Nov",
-            "opponent": "Pachuca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 8,
-            "date": "1 Aug",
-            "opponent": "Puebla",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 7,
-            "date": "14 May",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": 8,
-            "date": "3 May",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 5,
-            "date": "23 Apr",
-            "opponent": "Necaxa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-1",
-            "corners": 7,
-            "date": "11 Apr",
-            "opponent": "Tigres UANL",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-3",
-            "corners": 13,
-            "date": "22 Mar",
-            "opponent": "Monterrey",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 9,
-            "date": "8 Mar",
-            "opponent": "Atlas",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": 6,
-            "date": "28 Feb",
-            "opponent": "Toluca",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": 4,
-            "date": "22 Feb",
-            "opponent": "Cruz Azul",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 3,
-            "date": "7 Feb",
-            "opponent": "Mazatlán",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.2,
-          "ga": 1.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 60,
-          "scored2": 30,
-          "cAvg": 9.8,
-          "cf": 5,
-          "ca": 4.8,
-          "record": {
-            "w": 3,
-            "d": 2,
-            "l": 5
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 5,
-            "l": 3
-          },
-          "fhFor": 0.5,
-          "fhAgainst": 0.5,
-          "ovLine": 20
-        },
-        "away": {
-          "n": 10,
-          "gf": 1.3,
-          "ga": 1.8,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 80,
-          "scored2": 40,
-          "cAvg": 7,
-          "cf": 4.2,
-          "ca": 2.8,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 2,
-            "d": 3,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 1,
-          "ovLine": 10
-        },
-        "h2h": []
-      }
     },
     {
       "sourcePath": "/predictions/yesterday",
@@ -27881,7 +23266,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -28234,7 +23619,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -28587,7 +23972,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -28940,7 +24325,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -29293,7 +24678,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -29646,7 +25031,7 @@
       },
       "settlement": "won",
       "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:13:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:0:matchResult",
       "form": {
         "home": [
           {
@@ -30365,7 +25750,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -30718,7 +26103,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -31071,7 +26456,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -31424,7 +26809,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -31777,7 +27162,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -32130,7 +27515,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:20:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
       "form": {
         "home": [
           {
@@ -32849,7 +28234,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -33202,7 +28587,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -33555,7 +28940,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -33908,7 +29293,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -34261,7 +29646,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -34614,7 +29999,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -35333,7 +30718,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [
           {
@@ -35686,7 +31071,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [
           {
@@ -36039,7 +31424,7 @@
       },
       "settlement": "won",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [
           {
@@ -36392,7 +31777,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [
           {
@@ -36745,7 +32130,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [
           {
@@ -37464,7 +32849,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:40:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -37817,7 +33202,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:40:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -38170,7 +33555,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:40:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -38523,7 +33908,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:40:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -38876,7 +34261,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:40:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -39595,7 +34980,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:33:matchResult",
       "form": {
         "home": [
           {
@@ -39948,7 +35333,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:33:matchResult",
       "form": {
         "home": [
           {
@@ -40301,7 +35686,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:33:matchResult",
       "form": {
         "home": [
           {
@@ -40654,7 +36039,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:33:matchResult",
       "form": {
         "home": [
           {
@@ -41007,7 +36392,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:33:matchResult",
       "form": {
         "home": [
           {
@@ -41590,7 +36975,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -41807,7 +37192,7 @@
       },
       "settlement": "won",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -42024,7 +37409,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -42241,7 +37626,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -42458,7 +37843,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -42675,7 +38060,7 @@
       },
       "settlement": "lost",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:52:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -43258,7 +38643,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -43611,7 +38996,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -43964,7 +39349,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -44317,7 +39702,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -44670,7 +40055,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -45023,7 +40408,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:46:matchResult",
       "form": {
         "home": [
           {
@@ -45643,7 +41028,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
       "form": {
         "home": [
           {
@@ -45897,7 +41282,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
       "form": {
         "home": [
           {
@@ -46151,7 +41536,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
       "form": {
         "home": [
           {
@@ -46405,7 +41790,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
       "form": {
         "home": [
           {
@@ -46659,7 +42044,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
       "form": {
         "home": [
           {
@@ -46913,7 +42298,7 @@
       },
       "settlement": "lost",
       "actual": "1 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
       "form": {
         "home": [
           {
@@ -47533,7 +42918,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:60:matchResult",
       "form": {
         "home": [
           {
@@ -47886,7 +43271,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:60:matchResult",
       "form": {
         "home": [
           {
@@ -48239,7 +43624,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:60:matchResult",
       "form": {
         "home": [
           {
@@ -48592,7 +43977,7 @@
       },
       "settlement": "lost",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:60:matchResult",
       "form": {
         "home": [
           {
@@ -48945,7 +44330,7 @@
       },
       "settlement": "lost",
       "actual": "5 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:60:matchResult",
       "form": {
         "home": [
           {
@@ -49664,7 +45049,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:79:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -50017,7 +45402,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:79:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -50370,7 +45755,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:79:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -50723,7 +46108,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:79:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -51076,7 +46461,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:79:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -51429,7 +46814,7 @@
       },
       "settlement": "won",
       "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:79:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:66:matchResult",
       "form": {
         "home": [
           {
@@ -52148,7 +47533,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -52501,7 +47886,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -52854,7 +48239,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -53207,7 +48592,7 @@
       },
       "settlement": "lost",
       "actual": "0 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -53560,7 +48945,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -53913,7 +49298,7 @@
       },
       "settlement": "won",
       "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:73:matchResult",
       "form": {
         "home": [
           {
@@ -54632,7 +50017,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -54985,7 +50370,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -55338,7 +50723,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -55691,7 +51076,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -56044,7 +51429,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -56397,7 +51782,7 @@
       },
       "settlement": "won",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:93:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:80:matchResult",
       "form": {
         "home": [
           {
@@ -57116,7 +52501,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
       "form": {
         "home": [
           {
@@ -57469,7 +52854,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
       "form": {
         "home": [
           {
@@ -57822,7 +53207,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
       "form": {
         "home": [
           {
@@ -58175,7 +53560,7 @@
       },
       "settlement": "won",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
       "form": {
         "home": [
           {
@@ -58528,7 +53913,7 @@
       },
       "settlement": "lost",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
       "form": {
         "home": [
           {
@@ -58881,7 +54266,7 @@
       },
       "settlement": "won",
       "actual": "11 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:87:matchResult",
       "form": {
         "home": [
           {
@@ -59600,7 +54985,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:94:matchResult",
       "form": {
         "home": [
           {
@@ -59953,7 +55338,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:94:matchResult",
       "form": {
         "home": [
           {
@@ -60306,7 +55691,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:94:matchResult",
       "form": {
         "home": [
           {
@@ -60659,7 +56044,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:94:matchResult",
       "form": {
         "home": [
           {
@@ -61012,7 +56397,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:94:matchResult",
       "form": {
         "home": [
           {
@@ -61731,7 +57116,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
       "form": {
         "home": [
           {
@@ -62084,7 +57469,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
       "form": {
         "home": [
           {
@@ -62437,7 +57822,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
       "form": {
         "home": [
           {
@@ -62790,7 +58175,7 @@
       },
       "settlement": "won",
       "actual": "7 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
       "form": {
         "home": [
           {
@@ -63143,7 +58528,7 @@
       },
       "settlement": "won",
       "actual": "5 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
       "form": {
         "home": [
           {
@@ -63496,7 +58881,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:100:matchResult",
       "form": {
         "home": [
           {
@@ -64215,7 +59600,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:120:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
       "form": {
         "home": [
           {
@@ -64568,7 +59953,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:120:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
       "form": {
         "home": [
           {
@@ -65287,7 +60672,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:110:matchResult",
       "form": {
         "home": [
           {
@@ -65640,7 +61025,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:110:matchResult",
       "form": {
         "home": [
           {
@@ -65993,7 +61378,7 @@
       },
       "settlement": "won",
       "actual": "10 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:110:matchResult",
       "form": {
         "home": [
           {
@@ -66346,7 +61731,7 @@
       },
       "settlement": "lost",
       "actual": "4 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:110:matchResult",
       "form": {
         "home": [
           {
@@ -66699,7 +62084,7 @@
       },
       "settlement": "won",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:110:matchResult",
       "form": {
         "home": [
           {
@@ -67418,7 +62803,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:129:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -67771,7 +63156,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:129:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -68124,7 +63509,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:129:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -68477,7 +63862,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:129:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -68830,7 +64215,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:129:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -69183,7 +64568,7 @@
       },
       "settlement": "lost",
       "actual": "5 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:129:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:116:matchResult",
       "form": {
         "home": [
           {
@@ -69902,7 +65287,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:136:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -70255,7 +65640,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:136:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -70608,7 +65993,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:136:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -70961,7 +66346,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:136:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -71314,7 +66699,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:136:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -71667,7 +67052,7 @@
       },
       "settlement": "won",
       "actual": "9 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:136:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:123:matchResult",
       "form": {
         "home": [
           {
@@ -72386,7 +67771,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:143:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
       "form": {
         "home": [
           {
@@ -72739,7 +68124,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:143:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
       "form": {
         "home": [
           {
@@ -73092,7 +68477,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:143:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
       "form": {
         "home": [
           {
@@ -73445,7 +68830,7 @@
       },
       "settlement": "won",
       "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:143:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
       "form": {
         "home": [
           {
@@ -73798,7 +69183,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:143:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
       "form": {
         "home": [
           {
@@ -74151,7 +69536,7 @@
       },
       "settlement": "lost",
       "actual": "6 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:143:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:130:matchResult",
       "form": {
         "home": [
           {
@@ -74870,7 +70255,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:150:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:137:matchResult",
       "form": {
         "home": [
           {
@@ -75223,7 +70608,7 @@
       },
       "settlement": "won",
       "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:150:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:137:matchResult",
       "form": {
         "home": [
           {
@@ -75576,7 +70961,7 @@
       },
       "settlement": "won",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:150:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:137:matchResult",
       "form": {
         "home": [
           {
@@ -75929,7 +71314,7 @@
       },
       "settlement": "lost",
       "actual": "5 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:150:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:137:matchResult",
       "form": {
         "home": [
           {
@@ -76648,7 +72033,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
       "form": {
         "home": [
           {
@@ -77001,7 +72386,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
       "form": {
         "home": [
           {
@@ -77354,7 +72739,7 @@
       },
       "settlement": "won",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
       "form": {
         "home": [
           {
@@ -77707,7 +73092,7 @@
       },
       "settlement": "lost",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
       "form": {
         "home": [
           {
@@ -78060,7 +73445,7 @@
       },
       "settlement": "won",
       "actual": "18 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
       "form": {
         "home": [
           {
@@ -78779,7 +74164,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -79132,7 +74517,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -79485,7 +74870,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -79838,7 +75223,7 @@
       },
       "settlement": "lost",
       "actual": "6 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -80191,7 +75576,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -80544,7 +75929,7 @@
       },
       "settlement": "won",
       "actual": "12 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -81127,7 +76512,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -81344,7 +76729,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -81561,7 +76946,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -81778,7 +77163,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -81995,7 +77380,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -82578,7 +77963,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:174:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -82931,7 +78316,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:174:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -83284,7 +78669,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:174:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -83637,7 +79022,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:174:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -83990,7 +79375,7 @@
       },
       "settlement": "won",
       "actual": "2 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:174:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -84343,7 +79728,7 @@
       },
       "settlement": "won",
       "actual": "6 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:174:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -85062,7 +80447,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -85415,7 +80800,7 @@
       },
       "settlement": "won",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -85768,7 +81153,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -86121,7 +81506,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -86474,7 +81859,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -86827,7 +82212,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:181:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:168:matchResult",
       "form": {
         "home": [
           {
@@ -87546,7 +82931,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -87899,7 +83284,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -88252,7 +83637,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -88605,7 +83990,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -88958,7 +84343,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -89311,7 +84696,7 @@
       },
       "settlement": "won",
       "actual": "18 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:188:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:175:matchResult",
       "form": {
         "home": [
           {
@@ -90030,7 +85415,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -90383,7 +85768,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -90736,7 +86121,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -91089,7 +86474,7 @@
       },
       "settlement": "lost",
       "actual": "7 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -91442,7 +86827,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -91795,7 +87180,7 @@
       },
       "settlement": "lost",
       "actual": "4 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:195:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:182:matchResult",
       "form": {
         "home": [
           {
@@ -92514,7 +87899,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
       "form": {
         "home": [
           {
@@ -92867,7 +88252,7 @@
       },
       "settlement": "won",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
       "form": {
         "home": [
           {
@@ -93220,7 +88605,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
       "form": {
         "home": [
           {
@@ -93573,7 +88958,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
       "form": {
         "home": [
           {
@@ -93926,7 +89311,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
       "form": {
         "home": [
           {
@@ -94279,7 +89664,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:189:matchResult",
       "form": {
         "home": [
           {
@@ -94998,7 +90383,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:196:matchResult",
       "form": {
         "home": [
           {
@@ -95351,7 +90736,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:196:matchResult",
       "form": {
         "home": [
           {
@@ -95704,7 +91089,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:196:matchResult",
       "form": {
         "home": [
           {
@@ -96057,7 +91442,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:196:matchResult",
       "form": {
         "home": [
           {
@@ -96410,7 +91795,7 @@
       },
       "settlement": "won",
       "actual": "15 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:196:matchResult",
       "form": {
         "home": [
           {
@@ -97129,7 +92514,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:215:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
       "form": {
         "home": [
           {
@@ -97482,7 +92867,7 @@
       },
       "settlement": "won",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:215:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
       "form": {
         "home": [
           {
@@ -97835,7 +93220,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:215:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
       "form": {
         "home": [
           {
@@ -98188,7 +93573,7 @@
       },
       "settlement": "lost",
       "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:215:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
       "form": {
         "home": [
           {
@@ -98541,7 +93926,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:215:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
       "form": {
         "home": [
           {
@@ -98894,7 +94279,7 @@
       },
       "settlement": "lost",
       "actual": "15 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:215:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:202:matchResult",
       "form": {
         "home": [
           {
@@ -99613,7 +94998,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:222:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
       "form": {
         "home": [
           {
@@ -99966,7 +95351,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:222:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
       "form": {
         "home": [
           {
@@ -100319,7 +95704,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:222:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
       "form": {
         "home": [
           {
@@ -100672,7 +96057,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:222:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
       "form": {
         "home": [
           {
@@ -101025,7 +96410,7 @@
       },
       "settlement": "lost",
       "actual": "15 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:222:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:209:matchResult",
       "form": {
         "home": [
           {
