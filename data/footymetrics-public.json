@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-19T17:18:14.805Z",
+  "generatedAt": "2026-08-19T17:47:38.229Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-19T17:18:11.952Z",
-      "bytes": 608496,
+      "fetchedAt": "2026-08-19T17:47:35.162Z",
+      "bytes": 608494,
       "rowCount": 45,
-      "serverTotal": 109
+      "serverTotal": 110
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-19T17:18:12.460Z",
+      "fetchedAt": "2026-08-19T17:47:35.412Z",
       "bytes": 376072,
       "rowCount": 11,
       "serverTotal": 20
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-19T17:18:12.764Z",
+      "fetchedAt": "2026-08-19T17:47:35.696Z",
       "bytes": 375248,
       "rowCount": 11,
       "serverTotal": 20
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-19T17:18:13.064Z",
+      "fetchedAt": "2026-08-19T17:47:36.124Z",
       "bytes": 374452,
       "rowCount": 11,
       "serverTotal": 20
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-19T17:18:13.367Z",
-      "bytes": 370276,
+      "fetchedAt": "2026-08-19T17:47:36.359Z",
+      "bytes": 370274,
       "rowCount": 11,
       "serverTotal": 17
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-19T17:18:13.667Z",
+      "fetchedAt": "2026-08-19T17:47:36.653Z",
       "bytes": 375876,
       "rowCount": 11,
       "serverTotal": 20
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-19T17:18:13.968Z",
+      "fetchedAt": "2026-08-19T17:47:36.963Z",
       "bytes": 375166,
       "rowCount": 11,
       "serverTotal": 20
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-19T17:18:14.198Z",
-      "bytes": 336083,
+      "fetchedAt": "2026-08-19T17:47:37.125Z",
+      "bytes": 336142,
       "rowCount": 5,
       "serverTotal": 199
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-19T17:18:14.439Z",
+      "fetchedAt": "2026-08-19T17:47:37.293Z",
       "bytes": 647184,
       "rowCount": 49,
       "serverTotal": 49
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-19T17:18:14.804Z",
+      "fetchedAt": "2026-08-19T17:47:38.228Z",
       "bytes": 485689,
       "rowCount": 0,
       "serverTotal": 0
@@ -14354,15 +14354,15 @@
       "matchResult": {
         "home": {
           "prob": 62,
-          "odds": 3.1
+          "odds": 3.4
         },
         "draw": {
           "prob": 20,
-          "odds": 3.4
+          "odds": 3.5
         },
         "away": {
           "prob": 18,
-          "odds": 2.1
+          "odds": 2
         }
       },
       "form": {
@@ -25065,8 +25065,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 92,
-        "odds": 1.22,
-        "edge": 10,
+        "odds": 1.25,
+        "edge": 12,
         "hasEdge": true,
         "line": 2.5,
         "bookmaker": "Ladbrokes",
@@ -25097,7 +25097,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.22
+            "odds": 1.25
           },
           {
             "id": 5,
@@ -25113,15 +25113,15 @@
       "matchResult": {
         "home": {
           "prob": 62,
-          "odds": 3.3
+          "odds": 3.5
         },
         "draw": {
           "prob": 20,
-          "odds": 3.4
+          "odds": 3.5
         },
         "away": {
           "prob": 18,
-          "odds": 2.1
+          "odds": 2
         }
       },
       "form": {
@@ -31404,17 +31404,17 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19667215-home_goals-under-2.5",
-      "fixtureApid": 19667215,
-      "slug": "27942567-serie-b-athletic-club-crb",
-      "timestamp": "2026-08-20T22:30:00.000Z",
+      "rowId": "19712007-away_goals-under-2.5",
+      "fixtureApid": 19712007,
+      "slug": "27887894-copa-sudamericana-montevideo-city-torque-tigre",
+      "timestamp": "2026-08-20T00:30:00.000Z",
       "league": {
-        "id": 53,
-        "name": "Serie B",
-        "country": "Brazil"
+        "id": 8107,
+        "name": "Copa Sudamericana",
+        "country": "South America"
       },
-      "home": "Athletic Club",
-      "away": "CRB",
+      "home": "Montevideo City Torque",
+      "away": "Tigre",
       "locked": true,
       "finished": false,
       "score": null,
