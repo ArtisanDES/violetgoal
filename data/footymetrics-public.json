@@ -1,75 +1,75 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-19T17:47:38.229Z",
+  "generatedAt": "2026-08-19T18:19:03.522Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-19T17:47:35.162Z",
-      "bytes": 608494,
+      "fetchedAt": "2026-08-19T18:18:56.896Z",
+      "bytes": 608497,
       "rowCount": 45,
-      "serverTotal": 110
+      "serverTotal": 109
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-19T17:47:35.412Z",
-      "bytes": 376072,
-      "rowCount": 11,
+      "fetchedAt": "2026-08-19T18:18:57.528Z",
+      "bytes": 383780,
+      "rowCount": 12,
       "serverTotal": 20
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-19T17:47:35.696Z",
-      "bytes": 375248,
-      "rowCount": 11,
+      "fetchedAt": "2026-08-19T18:18:58.994Z",
+      "bytes": 382885,
+      "rowCount": 12,
       "serverTotal": 20
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-19T17:47:36.124Z",
-      "bytes": 374452,
-      "rowCount": 11,
+      "fetchedAt": "2026-08-19T18:18:59.727Z",
+      "bytes": 382061,
+      "rowCount": 12,
       "serverTotal": 20
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-19T17:47:36.359Z",
-      "bytes": 370274,
+      "fetchedAt": "2026-08-19T18:19:00.335Z",
+      "bytes": 370277,
       "rowCount": 11,
       "serverTotal": 17
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-19T17:47:36.653Z",
-      "bytes": 375876,
-      "rowCount": 11,
+      "fetchedAt": "2026-08-19T18:19:00.974Z",
+      "bytes": 383597,
+      "rowCount": 12,
       "serverTotal": 20
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-19T17:47:36.963Z",
-      "bytes": 375166,
-      "rowCount": 11,
+      "fetchedAt": "2026-08-19T18:19:01.549Z",
+      "bytes": 382896,
+      "rowCount": 12,
       "serverTotal": 20
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-19T17:47:37.125Z",
+      "fetchedAt": "2026-08-19T18:19:02.169Z",
       "bytes": 336142,
       "rowCount": 5,
-      "serverTotal": 199
+      "serverTotal": 200
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-19T17:47:37.293Z",
+      "fetchedAt": "2026-08-19T18:19:02.694Z",
       "bytes": 647184,
       "rowCount": 49,
       "serverTotal": 49
@@ -77,13 +77,13 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-19T17:47:38.228Z",
+      "fetchedAt": "2026-08-19T18:19:03.522Z",
       "bytes": 485689,
       "rowCount": 0,
       "serverTotal": 0
     }
   ],
-  "count": 165,
+  "count": 170,
   "errors": [],
   "rows": [
     {
@@ -14305,8 +14305,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 92,
-        "odds": 1.22,
-        "edge": 10,
+        "odds": 1.25,
+        "edge": 12,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
@@ -14338,7 +14338,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.22
+            "odds": 1.25
           },
           {
             "id": 5,
@@ -14354,15 +14354,15 @@
       "matchResult": {
         "home": {
           "prob": 62,
-          "odds": 3.4
+          "odds": 3.8
         },
         "draw": {
           "prob": 20,
-          "odds": 3.5
+          "odds": 3.6
         },
         "away": {
           "prob": 18,
-          "odds": 2
+          "odds": 1.87
         }
       },
       "form": {
@@ -16906,6 +16906,435 @@
             "hc": null,
             "ac": null,
             "date": "26 Jun 2025"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
+      "fixtureApid": 19784899,
+      "slug": "28260639-persian-gulf-pro-league-malavan-zob-ahan",
+      "timestamp": "2026-08-19T16:00:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Malavan",
+      "away": "Zob Ahan",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "1",
+        "label": "Home win",
+        "probability": 41,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1",
+      "matchResult": {
+        "home": {
+          "prob": 41,
+          "odds": null
+        },
+        "draw": {
+          "prob": 34,
+          "odds": null
+        },
+        "away": {
+          "prob": 25,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Feb",
+            "opponent": "Tractor Sazi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "29 Jan",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "22 Jan",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "5 Dec",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Shams Azar Qazvin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Oct",
+            "opponent": "Kheybar Khorramabad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Aluminium Arak",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "28 Jan",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Paykan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Dec",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Dec",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Oct",
+            "opponent": "Sepahan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.1,
+          "cs": 40,
+          "fts": 30,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.3,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 80,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 7,
+            "l": 2
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "31 Oct 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 3,
+            "ag": 3,
+            "hc": null,
+            "ac": null,
+            "date": "2 May 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "21 Dec 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "15 Feb 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "9 Aug 2023"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "8 Feb 2023"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "30 Aug 2022"
           }
         ]
       }
@@ -19720,6 +20149,435 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
+      "fixtureApid": 19784899,
+      "slug": "28260639-persian-gulf-pro-league-malavan-zob-ahan",
+      "timestamp": "2026-08-19T16:00:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Malavan",
+      "away": "Zob Ahan",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "no",
+        "label": "BTTS: No",
+        "probability": 62,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "BTTS Yes",
+      "matchResult": {
+        "home": {
+          "prob": 41,
+          "odds": null
+        },
+        "draw": {
+          "prob": 34,
+          "odds": null
+        },
+        "away": {
+          "prob": 25,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Feb",
+            "opponent": "Tractor Sazi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "29 Jan",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "22 Jan",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "5 Dec",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Shams Azar Qazvin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Oct",
+            "opponent": "Kheybar Khorramabad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Aluminium Arak",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "28 Jan",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Paykan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Dec",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Dec",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Oct",
+            "opponent": "Sepahan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.1,
+          "cs": 40,
+          "fts": 30,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.3,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 80,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 7,
+            "l": 2
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "31 Oct 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 3,
+            "ag": 3,
+            "hc": null,
+            "ac": null,
+            "date": "2 May 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "21 Dec 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "15 Feb 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "9 Aug 2023"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "8 Feb 2023"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "30 Aug 2022"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
       "fixtureApid": 19784902,
       "slug": "28260642-persian-gulf-pro-league-persepolis-esteghlal-khuzestan",
       "timestamp": "2026-08-19T16:00:00.000Z",
@@ -20206,16 +21064,16 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19784899,
-      "slug": "28260639-persian-gulf-pro-league-malavan-zob-ahan",
-      "timestamp": "2026-08-19T16:00:00.000Z",
+      "fixtureApid": 19712051,
+      "slug": "27571071-kings-cup-damac-fc-al-taawoun",
+      "timestamp": "2026-08-19T16:15:00.000Z",
       "league": {
-        "id": 513,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran"
+        "id": 67,
+        "name": "Kings Cup",
+        "country": "Saudi Arabia"
       },
-      "home": "Malavan",
-      "away": "Zob Ahan",
+      "home": "Damac FC",
+      "away": "Al Taawoun",
       "locked": true,
       "finished": false,
       "score": null,
@@ -22527,6 +23385,435 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
+      "fixtureApid": 19784899,
+      "slug": "28260639-persian-gulf-pro-league-malavan-zob-ahan",
+      "timestamp": "2026-08-19T16:00:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Malavan",
+      "away": "Zob Ahan",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 2.5 goals",
+        "probability": 70,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": 2.5,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "3 goals",
+      "matchResult": {
+        "home": {
+          "prob": 41,
+          "odds": null
+        },
+        "draw": {
+          "prob": 34,
+          "odds": null
+        },
+        "away": {
+          "prob": 25,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Feb",
+            "opponent": "Tractor Sazi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "29 Jan",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "22 Jan",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "5 Dec",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Shams Azar Qazvin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Oct",
+            "opponent": "Kheybar Khorramabad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Aluminium Arak",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "28 Jan",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Paykan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Dec",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Dec",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Oct",
+            "opponent": "Sepahan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.1,
+          "cs": 40,
+          "fts": 30,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.3,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 80,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 7,
+            "l": 2
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "31 Oct 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 3,
+            "ag": 3,
+            "hc": null,
+            "ac": null,
+            "date": "2 May 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "21 Dec 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "15 Feb 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "9 Aug 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "8 Feb 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "30 Aug 2022"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
       "fixtureApid": 19784900,
       "slug": "28260640-persian-gulf-pro-league-mes-shahr-e-babak-kheybar-khorramabad",
       "timestamp": "2026-08-19T16:00:00.000Z",
@@ -22805,16 +24092,16 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19784899,
-      "slug": "28260639-persian-gulf-pro-league-malavan-zob-ahan",
+      "fixtureApid": 19784902,
+      "slug": "28260642-persian-gulf-pro-league-persepolis-esteghlal-khuzestan",
       "timestamp": "2026-08-19T16:00:00.000Z",
       "league": {
         "id": 513,
         "name": "Persian Gulf Pro League",
         "country": "Iran"
       },
-      "home": "Malavan",
-      "away": "Zob Ahan",
+      "home": "Persepolis",
+      "away": "Esteghlal Khuzestan",
       "locked": true,
       "finished": false,
       "score": null,
@@ -22831,16 +24118,16 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19784902,
-      "slug": "28260642-persian-gulf-pro-league-persepolis-esteghlal-khuzestan",
-      "timestamp": "2026-08-19T16:00:00.000Z",
+      "fixtureApid": 19712053,
+      "slug": "27571073-kings-cup-al-ula-al-fateh",
+      "timestamp": "2026-08-19T18:00:00.000Z",
       "league": {
-        "id": 513,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran"
+        "id": 67,
+        "name": "Kings Cup",
+        "country": "Saudi Arabia"
       },
-      "home": "Persepolis",
-      "away": "Esteghlal Khuzestan",
+      "home": "Al Ula",
+      "away": "Al Fateh",
       "locked": true,
       "finished": false,
       "score": null,
@@ -25113,15 +26400,15 @@
       "matchResult": {
         "home": {
           "prob": 62,
-          "odds": 3.5
+          "odds": 3.8
         },
         "draw": {
           "prob": 20,
-          "odds": 3.5
+          "odds": 3.6
         },
         "away": {
           "prob": 18,
-          "odds": 2
+          "odds": 1.87
         }
       },
       "form": {
@@ -27665,6 +28952,435 @@
             "hc": null,
             "ac": null,
             "date": "26 Jun 2025"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
+      "fixtureApid": 19784899,
+      "slug": "28260639-persian-gulf-pro-league-malavan-zob-ahan",
+      "timestamp": "2026-08-19T16:00:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Malavan",
+      "away": "Zob Ahan",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "1X",
+        "label": "Home or draw",
+        "probability": 75,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 41,
+          "odds": null
+        },
+        "draw": {
+          "prob": 34,
+          "odds": null
+        },
+        "away": {
+          "prob": 25,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Feb",
+            "opponent": "Tractor Sazi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "29 Jan",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "22 Jan",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "5 Dec",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Shams Azar Qazvin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Oct",
+            "opponent": "Kheybar Khorramabad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Aluminium Arak",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "28 Jan",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Paykan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Dec",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Dec",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Oct",
+            "opponent": "Sepahan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.1,
+          "cs": 40,
+          "fts": 30,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.3,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 80,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 7,
+            "l": 2
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "31 Oct 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 3,
+            "ag": 3,
+            "hc": null,
+            "ac": null,
+            "date": "2 May 2025"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "21 Dec 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "15 Feb 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "9 Aug 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "8 Feb 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "30 Aug 2022"
           }
         ]
       }
@@ -30479,6 +32195,435 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
+      "fixtureApid": 19784899,
+      "slug": "28260639-persian-gulf-pro-league-malavan-zob-ahan",
+      "timestamp": "2026-08-19T16:00:00.000Z",
+      "league": {
+        "id": 513,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran"
+      },
+      "home": "Malavan",
+      "away": "Zob Ahan",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 53,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2",
+      "matchResult": {
+        "home": {
+          "prob": 41,
+          "odds": null
+        },
+        "draw": {
+          "prob": 34,
+          "odds": null
+        },
+        "away": {
+          "prob": 25,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Feb",
+            "opponent": "Tractor Sazi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "8 Feb",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "29 Jan",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "22 Jan",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "5 Dec",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Shams Azar Qazvin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Oct",
+            "opponent": "Kheybar Khorramabad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Foolad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Aluminium Arak",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "28 Jan",
+            "opponent": "Mes Rafsanjan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "16 Jan",
+            "opponent": "Paykan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Dec",
+            "opponent": "Esteghlal Khuzestan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Dec",
+            "opponent": "Chadormalu SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "6 Nov",
+            "opponent": "Gol Gohar",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "24 Oct",
+            "opponent": "Persepolis",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Oct",
+            "opponent": "Sepahan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "19 Sept",
+            "opponent": "Fajr Sepasi",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/902.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.1,
+          "cs": 40,
+          "fts": 30,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.4,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.3,
+          "ga": 1.1,
+          "cs": 30,
+          "fts": 80,
+          "ov25": 20,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 3,
+            "l": 6
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 7,
+            "l": 2
+          },
+          "fhFor": 0.2,
+          "fhAgainst": 0.3,
+          "ovLine": null
+        },
+        "h2h": [
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "31 Oct 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 3,
+            "ag": 3,
+            "hc": null,
+            "ac": null,
+            "date": "2 May 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "21 Dec 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 0,
+            "hc": null,
+            "ac": null,
+            "date": "15 Feb 2024"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "9 Aug 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "8 Feb 2023"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "30 Aug 2022"
+          }
+        ]
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
       "fixtureApid": 19784901,
       "slug": "28260641-persian-gulf-pro-league-fajr-sepasi-sanat-naft",
       "timestamp": "2026-08-19T16:00:00.000Z",
@@ -30912,16 +33057,16 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
-      "fixtureApid": 19784899,
-      "slug": "28260639-persian-gulf-pro-league-malavan-zob-ahan",
-      "timestamp": "2026-08-19T16:00:00.000Z",
+      "fixtureApid": 19712149,
+      "slug": "27834044-copa-libertadores-cerro-porteno-palmeiras",
+      "timestamp": "2026-08-19T22:00:00.000Z",
       "league": {
-        "id": 513,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran"
+        "id": 8108,
+        "name": "Copa Libertadores",
+        "country": "South America"
       },
-      "home": "Malavan",
-      "away": "Zob Ahan",
+      "home": "Cerro Porteño",
+      "away": "Palmeiras",
       "locked": true,
       "finished": false,
       "score": null,
@@ -30938,16 +33083,16 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
-      "fixtureApid": 19712149,
-      "slug": "27834044-copa-libertadores-cerro-porteno-palmeiras",
+      "fixtureApid": 19712150,
+      "slug": "27834045-copa-libertadores-coquimbo-unido-platense",
       "timestamp": "2026-08-19T22:00:00.000Z",
       "league": {
         "id": 8108,
         "name": "Copa Libertadores",
         "country": "South America"
       },
-      "home": "Cerro Porteño",
-      "away": "Palmeiras",
+      "home": "Coquimbo Unido",
+      "away": "Platense",
       "locked": true,
       "finished": false,
       "score": null,
