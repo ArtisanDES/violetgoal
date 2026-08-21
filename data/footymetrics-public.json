@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-21T05:54:41.893Z",
+  "generatedAt": "2026-08-21T06:28:13.710Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-21T05:54:36.057Z",
-      "bytes": 426248,
+      "fetchedAt": "2026-08-21T06:28:07.245Z",
+      "bytes": 426245,
       "rowCount": 18,
-      "serverTotal": 339
+      "serverTotal": 340
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-21T05:54:36.757Z",
+      "fetchedAt": "2026-08-21T06:28:08.323Z",
       "bytes": 354714,
       "rowCount": 8,
       "serverTotal": 57
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-21T05:54:37.197Z",
+      "fetchedAt": "2026-08-21T06:28:09.005Z",
       "bytes": 357214,
       "rowCount": 8,
       "serverTotal": 57
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-21T05:54:37.589Z",
+      "fetchedAt": "2026-08-21T06:28:09.853Z",
       "bytes": 356158,
       "rowCount": 8,
       "serverTotal": 57
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-21T05:54:38.122Z",
+      "fetchedAt": "2026-08-21T06:28:10.527Z",
       "bytes": 348946,
       "rowCount": 7,
       "serverTotal": 49
@@ -45,7 +45,7 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-21T05:54:39.916Z",
+      "fetchedAt": "2026-08-21T06:28:11.215Z",
       "bytes": 354367,
       "rowCount": 8,
       "serverTotal": 57
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-21T05:54:40.809Z",
+      "fetchedAt": "2026-08-21T06:28:11.508Z",
       "bytes": 354161,
       "rowCount": 8,
       "serverTotal": 57
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-21T05:54:41.190Z",
-      "bytes": 341294,
+      "fetchedAt": "2026-08-21T06:28:11.956Z",
+      "bytes": 341295,
       "rowCount": 5,
-      "serverTotal": 1042
+      "serverTotal": 1058
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-21T05:54:41.498Z",
+      "fetchedAt": "2026-08-21T06:28:12.451Z",
       "bytes": 1681604,
       "rowCount": 200,
       "serverTotal": 200
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-21T05:54:41.893Z",
+      "fetchedAt": "2026-08-21T06:28:13.709Z",
       "bytes": 485793,
       "rowCount": 0,
       "serverTotal": 0
@@ -4727,14 +4727,14 @@
         "hasEdge": true,
         "line": 4.5,
         "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
+        "bookmaker": "Kambi",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.11
+            "odds": 1.08
           },
           {
             "id": 2,
@@ -9541,8 +9541,8 @@
         "selection": "over",
         "label": "Over 2.5 goals",
         "probability": 82,
-        "odds": 1.01,
-        "edge": -17,
+        "odds": 1.02,
+        "edge": -16,
         "hasEdge": false,
         "line": 2.5,
         "bookmaker": "Bet365",
@@ -9552,7 +9552,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.01
+            "odds": 1.02
           },
           {
             "id": 2,
@@ -13730,7 +13730,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.06
+            "odds": 1.05
           },
           {
             "id": 2,
