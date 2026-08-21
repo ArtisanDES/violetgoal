@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-21T07:23:32.005Z",
+  "generatedAt": "2026-08-21T08:02:54.975Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-21T07:23:29.187Z",
-      "bytes": 426245,
+      "fetchedAt": "2026-08-21T08:02:52.971Z",
+      "bytes": 426177,
       "rowCount": 18,
       "serverTotal": 335
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-21T07:23:29.519Z",
+      "fetchedAt": "2026-08-21T08:02:53.185Z",
       "bytes": 354714,
       "rowCount": 8,
       "serverTotal": 57
@@ -21,15 +21,15 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-21T07:23:29.798Z",
-      "bytes": 357214,
+      "fetchedAt": "2026-08-21T08:02:53.401Z",
+      "bytes": 357224,
       "rowCount": 8,
       "serverTotal": 57
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-21T07:23:30.080Z",
+      "fetchedAt": "2026-08-21T08:02:53.638Z",
       "bytes": 356158,
       "rowCount": 8,
       "serverTotal": 57
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-21T07:23:30.363Z",
-      "bytes": 348946,
+      "fetchedAt": "2026-08-21T08:02:53.862Z",
+      "bytes": 349084,
       "rowCount": 7,
       "serverTotal": 49
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-21T07:23:30.640Z",
+      "fetchedAt": "2026-08-21T08:02:54.112Z",
       "bytes": 354367,
       "rowCount": 8,
       "serverTotal": 57
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-21T07:23:30.918Z",
+      "fetchedAt": "2026-08-21T08:02:54.346Z",
       "bytes": 354161,
       "rowCount": 8,
       "serverTotal": 57
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-21T07:23:31.123Z",
+      "fetchedAt": "2026-08-21T08:02:54.497Z",
       "bytes": 341296,
       "rowCount": 5,
-      "serverTotal": 1067
+      "serverTotal": 1066
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-21T07:23:31.531Z",
+      "fetchedAt": "2026-08-21T08:02:54.690Z",
       "bytes": 1681604,
       "rowCount": 200,
       "serverTotal": 200
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-21T07:23:32.005Z",
+      "fetchedAt": "2026-08-21T08:02:54.975Z",
       "bytes": 485793,
       "rowCount": 0,
       "serverTotal": 0
@@ -4734,7 +4734,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.11
+            "odds": 1.08
           },
           {
             "id": 2,
@@ -5144,17 +5144,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19792677-total_goals-under-3.5",
-      "fixtureApid": 19792677,
-      "slug": "28911077-premier-league-zamalek-al-ittihad",
-      "timestamp": "2026-08-21T17:00:00.000Z",
+      "rowId": "19768912-away_goals-under-2.5",
+      "fixtureApid": 19768912,
+      "slug": "28052868-serie-b-vicenza-catanzaro",
+      "timestamp": "2026-08-21T18:30:00.000Z",
       "league": {
-        "id": 62,
-        "name": "Premier League",
-        "country": "Egypt"
+        "id": 36,
+        "name": "Serie B",
+        "country": "Italy"
       },
-      "home": "Zamalek",
-      "away": "Al Ittihad",
+      "home": "Vicenza",
+      "away": "Catanzaro",
       "locked": true,
       "finished": false,
       "score": null,
@@ -6350,8 +6350,8 @@
         "selection": "2",
         "label": "Away win",
         "probability": 91,
-        "odds": 1.02,
-        "edge": -7,
+        "odds": 1.01,
+        "edge": -8,
         "hasEdge": false,
         "line": null,
         "bookmaker": "Bet365",
@@ -6361,7 +6361,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.02
+            "odds": 1.01
           },
           {
             "id": 2,
@@ -6406,7 +6406,7 @@
         },
         "away": {
           "prob": 91,
-          "odds": 1.02
+          "odds": 1.01
         }
       },
       "form": {
@@ -7841,11 +7841,11 @@
         "selection": "yes",
         "label": "BTTS: Yes",
         "probability": 67,
-        "odds": 1.41,
-        "edge": -3.9,
+        "odds": 1.4,
+        "edge": -4.4,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Kambi",
+        "bookmaker": "Ladbrokes",
         "prices": [
           {
             "id": 1,
@@ -7859,7 +7859,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.41
+            "odds": null
           },
           {
             "id": 3,
@@ -9597,7 +9597,7 @@
         },
         "away": {
           "prob": 91,
-          "odds": 1.02
+          "odds": 1.01
         }
       },
       "form": {
@@ -10601,8 +10601,8 @@
         "selection": "under",
         "label": "Home under 2.5 goals",
         "probability": 90,
-        "odds": 1.25,
-        "edge": 10,
+        "odds": 1.29,
+        "edge": 12.5,
         "hasEdge": true,
         "line": 2.5,
         "bookmaker": "Bet365",
@@ -10612,7 +10612,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.25
+            "odds": 1.29
           },
           {
             "id": 2,
@@ -10997,16 +10997,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19635905,
-      "slug": "28052849-allsvenskan-sirius-hacken",
-      "timestamp": "2026-08-21T17:00:00.000Z",
+      "fixtureApid": 19768912,
+      "slug": "28052868-serie-b-vicenza-catanzaro",
+      "timestamp": "2026-08-21T18:30:00.000Z",
       "league": {
-        "id": 46,
-        "name": "Allsvenskan",
-        "country": "Sweden"
+        "id": 36,
+        "name": "Serie B",
+        "country": "Italy"
       },
-      "home": "Sirius",
-      "away": "Häcken",
+      "home": "Vicenza",
+      "away": "Catanzaro",
       "locked": true,
       "finished": false,
       "score": null,
@@ -11023,16 +11023,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19715994,
-      "slug": "28052855-eerste-divisie-helmond-sport-rkc-waalwijk",
-      "timestamp": "2026-08-21T18:00:00.000Z",
+      "fixtureApid": 19635905,
+      "slug": "28052849-allsvenskan-sirius-hacken",
+      "timestamp": "2026-08-21T17:00:00.000Z",
       "league": {
-        "id": 19,
-        "name": "Eerste Divisie",
-        "country": "Netherlands"
+        "id": 46,
+        "name": "Allsvenskan",
+        "country": "Sweden"
       },
-      "home": "Helmond Sport",
-      "away": "RKC Waalwijk",
+      "home": "Sirius",
+      "away": "Häcken",
       "locked": true,
       "finished": false,
       "score": null,
@@ -12284,7 +12284,7 @@
         },
         "away": {
           "prob": 91,
-          "odds": 1.02
+          "odds": 1.01
         }
       },
       "form": {
@@ -13775,7 +13775,7 @@
         },
         "away": {
           "prob": 91,
-          "odds": 1.02
+          "odds": 1.01
         }
       },
       "form": {
