@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-21T05:01:40.611Z",
+  "generatedAt": "2026-08-21T05:54:41.893Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-21T05:01:37.996Z",
-      "bytes": 426250,
+      "fetchedAt": "2026-08-21T05:54:36.057Z",
+      "bytes": 426248,
       "rowCount": 18,
-      "serverTotal": 340
+      "serverTotal": 339
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-21T05:01:38.363Z",
+      "fetchedAt": "2026-08-21T05:54:36.757Z",
       "bytes": 354714,
       "rowCount": 8,
       "serverTotal": 57
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-21T05:01:38.597Z",
+      "fetchedAt": "2026-08-21T05:54:37.197Z",
       "bytes": 357214,
       "rowCount": 8,
       "serverTotal": 57
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-21T05:01:39.074Z",
+      "fetchedAt": "2026-08-21T05:54:37.589Z",
       "bytes": 356158,
       "rowCount": 8,
       "serverTotal": 57
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-21T05:01:39.307Z",
+      "fetchedAt": "2026-08-21T05:54:38.122Z",
       "bytes": 348946,
       "rowCount": 7,
       "serverTotal": 49
@@ -45,15 +45,15 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-21T05:01:39.574Z",
-      "bytes": 354370,
+      "fetchedAt": "2026-08-21T05:54:39.916Z",
+      "bytes": 354367,
       "rowCount": 8,
       "serverTotal": 57
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-21T05:01:39.792Z",
+      "fetchedAt": "2026-08-21T05:54:40.809Z",
       "bytes": 354161,
       "rowCount": 8,
       "serverTotal": 57
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-21T05:01:40.140Z",
+      "fetchedAt": "2026-08-21T05:54:41.190Z",
       "bytes": 341294,
       "rowCount": 5,
       "serverTotal": 1042
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-21T05:01:40.330Z",
+      "fetchedAt": "2026-08-21T05:54:41.498Z",
       "bytes": 1681604,
       "rowCount": 200,
       "serverTotal": 200
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-21T05:01:40.610Z",
+      "fetchedAt": "2026-08-21T05:54:41.893Z",
       "bytes": 485793,
       "rowCount": 0,
       "serverTotal": 0
@@ -4771,7 +4771,7 @@
       "matchResult": {
         "home": {
           "prob": 35,
-          "odds": 2.25
+          "odds": 2.35
         },
         "draw": {
           "prob": 29,
@@ -4779,7 +4779,7 @@
         },
         "away": {
           "prob": 36,
-          "odds": 3.1
+          "odds": 3
         }
       },
       "form": {
@@ -9541,8 +9541,8 @@
         "selection": "over",
         "label": "Over 2.5 goals",
         "probability": 82,
-        "odds": 1.02,
-        "edge": -16,
+        "odds": 1.01,
+        "edge": -17,
         "hasEdge": false,
         "line": 2.5,
         "bookmaker": "Bet365",
@@ -9552,7 +9552,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.02
+            "odds": 1.01
           },
           {
             "id": 2,
@@ -12232,7 +12232,7 @@
         "edge": -3,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Paddy Power",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
@@ -13730,7 +13730,7 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.05
+            "odds": 1.06
           },
           {
             "id": 2,
@@ -24080,1784 +24080,6 @@
     },
     {
       "sourcePath": "/predictions/yesterday",
-      "rowId": "19609714-double_chance-12-x",
-      "fixtureApid": 19609714,
-      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
-      "timestamp": "2026-08-19T23:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Cincinnati",
-      "away": "New York City",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 77,
-        "odds": 1.25,
-        "edge": -3,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.24
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.25
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.23
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": {
-        "home": {
-          "prob": 51,
-          "odds": 1.96
-        },
-        "draw": {
-          "prob": 23,
-          "odds": 4.2
-        },
-        "away": {
-          "prob": 26,
-          "odds": 3.75
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": null,
-            "date": "22 Jul",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-2",
-            "corners": null,
-            "date": "23 May",
-            "opponent": "Orlando",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-5",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Chicago",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Toronto",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Atlanta United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "23 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "22 Jul",
-            "opponent": "Columbus Crew",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Nashville SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Charlotte",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "24 Nov",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 2.8,
-          "ga": 2.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 80,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 1,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 1.4,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 1,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.7,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609714-btts-yes-x",
-      "fixtureApid": 19609714,
-      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
-      "timestamp": "2026-08-19T23:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Cincinnati",
-      "away": "New York City",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 62,
-        "odds": 1.44,
-        "edge": -7.4,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.44
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.41
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.36
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.4
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.36
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": null,
-            "date": "22 Jul",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-2",
-            "corners": null,
-            "date": "23 May",
-            "opponent": "Orlando",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-5",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Chicago",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Toronto",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Atlanta United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "23 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "22 Jul",
-            "opponent": "Columbus Crew",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Nashville SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Charlotte",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "24 Nov",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 2.8,
-          "ga": 2.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 80,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 1,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 1.4,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 1,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.7,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609714-total_goals-over-1.5",
-      "fixtureApid": 19609714,
-      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
-      "timestamp": "2026-08-19T23:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Cincinnati",
-      "away": "New York City",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "over",
-        "label": "Over 1.5 goals",
-        "probability": 83,
-        "odds": 1.13,
-        "edge": -5.5,
-        "hasEdge": false,
-        "line": 1.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.08
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": null,
-            "date": "22 Jul",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-2",
-            "corners": null,
-            "date": "23 May",
-            "opponent": "Orlando",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-5",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Chicago",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Toronto",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Atlanta United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "23 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "22 Jul",
-            "opponent": "Columbus Crew",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Nashville SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Charlotte",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "24 Nov",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 2.8,
-          "ga": 2.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 80,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 1,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 1.4,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 1,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.7,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609714-away_goals-under-2.5",
-      "fixtureApid": 19609714,
-      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
-      "timestamp": "2026-08-19T23:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Cincinnati",
-      "away": "New York City",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "away_goals",
-        "selection": "under",
-        "label": "Away under 2.5 goals",
-        "probability": 87,
-        "odds": 1.17,
-        "edge": 1.5,
-        "hasEdge": true,
-        "line": 2.5,
-        "marketLabel": "Away goals",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.15
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": null,
-            "date": "2 Aug",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": null,
-            "date": "22 Jul",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-2",
-            "corners": null,
-            "date": "23 May",
-            "opponent": "Orlando",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-5",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Chicago",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": null,
-            "date": "22 Mar",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Toronto",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Atlanta United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": null,
-            "date": "23 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "22 Jul",
-            "opponent": "Columbus Crew",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "24 May",
-            "opponent": "Nashville SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Charlotte",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": null,
-            "date": "29 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "24 Nov",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 2.8,
-          "ga": 2.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 80,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 1,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 1,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 1.4,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 1,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.7,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19609714-total_corners-over-6.5",
-      "fixtureApid": 19609714,
-      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
-      "timestamp": "2026-08-19T23:30:00.000Z",
-      "league": {
-        "id": 58,
-        "name": "Major League Soccer",
-        "country": "United States"
-      },
-      "home": "Cincinnati",
-      "away": "New York City",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 6.5 corners",
-        "probability": 75,
-        "odds": 1.14,
-        "edge": -12.7,
-        "hasEdge": false,
-        "line": 6.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.12
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.11
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "7 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-2",
-            "corners": 15,
-            "date": "2 Aug",
-            "opponent": "San Jose",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": 4,
-            "date": "22 Jul",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "6-2",
-            "corners": 15,
-            "date": "23 May",
-            "opponent": "Orlando",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-5",
-            "corners": 9,
-            "date": "13 May",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": 11,
-            "date": "25 Apr",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": 10,
-            "date": "18 Apr",
-            "opponent": "Chicago",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-3",
-            "corners": 4,
-            "date": "22 Mar",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-1",
-            "corners": 15,
-            "date": "8 Mar",
-            "opponent": "Toronto",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": 7,
-            "date": "21 Feb",
-            "opponent": "Atlanta United",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-4",
-            "corners": 6,
-            "date": "23 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 3,
-            "date": "22 Jul",
-            "opponent": "Columbus Crew",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": 9,
-            "date": "24 May",
-            "opponent": "Nashville SC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 12,
-            "date": "16 May",
-            "opponent": "New York RB",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 10,
-            "date": "13 May",
-            "opponent": "Charlotte",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 4,
-            "date": "25 Apr",
-            "opponent": "Montréal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": 17,
-            "date": "11 Apr",
-            "opponent": "Vancouver",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 9,
-            "date": "1 Mar",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 3,
-            "date": "23 Feb",
-            "opponent": "LA Galaxy",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "5-1",
-            "corners": 7,
-            "date": "29 Nov",
-            "opponent": "Inter Miami",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 11,
-            "date": "24 Nov",
-            "opponent": "Philadelphia",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 2.8,
-          "ga": 2.3,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 70,
-          "btts": 60,
-          "scored2": 80,
-          "cAvg": 9.6,
-          "cf": 4.9,
-          "ca": 4.7,
-          "record": {
-            "w": 6,
-            "d": 1,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 3,
-            "d": 4,
-            "l": 3
-          },
-          "fhFor": 1.1,
-          "fhAgainst": 1,
-          "ovLine": 70
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 1.4,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 20,
-          "cAvg": 8.5,
-          "cf": 2.5,
-          "ca": 6,
-          "record": {
-            "w": 4,
-            "d": 2,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 1,
-            "l": 5
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.7,
-          "ovLine": 70
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
       "rowId": "19609718-1x2-1-x",
       "fixtureApid": 19609718,
       "slug": "27834051-major-league-soccer-new-york-rb-nashville-sc",
@@ -26292,7 +24514,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -26645,7 +24867,7 @@
       },
       "settlement": "lost",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -26998,7 +25220,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -27351,7 +25573,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -27704,7 +25926,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -28057,7 +26279,7 @@
       },
       "settlement": "won",
       "actual": "17 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
       "form": {
         "home": [
           {
@@ -28335,6 +26557,1784 @@
           },
           "fhFor": 0.5,
           "fhAgainst": 0.3,
+          "ovLine": 70
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19609714-double_chance-12-x",
+      "fixtureApid": 19609714,
+      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
+      "timestamp": "2026-08-19T23:30:00.000Z",
+      "league": {
+        "id": 58,
+        "name": "Major League Soccer",
+        "country": "United States"
+      },
+      "home": "Cincinnati",
+      "away": "New York City",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 77,
+        "odds": 1.25,
+        "edge": -3,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.2
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.24
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.2
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.25
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.23
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 51,
+          "odds": 1.96
+        },
+        "draw": {
+          "prob": 23,
+          "odds": 4.2
+        },
+        "away": {
+          "prob": 26,
+          "odds": 3.75
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "San Jose",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-2",
+            "corners": null,
+            "date": "23 May",
+            "opponent": "Orlando",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-5",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Chicago",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Toronto",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Atlanta United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "23 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Columbus Crew",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Nashville SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Charlotte",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "LA Galaxy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "24 Nov",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 2.8,
+          "ga": 2.3,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 80,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.4,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 2,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 1,
+            "l": 5
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.7,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19609714-btts-yes-x",
+      "fixtureApid": 19609714,
+      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
+      "timestamp": "2026-08-19T23:30:00.000Z",
+      "league": {
+        "id": 58,
+        "name": "Major League Soccer",
+        "country": "United States"
+      },
+      "home": "Cincinnati",
+      "away": "New York City",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 62,
+        "odds": 1.44,
+        "edge": -7.4,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "BTTS",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.44
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.41
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.36
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.4
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.36
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "BTTS Yes",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "San Jose",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-2",
+            "corners": null,
+            "date": "23 May",
+            "opponent": "Orlando",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-5",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Chicago",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Toronto",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Atlanta United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "23 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Columbus Crew",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Nashville SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Charlotte",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "LA Galaxy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "24 Nov",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 2.8,
+          "ga": 2.3,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 80,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.4,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 2,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 1,
+            "l": 5
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.7,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19609714-total_goals-over-1.5",
+      "fixtureApid": 19609714,
+      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
+      "timestamp": "2026-08-19T23:30:00.000Z",
+      "league": {
+        "id": 58,
+        "name": "Major League Soccer",
+        "country": "United States"
+      },
+      "home": "Cincinnati",
+      "away": "New York City",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 1.5 goals",
+        "probability": 83,
+        "odds": 1.13,
+        "edge": -5.5,
+        "hasEdge": false,
+        "line": 1.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.08
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.11
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "3 goals",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "San Jose",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-2",
+            "corners": null,
+            "date": "23 May",
+            "opponent": "Orlando",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-5",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Chicago",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Toronto",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Atlanta United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "23 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Columbus Crew",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Nashville SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Charlotte",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "LA Galaxy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "24 Nov",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 2.8,
+          "ga": 2.3,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 80,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.4,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 2,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 1,
+            "l": 5
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.7,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19609714-away_goals-under-2.5",
+      "fixtureApid": 19609714,
+      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
+      "timestamp": "2026-08-19T23:30:00.000Z",
+      "league": {
+        "id": 58,
+        "name": "Major League Soccer",
+        "country": "United States"
+      },
+      "home": "Cincinnati",
+      "away": "New York City",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "away_goals",
+        "selection": "under",
+        "label": "Away under 2.5 goals",
+        "probability": 87,
+        "odds": 1.17,
+        "edge": 1.5,
+        "hasEdge": true,
+        "line": 2.5,
+        "marketLabel": "Away goals",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.15
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "1 scored",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "San Jose",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-2",
+            "corners": null,
+            "date": "23 May",
+            "opponent": "Orlando",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-5",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Chicago",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Mar",
+            "opponent": "Toronto",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Atlanta United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": null,
+            "date": "23 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "22 Jul",
+            "opponent": "Columbus Crew",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "24 May",
+            "opponent": "Nashville SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Charlotte",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "LA Galaxy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": null,
+            "date": "29 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "24 Nov",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 2.8,
+          "ga": 2.3,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 80,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 1,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.4,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 20,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 2,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 1,
+            "l": 5
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.7,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19609714-total_corners-over-6.5",
+      "fixtureApid": 19609714,
+      "slug": "27834049-major-league-soccer-cincinnati-new-york-city",
+      "timestamp": "2026-08-19T23:30:00.000Z",
+      "league": {
+        "id": 58,
+        "name": "Major League Soccer",
+        "country": "United States"
+      },
+      "home": "Cincinnati",
+      "away": "New York City",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 75,
+        "odds": 1.14,
+        "edge": -12.7,
+        "hasEdge": false,
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.12
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.11
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "7 corners",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-2",
+            "corners": 15,
+            "date": "2 Aug",
+            "opponent": "San Jose",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": 4,
+            "date": "22 Jul",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-2",
+            "corners": 15,
+            "date": "23 May",
+            "opponent": "Orlando",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-5",
+            "corners": 9,
+            "date": "13 May",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": 11,
+            "date": "25 Apr",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "3-3",
+            "corners": 10,
+            "date": "18 Apr",
+            "opponent": "Chicago",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": 4,
+            "date": "22 Mar",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-1",
+            "corners": 15,
+            "date": "8 Mar",
+            "opponent": "Toronto",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": 7,
+            "date": "21 Feb",
+            "opponent": "Atlanta United",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-4",
+            "corners": 6,
+            "date": "23 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 3,
+            "date": "22 Jul",
+            "opponent": "Columbus Crew",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": 9,
+            "date": "24 May",
+            "opponent": "Nashville SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 12,
+            "date": "16 May",
+            "opponent": "New York RB",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 10,
+            "date": "13 May",
+            "opponent": "Charlotte",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 4,
+            "date": "25 Apr",
+            "opponent": "Montréal",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": 17,
+            "date": "11 Apr",
+            "opponent": "Vancouver",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 9,
+            "date": "1 Mar",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 3,
+            "date": "23 Feb",
+            "opponent": "LA Galaxy",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-1",
+            "corners": 7,
+            "date": "29 Nov",
+            "opponent": "Inter Miami",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 11,
+            "date": "24 Nov",
+            "opponent": "Philadelphia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/779.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 2.8,
+          "ga": 2.3,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 70,
+          "btts": 60,
+          "scored2": 80,
+          "cAvg": 9.6,
+          "cf": 4.9,
+          "ca": 4.7,
+          "record": {
+            "w": 6,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 4,
+            "l": 3
+          },
+          "fhFor": 1.1,
+          "fhAgainst": 1,
+          "ovLine": 70
+        },
+        "away": {
+          "n": 10,
+          "gf": 1,
+          "ga": 1.4,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 20,
+          "cAvg": 8.5,
+          "cf": 2.5,
+          "ca": 6,
+          "record": {
+            "w": 4,
+            "d": 2,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 1,
+            "l": 5
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.7,
           "ovLine": 70
         },
         "h2h": []
