@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-21T09:05:27.068Z",
+  "generatedAt": "2026-08-21T09:58:03.659Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-21T09:05:24.817Z",
+      "fetchedAt": "2026-08-21T09:58:00.683Z",
       "bytes": 426177,
       "rowCount": 18,
-      "serverTotal": 336
+      "serverTotal": 338
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-21T09:05:25.062Z",
+      "fetchedAt": "2026-08-21T09:58:00.936Z",
       "bytes": 354714,
       "rowCount": 8,
       "serverTotal": 57
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-21T09:05:25.290Z",
+      "fetchedAt": "2026-08-21T09:58:01.239Z",
       "bytes": 357214,
       "rowCount": 8,
       "serverTotal": 57
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-21T09:05:25.560Z",
+      "fetchedAt": "2026-08-21T09:58:01.638Z",
       "bytes": 356158,
       "rowCount": 8,
       "serverTotal": 57
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-21T09:05:25.795Z",
-      "bytes": 349084,
+      "fetchedAt": "2026-08-21T09:58:02.256Z",
+      "bytes": 349094,
       "rowCount": 7,
       "serverTotal": 50
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-21T09:05:26.108Z",
+      "fetchedAt": "2026-08-21T09:58:02.603Z",
       "bytes": 354367,
       "rowCount": 8,
       "serverTotal": 57
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-21T09:05:26.391Z",
+      "fetchedAt": "2026-08-21T09:58:02.915Z",
       "bytes": 354161,
       "rowCount": 8,
       "serverTotal": 57
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-21T09:05:26.553Z",
-      "bytes": 341289,
+      "fetchedAt": "2026-08-21T09:58:03.085Z",
+      "bytes": 341219,
       "rowCount": 5,
-      "serverTotal": 1066
+      "serverTotal": 1068
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-21T09:05:26.763Z",
+      "fetchedAt": "2026-08-21T09:58:03.309Z",
       "bytes": 1682144,
       "rowCount": 200,
       "serverTotal": 200
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-21T09:05:27.067Z",
+      "fetchedAt": "2026-08-21T09:58:03.659Z",
       "bytes": 485793,
       "rowCount": 0,
       "serverTotal": 0
@@ -11023,16 +11023,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19635905,
-      "slug": "28052849-allsvenskan-sirius-hacken",
-      "timestamp": "2026-08-21T17:00:00.000Z",
+      "fixtureApid": 19732730,
+      "slug": "28052873-la-liga-real-betis-real-sociedad",
+      "timestamp": "2026-08-21T19:00:00.000Z",
       "league": {
-        "id": 46,
-        "name": "Allsvenskan",
-        "country": "Sweden"
+        "id": 11,
+        "name": "La Liga",
+        "country": "Spain"
       },
-      "home": "Sirius",
-      "away": "Häcken",
+      "home": "Real Betis",
+      "away": "Real Sociedad",
       "locked": true,
       "finished": false,
       "score": null,
@@ -14030,30 +14030,30 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19746640-away_goals-under-2.5",
-      "fixtureApid": 19746640,
-      "slug": "28294532-super-lig-corum-fk-kasimpasa",
-      "timestamp": "2026-08-22T16:00:00.000Z",
+      "rowId": "19715277-home_goals-under-2.5",
+      "fixtureApid": 19715277,
+      "slug": "28162576-liga-mx-queretaro-toluca",
+      "timestamp": "2026-08-22T03:10:00.000Z",
       "league": {
-        "id": 48,
-        "name": "Super Lig",
-        "country": "Turkey"
+        "id": 55,
+        "name": "Liga MX",
+        "country": "Mexico"
       },
-      "home": "Çorum FK",
-      "away": "Kasımpaşa",
+      "home": "Querétaro",
+      "away": "Toluca",
       "locked": false,
       "finished": false,
       "score": null,
       "bestTip": {
-        "market": "away_goals",
+        "market": "home_goals",
         "selection": "under",
-        "label": "Away under 2.5 goals",
-        "probability": 94,
-        "odds": 1.13,
-        "edge": 5.5,
+        "label": "Home under 2.5 goals",
+        "probability": 93,
+        "odds": 1.11,
+        "edge": 2.9,
         "hasEdge": true,
         "line": 2.5,
-        "marketLabel": "Away goals",
+        "marketLabel": "Home goals",
         "bookmaker": "Bet365",
         "prices": [
           {
@@ -14061,14 +14061,14 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.13
+            "odds": 1.11
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.08
           },
           {
             "id": 3,
@@ -14097,73 +14097,29 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 60,
-          "odds": 2.45
+          "prob": 24,
+          "odds": 4.1
         },
         "draw": {
-          "prob": 23,
-          "odds": 3.5
+          "prob": 24,
+          "odds": 3.8
         },
         "away": {
-          "prob": 17,
-          "odds": 3.05
+          "prob": 53,
+          "odds": 1.85
         }
       },
       "form": {
         "home": [
           {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "W",
-            "score": "2-0",
+            "score": "3-2",
             "corners": null,
-            "date": "15 May",
-            "opponent": "Bodrum FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "7 May",
-            "opponent": "Keçiörengücü",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Erzurumspor FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-1",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Sivasspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Apr",
-            "opponent": "Bodrum FK",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "date": "1 Aug",
+            "opponent": "Tigres UANL",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
             "leagueLogoDark": null
           },
           {
@@ -14172,31 +14128,75 @@
             "res": "L",
             "score": "0-1",
             "corners": null,
-            "date": "3 Apr",
-            "opponent": "Bandırmaspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "date": "19 Jul",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
-            "res": "W",
-            "score": "2-1",
+            "res": "D",
+            "score": "1-1",
             "corners": null,
-            "date": "16 Mar",
-            "opponent": "Esenler Erokspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "date": "22 Apr",
+            "opponent": "Cruz Azul",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "W",
             "score": "3-1",
             "corners": null,
+            "date": "11 Apr",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "8 Apr",
+            "opponent": "Juárez",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Toluca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
             "date": "7 Mar",
-            "opponent": "Hatayspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Santos Laguna",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
             "leagueLogoDark": null
           },
           {
@@ -14205,121 +14205,9 @@
             "res": "W",
             "score": "2-0",
             "corners": null,
-            "date": "22 Feb",
-            "opponent": "Ümraniyespor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-3",
-            "corners": null,
-            "date": "13 Feb",
-            "opponent": "İstanbulspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/603.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-2",
-            "corners": null,
-            "date": "9 May",
-            "opponent": "Gençlerbirliği",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "24 Apr",
-            "opponent": "İstanbul Başakşehir",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "12 Apr",
-            "opponent": "Göztepe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "19 Mar",
-            "opponent": "Beşiktaş",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Mar",
-            "opponent": "Konyaspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Fenerbahçe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "9 Feb",
-            "opponent": "Gaziantep F.K.",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "23 Jan",
-            "opponent": "Trabzonspor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "21 Dec",
-            "opponent": "Galatasaray",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
+            "date": "7 Feb",
+            "opponent": "León",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
             "leagueLogoDark": null
           },
           {
@@ -14328,9 +14216,121 @@
             "res": "D",
             "score": "0-0",
             "corners": null,
-            "date": "7 Dec",
-            "opponent": "Kocaelispor",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/600.webp",
+            "date": "1 Feb",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "15 Aug",
+            "opponent": "Atlante",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "19 Jul",
+            "opponent": "Guadalajara",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "10 May",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-3",
+            "corners": null,
+            "date": "23 Apr",
+            "opponent": "Mazatlán",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "América",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Querétaro",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "22 Mar",
+            "opponent": "Pachuca",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "4 Mar",
+            "opponent": "Pumas UNAM",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-3",
+            "corners": null,
+            "date": "22 Feb",
+            "opponent": "Necaxa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Puebla",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/743.webp",
             "leagueLogoDark": null
           }
         ]
@@ -14338,84 +14338,58 @@
       "modelStats": {
         "home": {
           "n": 10,
-          "gf": 1.7,
-          "ga": 0.9,
+          "gf": 1.4,
+          "ga": 1,
           "cs": 30,
-          "fts": 10,
+          "fts": 20,
           "ov25": 40,
           "btts": 60,
-          "scored2": 60,
+          "scored2": 40,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 6,
-            "d": 2,
+            "w": 4,
+            "d": 4,
             "l": 2
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 7,
+            "l": 0
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.3,
+          "ga": 1.2,
+          "cs": 40,
+          "fts": 40,
+          "ov25": 40,
+          "btts": 40,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
           },
           "htRecord": {
             "w": 3,
             "d": 5,
             "l": 2
           },
-          "fhFor": 0.5,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 1,
-          "ga": 2.1,
-          "cs": 10,
-          "fts": 30,
-          "ov25": 70,
-          "btts": 70,
-          "scored2": 20,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 0,
-            "d": 4,
-            "l": 6
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 6,
-            "l": 4
-          },
-          "fhFor": 0.5,
-          "fhAgainst": 1.1,
+          "fhFor": 0.4,
+          "fhAgainst": 0.3,
           "ovLine": null
         },
         "h2h": []
       }
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
-      "rowId": "19715277-home_goals-under-2.5",
-      "fixtureApid": 19715277,
-      "slug": "28162576-liga-mx-queretaro-toluca",
-      "timestamp": "2026-08-22T03:10:00.000Z",
-      "league": {
-        "id": 55,
-        "name": "Liga MX",
-        "country": "Mexico"
-      },
-      "home": "Querétaro",
-      "away": "Toluca",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions/tomorrow",
@@ -14482,6 +14456,32 @@
       },
       "home": "Le Mans",
       "away": "Brest",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
+      "rowId": "19727762-home_goals-under-2.5",
+      "fixtureApid": 19727762,
+      "slug": "28162432-league-two-walsall-grimsby-town",
+      "timestamp": "2026-08-22T11:30:00.000Z",
+      "league": {
+        "id": 13,
+        "name": "League Two",
+        "country": "England"
+      },
+      "home": "Walsall",
+      "away": "Grimsby Town",
       "locked": true,
       "finished": false,
       "score": null,
