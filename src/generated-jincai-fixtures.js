@@ -2746,7 +2746,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-08-21T03:27:39.816Z",
+  "enrichedAt": "2026-08-21T04:08:43.900Z",
   "enrichment": {
     "providerOverrides": 2,
     "apiFootball": "synced",
