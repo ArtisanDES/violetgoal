@@ -1,27 +1,27 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-22T07:51:52.509Z",
+  "generatedAt": "2026-08-22T08:17:33.602Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-22T07:51:49.317Z",
-      "bytes": 554616,
+      "fetchedAt": "2026-08-22T08:17:30.708Z",
+      "bytes": 554571,
       "rowCount": 38,
-      "serverTotal": 1118
+      "serverTotal": 1122
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-22T07:51:49.625Z",
-      "bytes": 370885,
+      "fetchedAt": "2026-08-22T08:17:30.947Z",
+      "bytes": 370879,
       "rowCount": 10,
       "serverTotal": 300
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-22T07:51:49.951Z",
+      "fetchedAt": "2026-08-22T08:17:31.409Z",
       "bytes": 372382,
       "rowCount": 10,
       "serverTotal": 300
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-22T07:51:50.271Z",
+      "fetchedAt": "2026-08-22T08:17:31.677Z",
       "bytes": 372106,
       "rowCount": 10,
       "serverTotal": 300
@@ -37,47 +37,47 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-22T07:51:50.608Z",
-      "bytes": 369155,
+      "fetchedAt": "2026-08-22T08:17:31.935Z",
+      "bytes": 369110,
       "rowCount": 10,
-      "serverTotal": 173
+      "serverTotal": 174
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-22T07:51:50.936Z",
-      "bytes": 370581,
+      "fetchedAt": "2026-08-22T08:17:32.181Z",
+      "bytes": 370575,
       "rowCount": 10,
       "serverTotal": 300
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-22T07:51:51.235Z",
-      "bytes": 370260,
+      "fetchedAt": "2026-08-22T08:17:32.676Z",
+      "bytes": 370254,
       "rowCount": 10,
       "serverTotal": 300
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-22T07:51:51.474Z",
+      "fetchedAt": "2026-08-22T08:17:32.828Z",
       "bytes": 340270,
       "rowCount": 5,
-      "serverTotal": 813
+      "serverTotal": 815
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-22T07:51:51.947Z",
-      "bytes": 2575100,
+      "fetchedAt": "2026-08-22T08:17:33.161Z",
+      "bytes": 2574590,
       "rowCount": 336,
       "serverTotal": 336
     },
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-22T07:51:52.508Z",
+      "fetchedAt": "2026-08-22T08:17:33.601Z",
       "bytes": 485788,
       "rowCount": 0,
       "serverTotal": 0
@@ -11342,7 +11342,7 @@
       "matchResult": {
         "home": {
           "prob": 60,
-          "odds": 2.15
+          "odds": 2.28
         },
         "draw": {
           "prob": 23,
@@ -11715,17 +11715,17 @@
     },
     {
       "sourcePath": "/predictions",
-      "rowId": "19722199-away_goals-under-2.5",
-      "fixtureApid": 19722199,
-      "slug": "28162467-premier-league-nottingham-forest-leeds-united",
+      "rowId": "19728320-away_goals-under-2.5",
+      "fixtureApid": 19728320,
+      "slug": "28162492-league-one-milton-keynes-dons-huddersfield-town",
       "timestamp": "2026-08-22T14:00:00.000Z",
       "league": {
-        "id": 3,
-        "name": "Premier League",
+        "id": 12,
+        "name": "League One",
         "country": "England"
       },
-      "home": "Nottm Forest",
-      "away": "Leeds",
+      "home": "Milton Keynes Dons",
+      "away": "Huddersfield",
       "locked": true,
       "finished": false,
       "score": null,
@@ -20584,7 +20584,7 @@
       "matchResult": {
         "home": {
           "prob": 60,
-          "odds": 2.15
+          "odds": 2.28
         },
         "draw": {
           "prob": 23,
@@ -20958,16 +20958,16 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
-      "fixtureApid": 19722199,
-      "slug": "28162467-premier-league-nottingham-forest-leeds-united",
+      "fixtureApid": 19728320,
+      "slug": "28162492-league-one-milton-keynes-dons-huddersfield-town",
       "timestamp": "2026-08-22T14:00:00.000Z",
       "league": {
-        "id": 3,
-        "name": "Premier League",
+        "id": 12,
+        "name": "League One",
         "country": "England"
       },
-      "home": "Nottm Forest",
-      "away": "Leeds",
+      "home": "Milton Keynes Dons",
+      "away": "Huddersfield",
       "locked": true,
       "finished": false,
       "score": null,
@@ -132522,7 +132522,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           },
           {
@@ -132577,7 +132577,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Athletic Bilbao",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           }
         ]
@@ -132875,7 +132875,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           },
           {
@@ -132930,7 +132930,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Athletic Bilbao",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           }
         ]
@@ -133228,7 +133228,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           },
           {
@@ -133283,7 +133283,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Athletic Bilbao",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           }
         ]
@@ -133581,7 +133581,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           },
           {
@@ -133636,7 +133636,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Athletic Bilbao",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           }
         ]
@@ -133934,7 +133934,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           },
           {
@@ -133989,7 +133989,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Athletic Bilbao",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           }
         ]
@@ -134287,7 +134287,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           },
           {
@@ -134342,7 +134342,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Athletic Bilbao",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           }
         ]
@@ -134640,7 +134640,7 @@
             "corners": 11,
             "date": "18 Apr",
             "opponent": "Atlético de Madrid",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           },
           {
@@ -134695,7 +134695,7 @@
             "corners": 8,
             "date": "11 Feb",
             "opponent": "Athletic Bilbao",
-            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/570.webp",
             "leagueLogoDark": null
           }
         ]
