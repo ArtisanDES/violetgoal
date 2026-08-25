@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-25T09:05:26.940Z",
+  "generatedAt": "2026-08-25T09:58:30.185Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-25T09:05:23.966Z",
+      "fetchedAt": "2026-08-25T09:58:27.943Z",
       "bytes": 478987,
       "rowCount": 26,
       "serverTotal": 206
@@ -13,15 +13,15 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-25T09:05:24.576Z",
-      "bytes": 356359,
+      "fetchedAt": "2026-08-25T09:58:28.212Z",
+      "bytes": 356365,
       "rowCount": 8,
       "serverTotal": 52
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-25T09:05:24.912Z",
+      "fetchedAt": "2026-08-25T09:58:28.490Z",
       "bytes": 353460,
       "rowCount": 8,
       "serverTotal": 52
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-25T09:05:25.150Z",
+      "fetchedAt": "2026-08-25T09:58:28.736Z",
       "bytes": 355701,
       "rowCount": 8,
       "serverTotal": 52
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-25T09:05:25.571Z",
+      "fetchedAt": "2026-08-25T09:58:28.981Z",
       "bytes": 351952,
       "rowCount": 8,
       "serverTotal": 31
@@ -45,15 +45,15 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-25T09:05:25.793Z",
-      "bytes": 356049,
+      "fetchedAt": "2026-08-25T09:58:29.256Z",
+      "bytes": 356051,
       "rowCount": 8,
       "serverTotal": 52
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-25T09:05:26.046Z",
+      "fetchedAt": "2026-08-25T09:58:29.480Z",
       "bytes": 353586,
       "rowCount": 8,
       "serverTotal": 52
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-25T09:05:26.209Z",
+      "fetchedAt": "2026-08-25T09:58:29.644Z",
       "bytes": 336998,
       "rowCount": 5,
-      "serverTotal": 97
+      "serverTotal": 98
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-25T09:05:26.444Z",
+      "fetchedAt": "2026-08-25T09:58:29.883Z",
       "bytes": 1872492,
       "rowCount": 232,
       "serverTotal": 232
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-25T09:05:26.939Z",
+      "fetchedAt": "2026-08-25T09:58:30.185Z",
       "bytes": 485886,
       "rowCount": 0,
       "serverTotal": 0
@@ -9322,9 +9322,9 @@
         "selection": "2",
         "label": "Away win",
         "probability": 77,
-        "odds": 1.3,
-        "edge": 0.1,
-        "hasEdge": true,
+        "odds": 1.28,
+        "edge": -1.1,
+        "hasEdge": false,
         "line": null,
         "bookmaker": "Ladbrokes",
         "prices": [
@@ -9354,7 +9354,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.3
+            "odds": 1.28
           },
           {
             "id": 5,
@@ -9378,7 +9378,7 @@
         },
         "away": {
           "prob": 77,
-          "odds": 1.3
+          "odds": 1.28
         }
       },
       "form": {
@@ -16176,7 +16176,7 @@
         },
         "away": {
           "prob": 77,
-          "odds": 1.3
+          "odds": 1.28
         }
       },
       "form": {
@@ -47053,2137 +47053,6 @@
     },
     {
       "sourcePath": "/predictions/yesterday",
-      "rowId": "19721229-1x2-2-x",
-      "fixtureApid": 19721229,
-      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
-      "timestamp": "2026-08-24T17:00:00.000Z",
-      "league": {
-        "id": 35,
-        "name": "Ligat ha'Al",
-        "country": "Israel"
-      },
-      "home": "Maccabi Netanya",
-      "away": "Bnei Sakhnin",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 22,
-        "odds": 5,
-        "edge": 2,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 4.5
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 4.25
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 4.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 4.4
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 5
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "X",
-      "matchResult": {
-        "home": {
-          "prob": 54,
-          "odds": 1.66
-        },
-        "draw": {
-          "prob": 24,
-          "odds": 3.8
-        },
-        "away": {
-          "prob": 22,
-          "odds": 5
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-8",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Dec",
-            "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "18 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "30 Dec",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "15 Dec",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Dec",
-            "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 1.5,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.9,
-          "fhAgainst": 0.8,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.7,
-          "cs": 20,
-          "fts": 60,
-          "ov25": 40,
-          "btts": 20,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 7
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 6,
-            "l": 4
-          },
-          "fhFor": 0.1,
-          "fhAgainst": 0.9,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19721229-double_chance-1X-x",
-      "fixtureApid": 19721229,
-      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
-      "timestamp": "2026-08-24T17:00:00.000Z",
-      "league": {
-        "id": 35,
-        "name": "Ligat ha'Al",
-        "country": "Israel"
-      },
-      "home": "Maccabi Netanya",
-      "away": "Bnei Sakhnin",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "1X",
-        "label": "Home or draw",
-        "probability": 78,
-        "odds": 1.18,
-        "edge": -6.7,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.18
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.17
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-8",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Dec",
-            "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "18 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "30 Dec",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "15 Dec",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Dec",
-            "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 1.5,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.9,
-          "fhAgainst": 0.8,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.7,
-          "cs": 20,
-          "fts": 60,
-          "ov25": 40,
-          "btts": 20,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 7
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 6,
-            "l": 4
-          },
-          "fhFor": 0.1,
-          "fhAgainst": 0.9,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19721229-1x2_fh-2-x",
-      "fixtureApid": 19721229,
-      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
-      "timestamp": "2026-08-24T17:00:00.000Z",
-      "league": {
-        "id": 35,
-        "name": "Ligat ha'Al",
-        "country": "Israel"
-      },
-      "home": "Maccabi Netanya",
-      "away": "Bnei Sakhnin",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "2",
-        "label": "Away HT",
-        "probability": 21,
-        "odds": 5,
-        "edge": 1,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 5
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 4.5
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 4.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-8",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Dec",
-            "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "18 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "30 Dec",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "15 Dec",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Dec",
-            "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 1.5,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.9,
-          "fhAgainst": 0.8,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.7,
-          "cs": 20,
-          "fts": 60,
-          "ov25": 40,
-          "btts": 20,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 7
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 6,
-            "l": 4
-          },
-          "fhFor": 0.1,
-          "fhAgainst": 0.9,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19721229-total_goals-under-4.5",
-      "fixtureApid": 19721229,
-      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
-      "timestamp": "2026-08-24T17:00:00.000Z",
-      "league": {
-        "id": 35,
-        "name": "Ligat ha'Al",
-        "country": "Israel"
-      },
-      "home": "Maccabi Netanya",
-      "away": "Bnei Sakhnin",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "under",
-        "label": "Under 4.5 goals",
-        "probability": 84,
-        "odds": 1.14,
-        "edge": -3.7,
-        "hasEdge": false,
-        "line": 4.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "0 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-8",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Dec",
-            "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "18 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "30 Dec",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "15 Dec",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Dec",
-            "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 1.5,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.9,
-          "fhAgainst": 0.8,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.7,
-          "cs": 20,
-          "fts": 60,
-          "ov25": 40,
-          "btts": 20,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 7
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 6,
-            "l": 4
-          },
-          "fhFor": 0.1,
-          "fhAgainst": 0.9,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19721229-home_goals-over-0.5",
-      "fixtureApid": 19721229,
-      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
-      "timestamp": "2026-08-24T17:00:00.000Z",
-      "league": {
-        "id": 35,
-        "name": "Ligat ha'Al",
-        "country": "Israel"
-      },
-      "home": "Maccabi Netanya",
-      "away": "Bnei Sakhnin",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "home_goals",
-        "selection": "over",
-        "label": "Home to score",
-        "probability": 80,
-        "odds": 1.14,
-        "edge": -7.7,
-        "hasEdge": false,
-        "line": 0.5,
-        "marketLabel": "Home goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "13 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "4 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "11 Apr",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-8",
-            "corners": null,
-            "date": "23 Feb",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "9 Jan",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "0-2",
-            "corners": null,
-            "date": "31 Dec",
-            "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "18 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": null,
-            "date": "25 Apr",
-            "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "10 Jan",
-            "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": null,
-            "date": "30 Dec",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "15 Dec",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "8 Dec",
-            "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 1.5,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.9,
-          "fhAgainst": 0.8,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.7,
-          "cs": 20,
-          "fts": 60,
-          "ov25": 40,
-          "btts": 20,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 7
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 6,
-            "l": 4
-          },
-          "fhFor": 0.1,
-          "fhAgainst": 0.9,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19721229-total_corners-over-6.5",
-      "fixtureApid": 19721229,
-      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
-      "timestamp": "2026-08-24T17:00:00.000Z",
-      "league": {
-        "id": 35,
-        "name": "Ligat ha'Al",
-        "country": "Israel"
-      },
-      "home": "Maccabi Netanya",
-      "away": "Bnei Sakhnin",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 6.5 corners",
-        "probability": 77,
-        "odds": 1.22,
-        "edge": -5,
-        "hasEdge": false,
-        "line": 6.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.22
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "16 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 9,
-            "date": "13 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 10,
-            "date": "4 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": 2,
-            "date": "25 Apr",
-            "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": 8,
-            "date": "18 Apr",
-            "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 7,
-            "date": "11 Apr",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-8",
-            "corners": 5,
-            "date": "23 Feb",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 8,
-            "date": "7 Feb",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "4-1",
-            "corners": 11,
-            "date": "24 Jan",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 12,
-            "date": "9 Jan",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "0-2",
-            "corners": 10,
-            "date": "31 Dec",
-            "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": 5,
-            "date": "18 May",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 8,
-            "date": "10 May",
-            "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-0",
-            "corners": 2,
-            "date": "25 Apr",
-            "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-0",
-            "corners": 7,
-            "date": "4 Apr",
-            "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": 10,
-            "date": "15 Feb",
-            "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 5,
-            "date": "24 Jan",
-            "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 14,
-            "date": "10 Jan",
-            "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-2",
-            "corners": 13,
-            "date": "30 Dec",
-            "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": 18,
-            "date": "15 Dec",
-            "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 4,
-            "date": "8 Dec",
-            "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.5,
-          "ga": 1.5,
-          "cs": 30,
-          "fts": 20,
-          "ov25": 40,
-          "btts": 60,
-          "scored2": 40,
-          "cAvg": 8.2,
-          "cf": 4.8,
-          "ca": 3.4,
-          "record": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.9,
-          "fhAgainst": 0.8,
-          "ovLine": 80
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.5,
-          "ga": 1.7,
-          "cs": 20,
-          "fts": 60,
-          "ov25": 40,
-          "btts": 20,
-          "scored2": 10,
-          "cAvg": 8.6,
-          "cf": 2.2,
-          "ca": 6.4,
-          "record": {
-            "w": 2,
-            "d": 1,
-            "l": 7
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 6,
-            "l": 4
-          },
-          "fhFor": 0.1,
-          "fhAgainst": 0.9,
-          "ovLine": 60
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
       "rowId": "19784889-1x2-1-x",
       "fixtureApid": 19784889,
       "slug": "28431414-persian-gulf-pro-league-sanat-naft-foolad",
@@ -49618,7 +47487,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:92:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -49971,7 +47840,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:92:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -50324,7 +48193,7 @@
       },
       "settlement": "lost",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:92:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:86:matchResult",
       "form": {
         "home": [
           {
@@ -50603,6 +48472,2137 @@
           "fhFor": 0.1,
           "fhAgainst": 0.4,
           "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19721229-1x2-2-x",
+      "fixtureApid": 19721229,
+      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
+      "timestamp": "2026-08-24T17:00:00.000Z",
+      "league": {
+        "id": 35,
+        "name": "Ligat ha'Al",
+        "country": "Israel"
+      },
+      "home": "Maccabi Netanya",
+      "away": "Bnei Sakhnin",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "2",
+        "label": "Away win",
+        "probability": 22,
+        "odds": 5,
+        "edge": 2,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 4.25
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 4.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 4.4
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 5
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "X",
+      "matchResult": {
+        "home": {
+          "prob": 54,
+          "odds": 1.66
+        },
+        "draw": {
+          "prob": 24,
+          "odds": 3.8
+        },
+        "away": {
+          "prob": 22,
+          "odds": 5
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Bnei Sakhnin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Ashdod",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-8",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "31 Dec",
+            "opponent": "Hapoel Petah Tikva",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "18 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Maccabi Netanya",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Ironi Tiberias",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Jan",
+            "opponent": "Maccabi Tel Aviv",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "30 Dec",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Dec",
+            "opponent": "Maccabi Bnei Raina",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.5,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.8,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.7,
+          "cs": 20,
+          "fts": 60,
+          "ov25": 40,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 1,
+            "l": 7
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 6,
+            "l": 4
+          },
+          "fhFor": 0.1,
+          "fhAgainst": 0.9,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19721229-double_chance-1X-x",
+      "fixtureApid": 19721229,
+      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
+      "timestamp": "2026-08-24T17:00:00.000Z",
+      "league": {
+        "id": 35,
+        "name": "Ligat ha'Al",
+        "country": "Israel"
+      },
+      "home": "Maccabi Netanya",
+      "away": "Bnei Sakhnin",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "1X",
+        "label": "Home or draw",
+        "probability": 78,
+        "odds": 1.18,
+        "edge": -6.7,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.18
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.17
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1b:props:children:1:props:children:props:rows:90:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Bnei Sakhnin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Ashdod",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-8",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "31 Dec",
+            "opponent": "Hapoel Petah Tikva",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "18 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Maccabi Netanya",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Ironi Tiberias",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Jan",
+            "opponent": "Maccabi Tel Aviv",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "30 Dec",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Dec",
+            "opponent": "Maccabi Bnei Raina",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.5,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.8,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.7,
+          "cs": 20,
+          "fts": 60,
+          "ov25": 40,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 1,
+            "l": 7
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 6,
+            "l": 4
+          },
+          "fhFor": 0.1,
+          "fhAgainst": 0.9,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19721229-1x2_fh-2-x",
+      "fixtureApid": 19721229,
+      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
+      "timestamp": "2026-08-24T17:00:00.000Z",
+      "league": {
+        "id": 35,
+        "name": "Ligat ha'Al",
+        "country": "Israel"
+      },
+      "home": "Maccabi Netanya",
+      "away": "Bnei Sakhnin",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "2",
+        "label": "Away HT",
+        "probability": 21,
+        "odds": 5,
+        "edge": 1,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 5
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 4.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "X",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:90:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Bnei Sakhnin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Ashdod",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-8",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "31 Dec",
+            "opponent": "Hapoel Petah Tikva",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "18 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Maccabi Netanya",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Ironi Tiberias",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Jan",
+            "opponent": "Maccabi Tel Aviv",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "30 Dec",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Dec",
+            "opponent": "Maccabi Bnei Raina",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.5,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.8,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.7,
+          "cs": 20,
+          "fts": 60,
+          "ov25": 40,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 1,
+            "l": 7
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 6,
+            "l": 4
+          },
+          "fhFor": 0.1,
+          "fhAgainst": 0.9,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19721229-total_goals-under-4.5",
+      "fixtureApid": 19721229,
+      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
+      "timestamp": "2026-08-24T17:00:00.000Z",
+      "league": {
+        "id": 35,
+        "name": "Ligat ha'Al",
+        "country": "Israel"
+      },
+      "home": "Maccabi Netanya",
+      "away": "Bnei Sakhnin",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 4.5 goals",
+        "probability": 84,
+        "odds": 1.14,
+        "edge": -3.7,
+        "hasEdge": false,
+        "line": 4.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "0 goals",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:90:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Bnei Sakhnin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Ashdod",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-8",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "31 Dec",
+            "opponent": "Hapoel Petah Tikva",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "18 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Maccabi Netanya",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Ironi Tiberias",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Jan",
+            "opponent": "Maccabi Tel Aviv",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "30 Dec",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Dec",
+            "opponent": "Maccabi Bnei Raina",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.5,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.8,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.7,
+          "cs": 20,
+          "fts": 60,
+          "ov25": 40,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 1,
+            "l": 7
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 6,
+            "l": 4
+          },
+          "fhFor": 0.1,
+          "fhAgainst": 0.9,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19721229-home_goals-over-0.5",
+      "fixtureApid": 19721229,
+      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
+      "timestamp": "2026-08-24T17:00:00.000Z",
+      "league": {
+        "id": 35,
+        "name": "Ligat ha'Al",
+        "country": "Israel"
+      },
+      "home": "Maccabi Netanya",
+      "away": "Bnei Sakhnin",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "home_goals",
+        "selection": "over",
+        "label": "Home to score",
+        "probability": 80,
+        "odds": 1.14,
+        "edge": -7.7,
+        "hasEdge": false,
+        "line": 0.5,
+        "marketLabel": "Home goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "0 scored",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:90:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "13 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "4 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Bnei Sakhnin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Ashdod",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-8",
+            "corners": null,
+            "date": "23 Feb",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "9 Jan",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "31 Dec",
+            "opponent": "Hapoel Petah Tikva",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "18 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": null,
+            "date": "25 Apr",
+            "opponent": "Maccabi Netanya",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Ironi Tiberias",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "10 Jan",
+            "opponent": "Maccabi Tel Aviv",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "30 Dec",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "15 Dec",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "8 Dec",
+            "opponent": "Maccabi Bnei Raina",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.5,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.8,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.7,
+          "cs": 20,
+          "fts": 60,
+          "ov25": 40,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 2,
+            "d": 1,
+            "l": 7
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 6,
+            "l": 4
+          },
+          "fhFor": 0.1,
+          "fhAgainst": 0.9,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19721229-total_corners-over-6.5",
+      "fixtureApid": 19721229,
+      "slug": "28162399-ligat-ha'al-maccabi-netanya-bnei-sakhnin",
+      "timestamp": "2026-08-24T17:00:00.000Z",
+      "league": {
+        "id": 35,
+        "name": "Ligat ha'Al",
+        "country": "Israel"
+      },
+      "home": "Maccabi Netanya",
+      "away": "Bnei Sakhnin",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 77,
+        "odds": 1.22,
+        "edge": -5,
+        "hasEdge": false,
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.22
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "16 corners",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:90:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 9,
+            "date": "13 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": 10,
+            "date": "4 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": 2,
+            "date": "25 Apr",
+            "opponent": "Bnei Sakhnin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": 8,
+            "date": "18 Apr",
+            "opponent": "Ashdod",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 7,
+            "date": "11 Apr",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-8",
+            "corners": 5,
+            "date": "23 Feb",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 8,
+            "date": "7 Feb",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "4-1",
+            "corners": 11,
+            "date": "24 Jan",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 12,
+            "date": "9 Jan",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": 10,
+            "date": "31 Dec",
+            "opponent": "Hapoel Petah Tikva",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": 5,
+            "date": "18 May",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 8,
+            "date": "10 May",
+            "opponent": "Hapoel Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-0",
+            "corners": 2,
+            "date": "25 Apr",
+            "opponent": "Maccabi Netanya",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-0",
+            "corners": 7,
+            "date": "4 Apr",
+            "opponent": "Ironi Kiryat Shmona",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": 10,
+            "date": "15 Feb",
+            "opponent": "Maccabi Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 5,
+            "date": "24 Jan",
+            "opponent": "Ironi Tiberias",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 14,
+            "date": "10 Jan",
+            "opponent": "Maccabi Tel Aviv",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": 13,
+            "date": "30 Dec",
+            "opponent": "Hapoel Haifa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": 18,
+            "date": "15 Dec",
+            "opponent": "Beitar Jerusalem",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 4,
+            "date": "8 Dec",
+            "opponent": "Maccabi Bnei Raina",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.5,
+          "ga": 1.5,
+          "cs": 30,
+          "fts": 20,
+          "ov25": 40,
+          "btts": 60,
+          "scored2": 40,
+          "cAvg": 8.2,
+          "cf": 4.8,
+          "ca": 3.4,
+          "record": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.9,
+          "fhAgainst": 0.8,
+          "ovLine": 80
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.5,
+          "ga": 1.7,
+          "cs": 20,
+          "fts": 60,
+          "ov25": 40,
+          "btts": 20,
+          "scored2": 10,
+          "cAvg": 8.6,
+          "cf": 2.2,
+          "ca": 6.4,
+          "record": {
+            "w": 2,
+            "d": 1,
+            "l": 7
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 6,
+            "l": 4
+          },
+          "fhFor": 0.1,
+          "fhAgainst": 0.9,
+          "ovLine": 60
         },
         "h2h": []
       }
