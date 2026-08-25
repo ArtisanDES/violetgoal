@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-25T19:06:57.762Z",
+  "generatedAt": "2026-08-25T19:52:50.355Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-25T19:06:54.250Z",
+      "fetchedAt": "2026-08-25T19:52:47.416Z",
       "bytes": 738716,
       "rowCount": 65,
       "serverTotal": 207
@@ -13,31 +13,31 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-25T19:06:54.550Z",
-      "bytes": 400503,
+      "fetchedAt": "2026-08-25T19:52:47.717Z",
+      "bytes": 400489,
       "rowCount": 14,
-      "serverTotal": 52
+      "serverTotal": 35
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-25T19:06:55.099Z",
-      "bytes": 397240,
+      "fetchedAt": "2026-08-25T19:52:48.027Z",
+      "bytes": 397330,
       "rowCount": 14,
-      "serverTotal": 52
+      "serverTotal": 35
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-25T19:06:55.803Z",
-      "bytes": 399616,
+      "fetchedAt": "2026-08-25T19:52:48.284Z",
+      "bytes": 399606,
       "rowCount": 14,
-      "serverTotal": 52
+      "serverTotal": 35
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-25T19:06:56.094Z",
+      "fetchedAt": "2026-08-25T19:52:48.612Z",
       "bytes": 391701,
       "rowCount": 14,
       "serverTotal": 31
@@ -45,31 +45,31 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-25T19:06:56.419Z",
-      "bytes": 400291,
+      "fetchedAt": "2026-08-25T19:52:49.162Z",
+      "bytes": 400307,
       "rowCount": 14,
-      "serverTotal": 52
+      "serverTotal": 35
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-25T19:06:56.750Z",
-      "bytes": 397715,
+      "fetchedAt": "2026-08-25T19:52:49.399Z",
+      "bytes": 399767,
       "rowCount": 14,
-      "serverTotal": 52
+      "serverTotal": 35
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-25T19:06:56.958Z",
+      "fetchedAt": "2026-08-25T19:52:49.563Z",
       "bytes": 337152,
       "rowCount": 5,
-      "serverTotal": 127
+      "serverTotal": 126
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-25T19:06:57.229Z",
+      "fetchedAt": "2026-08-25T19:52:49.793Z",
       "bytes": 1692941,
       "rowCount": 206,
       "serverTotal": 206
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-25T19:06:57.762Z",
+      "fetchedAt": "2026-08-25T19:52:50.354Z",
       "bytes": 485886,
       "rowCount": 0,
       "serverTotal": 0
@@ -25519,16 +25519,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19867936,
-      "slug": "31979475-fa-cup-portishead-town-larkhall-athletic",
+      "fixtureApid": 19867953,
+      "slug": "31979492-fa-cup-milton-keynes-irish-slimbridge",
       "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Portishead Town",
-      "away": "Larkhall Athletic",
+      "home": "Milton Keynes Irish",
+      "away": "Slimbridge",
       "locked": true,
       "finished": false,
       "score": null,
@@ -25545,16 +25545,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19867954,
-      "slug": "31979493-fa-cup-bourne-town-bottesford-town",
+      "fixtureApid": 19813450,
+      "slug": "29684485-carabao-cup-sheffield-wednesday-wolverhampton-wanderers",
       "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
-        "id": 16,
-        "name": "FA Cup",
+        "id": 17,
+        "name": "Carabao Cup",
         "country": "England"
       },
-      "home": "Bourne Town",
-      "away": "Bottesford Town",
+      "home": "Sheff Wed",
+      "away": "Wolves",
       "locked": true,
       "finished": false,
       "score": null,
@@ -25571,16 +25571,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19867938,
-      "slug": "31979477-fa-cup-prescot-cables-litherland-remyca",
-      "timestamp": "2026-08-25T18:45:00.000Z",
+      "fixtureApid": 19813454,
+      "slug": "29684489-carabao-cup-doncaster-rovers-middlesbrough",
+      "timestamp": "2026-08-25T18:30:00.000Z",
       "league": {
-        "id": 16,
-        "name": "FA Cup",
+        "id": 17,
+        "name": "Carabao Cup",
         "country": "England"
       },
-      "home": "Prescot Cables",
-      "away": "Litherland Remyca",
+      "home": "Doncaster",
+      "away": "Middlesbrough",
       "locked": true,
       "finished": false,
       "score": null,
@@ -25597,16 +25597,16 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
-      "fixtureApid": 19867951,
-      "slug": "31979490-fa-cup-droitwich-spa-hanley-town",
+      "fixtureApid": 19813456,
+      "slug": "29684491-carabao-cup-blackburn-rovers-sheffield-united",
       "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
-        "id": 16,
-        "name": "FA Cup",
+        "id": 17,
+        "name": "Carabao Cup",
         "country": "England"
       },
-      "home": "Droitwich Spa",
-      "away": "Hanley Town",
+      "home": "Blackburn",
+      "away": "Sheff Utd",
       "locked": true,
       "finished": false,
       "score": null,
@@ -29316,16 +29316,16 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
-      "fixtureApid": 19739739,
-      "slug": "29383751-fa-cup-baffins-milton-rovers-hartley-wintney",
-      "timestamp": "2026-08-25T18:30:00.000Z",
+      "fixtureApid": 19867953,
+      "slug": "31979492-fa-cup-milton-keynes-irish-slimbridge",
+      "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Baffins Milton Rovers",
-      "away": "Hartley Wintney",
+      "home": "Milton Keynes Irish",
+      "away": "Slimbridge",
       "locked": false,
       "finished": false,
       "score": null,
@@ -29333,7 +29333,7 @@
         "market": "btts",
         "selection": "yes",
         "label": "BTTS: Yes",
-        "probability": 67,
+        "probability": 66,
         "odds": null,
         "edge": null,
         "hasEdge": false,
@@ -29381,39 +29381,39 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 32,
+          "prob": 62,
           "odds": null
         },
         "draw": {
-          "prob": 18,
+          "prob": 17,
           "odds": null
         },
         "away": {
-          "prob": 50,
+          "prob": 22,
           "odds": null
         }
       },
       "form": {
         "home": [
           {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Arlesey Town",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
             "hit": true,
             "pending": false,
-            "res": "D",
-            "score": "1-1",
+            "res": "W",
+            "score": "3-2",
             "corners": null,
             "date": "2 Aug",
-            "opponent": "Shaftesbury Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "17 Aug",
-            "opponent": "Shepton Mallet",
+            "opponent": "Heybridge Swifts",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           },
@@ -29421,43 +29421,10 @@
             "hit": false,
             "pending": false,
             "res": "W",
-            "score": "5-0",
+            "score": "2-0",
             "corners": null,
             "date": "3 Aug",
-            "opponent": "Petersfield Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-4",
-            "corners": null,
-            "date": "5 Aug",
-            "opponent": "AFC Stoneham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-5",
-            "corners": null,
-            "date": "2 Sept",
-            "opponent": "Winchester City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Horndean",
+            "opponent": "Welwyn Garden City",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           },
@@ -29465,10 +29432,10 @@
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "4-1",
+            "score": "3-1",
             "corners": null,
             "date": "5 Aug",
-            "opponent": "Alton",
+            "opponent": "Dunstable Town",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           },
@@ -29478,8 +29445,8 @@
             "res": "L",
             "score": "2-4",
             "corners": null,
-            "date": "21 Aug",
-            "opponent": "Sholing",
+            "date": "6 Aug",
+            "opponent": "Tilbury",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           }
@@ -29488,11 +29455,33 @@
           {
             "hit": true,
             "pending": false,
-            "res": "W",
-            "score": "1-4",
+            "res": "D",
+            "score": "1-1",
             "corners": null,
             "date": "8 Aug",
-            "opponent": "Horndean",
+            "opponent": "Burnham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-6",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Portishead Town",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "2 Aug",
+            "opponent": "Corsham Town",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           },
@@ -29500,10 +29489,43 @@
             "hit": false,
             "pending": false,
             "res": "L",
-            "score": "1-0",
+            "score": "3-0",
             "corners": null,
-            "date": "16 Aug",
-            "opponent": "Fareham Town",
+            "date": "17 Aug",
+            "opponent": "Wallingford & Crowmarsh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": null,
+            "date": "3 Aug",
+            "opponent": "Malmesbury Victoria",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "5-2",
+            "corners": null,
+            "date": "6 Sept",
+            "opponent": "Sholing",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "20 Aug",
+            "opponent": "Flackwell Heath FC",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           },
@@ -29513,41 +29535,19 @@
             "res": "W",
             "score": "1-2",
             "corners": null,
-            "date": "2 Aug",
-            "opponent": "Hamworthy Recreation",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "17 Sept",
-            "opponent": "Bath City",
+            "date": "6 Aug",
+            "opponent": "Tuffley Rovers",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           },
           {
             "hit": false,
             "pending": false,
-            "res": "W",
-            "score": "0-4",
-            "corners": null,
-            "date": "3 Sept",
-            "opponent": "Roman Glass St George",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
             "res": "L",
-            "score": "2-1",
+            "score": "3-0",
             "corners": null,
-            "date": "4 Sept",
-            "opponent": "Walton Casuals",
+            "date": "21 Aug",
+            "opponent": "Marlow",
             "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
             "leagueLogoDark": null
           }
@@ -29555,111 +29555,69 @@
       },
       "modelStats": {
         "home": {
-          "n": 8,
-          "gf": 2.63,
-          "ga": 2,
-          "cs": 25,
-          "fts": 0,
-          "ov25": 88,
-          "btts": 75,
-          "scored2": 75,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 4,
-            "d": 1,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 7,
-            "l": 1
-          },
-          "fhFor": 0,
-          "fhAgainst": 0.25,
-          "ovLine": null
-        },
-        "away": {
-          "n": 6,
-          "gf": 2.17,
-          "ga": 1.17,
-          "cs": 17,
-          "fts": 17,
-          "ov25": 83,
-          "btts": 67,
-          "scored2": 67,
+          "n": 5,
+          "gf": 2,
+          "ga": 1.8,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 60,
+          "btts": 60,
+          "scored2": 80,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
             "w": 3,
-            "d": 1,
+            "d": 0,
             "l": 2
           },
           "htRecord": {
-            "w": 1,
-            "d": 4,
+            "w": 0,
+            "d": 5,
+            "l": 0
+          },
+          "fhFor": 0,
+          "fhAgainst": 0,
+          "ovLine": null
+        },
+        "away": {
+          "n": 9,
+          "gf": 1.78,
+          "ga": 1.78,
+          "cs": 22,
+          "fts": 22,
+          "ov25": 67,
+          "btts": 56,
+          "scored2": 44,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 1,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 0,
+            "d": 8,
             "l": 1
           },
-          "fhFor": 0.33,
+          "fhFor": 0.22,
           "fhAgainst": 0.33,
           "ovLine": null
         },
-        "h2h": []
+        "h2h": [
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 2,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "22 Aug 2026"
+          }
+        ]
       }
-    },
-    {
-      "sourcePath": "/predictions/btts",
-      "rowId": "",
-      "fixtureApid": 19867953,
-      "slug": "31979492-fa-cup-milton-keynes-irish-slimbridge",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Milton Keynes Irish",
-      "away": "Slimbridge",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/btts",
-      "rowId": "",
-      "fixtureApid": 19867942,
-      "slug": "31979481-fa-cup-potters-bar-town-witham-town",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Potters Bar Town",
-      "away": "Witham Town",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions/btts",
@@ -29700,6 +29658,58 @@
       },
       "home": "Long Eaton United FC",
       "away": "AFC Rushden & Diamonds",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
+      "fixtureApid": 19867948,
+      "slug": "31979487-fa-cup-fakenham-town-st-ives-town",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 16,
+        "name": "FA Cup",
+        "country": "England"
+      },
+      "home": "Fakenham Town",
+      "away": "St Ives Town",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
+      "fixtureApid": 19777695,
+      "slug": "28565595-pro-league-al-ettifaq-al-nassr",
+      "timestamp": "2026-08-25T18:00:00.000Z",
+      "league": {
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
+      },
+      "home": "Al Ettifaq",
+      "away": "Al Nassr",
       "locked": true,
       "finished": false,
       "score": null,
@@ -33715,32 +33725,6 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19867936,
-      "slug": "31979475-fa-cup-portishead-town-larkhall-athletic",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Portishead Town",
-      "away": "Larkhall Athletic",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/goals-over-under",
-      "rowId": "",
       "fixtureApid": 19777695,
       "slug": "28565595-pro-league-al-ettifaq-al-nassr",
       "timestamp": "2026-08-25T18:00:00.000Z",
@@ -33767,16 +33751,16 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19739739,
-      "slug": "29383751-fa-cup-baffins-milton-rovers-hartley-wintney",
-      "timestamp": "2026-08-25T18:30:00.000Z",
+      "fixtureApid": 19867948,
+      "slug": "31979487-fa-cup-fakenham-town-st-ives-town",
+      "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Baffins Milton Rovers",
-      "away": "Hartley Wintney",
+      "home": "Fakenham Town",
+      "away": "St Ives Town",
       "locked": true,
       "finished": false,
       "score": null,
@@ -33793,16 +33777,42 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
-      "fixtureApid": 19867941,
-      "slug": "31979480-fa-cup-hassocks-westfield",
+      "fixtureApid": 19867956,
+      "slug": "31979495-fa-cup-long-eaton-united-fc-afc-rushden-&-diamonds",
       "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Hassocks",
-      "away": "Westfield",
+      "home": "Long Eaton United FC",
+      "away": "AFC Rushden & Diamonds",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
+      "fixtureApid": 19667198,
+      "slug": "28565597-serie-b-juventude-crb",
+      "timestamp": "2026-08-25T22:30:00.000Z",
+      "league": {
+        "id": 53,
+        "name": "Serie B",
+        "country": "Brazil"
+      },
+      "home": "Juventude",
+      "away": "CRB",
       "locked": true,
       "finished": false,
       "score": null,
@@ -41621,16 +41631,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19867936,
-      "slug": "31979475-fa-cup-portishead-town-larkhall-athletic",
+      "fixtureApid": 19867953,
+      "slug": "31979492-fa-cup-milton-keynes-irish-slimbridge",
       "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Portishead Town",
-      "away": "Larkhall Athletic",
+      "home": "Milton Keynes Irish",
+      "away": "Slimbridge",
       "locked": true,
       "finished": false,
       "score": null,
@@ -41647,16 +41657,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19867938,
-      "slug": "31979477-fa-cup-prescot-cables-litherland-remyca",
+      "fixtureApid": 19867948,
+      "slug": "31979487-fa-cup-fakenham-town-st-ives-town",
       "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Prescot Cables",
-      "away": "Litherland Remyca",
+      "home": "Fakenham Town",
+      "away": "St Ives Town",
       "locked": true,
       "finished": false,
       "score": null,
@@ -41673,16 +41683,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19867954,
-      "slug": "31979493-fa-cup-bourne-town-bottesford-town",
+      "fixtureApid": 19813456,
+      "slug": "29684491-carabao-cup-blackburn-rovers-sheffield-united",
       "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
-        "id": 16,
-        "name": "FA Cup",
+        "id": 17,
+        "name": "Carabao Cup",
         "country": "England"
       },
-      "home": "Bourne Town",
-      "away": "Bottesford Town",
+      "home": "Blackburn",
+      "away": "Sheff Utd",
       "locked": true,
       "finished": false,
       "score": null,
@@ -41699,16 +41709,16 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
-      "fixtureApid": 19867951,
-      "slug": "31979490-fa-cup-droitwich-spa-hanley-town",
+      "fixtureApid": 19867956,
+      "slug": "31979495-fa-cup-long-eaton-united-fc-afc-rushden-&-diamonds",
       "timestamp": "2026-08-25T18:45:00.000Z",
       "league": {
         "id": 16,
         "name": "FA Cup",
         "country": "England"
       },
-      "home": "Droitwich Spa",
-      "away": "Hanley Town",
+      "home": "Long Eaton United FC",
+      "away": "AFC Rushden & Diamonds",
       "locked": true,
       "finished": false,
       "score": null,
@@ -45418,50 +45428,50 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
-      "fixtureApid": 19867944,
-      "slug": "31979483-fa-cup-corinthian-broadfields-united",
-      "timestamp": "2026-08-25T18:45:00.000Z",
+      "fixtureApid": 19777695,
+      "slug": "28565595-pro-league-al-ettifaq-al-nassr",
+      "timestamp": "2026-08-25T18:00:00.000Z",
       "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
+        "id": 66,
+        "name": "Pro League",
+        "country": "Saudi Arabia"
       },
-      "home": "Corinthian",
-      "away": "Broadfields United",
+      "home": "Al Ettifaq",
+      "away": "Al Nassr",
       "locked": false,
       "finished": false,
       "score": null,
       "bestTip": {
         "market": "1x2_fh",
-        "selection": "X",
-        "label": "Draw HT",
-        "probability": 61,
-        "odds": null,
-        "edge": null,
+        "selection": "2",
+        "label": "Away HT",
+        "probability": 58,
+        "odds": 1.57,
+        "edge": -5.7,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.57
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.55
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
+            "odds": 1.53
           },
           {
             "id": 4,
@@ -45483,106 +45493,51 @@
       "actual": null,
       "matchResult": {
         "home": {
-          "prob": 44,
-          "odds": null
+          "prob": 10,
+          "odds": 9.5
         },
         "draw": {
-          "prob": 22,
-          "odds": null
+          "prob": 13,
+          "odds": 6.5
         },
         "away": {
-          "prob": 34,
-          "odds": null
+          "prob": 77,
+          "odds": 1.25
         }
       },
       "form": {
         "home": [
           {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "8 Aug",
-            "opponent": "Lingfield",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "16 Aug",
-            "opponent": "Egham Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "3-3",
-            "corners": null,
-            "date": "5 Aug",
-            "opponent": "Horley Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
+            "hit": false,
             "pending": false,
             "res": "W",
-            "score": "3-1",
+            "score": "4-2",
             "corners": null,
-            "date": "17 Aug",
-            "opponent": "Camberley Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "3 Aug",
-            "opponent": "AFC Whyteleafe",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "14 Aug",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
             "res": "L",
-            "score": "3-4",
+            "score": "1-3",
             "corners": null,
-            "date": "5 Aug",
-            "opponent": "Bedfont Sports",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "14 May",
+            "opponent": "Al Ittihad",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
             "leagueLogoDark": null
           },
           {
-            "hit": true,
+            "hit": false,
             "pending": false,
-            "res": "L",
-            "score": "1-2",
+            "res": "D",
+            "score": "0-0",
             "corners": null,
-            "date": "6 Sept",
-            "opponent": "Metropolitan Police FC",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "20 Aug",
-            "opponent": "Guildford City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "4 May",
+            "opponent": "Al Najma",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
             "leagueLogoDark": null
           },
           {
@@ -45591,9 +45546,75 @@
             "res": "L",
             "score": "2-3",
             "corners": null,
-            "date": "4 Sept",
-            "opponent": "Folkestone Invicta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "9 Apr",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-2",
+            "corners": null,
+            "date": "5 Apr",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "4-3",
+            "corners": null,
+            "date": "19 Feb",
+            "opponent": "Al Fateh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "6 Feb",
+            "opponent": "Damac FC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Feb",
+            "opponent": "Al Taawoun",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "21 Jan",
+            "opponent": "NEOM SC",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
             "leagueLogoDark": null
           }
         ],
@@ -45601,203 +45622,243 @@
           {
             "hit": true,
             "pending": false,
-            "res": "D",
-            "score": "2-2",
+            "res": "W",
+            "score": "0-4",
             "corners": null,
-            "date": "8 Aug",
-            "opponent": "Herne Bay",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "21 Aug",
+            "opponent": "Al Riyadh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
-            "res": "L",
-            "score": "4-0",
+            "res": "W",
+            "score": "1-4",
             "corners": null,
-            "date": "2 Aug",
-            "opponent": "Snodland Town",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "18 Aug",
+            "opponent": "Al Draih",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/950.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-4",
+            "corners": null,
+            "date": "7 May",
+            "opponent": "Al Shabab",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
             "pending": false,
             "res": "L",
             "score": "3-1",
             "corners": null,
-            "date": "3 Aug",
-            "opponent": "Rayners Lane",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "3 May",
+            "opponent": "Al-Qadsiah",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-4",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Al Wasl",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1088.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "11 Apr",
+            "opponent": "Al Okhdoud",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-5",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Al Khaleej",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
             "leagueLogoDark": null
           },
           {
             "hit": false,
             "pending": false,
             "res": "W",
-            "score": "1-2",
+            "score": "1-3",
             "corners": null,
-            "date": "7 Sept",
-            "opponent": "South Park",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "28 Feb",
+            "opponent": "Al-Fayha",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
             "leagueLogoDark": null
           },
           {
             "hit": true,
             "pending": false,
             "res": "W",
-            "score": "1-3",
+            "score": "0-5",
             "corners": null,
-            "date": "24 Aug",
-            "opponent": "Reading City",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "date": "25 Feb",
+            "opponent": "Al Najma",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Al Fateh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/944.webp",
             "leagueLogoDark": null
           }
         ]
       },
       "modelStats": {
         "home": {
-          "n": 9,
-          "gf": 2.22,
-          "ga": 1.78,
-          "cs": 22,
-          "fts": 0,
-          "ov25": 78,
-          "btts": 78,
-          "scored2": 78,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 0,
-            "d": 8,
-            "l": 1
-          },
-          "fhFor": 0.11,
-          "fhAgainst": 0.22,
-          "ovLine": null
-        },
-        "away": {
-          "n": 5,
-          "gf": 1.6,
-          "ga": 2.2,
-          "cs": 0,
+          "n": 10,
+          "gf": 1.8,
+          "ga": 1.4,
+          "cs": 40,
           "fts": 20,
-          "ov25": 100,
-          "btts": 80,
-          "scored2": 60,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 50,
           "cAvg": null,
           "cf": null,
           "ca": null,
           "record": {
-            "w": 2,
-            "d": 1,
+            "w": 5,
+            "d": 3,
             "l": 2
           },
           "htRecord": {
-            "w": 1,
-            "d": 4,
-            "l": 0
+            "w": 3,
+            "d": 6,
+            "l": 1
           },
-          "fhFor": 0.2,
-          "fhAgainst": 0,
+          "fhFor": 0.9,
+          "fhAgainst": 0.7,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 3.4,
+          "ga": 0.7,
+          "cs": 60,
+          "fts": 0,
+          "ov25": 80,
+          "btts": 40,
+          "scored2": 90,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 9,
+            "d": 0,
+            "l": 1
+          },
+          "htRecord": {
+            "w": 8,
+            "d": 1,
+            "l": 1
+          },
+          "fhFor": 1.7,
+          "fhAgainst": 0.4,
           "ovLine": null
         },
         "h2h": [
           {
+            "hit": false,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "15 Apr 2026"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 2,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "30 Dec 2025"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 3,
+            "ag": 2,
+            "hc": null,
+            "ac": null,
+            "date": "21 Feb 2025"
+          },
+          {
             "hit": true,
+            "pending": false,
+            "hg": 0,
+            "ag": 3,
+            "hc": null,
+            "ac": null,
+            "date": "20 Sept 2024"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 1,
+            "ag": 3,
+            "hc": null,
+            "ac": null,
+            "date": "22 Dec 2023"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "hg": 0,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "31 Oct 2023"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "hg": 2,
+            "ag": 1,
+            "hc": null,
+            "ac": null,
+            "date": "14 Aug 2023"
+          },
+          {
+            "hit": false,
             "pending": false,
             "hg": 1,
             "ag": 1,
             "hc": null,
             "ac": null,
-            "date": "22 Aug 2026"
+            "date": "27 May 2023"
           }
         ]
       }
-    },
-    {
-      "sourcePath": "/predictions/1x2-ht",
-      "rowId": "",
-      "fixtureApid": 19777695,
-      "slug": "28565595-pro-league-al-ettifaq-al-nassr",
-      "timestamp": "2026-08-25T18:00:00.000Z",
-      "league": {
-        "id": 66,
-        "name": "Pro League",
-        "country": "Saudi Arabia"
-      },
-      "home": "Al Ettifaq",
-      "away": "Al Nassr",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/1x2-ht",
-      "rowId": "",
-      "fixtureApid": 19867936,
-      "slug": "31979475-fa-cup-portishead-town-larkhall-athletic",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Portishead Town",
-      "away": "Larkhall Athletic",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/1x2-ht",
-      "rowId": "",
-      "fixtureApid": 19867955,
-      "slug": "31979494-fa-cup-wisbech-town-yaxley-fc",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 16,
-        "name": "FA Cup",
-        "country": "England"
-      },
-      "home": "Wisbech Town",
-      "away": "Yaxley FC",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions/1x2-ht",
@@ -45812,6 +45873,84 @@
       },
       "home": "Juventude",
       "away": "CRB",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19813448,
+      "slug": "29684483-carabao-cup-fleetwood-town-shrewsbury-town",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Fleetwood Town",
+      "away": "Shrewsbury Town",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19667202,
+      "slug": "28565598-serie-b-atletico-go-botafogo-sp",
+      "timestamp": "2026-08-25T22:30:00.000Z",
+      "league": {
+        "id": 53,
+        "name": "Serie B",
+        "country": "Brazil"
+      },
+      "home": "Atlético GO",
+      "away": "Botafogo SP",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
+      "fixtureApid": 19813444,
+      "slug": "29684479-carabao-cup-stevenage-reading",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Stevenage",
+      "away": "Reading",
       "locked": true,
       "finished": false,
       "score": null,
@@ -48778,6 +48917,1538 @@
     },
     {
       "sourcePath": "/predictions/yesterday",
+      "rowId": "19714041-1x2-2-x",
+      "fixtureApid": 19714041,
+      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
+      "timestamp": "2026-08-24T16:00:00.000Z",
+      "league": {
+        "id": 21,
+        "name": "DFB Pokal",
+        "country": "Germany"
+      },
+      "home": "Altglienicke",
+      "away": "Wolfsburg",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "2",
+        "label": "Away win",
+        "probability": 66,
+        "odds": 1.14,
+        "edge": -21.7,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.13
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.12
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.13
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "X",
+      "matchResult": {
+        "home": {
+          "prob": 17,
+          "odds": 17
+        },
+        "draw": {
+          "prob": 17,
+          "odds": 9
+        },
+        "away": {
+          "prob": 66,
+          "odds": 1.14
+        }
+      },
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Hannover 96",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "St. Pauli",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "Freiburg",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "FC Union Berlin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "6-3",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Bayer Leverkusen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Hoffenheim",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "VfB Stuttgart",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "RB Leipzig",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Jan",
+            "opponent": "Köln",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Mainz",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 2,
+          "cs": 10,
+          "fts": 20,
+          "ov25": 60,
+          "btts": 70,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19714041-double_chance-1X-x",
+      "fixtureApid": 19714041,
+      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
+      "timestamp": "2026-08-24T16:00:00.000Z",
+      "league": {
+        "id": 21,
+        "name": "DFB Pokal",
+        "country": "Germany"
+      },
+      "home": "Altglienicke",
+      "away": "Wolfsburg",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "1X",
+        "label": "Home or draw",
+        "probability": 34,
+        "odds": 6,
+        "edge": 17.3,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 6
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 4.8
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 5.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 5.25
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 3.8
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Hannover 96",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "St. Pauli",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "Freiburg",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "FC Union Berlin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-3",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Bayer Leverkusen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Hoffenheim",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "VfB Stuttgart",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "RB Leipzig",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Jan",
+            "opponent": "Köln",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Mainz",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 2,
+          "cs": 10,
+          "fts": 20,
+          "ov25": 60,
+          "btts": 70,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19714041-1x2_fh-X-x",
+      "fixtureApid": 19714041,
+      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
+      "timestamp": "2026-08-24T16:00:00.000Z",
+      "league": {
+        "id": 21,
+        "name": "DFB Pokal",
+        "country": "Germany"
+      },
+      "home": "Altglienicke",
+      "away": "Wolfsburg",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 32,
+        "odds": 3.6,
+        "edge": 4.2,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 3.6
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 3.45
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 3.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Hannover 96",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "St. Pauli",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "Freiburg",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "FC Union Berlin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "6-3",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Bayer Leverkusen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Hoffenheim",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "VfB Stuttgart",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "RB Leipzig",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Jan",
+            "opponent": "Köln",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Mainz",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 2,
+          "cs": 10,
+          "fts": 20,
+          "ov25": 60,
+          "btts": 70,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19714041-btts-yes-x",
+      "fixtureApid": 19714041,
+      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
+      "timestamp": "2026-08-24T16:00:00.000Z",
+      "league": {
+        "id": 21,
+        "name": "DFB Pokal",
+        "country": "Germany"
+      },
+      "home": "Altglienicke",
+      "away": "Wolfsburg",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 61,
+        "odds": 1.8,
+        "edge": 5.4,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "BTTS",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.8
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.77
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.8
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.75
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "BTTS Yes",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Hannover 96",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "St. Pauli",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "Freiburg",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "FC Union Berlin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-3",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Bayer Leverkusen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Hoffenheim",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "VfB Stuttgart",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "RB Leipzig",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Jan",
+            "opponent": "Köln",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Mainz",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 2,
+          "cs": 10,
+          "fts": 20,
+          "ov25": 60,
+          "btts": 70,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19714041-total_goals-over-2.5",
+      "fixtureApid": 19714041,
+      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
+      "timestamp": "2026-08-24T16:00:00.000Z",
+      "league": {
+        "id": 21,
+        "name": "DFB Pokal",
+        "country": "Germany"
+      },
+      "home": "Altglienicke",
+      "away": "Wolfsburg",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 2.5 goals",
+        "probability": 71,
+        "odds": 1.24,
+        "edge": -9.6,
+        "hasEdge": false,
+        "line": 2.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Kambi",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.22
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.24
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.2
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.22
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "6 goals",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Hannover 96",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "St. Pauli",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "Freiburg",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "FC Union Berlin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-3",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Bayer Leverkusen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Hoffenheim",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "VfB Stuttgart",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "RB Leipzig",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Jan",
+            "opponent": "Köln",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Mainz",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 2,
+          "cs": 10,
+          "fts": 20,
+          "ov25": 60,
+          "btts": 70,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19714041-home_goals-under-1.5",
+      "fixtureApid": 19714041,
+      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
+      "timestamp": "2026-08-24T16:00:00.000Z",
+      "league": {
+        "id": 21,
+        "name": "DFB Pokal",
+        "country": "Germany"
+      },
+      "home": "Altglienicke",
+      "away": "Wolfsburg",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "bestTip": {
+        "market": "home_goals",
+        "selection": "under",
+        "label": "Home under 1.5 goals",
+        "probability": 76,
+        "odds": 1.17,
+        "edge": -9.5,
+        "hasEdge": false,
+        "line": 1.5,
+        "marketLabel": "Home goals",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.16
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "3 scored",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "16 Aug",
+            "opponent": "Hannover 96",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": null,
+            "date": "16 May",
+            "opponent": "St. Pauli",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "3 May",
+            "opponent": "Freiburg",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "FC Union Berlin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "6-3",
+            "corners": null,
+            "date": "4 Apr",
+            "opponent": "Bayer Leverkusen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "14 Mar",
+            "opponent": "Hoffenheim",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": null,
+            "date": "1 Mar",
+            "opponent": "VfB Stuttgart",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "15 Feb",
+            "opponent": "RB Leipzig",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "30 Jan",
+            "opponent": "Köln",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "3-1",
+            "corners": null,
+            "date": "24 Jan",
+            "opponent": "Mainz",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 2,
+          "cs": 10,
+          "fts": 20,
+          "ov25": 60,
+          "btts": 70,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19714041-total_corners-over-7.5",
+      "fixtureApid": 19714041,
+      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
+      "timestamp": "2026-08-24T16:00:00.000Z",
+      "league": {
+        "id": 21,
+        "name": "DFB Pokal",
+        "country": "Germany"
+      },
+      "home": "Altglienicke",
+      "away": "Wolfsburg",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 7.5 corners",
+        "probability": 69,
+        "odds": 1.17,
+        "edge": -16.5,
+        "hasEdge": false,
+        "line": 7.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "19 corners",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "form": {
+        "home": [],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 14,
+            "date": "16 Aug",
+            "opponent": "Hannover 96",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-3",
+            "corners": 17,
+            "date": "16 May",
+            "opponent": "St. Pauli",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 8,
+            "date": "3 May",
+            "opponent": "Freiburg",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": 15,
+            "date": "18 Apr",
+            "opponent": "FC Union Berlin",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-3",
+            "corners": 14,
+            "date": "4 Apr",
+            "opponent": "Bayer Leverkusen",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 20,
+            "date": "14 Mar",
+            "opponent": "Hoffenheim",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "4-0",
+            "corners": 10,
+            "date": "1 Mar",
+            "opponent": "VfB Stuttgart",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": 8,
+            "date": "15 Feb",
+            "opponent": "RB Leipzig",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 7,
+            "date": "30 Jan",
+            "opponent": "Köln",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "3-1",
+            "corners": 16,
+            "date": "24 Jan",
+            "opponent": "Mainz",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": null,
+        "away": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 2,
+          "cs": 10,
+          "fts": 20,
+          "ov25": 60,
+          "btts": 70,
+          "scored2": 40,
+          "cAvg": 12.9,
+          "cf": 4.2,
+          "ca": 8.7,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 4,
+            "d": 4,
+            "l": 2
+          },
+          "fhFor": 0.6,
+          "fhAgainst": 0.6,
+          "ovLine": 90
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
       "rowId": "19714038-1x2-2-x",
       "fixtureApid": 19714038,
       "slug": "28431401-dfb-pokal-wurzburger-kickers-fc-koln",
@@ -49212,7 +50883,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -49565,7 +51236,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -49918,7 +51589,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -50271,7 +51942,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -50624,7 +52295,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -50977,7 +52648,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:7:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
       "form": {
         "home": [
           {
@@ -51560,7 +53231,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -51777,7 +53448,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -51994,7 +53665,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -52211,7 +53882,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -52428,7 +54099,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -52645,7 +54316,7 @@
       },
       "settlement": "won",
       "actual": "3 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:14:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
       "form": {
         "home": [],
         "away": [
@@ -53228,7 +54899,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:28:matchResult",
       "form": {
         "home": [
           {
@@ -53581,7 +55252,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:28:matchResult",
       "form": {
         "home": [
           {
@@ -53934,7 +55605,7 @@
       },
       "settlement": "won",
       "actual": "1 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:28:matchResult",
       "form": {
         "home": [
           {
@@ -54287,7 +55958,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:28:matchResult",
       "form": {
         "home": [
           {
@@ -54640,7 +56311,7 @@
       },
       "settlement": "won",
       "actual": "7 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:21:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:28:matchResult",
       "form": {
         "home": [
           {
@@ -55359,7 +57030,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
       "form": {
         "home": [
           {
@@ -55712,7 +57383,7 @@
       },
       "settlement": "lost",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
       "form": {
         "home": [
           {
@@ -56065,7 +57736,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:27:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:34:matchResult",
       "form": {
         "home": [
           {
@@ -56344,1538 +58015,6 @@
           "fhFor": 0.4,
           "fhAgainst": 0.5,
           "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19714041-1x2-2-x",
-      "fixtureApid": 19714041,
-      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
-      "timestamp": "2026-08-24T16:00:00.000Z",
-      "league": {
-        "id": 21,
-        "name": "DFB Pokal",
-        "country": "Germany"
-      },
-      "home": "Altglienicke",
-      "away": "Wolfsburg",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 3
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 66,
-        "odds": 1.14,
-        "edge": -21.7,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.13
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.12
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.13
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "X",
-      "matchResult": {
-        "home": {
-          "prob": 17,
-          "odds": 17
-        },
-        "draw": {
-          "prob": 17,
-          "odds": 9
-        },
-        "away": {
-          "prob": 66,
-          "odds": 1.14
-        }
-      },
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "16 Aug",
-            "opponent": "Hannover 96",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-3",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "St. Pauli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Freiburg",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "FC Union Berlin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "6-3",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Bayer Leverkusen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "14 Mar",
-            "opponent": "Hoffenheim",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "VfB Stuttgart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "RB Leipzig",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "30 Jan",
-            "opponent": "Köln",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Mainz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 2,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 70,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19714041-double_chance-1X-x",
-      "fixtureApid": 19714041,
-      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
-      "timestamp": "2026-08-24T16:00:00.000Z",
-      "league": {
-        "id": 21,
-        "name": "DFB Pokal",
-        "country": "Germany"
-      },
-      "home": "Altglienicke",
-      "away": "Wolfsburg",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 3
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "1X",
-        "label": "Home or draw",
-        "probability": 34,
-        "odds": 6,
-        "edge": 17.3,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 6
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 4.8
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 5.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 5.25
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 3.8
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:31:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "16 Aug",
-            "opponent": "Hannover 96",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-3",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "St. Pauli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Freiburg",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "FC Union Berlin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "6-3",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Bayer Leverkusen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "14 Mar",
-            "opponent": "Hoffenheim",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "VfB Stuttgart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "RB Leipzig",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "30 Jan",
-            "opponent": "Köln",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Mainz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 2,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 70,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19714041-1x2_fh-X-x",
-      "fixtureApid": 19714041,
-      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
-      "timestamp": "2026-08-24T16:00:00.000Z",
-      "league": {
-        "id": 21,
-        "name": "DFB Pokal",
-        "country": "Germany"
-      },
-      "home": "Altglienicke",
-      "away": "Wolfsburg",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 3
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "X",
-        "label": "Draw HT",
-        "probability": 32,
-        "odds": 3.6,
-        "edge": 4.2,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 3.6
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 3.45
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 3.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:31:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "16 Aug",
-            "opponent": "Hannover 96",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-3",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "St. Pauli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Freiburg",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "FC Union Berlin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "6-3",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Bayer Leverkusen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "14 Mar",
-            "opponent": "Hoffenheim",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "VfB Stuttgart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "RB Leipzig",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "30 Jan",
-            "opponent": "Köln",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Mainz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 2,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 70,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19714041-btts-yes-x",
-      "fixtureApid": 19714041,
-      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
-      "timestamp": "2026-08-24T16:00:00.000Z",
-      "league": {
-        "id": 21,
-        "name": "DFB Pokal",
-        "country": "Germany"
-      },
-      "home": "Altglienicke",
-      "away": "Wolfsburg",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 3
-      },
-      "bestTip": {
-        "market": "btts",
-        "selection": "yes",
-        "label": "BTTS: Yes",
-        "probability": 61,
-        "odds": 1.8,
-        "edge": 5.4,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "BTTS",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.8
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.77
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.8
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.75
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:31:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "16 Aug",
-            "opponent": "Hannover 96",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-3",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "St. Pauli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Freiburg",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "FC Union Berlin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "6-3",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Bayer Leverkusen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "14 Mar",
-            "opponent": "Hoffenheim",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "VfB Stuttgart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "RB Leipzig",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "30 Jan",
-            "opponent": "Köln",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Mainz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 2,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 70,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19714041-total_goals-over-2.5",
-      "fixtureApid": 19714041,
-      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
-      "timestamp": "2026-08-24T16:00:00.000Z",
-      "league": {
-        "id": 21,
-        "name": "DFB Pokal",
-        "country": "Germany"
-      },
-      "home": "Altglienicke",
-      "away": "Wolfsburg",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 3
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "over",
-        "label": "Over 2.5 goals",
-        "probability": 71,
-        "odds": 1.24,
-        "edge": -9.6,
-        "hasEdge": false,
-        "line": 2.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Kambi",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.22
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.24
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.22
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "6 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:31:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "16 Aug",
-            "opponent": "Hannover 96",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-3",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "St. Pauli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Freiburg",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "FC Union Berlin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "6-3",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Bayer Leverkusen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "14 Mar",
-            "opponent": "Hoffenheim",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "VfB Stuttgart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "RB Leipzig",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "30 Jan",
-            "opponent": "Köln",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Mainz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 2,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 70,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19714041-home_goals-under-1.5",
-      "fixtureApid": 19714041,
-      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
-      "timestamp": "2026-08-24T16:00:00.000Z",
-      "league": {
-        "id": 21,
-        "name": "DFB Pokal",
-        "country": "Germany"
-      },
-      "home": "Altglienicke",
-      "away": "Wolfsburg",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 3
-      },
-      "bestTip": {
-        "market": "home_goals",
-        "selection": "under",
-        "label": "Home under 1.5 goals",
-        "probability": 76,
-        "odds": 1.17,
-        "edge": -9.5,
-        "hasEdge": false,
-        "line": 1.5,
-        "marketLabel": "Home goals",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.16
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:31:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "16 Aug",
-            "opponent": "Hannover 96",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-3",
-            "corners": null,
-            "date": "16 May",
-            "opponent": "St. Pauli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "3 May",
-            "opponent": "Freiburg",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "FC Union Berlin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "6-3",
-            "corners": null,
-            "date": "4 Apr",
-            "opponent": "Bayer Leverkusen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "14 Mar",
-            "opponent": "Hoffenheim",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": null,
-            "date": "1 Mar",
-            "opponent": "VfB Stuttgart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "15 Feb",
-            "opponent": "RB Leipzig",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "30 Jan",
-            "opponent": "Köln",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": null,
-            "date": "24 Jan",
-            "opponent": "Mainz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 2,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 70,
-          "scored2": 40,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19714041-total_corners-over-7.5",
-      "fixtureApid": 19714041,
-      "slug": "28431402-dfb-pokal-altglienicke-vfl-wolfsburg",
-      "timestamp": "2026-08-24T16:00:00.000Z",
-      "league": {
-        "id": 21,
-        "name": "DFB Pokal",
-        "country": "Germany"
-      },
-      "home": "Altglienicke",
-      "away": "Wolfsburg",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 3
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 7.5 corners",
-        "probability": 69,
-        "odds": 1.17,
-        "edge": -16.5,
-        "hasEdge": false,
-        "line": 7.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "19 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:31:matchResult",
-      "form": {
-        "home": [],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 14,
-            "date": "16 Aug",
-            "opponent": "Hannover 96",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/85.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-3",
-            "corners": 17,
-            "date": "16 May",
-            "opponent": "St. Pauli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 8,
-            "date": "3 May",
-            "opponent": "Freiburg",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-2",
-            "corners": 15,
-            "date": "18 Apr",
-            "opponent": "FC Union Berlin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "6-3",
-            "corners": 14,
-            "date": "4 Apr",
-            "opponent": "Bayer Leverkusen",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 20,
-            "date": "14 Mar",
-            "opponent": "Hoffenheim",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "4-0",
-            "corners": 10,
-            "date": "1 Mar",
-            "opponent": "VfB Stuttgart",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 8,
-            "date": "15 Feb",
-            "opponent": "RB Leipzig",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 7,
-            "date": "30 Jan",
-            "opponent": "Köln",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "3-1",
-            "corners": 16,
-            "date": "24 Jan",
-            "opponent": "Mainz",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/82.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": null,
-        "away": {
-          "n": 10,
-          "gf": 1.4,
-          "ga": 2,
-          "cs": 10,
-          "fts": 20,
-          "ov25": 60,
-          "btts": 70,
-          "scored2": 40,
-          "cAvg": 12.9,
-          "cf": 4.2,
-          "ca": 8.7,
-          "record": {
-            "w": 3,
-            "d": 3,
-            "l": 4
-          },
-          "htRecord": {
-            "w": 4,
-            "d": 4,
-            "l": 2
-          },
-          "fhFor": 0.6,
-          "fhAgainst": 0.6,
-          "ovLine": 90
         },
         "h2h": []
       }
