@@ -1,27 +1,27 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-25T17:03:17.139Z",
+  "generatedAt": "2026-08-25T17:52:19.515Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-25T17:03:14.203Z",
-      "bytes": 610558,
+      "fetchedAt": "2026-08-25T17:52:16.320Z",
+      "bytes": 610549,
       "rowCount": 45,
-      "serverTotal": 204
+      "serverTotal": 205
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-25T17:03:14.528Z",
-      "bytes": 379525,
+      "fetchedAt": "2026-08-25T17:52:16.887Z",
+      "bytes": 379526,
       "rowCount": 11,
       "serverTotal": 52
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-25T17:03:14.817Z",
+      "fetchedAt": "2026-08-25T17:52:17.211Z",
       "bytes": 376556,
       "rowCount": 11,
       "serverTotal": 52
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-25T17:03:15.133Z",
+      "fetchedAt": "2026-08-25T17:52:17.780Z",
       "bytes": 378858,
       "rowCount": 11,
       "serverTotal": 52
@@ -37,23 +37,23 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-25T17:03:15.610Z",
-      "bytes": 372818,
+      "fetchedAt": "2026-08-25T17:52:18.128Z",
+      "bytes": 372819,
       "rowCount": 11,
       "serverTotal": 31
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-25T17:03:15.906Z",
-      "bytes": 379258,
+      "fetchedAt": "2026-08-25T17:52:18.548Z",
+      "bytes": 379254,
       "rowCount": 11,
       "serverTotal": 52
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-25T17:03:16.217Z",
+      "fetchedAt": "2026-08-25T17:52:18.851Z",
       "bytes": 376832,
       "rowCount": 11,
       "serverTotal": 52
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-25T17:03:16.438Z",
+      "fetchedAt": "2026-08-25T17:52:19.008Z",
       "bytes": 337159,
       "rowCount": 5,
       "serverTotal": 127
@@ -69,15 +69,15 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-25T17:03:16.749Z",
-      "bytes": 1695619,
+      "fetchedAt": "2026-08-25T17:52:19.223Z",
+      "bytes": 1698763,
       "rowCount": 206,
       "serverTotal": 206
     },
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-25T17:03:17.139Z",
+      "fetchedAt": "2026-08-25T17:52:19.515Z",
       "bytes": 485886,
       "rowCount": 0,
       "serverTotal": 0
@@ -14305,19 +14305,19 @@
         "selection": "under",
         "label": "Home under 2.5 goals",
         "probability": 94,
-        "odds": 1.12,
-        "edge": 4.7,
+        "odds": 1.14,
+        "edge": 6.3,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Home goals",
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": null
+            "odds": 1.14
           },
           {
             "id": 2,
@@ -14338,7 +14338,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.12
+            "odds": 1.13
           },
           {
             "id": 5,
@@ -14362,7 +14362,7 @@
         },
         "away": {
           "prob": 51,
-          "odds": 2.6
+          "odds": 2.7
         }
       },
       "form": {
@@ -17339,21 +17339,21 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.25
+            "odds": 1.22
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.25
+            "odds": 1.21
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.2
+            "odds": 1.18
           },
           {
             "id": 4,
@@ -17367,7 +17367,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.25
+            "odds": 1.23
           }
         ]
       },
@@ -17376,7 +17376,7 @@
       "matchResult": {
         "home": {
           "prob": 10,
-          "odds": 8.5
+          "odds": 9.5
         },
         "draw": {
           "prob": 13,
@@ -26011,7 +26011,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.12
+            "odds": 1.13
           },
           {
             "id": 5,
@@ -26035,7 +26035,7 @@
         },
         "away": {
           "prob": 51,
-          "odds": 2.6
+          "odds": 2.67
         }
       },
       "form": {
@@ -29001,11 +29001,11 @@
         "selection": "X2",
         "label": "Draw or away",
         "probability": 90,
-        "odds": 1.08,
-        "edge": -2.6,
+        "odds": 1.07,
+        "edge": -3.5,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Altenar",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
@@ -29019,14 +29019,14 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.05
+            "odds": 1.03
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.05
+            "odds": 1.04
           },
           {
             "id": 4,
@@ -29040,7 +29040,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.08
+            "odds": 1.06
           }
         ]
       },
@@ -29049,7 +29049,7 @@
       "matchResult": {
         "home": {
           "prob": 10,
-          "odds": 8.5
+          "odds": 9.5
         },
         "draw": {
           "prob": 13,
@@ -47441,7 +47441,7 @@
             "corners": null,
             "date": "23 May",
             "opponent": "Inter",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47452,7 +47452,7 @@
             "corners": null,
             "date": "3 May",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47463,7 +47463,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47474,7 +47474,7 @@
             "corners": null,
             "date": "12 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47485,7 +47485,7 @@
             "corners": null,
             "date": "9 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47496,7 +47496,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47507,7 +47507,7 @@
             "corners": null,
             "date": "12 Mar",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47518,7 +47518,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47529,7 +47529,7 @@
             "corners": null,
             "date": "26 Feb",
             "opponent": "Brann",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47540,7 +47540,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -47553,7 +47553,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47564,7 +47564,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47575,7 +47575,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47586,7 +47586,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Napoli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47597,7 +47597,7 @@
             "corners": null,
             "date": "13 Apr",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47608,7 +47608,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47619,7 +47619,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Torino",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47630,7 +47630,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47641,7 +47641,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47652,7 +47652,7 @@
             "corners": null,
             "date": "8 Feb",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -47794,7 +47794,7 @@
             "corners": null,
             "date": "23 May",
             "opponent": "Inter",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47805,7 +47805,7 @@
             "corners": null,
             "date": "3 May",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47816,7 +47816,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47827,7 +47827,7 @@
             "corners": null,
             "date": "12 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47838,7 +47838,7 @@
             "corners": null,
             "date": "9 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47849,7 +47849,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47860,7 +47860,7 @@
             "corners": null,
             "date": "12 Mar",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47871,7 +47871,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47882,7 +47882,7 @@
             "corners": null,
             "date": "26 Feb",
             "opponent": "Brann",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47893,7 +47893,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -47906,7 +47906,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47917,7 +47917,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47928,7 +47928,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47939,7 +47939,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Napoli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47950,7 +47950,7 @@
             "corners": null,
             "date": "13 Apr",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47961,7 +47961,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47972,7 +47972,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Torino",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47983,7 +47983,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -47994,7 +47994,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48005,7 +48005,7 @@
             "corners": null,
             "date": "8 Feb",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -48147,7 +48147,7 @@
             "corners": null,
             "date": "23 May",
             "opponent": "Inter",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48158,7 +48158,7 @@
             "corners": null,
             "date": "3 May",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48169,7 +48169,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48180,7 +48180,7 @@
             "corners": null,
             "date": "12 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48191,7 +48191,7 @@
             "corners": null,
             "date": "9 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48202,7 +48202,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48213,7 +48213,7 @@
             "corners": null,
             "date": "12 Mar",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48224,7 +48224,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48235,7 +48235,7 @@
             "corners": null,
             "date": "26 Feb",
             "opponent": "Brann",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48246,7 +48246,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -48259,7 +48259,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48270,7 +48270,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48281,7 +48281,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48292,7 +48292,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Napoli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48303,7 +48303,7 @@
             "corners": null,
             "date": "13 Apr",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48314,7 +48314,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48325,7 +48325,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Torino",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48336,7 +48336,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48347,7 +48347,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48358,7 +48358,7 @@
             "corners": null,
             "date": "8 Feb",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -48500,7 +48500,7 @@
             "corners": null,
             "date": "23 May",
             "opponent": "Inter",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48511,7 +48511,7 @@
             "corners": null,
             "date": "3 May",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48522,7 +48522,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48533,7 +48533,7 @@
             "corners": null,
             "date": "12 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48544,7 +48544,7 @@
             "corners": null,
             "date": "9 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48555,7 +48555,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48566,7 +48566,7 @@
             "corners": null,
             "date": "12 Mar",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48577,7 +48577,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48588,7 +48588,7 @@
             "corners": null,
             "date": "26 Feb",
             "opponent": "Brann",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48599,7 +48599,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -48612,7 +48612,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48623,7 +48623,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48634,7 +48634,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48645,7 +48645,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Napoli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48656,7 +48656,7 @@
             "corners": null,
             "date": "13 Apr",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48667,7 +48667,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48678,7 +48678,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Torino",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48689,7 +48689,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48700,7 +48700,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48711,7 +48711,7 @@
             "corners": null,
             "date": "8 Feb",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -48853,7 +48853,7 @@
             "corners": null,
             "date": "23 May",
             "opponent": "Inter",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48864,7 +48864,7 @@
             "corners": null,
             "date": "3 May",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48875,7 +48875,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48886,7 +48886,7 @@
             "corners": null,
             "date": "12 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48897,7 +48897,7 @@
             "corners": null,
             "date": "9 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48908,7 +48908,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48919,7 +48919,7 @@
             "corners": null,
             "date": "12 Mar",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48930,7 +48930,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48941,7 +48941,7 @@
             "corners": null,
             "date": "26 Feb",
             "opponent": "Brann",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48952,7 +48952,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -48965,7 +48965,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48976,7 +48976,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48987,7 +48987,7 @@
             "corners": null,
             "date": "22 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -48998,7 +48998,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Napoli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49009,7 +49009,7 @@
             "corners": null,
             "date": "13 Apr",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49020,7 +49020,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49031,7 +49031,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Torino",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49042,7 +49042,7 @@
             "corners": null,
             "date": "21 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49053,7 +49053,7 @@
             "corners": null,
             "date": "11 Feb",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49064,7 +49064,7 @@
             "corners": null,
             "date": "8 Feb",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -49206,7 +49206,7 @@
             "corners": 5,
             "date": "23 May",
             "opponent": "Inter",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49217,7 +49217,7 @@
             "corners": 9,
             "date": "3 May",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49228,7 +49228,7 @@
             "corners": 14,
             "date": "25 Apr",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49239,7 +49239,7 @@
             "corners": 14,
             "date": "12 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49250,7 +49250,7 @@
             "corners": 7,
             "date": "9 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49261,7 +49261,7 @@
             "corners": 3,
             "date": "22 Mar",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49272,7 +49272,7 @@
             "corners": 10,
             "date": "12 Mar",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49283,7 +49283,7 @@
             "corners": 8,
             "date": "8 Mar",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49294,7 +49294,7 @@
             "corners": 14,
             "date": "26 Feb",
             "opponent": "Brann",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49305,7 +49305,7 @@
             "corners": 11,
             "date": "23 Feb",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -49318,7 +49318,7 @@
             "corners": 11,
             "date": "17 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49329,7 +49329,7 @@
             "corners": 6,
             "date": "4 May",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49340,7 +49340,7 @@
             "corners": 13,
             "date": "22 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49351,7 +49351,7 @@
             "corners": 12,
             "date": "18 Apr",
             "opponent": "Napoli",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49362,7 +49362,7 @@
             "corners": 11,
             "date": "13 Apr",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49373,7 +49373,7 @@
             "corners": 3,
             "date": "22 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49384,7 +49384,7 @@
             "corners": 15,
             "date": "1 Mar",
             "opponent": "Torino",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49395,7 +49395,7 @@
             "corners": 9,
             "date": "21 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49406,7 +49406,7 @@
             "corners": 7,
             "date": "11 Feb",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/390.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -49417,7 +49417,7 @@
             "corners": 9,
             "date": "8 Feb",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -53481,7 +53481,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53492,7 +53492,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53503,7 +53503,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53514,7 +53514,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53525,7 +53525,7 @@
             "corners": null,
             "date": "11 Apr",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53536,7 +53536,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53547,7 +53547,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53558,7 +53558,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53569,7 +53569,7 @@
             "corners": null,
             "date": "9 Jan",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53580,7 +53580,7 @@
             "corners": null,
             "date": "31 Dec",
             "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -53593,7 +53593,7 @@
             "corners": null,
             "date": "18 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53604,7 +53604,7 @@
             "corners": null,
             "date": "10 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53615,7 +53615,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53626,7 +53626,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53637,7 +53637,7 @@
             "corners": null,
             "date": "15 Feb",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53648,7 +53648,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53659,7 +53659,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53670,7 +53670,7 @@
             "corners": null,
             "date": "30 Dec",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53681,7 +53681,7 @@
             "corners": null,
             "date": "15 Dec",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53692,7 +53692,7 @@
             "corners": null,
             "date": "8 Dec",
             "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -53834,7 +53834,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53845,7 +53845,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53856,7 +53856,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53867,7 +53867,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53878,7 +53878,7 @@
             "corners": null,
             "date": "11 Apr",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53889,7 +53889,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53900,7 +53900,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53911,7 +53911,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53922,7 +53922,7 @@
             "corners": null,
             "date": "9 Jan",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53933,7 +53933,7 @@
             "corners": null,
             "date": "31 Dec",
             "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -53946,7 +53946,7 @@
             "corners": null,
             "date": "18 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53957,7 +53957,7 @@
             "corners": null,
             "date": "10 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53968,7 +53968,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53979,7 +53979,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -53990,7 +53990,7 @@
             "corners": null,
             "date": "15 Feb",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54001,7 +54001,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54012,7 +54012,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54023,7 +54023,7 @@
             "corners": null,
             "date": "30 Dec",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54034,7 +54034,7 @@
             "corners": null,
             "date": "15 Dec",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54045,7 +54045,7 @@
             "corners": null,
             "date": "8 Dec",
             "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -54187,7 +54187,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54198,7 +54198,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54209,7 +54209,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54220,7 +54220,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54231,7 +54231,7 @@
             "corners": null,
             "date": "11 Apr",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54242,7 +54242,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54253,7 +54253,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54264,7 +54264,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54275,7 +54275,7 @@
             "corners": null,
             "date": "9 Jan",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54286,7 +54286,7 @@
             "corners": null,
             "date": "31 Dec",
             "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -54299,7 +54299,7 @@
             "corners": null,
             "date": "18 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54310,7 +54310,7 @@
             "corners": null,
             "date": "10 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54321,7 +54321,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54332,7 +54332,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54343,7 +54343,7 @@
             "corners": null,
             "date": "15 Feb",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54354,7 +54354,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54365,7 +54365,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54376,7 +54376,7 @@
             "corners": null,
             "date": "30 Dec",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54387,7 +54387,7 @@
             "corners": null,
             "date": "15 Dec",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54398,7 +54398,7 @@
             "corners": null,
             "date": "8 Dec",
             "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -54540,7 +54540,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54551,7 +54551,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54562,7 +54562,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54573,7 +54573,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54584,7 +54584,7 @@
             "corners": null,
             "date": "11 Apr",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54595,7 +54595,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54606,7 +54606,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54617,7 +54617,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54628,7 +54628,7 @@
             "corners": null,
             "date": "9 Jan",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54639,7 +54639,7 @@
             "corners": null,
             "date": "31 Dec",
             "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -54652,7 +54652,7 @@
             "corners": null,
             "date": "18 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54663,7 +54663,7 @@
             "corners": null,
             "date": "10 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54674,7 +54674,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54685,7 +54685,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54696,7 +54696,7 @@
             "corners": null,
             "date": "15 Feb",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54707,7 +54707,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54718,7 +54718,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54729,7 +54729,7 @@
             "corners": null,
             "date": "30 Dec",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54740,7 +54740,7 @@
             "corners": null,
             "date": "15 Dec",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54751,7 +54751,7 @@
             "corners": null,
             "date": "8 Dec",
             "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -54893,7 +54893,7 @@
             "corners": null,
             "date": "13 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54904,7 +54904,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54915,7 +54915,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54926,7 +54926,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54937,7 +54937,7 @@
             "corners": null,
             "date": "11 Apr",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54948,7 +54948,7 @@
             "corners": null,
             "date": "23 Feb",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54959,7 +54959,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54970,7 +54970,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54981,7 +54981,7 @@
             "corners": null,
             "date": "9 Jan",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -54992,7 +54992,7 @@
             "corners": null,
             "date": "31 Dec",
             "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -55005,7 +55005,7 @@
             "corners": null,
             "date": "18 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55016,7 +55016,7 @@
             "corners": null,
             "date": "10 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55027,7 +55027,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55038,7 +55038,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55049,7 +55049,7 @@
             "corners": null,
             "date": "15 Feb",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55060,7 +55060,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55071,7 +55071,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55082,7 +55082,7 @@
             "corners": null,
             "date": "30 Dec",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55093,7 +55093,7 @@
             "corners": null,
             "date": "15 Dec",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55104,7 +55104,7 @@
             "corners": null,
             "date": "8 Dec",
             "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -55246,7 +55246,7 @@
             "corners": 9,
             "date": "13 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55257,7 +55257,7 @@
             "corners": 10,
             "date": "4 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55268,7 +55268,7 @@
             "corners": 2,
             "date": "25 Apr",
             "opponent": "Bnei Sakhnin",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55279,7 +55279,7 @@
             "corners": 8,
             "date": "18 Apr",
             "opponent": "Ashdod",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55290,7 +55290,7 @@
             "corners": 7,
             "date": "11 Apr",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55301,7 +55301,7 @@
             "corners": 5,
             "date": "23 Feb",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55312,7 +55312,7 @@
             "corners": 8,
             "date": "7 Feb",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55323,7 +55323,7 @@
             "corners": 11,
             "date": "24 Jan",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55334,7 +55334,7 @@
             "corners": 12,
             "date": "9 Jan",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55345,7 +55345,7 @@
             "corners": 10,
             "date": "31 Dec",
             "opponent": "Hapoel Petah Tikva",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -55358,7 +55358,7 @@
             "corners": 5,
             "date": "18 May",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55369,7 +55369,7 @@
             "corners": 8,
             "date": "10 May",
             "opponent": "Hapoel Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55380,7 +55380,7 @@
             "corners": 2,
             "date": "25 Apr",
             "opponent": "Maccabi Netanya",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55391,7 +55391,7 @@
             "corners": 7,
             "date": "4 Apr",
             "opponent": "Ironi Kiryat Shmona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55402,7 +55402,7 @@
             "corners": 10,
             "date": "15 Feb",
             "opponent": "Maccabi Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55413,7 +55413,7 @@
             "corners": 5,
             "date": "24 Jan",
             "opponent": "Ironi Tiberias",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55424,7 +55424,7 @@
             "corners": 14,
             "date": "10 Jan",
             "opponent": "Maccabi Tel Aviv",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55435,7 +55435,7 @@
             "corners": 13,
             "date": "30 Dec",
             "opponent": "Hapoel Haifa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55446,7 +55446,7 @@
             "corners": 18,
             "date": "15 Dec",
             "opponent": "Beitar Jerusalem",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -55457,7 +55457,7 @@
             "corners": 4,
             "date": "8 Dec",
             "opponent": "Maccabi Bnei Raina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/372.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -58184,7 +58184,7 @@
             "corners": null,
             "date": "22 Jan",
             "opponent": "Crvena Zvezda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -58537,7 +58537,7 @@
             "corners": null,
             "date": "22 Jan",
             "opponent": "Crvena Zvezda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -58890,7 +58890,7 @@
             "corners": null,
             "date": "22 Jan",
             "opponent": "Crvena Zvezda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -59243,7 +59243,7 @@
             "corners": null,
             "date": "22 Jan",
             "opponent": "Crvena Zvezda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -59596,7 +59596,7 @@
             "corners": null,
             "date": "22 Jan",
             "opponent": "Crvena Zvezda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -59949,7 +59949,7 @@
             "corners": null,
             "date": "22 Jan",
             "opponent": "Crvena Zvezda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -60302,7 +60302,7 @@
             "corners": 10,
             "date": "22 Jan",
             "opponent": "Crvena Zvezda",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82133,7 +82133,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82144,7 +82144,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82155,7 +82155,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82166,7 +82166,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Pisa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82177,7 +82177,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82188,7 +82188,7 @@
             "corners": null,
             "date": "19 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82199,7 +82199,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82210,7 +82210,7 @@
             "corners": null,
             "date": "22 Feb",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82221,7 +82221,7 @@
             "corners": null,
             "date": "9 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82232,7 +82232,7 @@
             "corners": null,
             "date": "25 Jan",
             "opponent": "AC Milan",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -82245,7 +82245,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82256,7 +82256,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82267,7 +82267,7 @@
             "corners": null,
             "date": "20 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82289,7 +82289,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82311,7 +82311,7 @@
             "corners": null,
             "date": "16 Mar",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82322,7 +82322,7 @@
             "corners": null,
             "date": "2 Mar",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82344,7 +82344,7 @@
             "corners": null,
             "date": "14 Feb",
             "opponent": "Como",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -82486,7 +82486,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82497,7 +82497,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82508,7 +82508,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82519,7 +82519,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Pisa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82530,7 +82530,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82541,7 +82541,7 @@
             "corners": null,
             "date": "19 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82552,7 +82552,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82563,7 +82563,7 @@
             "corners": null,
             "date": "22 Feb",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82574,7 +82574,7 @@
             "corners": null,
             "date": "9 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82585,7 +82585,7 @@
             "corners": null,
             "date": "25 Jan",
             "opponent": "AC Milan",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -82598,7 +82598,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82609,7 +82609,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82620,7 +82620,7 @@
             "corners": null,
             "date": "20 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82642,7 +82642,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82664,7 +82664,7 @@
             "corners": null,
             "date": "16 Mar",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82675,7 +82675,7 @@
             "corners": null,
             "date": "2 Mar",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82697,7 +82697,7 @@
             "corners": null,
             "date": "14 Feb",
             "opponent": "Como",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -82839,7 +82839,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82850,7 +82850,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82861,7 +82861,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82872,7 +82872,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Pisa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82883,7 +82883,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82894,7 +82894,7 @@
             "corners": null,
             "date": "19 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82905,7 +82905,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82916,7 +82916,7 @@
             "corners": null,
             "date": "22 Feb",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82927,7 +82927,7 @@
             "corners": null,
             "date": "9 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82938,7 +82938,7 @@
             "corners": null,
             "date": "25 Jan",
             "opponent": "AC Milan",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -82951,7 +82951,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82962,7 +82962,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82973,7 +82973,7 @@
             "corners": null,
             "date": "20 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -82995,7 +82995,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83017,7 +83017,7 @@
             "corners": null,
             "date": "16 Mar",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83028,7 +83028,7 @@
             "corners": null,
             "date": "2 Mar",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83050,7 +83050,7 @@
             "corners": null,
             "date": "14 Feb",
             "opponent": "Como",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -83192,7 +83192,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83203,7 +83203,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83214,7 +83214,7 @@
             "corners": null,
             "date": "18 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83225,7 +83225,7 @@
             "corners": null,
             "date": "10 Apr",
             "opponent": "Pisa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83236,7 +83236,7 @@
             "corners": null,
             "date": "22 Mar",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83247,7 +83247,7 @@
             "corners": null,
             "date": "19 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83258,7 +83258,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83269,7 +83269,7 @@
             "corners": null,
             "date": "22 Feb",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83280,7 +83280,7 @@
             "corners": null,
             "date": "9 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83291,7 +83291,7 @@
             "corners": null,
             "date": "25 Jan",
             "opponent": "AC Milan",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -83304,7 +83304,7 @@
             "corners": null,
             "date": "17 May",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83315,7 +83315,7 @@
             "corners": null,
             "date": "4 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83326,7 +83326,7 @@
             "corners": null,
             "date": "20 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83348,7 +83348,7 @@
             "corners": null,
             "date": "4 Apr",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83370,7 +83370,7 @@
             "corners": null,
             "date": "16 Mar",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83381,7 +83381,7 @@
             "corners": null,
             "date": "2 Mar",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83403,7 +83403,7 @@
             "corners": null,
             "date": "14 Feb",
             "opponent": "Como",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -83545,7 +83545,7 @@
             "corners": 11,
             "date": "17 May",
             "opponent": "Lazio",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83556,7 +83556,7 @@
             "corners": 9,
             "date": "4 May",
             "opponent": "Fiorentina",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83567,7 +83567,7 @@
             "corners": 13,
             "date": "18 Apr",
             "opponent": "Atalanta",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83578,7 +83578,7 @@
             "corners": 4,
             "date": "10 Apr",
             "opponent": "Pisa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83589,7 +83589,7 @@
             "corners": 12,
             "date": "22 Mar",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83600,7 +83600,7 @@
             "corners": 12,
             "date": "19 Mar",
             "opponent": "Bologna",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/5.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83611,7 +83611,7 @@
             "corners": 5,
             "date": "1 Mar",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83622,7 +83622,7 @@
             "corners": 10,
             "date": "22 Feb",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83633,7 +83633,7 @@
             "corners": 8,
             "date": "9 Feb",
             "opponent": "Cagliari",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83644,7 +83644,7 @@
             "corners": 8,
             "date": "25 Jan",
             "opponent": "AC Milan",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -83657,7 +83657,7 @@
             "corners": 8,
             "date": "17 May",
             "opponent": "Juventus",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83668,7 +83668,7 @@
             "corners": 9,
             "date": "4 May",
             "opponent": "Roma",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83679,7 +83679,7 @@
             "corners": 7,
             "date": "20 Apr",
             "opponent": "Lecce",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83701,7 +83701,7 @@
             "corners": 10,
             "date": "4 Apr",
             "opponent": "Hellas Verona",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83723,7 +83723,7 @@
             "corners": 10,
             "date": "16 Mar",
             "opponent": "Cremonese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83734,7 +83734,7 @@
             "corners": 7,
             "date": "2 Mar",
             "opponent": "Udinese",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -83756,7 +83756,7 @@
             "corners": 6,
             "date": "14 Feb",
             "opponent": "Como",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/384.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ]
@@ -85856,7 +85856,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Newcastle",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85867,7 +85867,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Bournemouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85878,7 +85878,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85889,7 +85889,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Burnley",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85900,7 +85900,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -85911,7 +85911,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "West Ham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85922,7 +85922,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Tottenham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85933,7 +85933,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85944,7 +85944,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85955,7 +85955,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -85968,7 +85968,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85979,7 +85979,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Liverpool",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -85990,7 +85990,7 @@
             "corners": null,
             "date": "21 Apr",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86001,7 +86001,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86012,7 +86012,7 @@
             "corners": null,
             "date": "11 Mar",
             "opponent": "PSG",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
           },
           {
@@ -86023,7 +86023,7 @@
             "corners": null,
             "date": "7 Mar",
             "opponent": "Wrexham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86034,7 +86034,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86045,7 +86045,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Arsenal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86056,7 +86056,7 @@
             "corners": null,
             "date": "13 Feb",
             "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86067,7 +86067,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Wolves",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           }
         ]
@@ -86209,7 +86209,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Newcastle",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86220,7 +86220,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Bournemouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86231,7 +86231,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86242,7 +86242,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Burnley",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86253,7 +86253,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86264,7 +86264,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "West Ham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86275,7 +86275,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Tottenham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86286,7 +86286,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86297,7 +86297,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86308,7 +86308,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -86321,7 +86321,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86332,7 +86332,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Liverpool",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86343,7 +86343,7 @@
             "corners": null,
             "date": "21 Apr",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86354,7 +86354,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86365,7 +86365,7 @@
             "corners": null,
             "date": "11 Mar",
             "opponent": "PSG",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
           },
           {
@@ -86376,7 +86376,7 @@
             "corners": null,
             "date": "7 Mar",
             "opponent": "Wrexham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86387,7 +86387,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86398,7 +86398,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Arsenal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86409,7 +86409,7 @@
             "corners": null,
             "date": "13 Feb",
             "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86420,7 +86420,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Wolves",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           }
         ]
@@ -86562,7 +86562,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Newcastle",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86573,7 +86573,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Bournemouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86584,7 +86584,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86595,7 +86595,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Burnley",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86606,7 +86606,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86617,7 +86617,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "West Ham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86628,7 +86628,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Tottenham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86639,7 +86639,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86650,7 +86650,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86661,7 +86661,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -86674,7 +86674,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86685,7 +86685,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Liverpool",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86696,7 +86696,7 @@
             "corners": null,
             "date": "21 Apr",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86707,7 +86707,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86718,7 +86718,7 @@
             "corners": null,
             "date": "11 Mar",
             "opponent": "PSG",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
           },
           {
@@ -86729,7 +86729,7 @@
             "corners": null,
             "date": "7 Mar",
             "opponent": "Wrexham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86740,7 +86740,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86751,7 +86751,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Arsenal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86762,7 +86762,7 @@
             "corners": null,
             "date": "13 Feb",
             "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86773,7 +86773,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Wolves",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           }
         ]
@@ -86915,7 +86915,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Newcastle",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86926,7 +86926,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Bournemouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86937,7 +86937,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86948,7 +86948,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Burnley",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86959,7 +86959,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -86970,7 +86970,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "West Ham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86981,7 +86981,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Tottenham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -86992,7 +86992,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87003,7 +87003,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87014,7 +87014,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -87027,7 +87027,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87038,7 +87038,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Liverpool",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87049,7 +87049,7 @@
             "corners": null,
             "date": "21 Apr",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87060,7 +87060,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87071,7 +87071,7 @@
             "corners": null,
             "date": "11 Mar",
             "opponent": "PSG",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
           },
           {
@@ -87082,7 +87082,7 @@
             "corners": null,
             "date": "7 Mar",
             "opponent": "Wrexham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -87093,7 +87093,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87104,7 +87104,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Arsenal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87115,7 +87115,7 @@
             "corners": null,
             "date": "13 Feb",
             "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -87126,7 +87126,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Wolves",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           }
         ]
@@ -87268,7 +87268,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Newcastle",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87279,7 +87279,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Bournemouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87290,7 +87290,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87301,7 +87301,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Burnley",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87312,7 +87312,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -87323,7 +87323,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "West Ham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87334,7 +87334,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Tottenham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87345,7 +87345,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87356,7 +87356,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87367,7 +87367,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -87380,7 +87380,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87391,7 +87391,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Liverpool",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87402,7 +87402,7 @@
             "corners": null,
             "date": "21 Apr",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87413,7 +87413,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87424,7 +87424,7 @@
             "corners": null,
             "date": "11 Mar",
             "opponent": "PSG",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
           },
           {
@@ -87435,7 +87435,7 @@
             "corners": null,
             "date": "7 Mar",
             "opponent": "Wrexham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -87446,7 +87446,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87457,7 +87457,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Arsenal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87468,7 +87468,7 @@
             "corners": null,
             "date": "13 Feb",
             "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -87479,7 +87479,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Wolves",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           }
         ]
@@ -87621,7 +87621,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Newcastle",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87632,7 +87632,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Bournemouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87643,7 +87643,7 @@
             "corners": null,
             "date": "25 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87654,7 +87654,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Burnley",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87665,7 +87665,7 @@
             "corners": null,
             "date": "8 Mar",
             "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -87676,7 +87676,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "West Ham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87687,7 +87687,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Tottenham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87698,7 +87698,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87709,7 +87709,7 @@
             "corners": null,
             "date": "24 Jan",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87720,7 +87720,7 @@
             "corners": null,
             "date": "10 Jan",
             "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -87733,7 +87733,7 @@
             "corners": null,
             "date": "24 May",
             "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87744,7 +87744,7 @@
             "corners": null,
             "date": "9 May",
             "opponent": "Liverpool",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87755,7 +87755,7 @@
             "corners": null,
             "date": "21 Apr",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87766,7 +87766,7 @@
             "corners": null,
             "date": "21 Mar",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87777,7 +87777,7 @@
             "corners": null,
             "date": "11 Mar",
             "opponent": "PSG",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
           },
           {
@@ -87788,7 +87788,7 @@
             "corners": null,
             "date": "7 Mar",
             "opponent": "Wrexham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -87799,7 +87799,7 @@
             "corners": null,
             "date": "4 Mar",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87810,7 +87810,7 @@
             "corners": null,
             "date": "1 Mar",
             "opponent": "Arsenal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87821,7 +87821,7 @@
             "corners": null,
             "date": "13 Feb",
             "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -87832,7 +87832,7 @@
             "corners": null,
             "date": "7 Feb",
             "opponent": "Wolves",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           }
         ]
@@ -87974,7 +87974,7 @@
             "corners": 12,
             "date": "24 May",
             "opponent": "Newcastle",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87985,7 +87985,7 @@
             "corners": 13,
             "date": "9 May",
             "opponent": "Bournemouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -87996,7 +87996,7 @@
             "corners": 7,
             "date": "25 Apr",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88007,7 +88007,7 @@
             "corners": 12,
             "date": "21 Mar",
             "opponent": "Burnley",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88018,7 +88018,7 @@
             "corners": 19,
             "date": "8 Mar",
             "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -88029,7 +88029,7 @@
             "corners": 11,
             "date": "4 Mar",
             "opponent": "West Ham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88040,7 +88040,7 @@
             "corners": 13,
             "date": "1 Mar",
             "opponent": "Tottenham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88051,7 +88051,7 @@
             "corners": 12,
             "date": "7 Feb",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88062,7 +88062,7 @@
             "corners": 12,
             "date": "24 Jan",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88073,7 +88073,7 @@
             "corners": 5,
             "date": "10 Jan",
             "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           }
         ],
@@ -88086,7 +88086,7 @@
             "corners": 8,
             "date": "24 May",
             "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88097,7 +88097,7 @@
             "corners": 7,
             "date": "9 May",
             "opponent": "Liverpool",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88108,7 +88108,7 @@
             "corners": 11,
             "date": "21 Apr",
             "opponent": "Brighton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88119,7 +88119,7 @@
             "corners": 12,
             "date": "21 Mar",
             "opponent": "Everton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88130,7 +88130,7 @@
             "corners": 5,
             "date": "11 Mar",
             "opponent": "PSG",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/2.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/2-dark.webp"
           },
           {
@@ -88141,7 +88141,7 @@
             "corners": 13,
             "date": "7 Mar",
             "opponent": "Wrexham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -88152,7 +88152,7 @@
             "corners": 11,
             "date": "4 Mar",
             "opponent": "Aston Villa",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88163,7 +88163,7 @@
             "corners": 15,
             "date": "1 Mar",
             "opponent": "Arsenal",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           },
           {
@@ -88174,7 +88174,7 @@
             "corners": 11,
             "date": "13 Feb",
             "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": null
           },
           {
@@ -88185,7 +88185,7 @@
             "corners": 7,
             "date": "7 Feb",
             "opponent": "Wolves",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogo": "https://cdn.footymetrics.com/teams/placeholder.webp",
             "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
           }
         ]
