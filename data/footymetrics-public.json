@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-25T23:16:48.654Z",
+  "generatedAt": "2026-08-25T23:45:37.017Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-25T23:16:41.871Z",
+      "fetchedAt": "2026-08-25T23:45:34.361Z",
       "bytes": 334708,
       "rowCount": 5,
       "serverTotal": 126
@@ -13,15 +13,15 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-25T23:16:42.239Z",
-      "bytes": 332589,
+      "fetchedAt": "2026-08-25T23:45:34.610Z",
+      "bytes": 332593,
       "rowCount": 5,
       "serverTotal": 26
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-25T23:16:42.654Z",
+      "fetchedAt": "2026-08-25T23:45:34.846Z",
       "bytes": 329730,
       "rowCount": 5,
       "serverTotal": 26
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-25T23:16:42.994Z",
+      "fetchedAt": "2026-08-25T23:45:35.088Z",
       "bytes": 331789,
       "rowCount": 5,
       "serverTotal": 26
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-25T23:16:44.264Z",
+      "fetchedAt": "2026-08-25T23:45:35.595Z",
       "bytes": 332360,
       "rowCount": 5,
       "serverTotal": 15
@@ -45,15 +45,15 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-25T23:16:45.219Z",
-      "bytes": 332166,
+      "fetchedAt": "2026-08-25T23:45:35.829Z",
+      "bytes": 332162,
       "rowCount": 5,
       "serverTotal": 26
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-25T23:16:46.860Z",
+      "fetchedAt": "2026-08-25T23:45:36.298Z",
       "bytes": 329698,
       "rowCount": 5,
       "serverTotal": 26
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-25T23:16:47.564Z",
+      "fetchedAt": "2026-08-25T23:45:36.463Z",
       "bytes": 337016,
       "rowCount": 5,
       "serverTotal": 76
@@ -69,7 +69,7 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-25T23:16:48.035Z",
+      "fetchedAt": "2026-08-25T23:45:36.678Z",
       "bytes": 1670146,
       "rowCount": 199,
       "serverTotal": 207
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-25T23:16:48.654Z",
+      "fetchedAt": "2026-08-25T23:45:37.016Z",
       "bytes": 485886,
       "rowCount": 0,
       "serverTotal": 0
@@ -592,14 +592,14 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.5
+            "odds": 1.49
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.44
+            "odds": 1.4
           },
           {
             "id": 4,
@@ -630,7 +630,7 @@
         },
         "away": {
           "prob": 16,
-          "odds": 7
+          "odds": 6.5
         }
       },
       "form": {
@@ -2194,11 +2194,11 @@
         "selection": "1X",
         "label": "Home or draw",
         "probability": 84,
-        "odds": 1.12,
-        "edge": -5.3,
+        "odds": 1.11,
+        "edge": -6.1,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Altenar",
         "prices": [
           {
             "id": 1,
@@ -2226,7 +2226,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.12
+            "odds": 1.11
           },
           {
             "id": 5,
@@ -2250,7 +2250,7 @@
         },
         "away": {
           "prob": 16,
-          "odds": 7
+          "odds": 6.5
         }
       },
       "form": {
@@ -40983,6 +40983,2137 @@
     },
     {
       "sourcePath": "/predictions/yesterday",
+      "rowId": "19813446-1x2-2-x",
+      "fixtureApid": 19813446,
+      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Ipswich",
+      "away": "Leicester",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "2",
+        "label": "Away win",
+        "probability": 31,
+        "odds": 7,
+        "edge": 16.7,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Match result",
+        "bookmaker": "Altenar",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 6.25
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 6
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 6
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 6
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 7
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1",
+      "matchResult": {
+        "home": {
+          "prob": 43,
+          "odds": 1.5
+        },
+        "draw": {
+          "prob": 25,
+          "odds": 4.75
+        },
+        "away": {
+          "prob": 31,
+          "odds": 7
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "22 Aug",
+            "opponent": "Sunderland",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "QPR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Millwall",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Leicester",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Mar",
+            "opponent": "Hull",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Swansea",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Preston",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "20 Jan",
+            "opponent": "Bristol",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Aug",
+            "opponent": "Notts County",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Blackburn",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Portsmouth",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Sheff Wed",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Watford",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Ipswich",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Feb",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Stoke",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Southampton",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 40,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 4,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 1.1,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 70,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "fhFor": 0.3,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19813446-double_chance-12-x",
+      "fixtureApid": 19813446,
+      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Ipswich",
+      "away": "Leicester",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 75,
+        "odds": 1.18,
+        "edge": -9.7,
+        "hasEdge": false,
+        "line": null,
+        "marketLabel": "Double chance",
+        "bookmaker": "Ladbrokes",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.14
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.18
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": 1.14
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": null,
+      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "22 Aug",
+            "opponent": "Sunderland",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "QPR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Millwall",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Leicester",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Mar",
+            "opponent": "Hull",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Swansea",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Preston",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "20 Jan",
+            "opponent": "Bristol",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Aug",
+            "opponent": "Notts County",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Blackburn",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Portsmouth",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Sheff Wed",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Watford",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Ipswich",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Feb",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Stoke",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Southampton",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 40,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 4,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 1.1,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 70,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "fhFor": 0.3,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19813446-1x2_fh-X-x",
+      "fixtureApid": 19813446,
+      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Ipswich",
+      "away": "Leicester",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 42,
+        "odds": 2.6,
+        "edge": 3.5,
+        "hasEdge": true,
+        "line": null,
+        "marketLabel": "Half-time result",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 2.6
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 2.5
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 2.5
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "X",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "22 Aug",
+            "opponent": "Sunderland",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "QPR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Millwall",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Leicester",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Mar",
+            "opponent": "Hull",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Swansea",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Preston",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "20 Jan",
+            "opponent": "Bristol",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Aug",
+            "opponent": "Notts County",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Blackburn",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Portsmouth",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Sheff Wed",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Watford",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Ipswich",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Feb",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Stoke",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Southampton",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 40,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 4,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 1.1,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 70,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "fhFor": 0.3,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19813446-total_goals-under-4.5",
+      "fixtureApid": 19813446,
+      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Ipswich",
+      "away": "Leicester",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "under",
+        "label": "Under 4.5 goals",
+        "probability": 83,
+        "odds": 1.22,
+        "edge": 1,
+        "hasEdge": true,
+        "line": 4.5,
+        "marketLabel": "Total goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.22
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": 1.17
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.2
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "4 goals",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "22 Aug",
+            "opponent": "Sunderland",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "QPR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Millwall",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Leicester",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Mar",
+            "opponent": "Hull",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Swansea",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Preston",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "20 Jan",
+            "opponent": "Bristol",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Aug",
+            "opponent": "Notts County",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Blackburn",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Portsmouth",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Sheff Wed",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Watford",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Ipswich",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Feb",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Stoke",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Southampton",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 40,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 4,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 1.1,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 70,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "fhFor": 0.3,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19813446-home_goals-under-2.5",
+      "fixtureApid": 19813446,
+      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Ipswich",
+      "away": "Leicester",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "home_goals",
+        "selection": "under",
+        "label": "Home under 2.5 goals",
+        "probability": 81,
+        "odds": 1.53,
+        "edge": 15.6,
+        "hasEdge": true,
+        "line": 2.5,
+        "marketLabel": "Home goals",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.53
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": 1.43
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": 1.5
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "3 scored",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "22 Aug",
+            "opponent": "Sunderland",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "QPR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "19 Apr",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Millwall",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Leicester",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": null,
+            "date": "3 Mar",
+            "opponent": "Hull",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "28 Feb",
+            "opponent": "Swansea",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "31 Jan",
+            "opponent": "Preston",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": null,
+            "date": "20 Jan",
+            "opponent": "Bristol",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "15 Aug",
+            "opponent": "Notts County",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "2 May",
+            "opponent": "Blackburn",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "18 Apr",
+            "opponent": "Portsmouth",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "6 Apr",
+            "opponent": "Sheff Wed",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "21 Mar",
+            "opponent": "Watford",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "7 Mar",
+            "opponent": "Ipswich",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "24 Feb",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": null,
+            "date": "21 Feb",
+            "opponent": "Stoke",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "14 Feb",
+            "opponent": "Southampton",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": null,
+            "date": "7 Feb",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 40,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 60,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 6,
+            "d": 4,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 1.1,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 70,
+          "scored2": 10,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "fhFor": 0.3,
+          "fhAgainst": 0.5,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
+      "rowId": "19813446-total_corners-over-6.5",
+      "fixtureApid": 19813446,
+      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
+      "timestamp": "2026-08-25T18:45:00.000Z",
+      "league": {
+        "id": 17,
+        "name": "Carabao Cup",
+        "country": "England"
+      },
+      "home": "Ipswich",
+      "away": "Leicester",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_corners",
+        "selection": "over",
+        "label": "Over 6.5 corners",
+        "probability": 76,
+        "odds": 1.1,
+        "edge": -14.9,
+        "hasEdge": false,
+        "line": 6.5,
+        "marketLabel": "Corners",
+        "bookmaker": "Bet365",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": 1.1
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "8 corners",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": 8,
+            "date": "22 Aug",
+            "opponent": "Sunderland",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
+            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": 6,
+            "date": "2 May",
+            "opponent": "QPR",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": 9,
+            "date": "19 Apr",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": 10,
+            "date": "6 Apr",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 17,
+            "date": "21 Mar",
+            "opponent": "Millwall",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 12,
+            "date": "7 Mar",
+            "opponent": "Leicester",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-0",
+            "corners": 10,
+            "date": "3 Mar",
+            "opponent": "Hull",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": 4,
+            "date": "28 Feb",
+            "opponent": "Swansea",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 12,
+            "date": "31 Jan",
+            "opponent": "Preston",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-0",
+            "corners": 11,
+            "date": "20 Jan",
+            "opponent": "Bristol",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 8,
+            "date": "15 Aug",
+            "opponent": "Notts County",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": 20,
+            "date": "2 May",
+            "opponent": "Blackburn",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": 12,
+            "date": "18 Apr",
+            "opponent": "Portsmouth",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 11,
+            "date": "6 Apr",
+            "opponent": "Sheff Wed",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": 11,
+            "date": "21 Mar",
+            "opponent": "Watford",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 12,
+            "date": "7 Mar",
+            "opponent": "Ipswich",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": 13,
+            "date": "24 Feb",
+            "opponent": "Middlesbrough",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "2-2",
+            "corners": 11,
+            "date": "21 Feb",
+            "opponent": "Stoke",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": 13,
+            "date": "14 Feb",
+            "opponent": "Southampton",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "2-1",
+            "corners": 11,
+            "date": "7 Feb",
+            "opponent": "Birmingham",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.8,
+          "ga": 0.7,
+          "cs": 40,
+          "fts": 0,
+          "ov25": 50,
+          "btts": 60,
+          "scored2": 60,
+          "cAvg": 9.9,
+          "cf": 6.6,
+          "ca": 3.3,
+          "record": {
+            "w": 6,
+            "d": 4,
+            "l": 0
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 1,
+          "fhAgainst": 0.4,
+          "ovLine": 80
+        },
+        "away": {
+          "n": 10,
+          "gf": 0.9,
+          "ga": 1.1,
+          "cs": 20,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 70,
+          "scored2": 10,
+          "cAvg": 12.2,
+          "cf": 5.6,
+          "ca": 6.6,
+          "record": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "htRecord": {
+            "w": 1,
+            "d": 6,
+            "l": 3
+          },
+          "fhFor": 0.3,
+          "fhAgainst": 0.5,
+          "ovLine": 100
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/yesterday",
       "rowId": "19813447-1x2-2-x",
       "fixtureApid": 19813447,
       "slug": "29684482-carabao-cup-walsall-leyton-orient",
@@ -41417,7 +43548,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
       "form": {
         "home": [
           {
@@ -41770,7 +43901,7 @@
       },
       "settlement": "won",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
       "form": {
         "home": [
           {
@@ -42123,7 +44254,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
       "form": {
         "home": [
           {
@@ -42476,7 +44607,7 @@
       },
       "settlement": "won",
       "actual": "0 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
       "form": {
         "home": [
           {
@@ -42829,7 +44960,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
       "form": {
         "home": [
           {
@@ -43182,7 +45313,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:107:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:113:matchResult",
       "form": {
         "home": [
           {
@@ -43901,7 +46032,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:114:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:120:matchResult",
       "form": {
         "home": [
           {
@@ -44254,7 +46385,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:114:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:120:matchResult",
       "form": {
         "home": [
           {
@@ -44607,7 +46738,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:114:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:120:matchResult",
       "form": {
         "home": [
           {
@@ -44960,7 +47091,7 @@
       },
       "settlement": "lost",
       "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:114:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:120:matchResult",
       "form": {
         "home": [
           {
@@ -45313,7 +47444,7 @@
       },
       "settlement": "lost",
       "actual": "4 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:114:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:120:matchResult",
       "form": {
         "home": [
           {
@@ -45666,7 +47797,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:114:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:120:matchResult",
       "form": {
         "home": [
           {
@@ -46385,7 +48516,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:121:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:127:matchResult",
       "form": {
         "home": [
           {
@@ -46738,7 +48869,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:121:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:127:matchResult",
       "form": {
         "home": [
           {
@@ -47091,7 +49222,7 @@
       },
       "settlement": "won",
       "actual": "BTTS No",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:121:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:127:matchResult",
       "form": {
         "home": [
           {
@@ -47444,7 +49575,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:121:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:127:matchResult",
       "form": {
         "home": [
           {
@@ -47797,7 +49928,7 @@
       },
       "settlement": "won",
       "actual": "0 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:121:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:127:matchResult",
       "form": {
         "home": [
           {
@@ -48150,7 +50281,7 @@
       },
       "settlement": "won",
       "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:121:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:127:matchResult",
       "form": {
         "home": [
           {
@@ -48869,7 +51000,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -49222,7 +51353,7 @@
       },
       "settlement": "won",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -49575,7 +51706,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -49928,7 +52059,7 @@
       },
       "settlement": "lost",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -50281,7 +52412,7 @@
       },
       "settlement": "lost",
       "actual": "4 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -50634,7 +52765,7 @@
       },
       "settlement": "lost",
       "actual": "2 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:128:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:134:matchResult",
       "form": {
         "home": [
           {
@@ -51353,7 +53484,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [
           {
@@ -51706,7 +53837,7 @@
       },
       "settlement": "lost",
       "actual": "1",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [
           {
@@ -52059,7 +54190,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [
           {
@@ -52412,7 +54543,7 @@
       },
       "settlement": "lost",
       "actual": "5 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [
           {
@@ -52765,7 +54896,7 @@
       },
       "settlement": "lost",
       "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [
           {
@@ -53118,7 +55249,7 @@
       },
       "settlement": "won",
       "actual": "27 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:135:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:141:matchResult",
       "form": {
         "home": [
           {
@@ -53837,7 +55968,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -54190,7 +56321,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -54543,7 +56674,7 @@
       },
       "settlement": "lost",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -54896,7 +57027,7 @@
       },
       "settlement": "won",
       "actual": "3 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -55249,7 +57380,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -55602,7 +57733,7 @@
       },
       "settlement": "won",
       "actual": "10 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:142:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:148:matchResult",
       "form": {
         "home": [
           {
@@ -56321,7 +58452,7 @@
       },
       "settlement": "lost",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:149:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [
           {
@@ -56674,7 +58805,7 @@
       },
       "settlement": "won",
       "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:149:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [
           {
@@ -57027,7 +59158,7 @@
       },
       "settlement": "won",
       "actual": "2 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:149:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [
           {
@@ -57380,7 +59511,7 @@
       },
       "settlement": "won",
       "actual": "1 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:149:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [
           {
@@ -57733,7 +59864,7 @@
       },
       "settlement": "lost",
       "actual": "5 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:149:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
       "form": {
         "home": [
           {
@@ -58452,7 +60583,7 @@
       },
       "settlement": "won",
       "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -58805,7 +60936,7 @@
       },
       "settlement": "lost",
       "actual": "2",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -59158,7 +61289,7 @@
       },
       "settlement": "won",
       "actual": "BTTS Yes",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -59511,7 +61642,7 @@
       },
       "settlement": "lost",
       "actual": "6 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -59864,7 +61995,7 @@
       },
       "settlement": "lost",
       "actual": "4 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -60217,7 +62348,7 @@
       },
       "settlement": "lost",
       "actual": "6 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:155:matchResult",
+      "matchResult": "$1b:props:children:1:props:children:props:rows:161:matchResult",
       "form": {
         "home": [
           {
@@ -60496,2137 +62627,6 @@
           "fhFor": 1,
           "fhAgainst": 0.2,
           "ovLine": 60
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19813446-1x2-2-x",
-      "fixtureApid": 19813446,
-      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 17,
-        "name": "Carabao Cup",
-        "country": "England"
-      },
-      "home": "Ipswich",
-      "away": "Leicester",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2",
-        "selection": "2",
-        "label": "Away win",
-        "probability": 31,
-        "odds": 7,
-        "edge": 16.7,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Match result",
-        "bookmaker": "Altenar",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 6.25
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 6
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 6
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 6
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 7
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "1",
-      "matchResult": {
-        "home": {
-          "prob": 43,
-          "odds": 1.5
-        },
-        "draw": {
-          "prob": 25,
-          "odds": 4.75
-        },
-        "away": {
-          "prob": 31,
-          "odds": 7
-        }
-      },
-      "form": {
-        "home": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Aug",
-            "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "QPR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Millwall",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Leicester",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "3 Mar",
-            "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Swansea",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Preston",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "20 Jan",
-            "opponent": "Bristol",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "15 Aug",
-            "opponent": "Notts County",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Blackburn",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Portsmouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Sheff Wed",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Watford",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Ipswich",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Feb",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Stoke",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "14 Feb",
-            "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 0,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 60,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 1.1,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 70,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "fhFor": 0.3,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19813446-double_chance-12-x",
-      "fixtureApid": 19813446,
-      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 17,
-        "name": "Carabao Cup",
-        "country": "England"
-      },
-      "home": "Ipswich",
-      "away": "Leicester",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "double_chance",
-        "selection": "12",
-        "label": "Home or away",
-        "probability": 75,
-        "odds": 1.18,
-        "edge": -9.7,
-        "hasEdge": false,
-        "line": null,
-        "marketLabel": "Double chance",
-        "bookmaker": "Ladbrokes",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.14
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.18
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.14
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": null,
-      "matchResult": "$1b:props:children:1:props:children:props:rows:162:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Aug",
-            "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "QPR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Millwall",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Leicester",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "3 Mar",
-            "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Swansea",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Preston",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "20 Jan",
-            "opponent": "Bristol",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "15 Aug",
-            "opponent": "Notts County",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Blackburn",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Portsmouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Sheff Wed",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Watford",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Ipswich",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Feb",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Stoke",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "14 Feb",
-            "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 0,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 60,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 1.1,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 70,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "fhFor": 0.3,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19813446-1x2_fh-X-x",
-      "fixtureApid": 19813446,
-      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 17,
-        "name": "Carabao Cup",
-        "country": "England"
-      },
-      "home": "Ipswich",
-      "away": "Leicester",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "1x2_fh",
-        "selection": "X",
-        "label": "Draw HT",
-        "probability": 42,
-        "odds": 2.6,
-        "edge": 3.5,
-        "hasEdge": true,
-        "line": null,
-        "marketLabel": "Half-time result",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 2.6
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 2.5
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 2.5
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "X",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:162:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Aug",
-            "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "QPR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Millwall",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Leicester",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "3 Mar",
-            "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Swansea",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Preston",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "20 Jan",
-            "opponent": "Bristol",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "15 Aug",
-            "opponent": "Notts County",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Blackburn",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Portsmouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Sheff Wed",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Watford",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Ipswich",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Feb",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Stoke",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "14 Feb",
-            "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 0,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 60,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 1.1,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 70,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "fhFor": 0.3,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19813446-total_goals-under-4.5",
-      "fixtureApid": 19813446,
-      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 17,
-        "name": "Carabao Cup",
-        "country": "England"
-      },
-      "home": "Ipswich",
-      "away": "Leicester",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_goals",
-        "selection": "under",
-        "label": "Under 4.5 goals",
-        "probability": 83,
-        "odds": 1.22,
-        "edge": 1,
-        "hasEdge": true,
-        "line": 4.5,
-        "marketLabel": "Total goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.22
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.17
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.2
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "4 goals",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:162:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Aug",
-            "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "QPR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Millwall",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Leicester",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "3 Mar",
-            "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Swansea",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Preston",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "20 Jan",
-            "opponent": "Bristol",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "15 Aug",
-            "opponent": "Notts County",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Blackburn",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Portsmouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Sheff Wed",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Watford",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Ipswich",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Feb",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Stoke",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "14 Feb",
-            "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 0,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 60,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 1.1,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 70,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "fhFor": 0.3,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19813446-home_goals-under-2.5",
-      "fixtureApid": 19813446,
-      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 17,
-        "name": "Carabao Cup",
-        "country": "England"
-      },
-      "home": "Ipswich",
-      "away": "Leicester",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "home_goals",
-        "selection": "under",
-        "label": "Home under 2.5 goals",
-        "probability": 81,
-        "odds": 1.53,
-        "edge": 15.6,
-        "hasEdge": true,
-        "line": 2.5,
-        "marketLabel": "Home goals",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.53
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.43
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.5
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "lost",
-      "actual": "3 scored",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:162:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "22 Aug",
-            "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "QPR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "19 Apr",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Millwall",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Leicester",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": null,
-            "date": "3 Mar",
-            "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": null,
-            "date": "28 Feb",
-            "opponent": "Swansea",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "31 Jan",
-            "opponent": "Preston",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": null,
-            "date": "20 Jan",
-            "opponent": "Bristol",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "15 Aug",
-            "opponent": "Notts County",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": null,
-            "date": "2 May",
-            "opponent": "Blackburn",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": null,
-            "date": "18 Apr",
-            "opponent": "Portsmouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "6 Apr",
-            "opponent": "Sheff Wed",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": null,
-            "date": "21 Mar",
-            "opponent": "Watford",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "7 Mar",
-            "opponent": "Ipswich",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": null,
-            "date": "24 Feb",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": null,
-            "date": "21 Feb",
-            "opponent": "Stoke",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "14 Feb",
-            "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": null,
-            "date": "7 Feb",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 0,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 60,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1,
-          "fhAgainst": 0.4,
-          "ovLine": null
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 1.1,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 70,
-          "scored2": 10,
-          "cAvg": null,
-          "cf": null,
-          "ca": null,
-          "record": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "fhFor": 0.3,
-          "fhAgainst": 0.5,
-          "ovLine": null
-        },
-        "h2h": []
-      }
-    },
-    {
-      "sourcePath": "/predictions/yesterday",
-      "rowId": "19813446-total_corners-over-6.5",
-      "fixtureApid": 19813446,
-      "slug": "29684481-carabao-cup-ipswich-town-leicester-city",
-      "timestamp": "2026-08-25T18:45:00.000Z",
-      "league": {
-        "id": 17,
-        "name": "Carabao Cup",
-        "country": "England"
-      },
-      "home": "Ipswich",
-      "away": "Leicester",
-      "locked": false,
-      "finished": true,
-      "score": {
-        "home": 3,
-        "away": 1
-      },
-      "bestTip": {
-        "market": "total_corners",
-        "selection": "over",
-        "label": "Over 6.5 corners",
-        "probability": 76,
-        "odds": 1.1,
-        "edge": -14.9,
-        "hasEdge": false,
-        "line": 6.5,
-        "marketLabel": "Corners",
-        "bookmaker": "Bet365",
-        "prices": [
-          {
-            "id": 1,
-            "name": "Bet365",
-            "shortName": "Bet365",
-            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.1
-          },
-          {
-            "id": 2,
-            "name": "Kambi",
-            "shortName": "Kambi",
-            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
-          },
-          {
-            "id": 3,
-            "name": "Paddy Power",
-            "shortName": "Paddy",
-            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": null
-          },
-          {
-            "id": 4,
-            "name": "Ladbrokes",
-            "shortName": "Ladbrokes",
-            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": null
-          },
-          {
-            "id": 5,
-            "name": "Altenar",
-            "shortName": "Altenar",
-            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": null
-          }
-        ]
-      },
-      "settlement": "won",
-      "actual": "8 corners",
-      "matchResult": "$1b:props:children:1:props:children:props:rows:162:matchResult",
-      "form": {
-        "home": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": 8,
-            "date": "22 Aug",
-            "opponent": "Sunderland",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/8.webp",
-            "leagueLogoDark": "https://cdn.footymetrics.com/leagues/8-dark.webp"
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": 6,
-            "date": "2 May",
-            "opponent": "QPR",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 9,
-            "date": "19 Apr",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-1",
-            "corners": 10,
-            "date": "6 Apr",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 17,
-            "date": "21 Mar",
-            "opponent": "Millwall",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 12,
-            "date": "7 Mar",
-            "opponent": "Leicester",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "1-0",
-            "corners": 10,
-            "date": "3 Mar",
-            "opponent": "Hull",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": false,
-            "pending": false,
-            "res": "W",
-            "score": "3-0",
-            "corners": 4,
-            "date": "28 Feb",
-            "opponent": "Swansea",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 12,
-            "date": "31 Jan",
-            "opponent": "Preston",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "2-0",
-            "corners": 11,
-            "date": "20 Jan",
-            "opponent": "Bristol",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ],
-        "away": [
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 8,
-            "date": "15 Aug",
-            "opponent": "Notts County",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/12.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "W",
-            "score": "0-1",
-            "corners": 20,
-            "date": "2 May",
-            "opponent": "Blackburn",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "1-0",
-            "corners": 12,
-            "date": "18 Apr",
-            "opponent": "Portsmouth",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 11,
-            "date": "6 Apr",
-            "opponent": "Sheff Wed",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "0-0",
-            "corners": 11,
-            "date": "21 Mar",
-            "opponent": "Watford",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 12,
-            "date": "7 Mar",
-            "opponent": "Ipswich",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "1-1",
-            "corners": 13,
-            "date": "24 Feb",
-            "opponent": "Middlesbrough",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "D",
-            "score": "2-2",
-            "corners": 11,
-            "date": "21 Feb",
-            "opponent": "Stoke",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": 13,
-            "date": "14 Feb",
-            "opponent": "Southampton",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/24.webp",
-            "leagueLogoDark": null
-          },
-          {
-            "hit": true,
-            "pending": false,
-            "res": "L",
-            "score": "2-1",
-            "corners": 11,
-            "date": "7 Feb",
-            "opponent": "Birmingham",
-            "leagueLogo": "https://cdn.footymetrics.com/leagues/9.webp",
-            "leagueLogoDark": null
-          }
-        ]
-      },
-      "modelStats": {
-        "home": {
-          "n": 10,
-          "gf": 1.8,
-          "ga": 0.7,
-          "cs": 40,
-          "fts": 0,
-          "ov25": 50,
-          "btts": 60,
-          "scored2": 60,
-          "cAvg": 9.9,
-          "cf": 6.6,
-          "ca": 3.3,
-          "record": {
-            "w": 6,
-            "d": 4,
-            "l": 0
-          },
-          "htRecord": {
-            "w": 5,
-            "d": 4,
-            "l": 1
-          },
-          "fhFor": 1,
-          "fhAgainst": 0.4,
-          "ovLine": 80
-        },
-        "away": {
-          "n": 10,
-          "gf": 0.9,
-          "ga": 1.1,
-          "cs": 20,
-          "fts": 20,
-          "ov25": 30,
-          "btts": 70,
-          "scored2": 10,
-          "cAvg": 12.2,
-          "cf": 5.6,
-          "ca": 6.6,
-          "record": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "htRecord": {
-            "w": 1,
-            "d": 6,
-            "l": 3
-          },
-          "fhFor": 0.3,
-          "fhAgainst": 0.5,
-          "ovLine": 100
         },
         "h2h": []
       }
