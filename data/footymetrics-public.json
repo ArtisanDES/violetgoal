@@ -1,11 +1,11 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-26T09:30:47.313Z",
+  "generatedAt": "2026-08-26T10:24:39.070Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-26T09:30:44.255Z",
+      "fetchedAt": "2026-08-26T10:24:37.032Z",
       "bytes": 431951,
       "rowCount": 19,
       "serverTotal": 133
@@ -13,15 +13,15 @@
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-26T09:30:44.568Z",
-      "bytes": 348530,
+      "fetchedAt": "2026-08-26T10:24:37.255Z",
+      "bytes": 348522,
       "rowCount": 7,
       "serverTotal": 26
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-26T09:30:44.871Z",
+      "fetchedAt": "2026-08-26T10:24:37.474Z",
       "bytes": 344997,
       "rowCount": 7,
       "serverTotal": 26
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-26T09:30:45.381Z",
+      "fetchedAt": "2026-08-26T10:24:37.704Z",
       "bytes": 347110,
       "rowCount": 7,
       "serverTotal": 26
@@ -37,7 +37,7 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-26T09:30:45.751Z",
+      "fetchedAt": "2026-08-26T10:24:37.927Z",
       "bytes": 346380,
       "rowCount": 7,
       "serverTotal": 19
@@ -45,15 +45,15 @@
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-26T09:30:46.052Z",
-      "bytes": 348134,
+      "fetchedAt": "2026-08-26T10:24:38.156Z",
+      "bytes": 348135,
       "rowCount": 7,
       "serverTotal": 26
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-26T09:30:46.345Z",
+      "fetchedAt": "2026-08-26T10:24:38.377Z",
       "bytes": 345015,
       "rowCount": 7,
       "serverTotal": 26
@@ -61,7 +61,7 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-26T09:30:46.578Z",
+      "fetchedAt": "2026-08-26T10:24:38.532Z",
       "bytes": 336992,
       "rowCount": 5,
       "serverTotal": 84
@@ -69,15 +69,15 @@
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-26T09:30:46.851Z",
-      "bytes": 1748925,
+      "fetchedAt": "2026-08-26T10:24:38.742Z",
+      "bytes": 1748639,
       "rowCount": 207,
       "serverTotal": 207
     },
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-26T09:30:47.312Z",
+      "fetchedAt": "2026-08-26T10:24:39.070Z",
       "bytes": 485888,
       "rowCount": 0,
       "serverTotal": 0
@@ -6373,11 +6373,11 @@
         "selection": "1",
         "label": "Home win",
         "probability": 62,
-        "odds": 1.29,
-        "edge": -15.5,
+        "odds": 1.25,
+        "edge": -18,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Altenar",
+        "bookmaker": "Kambi",
         "prices": [
           {
             "id": 1,
@@ -6412,7 +6412,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.29
+            "odds": 1.25
           }
         ]
       },
@@ -6421,7 +6421,7 @@
       "matchResult": {
         "home": {
           "prob": 62,
-          "odds": 1.29
+          "odds": 1.25
         },
         "draw": {
           "prob": 22,
@@ -11261,8 +11261,8 @@
         "selection": "1X",
         "label": "Home or draw",
         "probability": 84,
-        "odds": 1.07,
-        "edge": -9.5,
+        "odds": 1.06,
+        "edge": -10.3,
         "hasEdge": false,
         "line": null,
         "bookmaker": "Altenar",
@@ -11300,7 +11300,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.07
+            "odds": 1.06
           }
         ]
       },
@@ -11309,7 +11309,7 @@
       "matchResult": {
         "home": {
           "prob": 62,
-          "odds": 1.29
+          "odds": 1.25
         },
         "draw": {
           "prob": 22,
