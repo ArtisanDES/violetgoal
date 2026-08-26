@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-08-26T07:37:44.099Z",
+  "generatedAt": "2026-08-26T08:31:28.325Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-08-26T07:37:42.116Z",
+      "fetchedAt": "2026-08-26T08:31:07.487Z",
       "bytes": 431951,
       "rowCount": 19,
-      "serverTotal": 128
+      "serverTotal": 132
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-08-26T07:37:42.335Z",
+      "fetchedAt": "2026-08-26T08:31:13.177Z",
       "bytes": 348530,
       "rowCount": 7,
       "serverTotal": 26
@@ -21,7 +21,7 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-08-26T07:37:42.550Z",
+      "fetchedAt": "2026-08-26T08:31:15.635Z",
       "bytes": 344997,
       "rowCount": 7,
       "serverTotal": 26
@@ -29,7 +29,7 @@
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-08-26T07:37:42.773Z",
+      "fetchedAt": "2026-08-26T08:31:20.727Z",
       "bytes": 347110,
       "rowCount": 7,
       "serverTotal": 26
@@ -37,23 +37,23 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-08-26T07:37:42.991Z",
+      "fetchedAt": "2026-08-26T08:31:24.922Z",
       "bytes": 346380,
       "rowCount": 7,
-      "serverTotal": 16
+      "serverTotal": 19
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-08-26T07:37:43.235Z",
-      "bytes": 348134,
+      "fetchedAt": "2026-08-26T08:31:26.466Z",
+      "bytes": 348131,
       "rowCount": 7,
       "serverTotal": 26
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-08-26T07:37:43.448Z",
+      "fetchedAt": "2026-08-26T08:31:27.222Z",
       "bytes": 345015,
       "rowCount": 7,
       "serverTotal": 26
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-08-26T07:37:43.601Z",
-      "bytes": 337028,
+      "fetchedAt": "2026-08-26T08:31:27.465Z",
+      "bytes": 336970,
       "rowCount": 5,
-      "serverTotal": 83
+      "serverTotal": 84
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-08-26T07:37:43.805Z",
+      "fetchedAt": "2026-08-26T08:31:27.927Z",
       "bytes": 1748925,
       "rowCount": 207,
       "serverTotal": 207
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-08-26T07:37:44.099Z",
+      "fetchedAt": "2026-08-26T08:31:28.324Z",
       "bytes": 485888,
       "rowCount": 0,
       "serverTotal": 0
@@ -6373,8 +6373,8 @@
         "selection": "1",
         "label": "Home win",
         "probability": 62,
-        "odds": 1.29,
-        "edge": -15.5,
+        "odds": 1.27,
+        "edge": -16.7,
         "hasEdge": false,
         "line": null,
         "bookmaker": "Altenar",
@@ -6412,7 +6412,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.29
+            "odds": 1.27
           }
         ]
       },
@@ -6421,7 +6421,7 @@
       "matchResult": {
         "home": {
           "prob": 62,
-          "odds": 1.29
+          "odds": 1.27
         },
         "draw": {
           "prob": 22,
@@ -11265,7 +11265,7 @@
         "edge": -8.6,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Altenar",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
@@ -11300,7 +11300,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.08
+            "odds": 1.07
           }
         ]
       },
@@ -11309,7 +11309,7 @@
       "matchResult": {
         "home": {
           "prob": 62,
-          "odds": 1.29
+          "odds": 1.27
         },
         "draw": {
           "prob": 22,
@@ -13383,17 +13383,17 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19748300-double_chance-1X-x",
-      "fixtureApid": 19748300,
-      "slug": "28836256-enterprise-national-league-boreham-wood-boston-united",
-      "timestamp": "2026-08-27T18:45:00.000Z",
+      "rowId": "19764637-home_goals-under-2.5",
+      "fixtureApid": 19764637,
+      "slug": "28836254-stars-league-al-gharafa-al-shamal-sc",
+      "timestamp": "2026-08-27T14:15:00.000Z",
       "league": {
-        "id": 8053,
-        "name": "Enterprise National League",
-        "country": "England"
+        "id": 65,
+        "name": "Stars League",
+        "country": "Qatar"
       },
-      "home": "Boreham Wood",
-      "away": "Boston United",
+      "home": "Al Gharafa",
+      "away": "Al Shamal SC",
       "locked": true,
       "finished": false,
       "score": null,
