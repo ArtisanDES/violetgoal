@@ -5665,7 +5665,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Altenar"
           }
         ],
-        "generatedAt": "2026-09-06T04:53:25.821Z"
+        "generatedAt": "2026-09-06T09:02:56.159Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -5741,7 +5741,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Altenar"
           }
         ],
-        "generatedAt": "2026-09-06T04:53:25.821Z"
+        "generatedAt": "2026-09-06T09:02:56.159Z"
       }
     },
     {
@@ -13571,7 +13571,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-09-06T04:53:26.112Z",
+  "enrichedAt": "2026-09-06T09:02:56.452Z",
   "enrichment": {
     "providerOverrides": 1,
     "apiFootball": "synced",
