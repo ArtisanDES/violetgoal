@@ -3544,7 +3544,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": null,
-            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
             "form": {
               "home": [
                 {
@@ -3897,7 +3897,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "X",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
             "form": {
               "home": [
                 {
@@ -4250,7 +4250,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "BTTS No",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
             "form": {
               "home": [
                 {
@@ -4603,7 +4603,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "0 goals",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
             "form": {
               "home": [
                 {
@@ -4956,7 +4956,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "0 scored",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
             "form": {
               "home": [
                 {
@@ -5309,7 +5309,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "10 corners",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:39:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:32:matchResult",
             "form": {
               "home": [
                 {
@@ -5665,7 +5665,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Altenar"
           }
         ],
-        "generatedAt": "2026-09-06T00:07:32.355Z"
+        "generatedAt": "2026-09-06T04:53:25.821Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -5741,7 +5741,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Altenar"
           }
         ],
-        "generatedAt": "2026-09-06T00:07:32.355Z"
+        "generatedAt": "2026-09-06T04:53:25.821Z"
       }
     },
     {
@@ -13571,7 +13571,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-09-06T00:07:32.697Z",
+  "enrichedAt": "2026-09-06T04:53:26.112Z",
   "enrichment": {
     "providerOverrides": 1,
     "apiFootball": "synced",
