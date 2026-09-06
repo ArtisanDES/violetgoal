@@ -14871,7 +14871,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-09-06T20:34:50.207Z"
+        "generatedAt": "2026-09-06T22:33:29.202Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -14954,7 +14954,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-09-06T20:34:50.207Z"
+        "generatedAt": "2026-09-06T22:33:29.202Z"
       }
     },
     {
@@ -19909,7 +19909,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-09-06T20:34:50.207Z"
+        "generatedAt": "2026-09-06T22:33:29.202Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -19992,7 +19992,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-09-06T20:34:50.207Z"
+        "generatedAt": "2026-09-06T22:33:29.202Z"
       }
     },
     {
@@ -23090,9 +23090,9 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-09-06T20:34:50.704Z",
+  "enrichedAt": "2026-09-06T22:33:29.730Z",
   "enrichment": {
-    "providerOverrides": 3,
+    "providerOverrides": 2,
     "apiFootball": "synced",
     "apiFootballOdds": "synced",
     "oddsApiIo": "no synced payload",
