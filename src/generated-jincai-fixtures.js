@@ -10734,7 +10734,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": null,
-            "matchResult": "$1b:props:children:1:props:children:props:rows:178:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
             "form": {
               "home": [
                 {
@@ -11087,7 +11087,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "2",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:178:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
             "form": {
               "home": [
                 {
@@ -11440,7 +11440,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "BTTS No",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:178:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
             "form": {
               "home": [
                 {
@@ -11793,7 +11793,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "3 goals",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:178:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
             "form": {
               "home": [
                 {
@@ -12146,7 +12146,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "3 scored",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:178:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
             "form": {
               "home": [
                 {
@@ -12499,7 +12499,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "6 corners",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:178:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:59:matchResult",
             "form": {
               "home": [
                 {
@@ -12855,7 +12855,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-09-07T10:33:09.090Z"
+        "generatedAt": "2026-09-07T16:11:54.267Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -12931,7 +12931,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Paddy Power"
           }
         ],
-        "generatedAt": "2026-09-07T10:33:09.090Z"
+        "generatedAt": "2026-09-07T16:11:54.267Z"
       }
     },
     {
@@ -13556,7 +13556,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": null,
-            "matchResult": "$1b:props:children:1:props:children:props:rows:172:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
             "form": {
               "home": [
                 {
@@ -13909,7 +13909,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "lost",
             "actual": "1",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:172:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
             "form": {
               "home": [
                 {
@@ -14262,7 +14262,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "4 goals",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:172:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
             "form": {
               "home": [
                 {
@@ -14615,7 +14615,7 @@ window.__JINCAI_DATA__ = {
             },
             "settlement": "won",
             "actual": "2 scored",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:172:matchResult",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
             "form": {
               "home": [
                 {
@@ -14967,8 +14967,8 @@ window.__JINCAI_DATA__ = {
               ]
             },
             "settlement": "lost",
-            "actual": "5 corners",
-            "matchResult": "$1b:props:children:1:props:children:props:rows:172:matchResult",
+            "actual": "3 corners",
+            "matchResult": "$1b:props:children:1:props:children:props:rows:53:matchResult",
             "form": {
               "home": [
                 {
@@ -15317,7 +15317,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-09-07T10:33:09.090Z"
+        "generatedAt": "2026-09-07T16:11:54.267Z"
       },
       "thirdPartyCompare": {
         "provider": "FootyMetrics",
@@ -15386,7 +15386,7 @@ window.__JINCAI_DATA__ = {
             "bookmaker": "Bet365"
           }
         ],
-        "generatedAt": "2026-09-07T10:33:09.090Z"
+        "generatedAt": "2026-09-07T16:11:54.267Z"
       }
     },
     {
@@ -18484,7 +18484,7 @@ window.__JINCAI_DATA__ = {
       }
     }
   ],
-  "enrichedAt": "2026-09-07T10:33:09.348Z",
+  "enrichedAt": "2026-09-07T16:11:54.512Z",
   "enrichment": {
     "providerOverrides": 2,
     "apiFootball": "synced",
