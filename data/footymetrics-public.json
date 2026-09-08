@@ -1,19 +1,19 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-09-08T05:27:09.161Z",
+  "generatedAt": "2026-09-08T09:55:21.911Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-09-08T05:27:01.161Z",
-      "bytes": 332396,
+      "fetchedAt": "2026-09-08T09:55:18.540Z",
+      "bytes": 332387,
       "rowCount": 5,
-      "serverTotal": 157
+      "serverTotal": 158
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-09-08T05:27:02.015Z",
+      "fetchedAt": "2026-09-08T09:55:18.830Z",
       "bytes": 330327,
       "rowCount": 5,
       "serverTotal": 29
@@ -21,15 +21,15 @@
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-09-08T05:27:03.345Z",
-      "bytes": 333565,
+      "fetchedAt": "2026-09-08T09:55:19.071Z",
+      "bytes": 333566,
       "rowCount": 5,
       "serverTotal": 29
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-09-08T05:27:03.728Z",
+      "fetchedAt": "2026-09-08T09:55:20.122Z",
       "bytes": 331933,
       "rowCount": 5,
       "serverTotal": 29
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-09-08T05:27:04.537Z",
-      "bytes": 331541,
+      "fetchedAt": "2026-09-08T09:55:20.623Z",
+      "bytes": 331542,
       "rowCount": 5,
       "serverTotal": 24
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-09-08T05:27:05.577Z",
+      "fetchedAt": "2026-09-08T09:55:20.839Z",
       "bytes": 329959,
       "rowCount": 5,
       "serverTotal": 29
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-09-08T05:27:05.932Z",
+      "fetchedAt": "2026-09-08T09:55:21.053Z",
       "bytes": 329767,
       "rowCount": 5,
       "serverTotal": 29
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-09-08T05:27:07.820Z",
-      "bytes": 336353,
+      "fetchedAt": "2026-09-08T09:55:21.205Z",
+      "bytes": 336356,
       "rowCount": 5,
-      "serverTotal": 149
+      "serverTotal": 151
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-09-08T05:27:08.270Z",
+      "fetchedAt": "2026-09-08T09:55:21.378Z",
       "bytes": 741872,
       "rowCount": 67,
       "serverTotal": 247
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-09-08T05:27:09.161Z",
+      "fetchedAt": "2026-09-08T09:55:21.911Z",
       "bytes": 486113,
       "rowCount": 0,
       "serverTotal": 0
@@ -107,40 +107,40 @@
         "selection": "under",
         "label": "Under 4.5 goals",
         "probability": 92,
-        "odds": 1.11,
-        "edge": 1.9,
+        "odds": 1.13,
+        "edge": 3.5,
         "hasEdge": true,
         "line": 4.5,
         "marketLabel": "Total goals",
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.08
+            "odds": 1.13
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.11
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.06
+            "odds": 1.08
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.11
+            "odds": 1.12
           },
           {
             "id": 5,
@@ -156,7 +156,7 @@
       "matchResult": {
         "home": {
           "prob": 49,
-          "odds": 1.42
+          "odds": 1.38
         },
         "draw": {
           "prob": 31,
@@ -842,11 +842,11 @@
         "selection": "yes",
         "label": "BTTS: Yes",
         "probability": 66,
-        "odds": 1.5,
-        "edge": -0.7,
-        "hasEdge": false,
+        "odds": 1.57,
+        "edge": 2.3,
+        "hasEdge": true,
         "line": null,
-        "bookmaker": "Bet365",
+        "bookmaker": "Paddy Power",
         "prices": [
           {
             "id": 1,
@@ -860,28 +860,28 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.46
+            "odds": 1.47
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.4
+            "odds": 1.57
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.44
+            "odds": 1.5
           },
           {
             "id": 5,
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.45
+            "odds": 1.56
           }
         ]
       },
@@ -890,15 +890,15 @@
       "matchResult": {
         "home": {
           "prob": 45,
-          "odds": 1.6
+          "odds": 1.64
         },
         "draw": {
           "prob": 24,
-          "odds": 4.4
+          "odds": 4.35
         },
         "away": {
           "prob": 31,
-          "odds": 5.25
+          "odds": 5
         }
       },
       "form": {
@@ -1780,7 +1780,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.1
+            "odds": 1.11
           },
           {
             "id": 5,
@@ -2948,19 +2948,19 @@
         "selection": "under",
         "label": "Home under 2.5 goals",
         "probability": 92,
-        "odds": 1.13,
-        "edge": 3.5,
+        "odds": 1.11,
+        "edge": 1.9,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Home goals",
-        "bookmaker": "Bet365",
+        "bookmaker": "Ladbrokes",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.13
+            "odds": null
           },
           {
             "id": 2,
@@ -3318,32 +3318,6 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19792640-total_goals-under-4.5",
-      "fixtureApid": 19792640,
-      "slug": "30960017-premier-league-arab-contractors-fc-al-ahly",
-      "timestamp": "2026-09-09T17:00:00.000Z",
-      "league": {
-        "id": 62,
-        "name": "Premier League",
-        "country": "Egypt"
-      },
-      "home": "Al Mokawloon",
-      "away": "Al Ahly",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
       "rowId": "19792642-total_goals-under-3.5",
       "fixtureApid": 19792642,
       "slug": "30960014-premier-league-modern-sport-fc-wadi-degla",
@@ -3370,17 +3344,43 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19667177-away_goals-under-2.5",
-      "fixtureApid": 19667177,
-      "slug": "30960026-serie-b-botafogo-sp-novorizontino",
-      "timestamp": "2026-09-09T22:30:00.000Z",
+      "rowId": "19648068-total_goals-under-4.5",
+      "fixtureApid": 19648068,
+      "slug": "30960013-k-league-1-daejeon-citizen-anyang",
+      "timestamp": "2026-09-09T10:30:00.000Z",
       "league": {
-        "id": 53,
-        "name": "Serie B",
-        "country": "Brazil"
+        "id": 73,
+        "name": "K League 1",
+        "country": "South Korea"
       },
-      "home": "Botafogo SP",
-      "away": "Novorizontino",
+      "home": "Daejeon Citizen",
+      "away": "Anyang",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
+      "rowId": "19792641-total_goals-under-3.5",
+      "fixtureApid": 19792641,
+      "slug": "30960018-premier-league-enppi-zed-fc",
+      "timestamp": "2026-09-09T17:00:00.000Z",
+      "league": {
+        "id": 62,
+        "name": "Premier League",
+        "country": "Egypt"
+      },
+      "home": "ENPPI",
+      "away": "ZED FC",
       "locked": true,
       "finished": false,
       "score": null,
