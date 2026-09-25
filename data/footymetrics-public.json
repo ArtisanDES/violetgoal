@@ -1,75 +1,75 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-09-25T13:59:05.259Z",
+  "generatedAt": "2026-09-25T18:14:57.030Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-09-25T13:59:01.514Z",
-      "bytes": 343907,
+      "fetchedAt": "2026-09-25T18:14:54.934Z",
+      "bytes": 343883,
       "rowCount": 5,
       "serverTotal": 20
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-09-25T13:59:01.836Z",
-      "bytes": 348475,
+      "fetchedAt": "2026-09-25T18:14:55.200Z",
+      "bytes": 354364,
       "rowCount": 5,
       "serverTotal": 5
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-09-25T13:59:02.352Z",
-      "bytes": 348521,
+      "fetchedAt": "2026-09-25T18:14:55.431Z",
+      "bytes": 354416,
       "rowCount": 5,
       "serverTotal": 5
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-09-25T13:59:02.604Z",
-      "bytes": 350640,
+      "fetchedAt": "2026-09-25T18:14:55.726Z",
+      "bytes": 356548,
       "rowCount": 5,
       "serverTotal": 5
     },
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-09-25T13:59:03.237Z",
-      "bytes": 340132,
+      "fetchedAt": "2026-09-25T18:14:55.936Z",
+      "bytes": 340139,
       "rowCount": 3,
       "serverTotal": 3
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-09-25T13:59:03.833Z",
-      "bytes": 348756,
+      "fetchedAt": "2026-09-25T18:14:56.180Z",
+      "bytes": 354653,
       "rowCount": 5,
       "serverTotal": 5
     },
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-09-25T13:59:04.092Z",
-      "bytes": 347875,
+      "fetchedAt": "2026-09-25T18:14:56.409Z",
+      "bytes": 353765,
       "rowCount": 5,
       "serverTotal": 5
     },
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-09-25T13:59:04.296Z",
-      "bytes": 347415,
+      "fetchedAt": "2026-09-25T18:14:56.569Z",
+      "bytes": 347428,
       "rowCount": 5,
-      "serverTotal": 322
+      "serverTotal": 325
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-09-25T13:59:04.494Z",
+      "fetchedAt": "2026-09-25T18:14:56.737Z",
       "bytes": 367013,
       "rowCount": 7,
       "serverTotal": 7
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-09-25T13:59:05.259Z",
+      "fetchedAt": "2026-09-25T18:14:57.030Z",
       "bytes": 498612,
       "rowCount": 0,
       "serverTotal": 0
@@ -133,7 +133,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.11
+            "odds": 1.08
           },
           {
             "id": 4,
@@ -156,7 +156,7 @@
       "matchResult": {
         "home": {
           "prob": 48,
-          "odds": 1.53
+          "odds": 1.52
         },
         "draw": {
           "prob": 28,
@@ -164,7 +164,7 @@
         },
         "away": {
           "prob": 25,
-          "odds": 6.5
+          "odds": 7
         }
       },
       "form": {
@@ -921,6 +921,371 @@
     {
       "sourcePath": "/predictions/1x2",
       "rowId": "",
+      "fixtureApid": 19870688,
+      "slug": "33550188-friendly-international-india-panama",
+      "timestamp": "2026-09-25T14:00:00.000Z",
+      "league": {
+        "id": 7527,
+        "name": "Friendly International",
+        "country": "World"
+      },
+      "home": "India",
+      "away": "Panama",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2",
+        "selection": "2",
+        "label": "Away win",
+        "probability": 47,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "X",
+      "matchResult": {
+        "home": {
+          "prob": 28,
+          "odds": null
+        },
+        "draw": {
+          "prob": 25,
+          "odds": null
+        },
+        "away": {
+          "prob": 47,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "27 May",
+            "opponent": "Jamaica",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "Hong Kong",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "13 Nov",
+            "opponent": "Bhutan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "14 Oct",
+            "opponent": "Singapore",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "25 Mar",
+            "opponent": "Bangladesh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "19 Mar",
+            "opponent": "Maldives",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Nov",
+            "opponent": "Malaysia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Syria",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Jun",
+            "opponent": "Kuwait",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Mar",
+            "opponent": "Afghanistan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jun",
+            "opponent": "Ghana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/732.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "6-2",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Brazil",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "27 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Jan",
+            "opponent": "Bolivia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Nov",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Oct",
+            "opponent": "El Salvador",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Suriname",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 Jun",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1112.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "8 Jun",
+            "opponent": "Belize",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 1.2,
+          "cs": 30,
+          "fts": 40,
+          "ov25": 60,
+          "btts": 50,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.3,
+          "ga": 1.2,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.2,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2",
+      "rowId": "",
       "fixtureApid": 19745062,
       "slug": "33520014-la-liga-2-girona-albacete",
       "timestamp": "2026-09-25T18:30:00.000Z",
@@ -939,8 +1304,8 @@
         "selection": "1",
         "label": "Home win",
         "probability": 48,
-        "odds": 1.57,
-        "edge": -15.7,
+        "odds": 1.55,
+        "edge": -16.5,
         "hasEdge": false,
         "line": null,
         "bookmaker": "Bet365",
@@ -950,21 +1315,21 @@
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.57
+            "odds": 1.55
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.43
+            "odds": 1.44
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.44
+            "odds": 1.5
           },
           {
             "id": 4,
@@ -978,7 +1343,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.48
+            "odds": 1.52
           }
         ]
       },
@@ -987,11 +1352,11 @@
       "matchResult": {
         "home": {
           "prob": 48,
-          "odds": 1.57
+          "odds": 1.55
         },
         "draw": {
           "prob": 25,
-          "odds": 4.3
+          "odds": 4.2
         },
         "away": {
           "prob": 27,
@@ -1303,32 +1668,6 @@
       },
       "home": "Novorizontino",
       "away": "São Bernardo",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/1x2",
-      "rowId": "",
-      "fixtureApid": 19870688,
-      "slug": "33550188-friendly-international-india-panama",
-      "timestamp": "2026-09-25T14:00:00.000Z",
-      "league": {
-        "id": 7527,
-        "name": "Friendly International",
-        "country": "World"
-      },
-      "home": "India",
-      "away": "Panama",
       "locked": true,
       "finished": false,
       "score": null,
@@ -1736,6 +2075,371 @@
     {
       "sourcePath": "/predictions/btts",
       "rowId": "",
+      "fixtureApid": 19870688,
+      "slug": "33550188-friendly-international-india-panama",
+      "timestamp": "2026-09-25T14:00:00.000Z",
+      "league": {
+        "id": 7527,
+        "name": "Friendly International",
+        "country": "World"
+      },
+      "home": "India",
+      "away": "Panama",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "btts",
+        "selection": "yes",
+        "label": "BTTS: Yes",
+        "probability": 53,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "won",
+      "actual": "BTTS Yes",
+      "matchResult": {
+        "home": {
+          "prob": 28,
+          "odds": null
+        },
+        "draw": {
+          "prob": 25,
+          "odds": null
+        },
+        "away": {
+          "prob": 47,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "27 May",
+            "opponent": "Jamaica",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "Hong Kong",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "13 Nov",
+            "opponent": "Bhutan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "14 Oct",
+            "opponent": "Singapore",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "25 Mar",
+            "opponent": "Bangladesh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "19 Mar",
+            "opponent": "Maldives",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Nov",
+            "opponent": "Malaysia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Syria",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Jun",
+            "opponent": "Kuwait",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Mar",
+            "opponent": "Afghanistan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jun",
+            "opponent": "Ghana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/732.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-2",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Brazil",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "27 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Jan",
+            "opponent": "Bolivia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Nov",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Oct",
+            "opponent": "El Salvador",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Suriname",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 Jun",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1112.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "8 Jun",
+            "opponent": "Belize",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 1.2,
+          "cs": 30,
+          "fts": 40,
+          "ov25": 60,
+          "btts": 50,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.3,
+          "ga": 1.2,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.2,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/btts",
+      "rowId": "",
       "fixtureApid": 19715945,
       "slug": "33504544-eerste-divisie-fc-dordrecht-almere-city",
       "timestamp": "2026-09-25T19:00:00.000Z",
@@ -1754,32 +2458,32 @@
         "selection": "yes",
         "label": "BTTS: Yes",
         "probability": 68,
-        "odds": 1.4,
-        "edge": -3.4,
+        "odds": 1.44,
+        "edge": -1.4,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.36
+            "odds": 1.44
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.36
+            "odds": 1.34
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.33
+            "odds": 1.36
           },
           {
             "id": 4,
@@ -1793,7 +2497,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.36
+            "odds": 1.4
           }
         ]
       },
@@ -1802,7 +2506,7 @@
       "matchResult": {
         "home": {
           "prob": 35,
-          "odds": 3.25
+          "odds": 3.3
         },
         "draw": {
           "prob": 24,
@@ -2172,32 +2876,6 @@
       },
       "home": "Girona",
       "away": "Albacete",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/btts",
-      "rowId": "",
-      "fixtureApid": 19870688,
-      "slug": "33550188-friendly-international-india-panama",
-      "timestamp": "2026-09-25T14:00:00.000Z",
-      "league": {
-        "id": 7527,
-        "name": "Friendly International",
-        "country": "World"
-      },
-      "home": "India",
-      "away": "Panama",
       "locked": true,
       "finished": false,
       "score": null,
@@ -2605,6 +3283,371 @@
     {
       "sourcePath": "/predictions/goals-over-under",
       "rowId": "",
+      "fixtureApid": 19870688,
+      "slug": "33550188-friendly-international-india-panama",
+      "timestamp": "2026-09-25T14:00:00.000Z",
+      "league": {
+        "id": 7527,
+        "name": "Friendly International",
+        "country": "World"
+      },
+      "home": "India",
+      "away": "Panama",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "total_goals",
+        "selection": "over",
+        "label": "Over 2.5 goals",
+        "probability": 50,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": 2.5,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "2 goals",
+      "matchResult": {
+        "home": {
+          "prob": 28,
+          "odds": null
+        },
+        "draw": {
+          "prob": 25,
+          "odds": null
+        },
+        "away": {
+          "prob": 47,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "27 May",
+            "opponent": "Jamaica",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "Hong Kong",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "13 Nov",
+            "opponent": "Bhutan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "14 Oct",
+            "opponent": "Singapore",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "25 Mar",
+            "opponent": "Bangladesh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "19 Mar",
+            "opponent": "Maldives",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Nov",
+            "opponent": "Malaysia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Syria",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Jun",
+            "opponent": "Kuwait",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Mar",
+            "opponent": "Afghanistan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jun",
+            "opponent": "Ghana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/732.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-2",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Brazil",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "27 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Jan",
+            "opponent": "Bolivia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Nov",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Oct",
+            "opponent": "El Salvador",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Suriname",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 Jun",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1112.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "8 Jun",
+            "opponent": "Belize",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 1.2,
+          "cs": 30,
+          "fts": 40,
+          "ov25": 60,
+          "btts": 50,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.3,
+          "ga": 1.2,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.2,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/goals-over-under",
+      "rowId": "",
       "fixtureApid": 19715945,
       "slug": "33504544-eerste-divisie-fc-dordrecht-almere-city",
       "timestamp": "2026-09-25T19:00:00.000Z",
@@ -2623,39 +3666,39 @@
         "selection": "over",
         "label": "Over 2.5 goals",
         "probability": 68,
-        "odds": 1.4,
-        "edge": -3.4,
+        "odds": 1.44,
+        "edge": -1.4,
         "hasEdge": false,
         "line": 2.5,
-        "bookmaker": "Ladbrokes",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.36
+            "odds": 1.44
           },
           {
             "id": 2,
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.38
+            "odds": 1.36
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.33
+            "odds": 1.36
           },
           {
             "id": 4,
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.4
+            "odds": 1.44
           },
           {
             "id": 5,
@@ -2671,7 +3714,7 @@
       "matchResult": {
         "home": {
           "prob": 35,
-          "odds": 3.25
+          "odds": 3.3
         },
         "draw": {
           "prob": 24,
@@ -3081,32 +4124,6 @@
       "modelStats": null
     },
     {
-      "sourcePath": "/predictions/goals-over-under",
-      "rowId": "",
-      "fixtureApid": 19870688,
-      "slug": "33550188-friendly-international-india-panama",
-      "timestamp": "2026-09-25T14:00:00.000Z",
-      "league": {
-        "id": 7527,
-        "name": "Friendly International",
-        "country": "World"
-      },
-      "home": "India",
-      "away": "Panama",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
       "fixtureApid": 19667146,
@@ -3131,14 +4148,14 @@
         "edge": 9.5,
         "hasEdge": true,
         "line": 2.5,
-        "bookmaker": "Bet365",
+        "bookmaker": "Ladbrokes",
         "prices": [
           {
             "id": 1,
             "name": "Bet365",
             "shortName": "Bet365",
             "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
-            "odds": 1.36
+            "odds": null
           },
           {
             "id": 2,
@@ -3159,7 +4176,7 @@
             "name": "Ladbrokes",
             "shortName": "Ladbrokes",
             "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
-            "odds": 1.35
+            "odds": 1.36
           },
           {
             "id": 5,
@@ -3175,7 +4192,7 @@
       "matchResult": {
         "home": {
           "prob": 48,
-          "odds": 1.53
+          "odds": 1.52
         },
         "draw": {
           "prob": 28,
@@ -3183,7 +4200,7 @@
         },
         "away": {
           "prob": 25,
-          "odds": 6.5
+          "odds": 7
         }
       },
       "form": {
@@ -3888,6 +4905,371 @@
     {
       "sourcePath": "/predictions/double-chance",
       "rowId": "",
+      "fixtureApid": 19870688,
+      "slug": "33550188-friendly-international-india-panama",
+      "timestamp": "2026-09-25T14:00:00.000Z",
+      "league": {
+        "id": 7527,
+        "name": "Friendly International",
+        "country": "World"
+      },
+      "home": "India",
+      "away": "Panama",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "double_chance",
+        "selection": "12",
+        "label": "Home or away",
+        "probability": 75,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": null,
+      "matchResult": {
+        "home": {
+          "prob": 28,
+          "odds": null
+        },
+        "draw": {
+          "prob": 25,
+          "odds": null
+        },
+        "away": {
+          "prob": 47,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "27 May",
+            "opponent": "Jamaica",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "Hong Kong",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "13 Nov",
+            "opponent": "Bhutan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "14 Oct",
+            "opponent": "Singapore",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "25 Mar",
+            "opponent": "Bangladesh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "19 Mar",
+            "opponent": "Maldives",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Nov",
+            "opponent": "Malaysia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Syria",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Jun",
+            "opponent": "Kuwait",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Mar",
+            "opponent": "Afghanistan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jun",
+            "opponent": "Ghana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/732.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "6-2",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Brazil",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "27 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Jan",
+            "opponent": "Bolivia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Nov",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Oct",
+            "opponent": "El Salvador",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Suriname",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 Jun",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1112.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "8 Jun",
+            "opponent": "Belize",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 1.2,
+          "cs": 30,
+          "fts": 40,
+          "ov25": 60,
+          "btts": 50,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.3,
+          "ga": 1.2,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.2,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/double-chance",
+      "rowId": "",
       "fixtureApid": 19715945,
       "slug": "33504544-eerste-divisie-fc-dordrecht-almere-city",
       "timestamp": "2026-09-25T19:00:00.000Z",
@@ -3931,7 +5313,7 @@
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.17
+            "odds": 1.2
           },
           {
             "id": 4,
@@ -3954,7 +5336,7 @@
       "matchResult": {
         "home": {
           "prob": 35,
-          "odds": 3.25
+          "odds": 3.3
         },
         "draw": {
           "prob": 24,
@@ -4324,32 +5706,6 @@
       },
       "home": "Novorizontino",
       "away": "São Bernardo",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/double-chance",
-      "rowId": "",
-      "fixtureApid": 19870688,
-      "slug": "33550188-friendly-international-india-panama",
-      "timestamp": "2026-09-25T14:00:00.000Z",
-      "league": {
-        "id": 7527,
-        "name": "Friendly International",
-        "country": "World"
-      },
-      "home": "India",
-      "away": "Panama",
       "locked": true,
       "finished": false,
       "score": null,
@@ -4757,6 +6113,371 @@
     {
       "sourcePath": "/predictions/1x2-ht",
       "rowId": "",
+      "fixtureApid": 19870688,
+      "slug": "33550188-friendly-international-india-panama",
+      "timestamp": "2026-09-25T14:00:00.000Z",
+      "league": {
+        "id": 7527,
+        "name": "Friendly International",
+        "country": "World"
+      },
+      "home": "India",
+      "away": "Panama",
+      "locked": false,
+      "finished": true,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "bestTip": {
+        "market": "1x2_fh",
+        "selection": "X",
+        "label": "Draw HT",
+        "probability": 44,
+        "odds": null,
+        "edge": null,
+        "hasEdge": false,
+        "line": null,
+        "bookmaker": "",
+        "prices": [
+          {
+            "id": 1,
+            "name": "Bet365",
+            "shortName": "Bet365",
+            "logo": "https://cdn.footymetrics.com/bookmakers/bet365.webp",
+            "odds": null
+          },
+          {
+            "id": 2,
+            "name": "Kambi",
+            "shortName": "Kambi",
+            "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
+            "odds": null
+          },
+          {
+            "id": 3,
+            "name": "Paddy Power",
+            "shortName": "Paddy",
+            "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
+            "odds": null
+          },
+          {
+            "id": 4,
+            "name": "Ladbrokes",
+            "shortName": "Ladbrokes",
+            "logo": "https://cdn.footymetrics.com/bookmakers/ladbrokes.webp",
+            "odds": null
+          },
+          {
+            "id": 5,
+            "name": "Altenar",
+            "shortName": "Altenar",
+            "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
+            "odds": null
+          }
+        ]
+      },
+      "settlement": "lost",
+      "actual": "1",
+      "matchResult": {
+        "home": {
+          "prob": 28,
+          "odds": null
+        },
+        "draw": {
+          "prob": 25,
+          "odds": null
+        },
+        "away": {
+          "prob": 47,
+          "odds": null
+        }
+      },
+      "form": {
+        "home": [
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-2",
+            "corners": null,
+            "date": "27 May",
+            "opponent": "Jamaica",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-1",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "Hong Kong",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "6-1",
+            "corners": null,
+            "date": "13 Nov",
+            "opponent": "Bhutan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "14 Oct",
+            "opponent": "Singapore",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "25 Mar",
+            "opponent": "Bangladesh",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1106.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "3-0",
+            "corners": null,
+            "date": "19 Mar",
+            "opponent": "Maldives",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Nov",
+            "opponent": "Malaysia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "0-3",
+            "corners": null,
+            "date": "9 Sept",
+            "opponent": "Syria",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "6 Jun",
+            "opponent": "Kuwait",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "1-2",
+            "corners": null,
+            "date": "26 Mar",
+            "opponent": "Afghanistan",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/714.webp",
+            "leagueLogoDark": null
+          }
+        ],
+        "away": [
+          {
+            "hit": true,
+            "pending": false,
+            "res": "L",
+            "score": "1-0",
+            "corners": null,
+            "date": "17 Jun",
+            "opponent": "Ghana",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/732.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "L",
+            "score": "6-2",
+            "corners": null,
+            "date": "31 May",
+            "opponent": "Brazil",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "1-2",
+            "corners": null,
+            "date": "31 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "27 Mar",
+            "opponent": "South Africa",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "D",
+            "score": "1-1",
+            "corners": null,
+            "date": "18 Jan",
+            "opponent": "Bolivia",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1082.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "2-3",
+            "corners": null,
+            "date": "14 Nov",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "11 Oct",
+            "opponent": "El Salvador",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": true,
+            "pending": false,
+            "res": "D",
+            "score": "0-0",
+            "corners": null,
+            "date": "4 Sept",
+            "opponent": "Suriname",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-1",
+            "corners": null,
+            "date": "21 Jun",
+            "opponent": "Guatemala",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/1112.webp",
+            "leagueLogoDark": null
+          },
+          {
+            "hit": false,
+            "pending": false,
+            "res": "W",
+            "score": "0-2",
+            "corners": null,
+            "date": "8 Jun",
+            "opponent": "Belize",
+            "leagueLogo": "https://cdn.footymetrics.com/leagues/717.webp",
+            "leagueLogoDark": null
+          }
+        ]
+      },
+      "modelStats": {
+        "home": {
+          "n": 10,
+          "gf": 1.4,
+          "ga": 1.2,
+          "cs": 30,
+          "fts": 40,
+          "ov25": 60,
+          "btts": 50,
+          "scored2": 30,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 3,
+            "d": 3,
+            "l": 4
+          },
+          "htRecord": {
+            "w": 3,
+            "d": 5,
+            "l": 2
+          },
+          "fhFor": 0.5,
+          "fhAgainst": 0.4,
+          "ovLine": null
+        },
+        "away": {
+          "n": 10,
+          "gf": 1.3,
+          "ga": 1.2,
+          "cs": 40,
+          "fts": 20,
+          "ov25": 30,
+          "btts": 50,
+          "scored2": 40,
+          "cAvg": null,
+          "cf": null,
+          "ca": null,
+          "record": {
+            "w": 5,
+            "d": 3,
+            "l": 2
+          },
+          "htRecord": {
+            "w": 5,
+            "d": 4,
+            "l": 1
+          },
+          "fhFor": 0.7,
+          "fhAgainst": 0.2,
+          "ovLine": null
+        },
+        "h2h": []
+      }
+    },
+    {
+      "sourcePath": "/predictions/1x2-ht",
+      "rowId": "",
       "fixtureApid": 19667146,
       "slug": "33504545-serie-b-novorizontino-sao-bernardo",
       "timestamp": "2026-09-25T22:30:00.000Z",
@@ -4823,7 +6544,7 @@
       "matchResult": {
         "home": {
           "prob": 48,
-          "odds": 1.53
+          "odds": 1.52
         },
         "draw": {
           "prob": 28,
@@ -4831,7 +6552,7 @@
         },
         "away": {
           "prob": 25,
-          "odds": 6.5
+          "odds": 7
         }
       },
       "form": {
@@ -5125,32 +6846,6 @@
           }
         ]
       }
-    },
-    {
-      "sourcePath": "/predictions/1x2-ht",
-      "rowId": "",
-      "fixtureApid": 19870688,
-      "slug": "33550188-friendly-international-india-panama",
-      "timestamp": "2026-09-25T14:00:00.000Z",
-      "league": {
-        "id": 7527,
-        "name": "Friendly International",
-        "country": "World"
-      },
-      "home": "India",
-      "away": "Panama",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
     },
     {
       "sourcePath": "/predictions/1x2-ht",
@@ -5595,6 +7290,32 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
+      "rowId": "19874710-home_goals-under-2.5",
+      "fixtureApid": 19874710,
+      "slug": "33441803-botola-pro-difaa-el-jadida-codm-meknes",
+      "timestamp": "2026-09-26T18:00:00.000Z",
+      "league": {
+        "id": 63,
+        "name": "Botola Pro",
+        "country": "Morocco"
+      },
+      "home": "Difaâ El Jadida",
+      "away": "CODM Meknès",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/tomorrow",
       "rowId": "19727700-home_goals-under-2.5",
       "fixtureApid": 19727700,
       "slug": "33550197-league-two-cheltenham-town-chesterfield",
@@ -5632,32 +7353,6 @@
       },
       "home": "Harrogate Town",
       "away": "Eastleigh",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/tomorrow",
-      "rowId": "19727698-total_goals-under-4.5",
-      "fixtureApid": 19727698,
-      "slug": "33550196-league-two-fleetwood-town-rochdale",
-      "timestamp": "2026-09-26T14:00:00.000Z",
-      "league": {
-        "id": 13,
-        "name": "League Two",
-        "country": "England"
-      },
-      "home": "Fleetwood Town",
-      "away": "Rochdale",
       "locked": true,
       "finished": false,
       "score": null,
