@@ -1,35 +1,35 @@
 {
   "source": "footymetrics-public",
-  "generatedAt": "2026-09-26T09:59:47.601Z",
+  "generatedAt": "2026-09-26T14:12:44.545Z",
   "pages": [
     {
       "path": "/predictions",
       "url": "https://www.footymetrics.com/predictions",
-      "fetchedAt": "2026-09-26T09:59:44.209Z",
-      "bytes": 472648,
+      "fetchedAt": "2026-09-26T14:12:41.603Z",
+      "bytes": 472659,
       "rowCount": 25,
       "serverTotal": 329
     },
     {
       "path": "/predictions/1x2",
       "url": "https://www.footymetrics.com/predictions/1x2",
-      "fetchedAt": "2026-09-26T09:59:44.503Z",
-      "bytes": 363672,
+      "fetchedAt": "2026-09-26T14:12:41.828Z",
+      "bytes": 363669,
       "rowCount": 8,
       "serverTotal": 58
     },
     {
       "path": "/predictions/btts",
       "url": "https://www.footymetrics.com/predictions/btts",
-      "fetchedAt": "2026-09-26T09:59:44.796Z",
-      "bytes": 365318,
+      "fetchedAt": "2026-09-26T14:12:42.384Z",
+      "bytes": 365316,
       "rowCount": 8,
       "serverTotal": 58
     },
     {
       "path": "/predictions/goals-over-under",
       "url": "https://www.footymetrics.com/predictions/goals-over-under",
-      "fetchedAt": "2026-09-26T09:59:45.107Z",
+      "fetchedAt": "2026-09-26T14:12:42.603Z",
       "bytes": 362268,
       "rowCount": 8,
       "serverTotal": 58
@@ -37,15 +37,15 @@
     {
       "path": "/predictions/team-goals",
       "url": "https://www.footymetrics.com/predictions/team-goals",
-      "fetchedAt": "2026-09-26T09:59:45.513Z",
-      "bytes": 362019,
+      "fetchedAt": "2026-09-26T14:12:42.832Z",
+      "bytes": 362021,
       "rowCount": 8,
       "serverTotal": 50
     },
     {
       "path": "/predictions/double-chance",
       "url": "https://www.footymetrics.com/predictions/double-chance",
-      "fetchedAt": "2026-09-26T09:59:46.242Z",
+      "fetchedAt": "2026-09-26T14:12:43.071Z",
       "bytes": 363414,
       "rowCount": 8,
       "serverTotal": 58
@@ -53,7 +53,7 @@
     {
       "path": "/predictions/1x2-ht",
       "url": "https://www.footymetrics.com/predictions/1x2-ht",
-      "fetchedAt": "2026-09-26T09:59:46.541Z",
+      "fetchedAt": "2026-09-26T14:12:43.635Z",
       "bytes": 365583,
       "rowCount": 8,
       "serverTotal": 58
@@ -61,15 +61,15 @@
     {
       "path": "/predictions/tomorrow",
       "url": "https://www.footymetrics.com/predictions/tomorrow",
-      "fetchedAt": "2026-09-26T09:59:46.764Z",
-      "bytes": 347360,
+      "fetchedAt": "2026-09-26T14:12:44.109Z",
+      "bytes": 347523,
       "rowCount": 5,
-      "serverTotal": 241
+      "serverTotal": 245
     },
     {
       "path": "/predictions/yesterday",
       "url": "https://www.footymetrics.com/predictions/yesterday",
-      "fetchedAt": "2026-09-26T09:59:47.005Z",
+      "fetchedAt": "2026-09-26T14:12:44.258Z",
       "bytes": 473247,
       "rowCount": 20,
       "serverTotal": 20
@@ -77,7 +77,7 @@
     {
       "path": "/fixtures/26672123-major-league-soccer-san-diego-dallas",
       "url": "https://www.footymetrics.com/fixtures/26672123-major-league-soccer-san-diego-dallas",
-      "fetchedAt": "2026-09-26T09:59:47.601Z",
+      "fetchedAt": "2026-09-26T14:12:44.545Z",
       "bytes": 498611,
       "rowCount": 0,
       "serverTotal": 0
@@ -6744,8 +6744,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 93,
-        "odds": 1.12,
-        "edge": 3.7,
+        "odds": 1.1,
+        "edge": 2.1,
         "hasEdge": true,
         "line": 2.5,
         "marketLabel": "Away goals",
@@ -6763,7 +6763,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.12
+            "odds": 1.1
           },
           {
             "id": 3,
@@ -6793,7 +6793,7 @@
       "matchResult": {
         "home": {
           "prob": 51,
-          "odds": 2.5
+          "odds": 2.32
         },
         "draw": {
           "prob": 25,
@@ -6801,7 +6801,7 @@
         },
         "away": {
           "prob": 24,
-          "odds": 2.88
+          "odds": 3.3
         }
       },
       "form": {
@@ -7114,6 +7114,32 @@
     },
     {
       "sourcePath": "/predictions",
+      "rowId": "19874710-home_goals-under-2.5",
+      "fixtureApid": 19874710,
+      "slug": "33441803-botola-pro-difaa-el-jadida-codm-meknes",
+      "timestamp": "2026-09-26T18:00:00.000Z",
+      "league": {
+        "id": 63,
+        "name": "Botola Pro",
+        "country": "Morocco"
+      },
+      "home": "Difaâ El Jadida",
+      "away": "CODM Meknès",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions",
       "rowId": "19727700-home_goals-under-2.5",
       "fixtureApid": 19727700,
       "slug": "33550197-league-two-cheltenham-town-chesterfield",
@@ -7151,32 +7177,6 @@
       },
       "home": "Harrogate Town",
       "away": "Eastleigh",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions",
-      "rowId": "19727698-total_goals-under-4.5",
-      "fixtureApid": 19727698,
-      "slug": "33550196-league-two-fleetwood-town-rochdale",
-      "timestamp": "2026-09-26T14:00:00.000Z",
-      "league": {
-        "id": 13,
-        "name": "League Two",
-        "country": "England"
-      },
-      "home": "Fleetwood Town",
-      "away": "Rochdale",
       "locked": true,
       "finished": false,
       "score": null,
@@ -8381,7 +8381,7 @@
         "edge": -23.2,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Altenar",
+        "bookmaker": "Bet365",
         "prices": [
           {
             "id": 1,
@@ -8395,14 +8395,14 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.02
+            "odds": 1.03
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.04
+            "odds": 1.03
           },
           {
             "id": 4,
@@ -8416,7 +8416,7 @@
             "name": "Altenar",
             "shortName": "Altenar",
             "logo": "https://cdn.footymetrics.com/bookmakers/altenar.webp",
-            "odds": 1.05
+            "odds": 1.04
           }
         ]
       },
@@ -8425,11 +8425,11 @@
       "matchResult": {
         "home": {
           "prob": 12,
-          "odds": 34
+          "odds": 36
         },
         "draw": {
           "prob": 16,
-          "odds": 13
+          "odds": 14
         },
         "away": {
           "prob": 72,
@@ -9939,14 +9939,14 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.32
+            "odds": 1.33
           },
           {
             "id": 3,
             "name": "Paddy Power",
             "shortName": "Paddy",
             "logo": "https://cdn.footymetrics.com/bookmakers/paddy.webp",
-            "odds": 1.29
+            "odds": 1.3
           },
           {
             "id": 4,
@@ -9969,7 +9969,7 @@
       "matchResult": {
         "home": {
           "prob": 42,
-          "odds": 1.83
+          "odds": 1.85
         },
         "draw": {
           "prob": 26,
@@ -9977,7 +9977,7 @@
         },
         "away": {
           "prob": 32,
-          "odds": 3.75
+          "odds": 3.5
         }
       },
       "form": {
@@ -12850,8 +12850,8 @@
         "selection": "under",
         "label": "Away under 2.5 goals",
         "probability": 93,
-        "odds": 1.12,
-        "edge": 3.7,
+        "odds": 1.1,
+        "edge": 2.1,
         "hasEdge": true,
         "line": 2.5,
         "bookmaker": "Kambi",
@@ -12868,7 +12868,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": 1.12
+            "odds": 1.1
           },
           {
             "id": 3,
@@ -12898,7 +12898,7 @@
       "matchResult": {
         "home": {
           "prob": 51,
-          "odds": 2.5
+          "odds": 2.32
         },
         "draw": {
           "prob": 25,
@@ -12906,7 +12906,7 @@
         },
         "away": {
           "prob": 24,
-          "odds": 2.88
+          "odds": 3.3
         }
       },
       "form": {
@@ -13220,6 +13220,32 @@
     {
       "sourcePath": "/predictions/team-goals",
       "rowId": "",
+      "fixtureApid": 19874710,
+      "slug": "33441803-botola-pro-difaa-el-jadida-codm-meknes",
+      "timestamp": "2026-09-26T18:00:00.000Z",
+      "league": {
+        "id": 63,
+        "name": "Botola Pro",
+        "country": "Morocco"
+      },
+      "home": "Difaâ El Jadida",
+      "away": "CODM Meknès",
+      "locked": true,
+      "finished": false,
+      "score": null,
+      "bestTip": null,
+      "settlement": null,
+      "actual": null,
+      "matchResult": null,
+      "form": {
+        "home": [],
+        "away": []
+      },
+      "modelStats": null
+    },
+    {
+      "sourcePath": "/predictions/team-goals",
+      "rowId": "",
       "fixtureApid": 19727700,
       "slug": "33550197-league-two-cheltenham-town-chesterfield",
       "timestamp": "2026-09-26T14:00:00.000Z",
@@ -13256,32 +13282,6 @@
       },
       "home": "Swindon Town",
       "away": "Accrington Stanley",
-      "locked": true,
-      "finished": false,
-      "score": null,
-      "bestTip": null,
-      "settlement": null,
-      "actual": null,
-      "matchResult": null,
-      "form": {
-        "home": [],
-        "away": []
-      },
-      "modelStats": null
-    },
-    {
-      "sourcePath": "/predictions/team-goals",
-      "rowId": "",
-      "fixtureApid": 19727694,
-      "slug": "33550193-league-two-rotherham-united-crewe-alexandra",
-      "timestamp": "2026-09-26T14:00:00.000Z",
-      "league": {
-        "id": 13,
-        "name": "League Two",
-        "country": "England"
-      },
-      "home": "Rotherham",
-      "away": "Crewe Alexandra",
       "locked": true,
       "finished": false,
       "score": null,
@@ -14482,11 +14482,11 @@
         "selection": "X2",
         "label": "Draw or away",
         "probability": 88,
-        "odds": 1,
-        "edge": -12,
+        "odds": 1.01,
+        "edge": -11,
         "hasEdge": false,
         "line": null,
-        "bookmaker": "Paddy Power",
+        "bookmaker": "Kambi",
         "prices": [
           {
             "id": 1,
@@ -14500,7 +14500,7 @@
             "name": "Kambi",
             "shortName": "Kambi",
             "logo": "https://cdn.footymetrics.com/bookmakers/kambi.webp",
-            "odds": null
+            "odds": 1.01
           },
           {
             "id": 3,
@@ -14530,11 +14530,11 @@
       "matchResult": {
         "home": {
           "prob": 12,
-          "odds": 34
+          "odds": 36
         },
         "draw": {
           "prob": 16,
-          "odds": 13
+          "odds": 14
         },
         "away": {
           "prob": 72,
@@ -16618,7 +16618,7 @@
         },
         "draw": {
           "prob": 33,
-          "odds": 4.2
+          "odds": 4
         },
         "away": {
           "prob": 36,
@@ -16987,17 +16987,17 @@
     },
     {
       "sourcePath": "/predictions/tomorrow",
-      "rowId": "19715231-home_goals-under-2.5",
-      "fixtureApid": 19715231,
-      "slug": "33608018-liga-mx-santos-laguna-pachuca",
-      "timestamp": "2026-09-27T03:05:00.000Z",
+      "rowId": "19715228-away_goals-under-2.5",
+      "fixtureApid": 19715228,
+      "slug": "33608043-liga-mx-pumas-unam-atletico-san-luis",
+      "timestamp": "2026-09-27T18:00:00.000Z",
       "league": {
         "id": 55,
         "name": "Liga MX",
         "country": "Mexico"
       },
-      "home": "Santos Laguna",
-      "away": "Pachuca",
+      "home": "Pumas UNAM",
+      "away": "Atlético San Luis",
       "locked": true,
       "finished": false,
       "score": null,
